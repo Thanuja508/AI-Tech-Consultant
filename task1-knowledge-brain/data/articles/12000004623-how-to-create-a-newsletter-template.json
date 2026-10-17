@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000004623-how-to-create-a-newsletter-template",
+  "title": "How To Create A Newsletter Template | Brilliant Directories Documentation | BD Support",
+  "content": "How To Create A Newsletter Template Link: https://support.brilliantdirectories.com/support/solutions/articles/12000004623 This article explains how to create a newsletter template from the Emails >> Send Newsletter section of the admin area. Newsletter templates can also be created from Emails >> Email Templates , but this article focuses on creating one directly from the newsletter builder. Where to Start Go to Emails >> Send Newsletter . Click the New Email Newsletter button. The first step is to give the newsletter a name and choose how the newsletter should be created. There are three available options: Start Blank AI Generate Select Template Option 1: Start Blank Selecting Start Blank opens the standard newsletter editor. This option is best when the newsletter will be created manually from scratch. Enter a name for the newsletter. Select Start Blank . Click Continue . The admin will be taken to the newsletter editor, where the newsletter content can be added, edited, saved, and sent. Option 2: AI Generate Selecting AI Generate opens the Quick Create Wizard, which helps generate a newsletter using AI. This option is useful when the admin wants help creating the first draft of the newsletter content. For complete step-by-step instructions, please see the following article: Quick Create Wizard - Create Newsletter The Quick Create Wizard allows the admin to: Add a custom prompt for the newsletter Select options for format, tone, audience, length, images, and color mood Use suggested prompts as a starting point Review and edit the generated newsletter before saving Continue to the standard newsletter editor to make final changes or send the newsletter Option 3: Select Template Selecting Select Template allows the admin to create a newsletter from an existing saved newsletter template. This option is best when the site already has newsletter templates saved and one of those templates should be reused. Enter a name for the newsletter. Select Select Template . Choose one of the available saved newsletter templates. Click Continue . The selected template will open in the standard newsletter editor, where the content can be edited and sent. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181469771/original/9MAvZanP2vhkOLRjosgtWIx9MPwMwHCzCw.png?1783117687",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181469822/original/dsTDKx0LdzijbKTOz7P3HlxsXXjwUcNlbA.png?1783117820",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181469851/original/uKT1eUqqi-Hu5nrcXywmmurhrXvnR9w-WQ.png?1783117899",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181469901/original/yvQLuna6FLtLN4sX1iKpW0Ke6bRHh1_0Pw.png?1783118131",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

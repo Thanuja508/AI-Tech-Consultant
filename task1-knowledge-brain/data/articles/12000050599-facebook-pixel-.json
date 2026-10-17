@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050599-facebook-pixel-",
+  "title": "Facebook Pixel  | Brilliant Directories Documentation | BD Support",
+  "content": "Facebook Pixel Link: https://support.brilliantdirectories.com/support/solutions/articles/12000050599 What is Facebook Pixel? Facebook Pixel is code that can be placed on the website. It helps track conversions from Facebook ads, optimize ads based on collected data, build targeted audiences for future ads, and re-market to qualified leads—people who have already taken some kind of action on the website. Adding FB Pixel Go to: https://business.facebook.com/ Click on Events Manager: Create the new Event: Select Web : Now select Facebook Pixel and hit Connect : Name the Pixel: Click on \" Install code manually \": Facebook Instructions : Paste the pixel code into the bottom of the header section just above the </head> tag. Install the base code on every page of the website. Make sure to save the Pixel Code, example: <!-- Facebook Pixel Code --> <script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', ' https://connect.facebook.net/en_US/fbevents.js' ); fbq('init', '2956733807889962'); fbq('track', 'PageView'); </script> <noscript><img height=\"1\" width=\"1\" style=\"display:none\" src=\" https://www.facebook.com/tr?id=2956733807889962&ev=PageView&noscript=1 \" /></noscript> <!-- End Facebook Pixel Code --> Note : The Pixel Code added on this article is for demonstration purposes only, the only code that is going to work on the site is the one generated on the Facebook account. Then click on Continue: Where do I place this code on the site? Place the Facebook Pixel code in the HEAD section of the website and click on Save Changes: Important Note: To learn how to track member sign-ups with Facebook Pixel, please refer to the article down below: Tracking Member Sign-Ups Events With Facebook Pixel For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102667049/original/c1ocgv4DC2d9NU--mBJb0y--Eja3F_3fkg.png?1640100691",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102667128/original/sCZ1rBTg2Tn18xRnf8NLlIu8oCCoX7aQeA.png?1640100776",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102667188/original/vfavHuu05Fh7WbybyYlSNN-rMp7UyLq7WA.png?1640100818",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102667058/original/oQqQxRu5cfF5-L0GaZ4uX5E_Zt_AuoRmgA.png?1640100699",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102667067/original/LbfZNMWc4weXsozOvNwsXvydYZ_cDIdjaw.png?1640100708",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089085966/original/RMnehIAc3Uo35AeGxEYJO1K9QRm8BKIyIQ.png?1613921378",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089085970/original/yA9gJvH3YuB0M-9guSF-mh6j01dyr6ZUOw.png?1613921405",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089085981/original/X3JyOo1zA7qswfYGLYoPQNSYxz-e0HLpMQ.png?1613921481",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102667563/original/Ubl3dNjk0IKgnzKWshQ5tw4MaYD5uKRMxQ.png?1640101120",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

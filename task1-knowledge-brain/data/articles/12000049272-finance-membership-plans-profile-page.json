@@ -1,0 +1,80 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049272-finance-membership-plans-profile-page",
+  "title": "Finance » Membership Plans - Profile Page | Brilliant Directories Documentation | BD Support",
+  "content": "Finance » Membership Plans - Profile Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000049272 In this article, we are going to show all settings on the \"Profile Page\" tab and how they will be displayed or hidden on the site. Select What Displays in the \"Overview\" Tab Select the order of items that display in the main \"Overview\" tab on member profile pages: Important Note : Position 6 will only be available if the Multi-Location Listing add-on is active on the site. Select Member Information to Display on Profiles 1. Show Website Link If set to YES, the member's company website link will display on their public profile. 2. Show Social Links If set to YES, the member's social media links will display on their public profile. 3. Show Phone Number If set to YES, the member's phone number will display on their public profile. 4. Show Street Address If set to YES, the member's address will display on their public profile. Please keep in mind that if it is set to NO, it will hide the location value on the member search results as well: 5. Show \"Specialties\" Tab Select Yes to display the Specialties (Sub Categories) tab that appears on member profile pages by default. 6. Show the \"Click to Call\" button If set to YES, the 'Click to Call' button will display on member profiles (requires the applicable add-on). Page Display Settings 1. Profile Page Sidebar The default sidebar is the Member Profile Page. However, a different sidebar can be added if needed. Also, the currently saved sidebar can be edited directly via the \"Edit Sidebar\" link: 2. \"Make a Connection\" / \"Claim Listing\" Banner Position Use this setting to move the position of the Claim Listing Banner or the Connect Message (Free and Paid Memberships) in member profiles. Below are the 3 options for this setting: Above Profile Photo: Below Profile Photo: Hide / Do not display: It will hide the section displayed on the 2 screenshots above. 3. Show Breadcrumbs Enable or disable this secondary navigation system that shows a user's location on a site. Example: Home / United States / California / Top Category / Name of the listing 4. Show \"Send Message\" Buttons & Forms If set to YES, all links and contact forms to send these members a direct message will be displayed. 5. Enable Private Chat Messages With this settings, the admin can Control whether members on this plan can receive and/or send private chat messages. For more details: Private Member Chat 6. Show Banner Ads on Profile If set to YES, any valid banner ad widgets will display on the member's public profile. This setting specifically is linked to the \"Display Banner Advertisements?\". Find it under: Settings >> Design Settings >> Banner Ad Design >> Display Banner Advertisements?. If this setting is set to \"YES\", banner ads will be visible on the website, and if the \"Show Advertisements on Listing\" is set to \"YES\", banner ads will be displayed in the member profiles of this specific membership plan. Keep in mind that if 'Display Banner Advertisements?' is set to NO, no banners will be displayed on the site regardless of whether 'Show Advertisements on Listing' is set to YES. Usually, advertisements are shown on the free profiles, and banners are hidden on the paid profiles. 7. Hide Website Header If set to YES, this will hide the website header for this membership plan on their profile page. Usually, website owners activate this setting to give their members the ability to have their profile as \"their own site\". However, we do not recommend setting it to \"YES\" because the visitor cannot go back to the homepage and look for more members. 8. Hide Website Footer If set to YES, this will hide the website footer for this membership plan on their profile page. Member Review Settings 1. Enable Receiving Reviews If set to YES, the members in this Membership Plan can receive reviews on their profile pages. 2. Require All Reviews to Be Approved by an Admin First If YES, admins will be required to manually approve reviews before they are published. The members will not be notified about receiving a review until the review is approved. 3. Hide Reviews Star Rating Options Enable or disable the review star rating options. 4. Ability to Accept and Delete Reviews Allows members to accept and delete reviews. If this is set to \"YES\", members in this specific membership plan will be able to accept and delete reviews. 5. Member Can Reply to Reviews If YES, these members can write public replies to the individual reviews they receive. We recommend activating this option in paid memberships. 6. Allow Image Uploads With Reviews If set to YES, for security purposes, only logged-in users can upload images with reviews Membership Plan Badges 1. Profile Page Badge This badge will appear at the top right of the member profile. If the \"Member Profile Badges” Add-On was purchased or the site has the VIP Add-Ons installed, then this option will appear at the bottom of the general tab (See the first image above) to upload the badge. Example: 2. Search Results Badge This badge will appear in all search results when a member is listed in that specific membership plan. If the \"Member Profile Badges” Add-On was purchased or the site has the VIP Add-Ons installed, then this option will appear at the bottom (See the first image above) to upload a badge. Example: 3. Member Dashboard Badge This badge will appear on the member dashboard. Members can copy and paste the provided code (shown in the image below) into their website's source code to help attract more clients. Example: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083878219/original/YeEM-dMhdrXJbHQK68RxZMXxsQiV7_2lZw.png?1603207389",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103137819/original/Glnvjow21J-r7HlA8djWNP2ICUEU6MlEPw.png?1641303827",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083878466/original/bVCowGvvWvBsIOylOJqjPZhH3WOHS9L0mQ.png?1603207719",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12055224760/original/5ZMSYzl6u9KO_bMsy6_DoJ4AaEoFKij0mA.png?1565715480",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182753682/original/ig3XylC8ep2O1VJdnsbs87waNdzjLAs-Cw.png?1785254829",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110126930/original/pNiHjaRQpf53ssIemkvnwdSFOP4JtR1vAQ.png?1654804149",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091797712/original/Uuv3BagreVleAKZV4VKDJmiFvuuk_4mkuQ.png?1619413363",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091797702/original/URsF2vCl2cdY8ZL0IyCSzlx-IgGR6kFJBg.png?1619413332",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091797730/original/G2Brg7-AxumBQKmlzMweqrvfkawdSnLxEA.png?1619413415",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182873175/original/DWd0XErZLFIOS3wz8Nz6Ik25PvFVNLvBIQ.png?1785424666",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091797842/original/Qs4wE1ByiTWCWFMjpLGYVkaHOs2UxcWNEQ.png?1619413588",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091798195/original/Ns1gbcWubOdX322P_3z_9aZidKGuup3BFA.png?1619414531",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111682967/original/owmmLIJF2PRNqpXa7BrY6BzyS2gtxiCxig.png?1657820124",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091798032/original/HDQ4lWdnWSViv6xT2PxNecnREqS4kvpJRw.png?1619414172",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091797958/original/IQ623kWlTyh__9eKC1fkzFEMmgH6-fHwpA.png?1619414009",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091797953/original/cSn8XfPbMCJHn6geso50QGKLcb0qwbLxKw.png?1619413984",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091798022/original/bTDCc7bYMPt4dMgCnI-nZqMV9B8fHGc6GA.png?1619414137",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

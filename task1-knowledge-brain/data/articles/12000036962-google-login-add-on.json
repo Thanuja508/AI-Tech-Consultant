@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036962-google-login-add-on",
+  "title": "Google Login Add-On | Brilliant Directories Documentation | BD Support",
+  "content": "Google Login Add-On Link: https://support.brilliantdirectories.com/support/solutions/articles/12000036962 The One-Click Google Login add-on allows users to register or log in to the website using their Google account. This works with the default Brilliant Directories login and registration system. Existing members can also connect or remove their linked Google account from inside the member dashboard. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club The add-on can also be purchased individually: One-Click Google Login Add-On This setup requires a Google Cloud project and a Google OAuth Client ID. If Google Maps is already set up for the website, use the same Google Cloud project. This keeps the Google settings for the website in one place. The Google setup screens are managed by Google and may look different depending on the account, project, or Google Cloud updates. The steps below focus on the settings needed for Brilliant Directories. Step 1 - Open Google Cloud Log in to the Google account being used for the website and open Google Cloud: Open Google Cloud APIs & Services Make sure the correct Google Cloud project is selected at the top of the page. Step 2 - Create the API Key If Google Maps is already set up for the website, this step can be skipped because the website should already have a Google API key. If an API key has not been created yet, open the Google Cloud Credentials page: Open Google Cloud Credentials Click Create Credentials . Select API Key . Name the key something easy to recognize, such as Google Login . Copy the API key. After the API key is created, add the correct HTTP referrers so Google knows which website domains are allowed to use the key. For help editing HTTP referrers, see this article: Google Maps Issues: Editing HTTP Referrers Step 3 - Branding Details In Google Auth Platform, open the Branding section. Open Branding Complete the required branding fields for the website. App name: The website or brand name users will recognize. User support email: The email users can contact for help. App domain: Add the website homepage, privacy policy, and terms of service URLs. Authorized domains: Add the website domain used for Google Login. Developer contact information: Add the email Google can use for project notices. Save the branding settings before continuing. Step 4 - Create OAuth Client ID Open the Google Auth Platform Clients page: Open Google Auth Platform Clients Click Create Client . For application type, select Web application . Enter a name for the client, such as Google Login . Add the website domain under Authorized JavaScript origins . Create the client. Copy the Client ID . The authorized JavaScript origin should use the live website domain with HTTPS. Example: https://www.yourdomain.com Replace yourdomain.com with the website’s live domain. Step 5 - Add Scopes Open the Data Access section in Google Auth Platform. Add the following scopes: .../auth/userinfo.email .../auth/userinfo.profile openid These scopes allow Google Login to confirm the user’s basic profile information and email address. Step 6 - Enable the People API Open the Google People API page: Open Google People API Make sure the correct Google Cloud project is selected, then click Enable . Step 7 - Copy the Key and ID After the Google setup is complete, copy the details that need to be added to the Brilliant Directories admin. API Key: Only needed if a Google API key has not already been added for Google Maps. Client ID: Required for Google Login. Step 8 - Add the Google Details Log in to the Brilliant Directories admin and go to: Click on Settings Go to the General Settings The field to add the Google details is in the Integrations tab Add the Google details: API Key: Add the API key if one has not already been added for Google Maps. Client ID: Add the Google Developer Client ID. Make sure Google Login is enabled in the Integrations settings, then save the changes. Step 9 - Allow Google Login After the Google details are added in the admin, enable Google Login for the membership plans that should offer this option. Go to: Finance Membership Plans Edit the membership plan Enable Sign In with Google Save the changes Live Buttons Once Google Login is set up and enabled, the Google Login button will display on the website. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540272/original/uYOLpxIX7fwy4Qwb0Fs6424bQuSwim_1Bw.png?1784843073",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540329/original/7AtuCw0WLVf6Ew6eWg3AO-T5Rx1tckxwxA.png?1784843178",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540404/original/eDHqplUEBcY7SdrLIRZ8VHOn9rleb5nnWw.png?1784843332",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540445/original/tz5hx4mbrFsJlnuYfdoJ0vQLg1wqgsxHfQ.png?1784843419",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540476/original/odr2nC-RN3ZksAHKHrNOodN0rZnvzjv2uw.png?1784843518",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540510/original/wknTNrcwk6W7t2vTG4LfO96m6OBtlbGxQQ.png?1784843575",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182540587/original/5Xb6blr7aqW_hjfwI2fbHOVjcmxC4aMcWg.png?1784843629",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085521350/original/UiR9A5NZjpFbu73ouLouCTX2afNyuFqQOg.png?1606348840",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123265146/original/d5FAko0exSWdFizF5oSKzpyjnA3pCN_sDQ.png?1680022152",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000007988-what-happens-when-a-member-accepts-or-purchases-a-lead-",
+  "title": "What Happens When a Member Accepts or Purchases a Lead? | Brilliant Directories Documentation | BD Support",
+  "content": "What Happens When a Member Accepts or Purchases a Lead? Link: https://support.brilliantdirectories.com/support/solutions/articles/12000007988 When a lead is submitted through the website, members receive a lead notification email containing a preview of the inquiry. The lead's contact information is hidden until the member accepts or purchases the lead, depending on the website's lead settings. The notification email includes an \" Accept Lead \" link that automatically logs the member into their account and directs them to the lead details page. For free leads, members can click the Accept button to instantly reveal the lead's contact information, including the email address and phone number. When a member accepts a lead, the site administrator receives a notification. This provides an opportunity to follow up with the member, confirm they were able to access the lead successfully, and discuss any available membership upgrades or premium features. For paid leads, members are prompted to purchase the lead from their Member Dashboard before accessing the contact information. Once payment is completed successfully, the lead's email address and phone number become immediately available, allowing the member to contact the lead directly. The site administrator is also notified when a lead purchase is completed. Related Articles: >> Purchasing Leads For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089593259/original/Mglg7Hyj0fEgkBKh1DASZlcG8Xd7G_8K9A.png?1614888448",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089593330/original/Hs8kHGifdh0cUKHlQaqQNks-rqZJNkHDoA.png?1614888550",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089593383/original/lgfD7hCes5F5DrjuKop7TqWvwtk4EPpmvA.png?1614888595",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

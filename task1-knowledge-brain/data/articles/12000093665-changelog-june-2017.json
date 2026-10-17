@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093665-changelog-june-2017",
+  "title": "Changelog - June 2017 | Brilliant Directories Documentation | BD Support",
+  "content": "Changelog - June 2017 Link: https://support.brilliantdirectories.com/support/solutions/articles/12000093665 New Features: We added the functionality to send a confirmation email when a visitor signs up for the Newsletter on a site. All new sites launched in June will have this option activated by default. The Member Leads Page in the Member Dashboard has been refactored and now has a new design. We added pagination and a search to this page to manage large numbers of leads much more easily. All new sites will have this option activated by default. This month we made some updates to the workflow of how Default Widgets are customized. These updates are intended to prevent a website owner from accidentally creating a custom version of a Default Widget when not necessary, which will help ensure all websites are using the most up-to-date code at all times. For more information click here . We added the Social Media icons for Pinterest and Instagram to the Search Members page in the Admin area. We made an update to force Admins to use a strong password when editing the password for a member of their site. Enhancements / Fixes: The following sections of the software are now based on text labels: Send Verification Email Section, Account Notification Manger, Update Billing Page. Bug fixes to the New Leads Module, New Reviews Module, Google Location System, Add-on Manager System, and Member System. In all, more than 20 bugs were fixed throughout the software. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

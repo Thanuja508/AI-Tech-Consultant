@@ -1,0 +1,60 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069319-billing-reminder-emails-from-a-member-s-perspective",
+  "title": "Billing Reminder Emails - From A Member's Perspective | Brilliant Directories Documentation | BD Support",
+  "content": "Billing Reminder Emails - From A Member's Perspective Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069319 This article discusses the workflow of receiving billing reminder emails from a member's perspective when the Billing Reminder Emails Add-On is active on a site. For more information about other aspects of this add-on, please see the following: Billing Reminder Email Settings Billing Reminder Email Templates The sending of emails through this add-on can be enabled by following the steps found here: Billing Reminder Email Settings By default, these settings will be set to \"No\", and no emails will be sent. Set the desired settings to \"Yes\" to enable members to receive billing notifications: There are 5 different events that can trigger an email to be sent: New Payment Received Upcoming Payment Reminder Past Due Reminder #1 Past Due Reminder #2 Past Due Reminder #3 New Payment Received The following events will trigger the \"New Payment Received\" email to be sent to the member. A member signs up for a paid Membership Plan: A member upgrades their Membership Plan: A member buys a post (Articles, Coupons, Properties, Videos, Digital Downloads, etc): An Admin of the site manually collects payment for an invoice: A member manually pays an invoice through the Member Dashboard: This is an example of a New Payment Received email sent to a member: Upcoming Payment Reminder This email reminder can be sent before an invoice for an upcoming recurring subscription payment is due. Currently recurring subscription payments are limited to recurring Membership Plan payments. The system will generate the upcoming invoice 14 days before the payment is due, so this email can be sent between 1 and 14 days before the due date. Example: If a member is paying on the 15th of each month, then the 1st of each month, the system will generate the upcoming invoice. If the settings were set to send the reminder 5 days before the renewal, then the member will receive a notification on the 10th of each month. Example Upcoming Payment Reminder email sent to a member: Past Due Reminder #1 If the system was not able to collect the payment, then it will send the first past due reminder. This can be sent the same day (Instant) or up 90 days after the payment collection attempt failed. Example Past Due Reminder #1 email sent to a member: Past Due Reminder #2 The system will check each day if a previously past due invoice is still past due. If it is, the system will send the second past due email reminder. Example Past Due Reminder #2 email sent to a member: Past Due Reminder #3 If the same invoice is still past due, the system will then send the third past due reminder. Email sent to the member: NOTE: If the Admin of the website modifies the member's billing subscription, then the email notifications process will be stopped automatically. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108018711/original/Ynz0Lrh-8fCdAp46nBnBtYp8Tr3FjIi4Uw.png?1650656755",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076076501/original/tLBIUVa7gz-nPWW8b_4Ts-9FNlnJfDYUvQ.png?1586367899",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076086503/original/39_GSktLvTuvrnALqJDriDqalljRr2SJiw.png?1586393303",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076086553/original/---PgyCEe0asX2rXJbO6q89b6dSCDbLkbQ.png?1586393519",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076149995/original/tuDZh657Um9M0dPF16Qr85bXu54Tzgr1Og.png?1586556885",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076150016/original/DhPcDIuDIFjxbo-KWvXqcwLQck5SfSsXIw.png?1586556999",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076087767/original/1Gj4A5VrvqM_hD6hiRQ7HejSSfYYG4VGZQ.png?1586397310",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108018750/original/YAd-UgSLB61vC821TCkAcGnc66AzNjzU9w.png?1650656828",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076088168/original/FCx3RN2VbFZ476LW5314-2Mjokvl44Yz_w.png?1586398986",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076087866/original/_WOiYKoKo4Iefu94JUrZZlyHayFiymC6yA.png?1586397639",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076087968/original/qAUQ9mQeDQHmUOMPXvC5oMuDl8IbP0Mlrg.png?1586398032",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076087984/original/-8Op6i70_EHJulpGWHrxeY64omJjKQfoeg.png?1586398143",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

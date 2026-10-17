@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096241-10-06-2023-software-updates",
+  "title": "10/06/2023 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "10/06/2023 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000096241 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. We fixed an issue which was preventing the price of leads on Member Dashboard from being charged properly in some cases. The \"Internal Description\" field is no longer required when creating a custom webhook in the Admin. We fixed an issue which was preventing the One-Click Facebook Login from working properly when users sign up to a paid Membership Plan. We updated the Post Settings page in the Admin to automatically remove any whitespaces at the beginning or end of the Post Type Name field when saving Post Types in the Admin. We added the ability to use the Ctrl+S hotkey when saving Text Labels on the frontend of sites. We fixed an issue with the member signup process which was allowing paid member accounts to be created without completing the payment process in some rare cases. We updated our Stripe integration to be compatible with the latest version of Stripe's API. We fixed an issue with the Stripe payment workflow when charging \"3d secure\" credit cards in some cases. We added the ability to export member posts from the Manage Posts page in the Admin. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

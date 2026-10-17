@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077984-edit-checkout-pages-titles-text-language",
+  "title": "Edit Checkout Pages: Titles, Text & Language | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Checkout Pages: Titles, Text & Language Link: https://support.brilliantdirectories.com/support/solutions/articles/12000077984 Overview All the default text and language on checkout pages are Text Labels and can be edited by clicking on the left sidebar (Text Labels icon). There is no need to edit any HTML code. It will highlight all text labels in yellow. To edit them, click on the variable name. For example, instead of clicking on \"Enter Email\", click on \"enter_email_placeholder\" The part of the H1 title \"Create Profile: Premium\" can be edited in the text label \"listing\" and the rest of the title, in the Finance » Membership Plans section. It is stored in this widget \"Bootstrap Theme - Signup Page - H1 Title\". Note: We do not recommend editing the widget. It is better to use the text labels instead. Regarding the \"Save % with this option\" label: The percentage can be removed by leaving this text label empty: It is also possible to remove the entire section: By leaving these two text labels blank: save_label_billing and per_year_option_billing There might be some text labels that are not highlighted, like the card number, expiration date, and the security code. To edit these three labels, follow the steps shown in the image below: More About Editing Sign Up Pages Overview Article How to Add, Edit and Remove Input Fields on Sign Up Pages How To Add a Sidebar to Sign Up Pages For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795622/original/6SYT9DEGKnVzhVahi1b9xvscFG1M-2twLg.png?1615342779",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795321/original/bsF_VzbtvVU5gwN6CTC7sCoQtZN5Ivv6TA.png?1615341812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144110/original/VJt_2TPQEngW4av37ch4MqCZfZquvhjGqA.jpeg?1614036726",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795336/original/NvvP-lonpw8mDsaF1822xw-spLooD9jehw.png?1615341860",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795353/original/G7ZwlfX3ct1yN0bbkuZfuzTIRjIpz7dNsw.png?1615341944",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795396/original/eD4_OT6rNzK9Lw-tGsV78olLJZmrlSC5Qw.png?1615342105",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048798-how-to-edit-the-default-search-results-url-of-post-types-events-classifieds-etc-",
+  "title": "How to Edit the Default Search Results URL of Post Types (Events, Classifieds, Etc.) | Brilliant Directories Documentation | BD Support",
+  "content": "How to Edit the Default Search Results URL of Post Types (Events, Classifieds, Etc.) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000048798 To change the default URL of a post type, please follow the steps below. Go to My Content >> Edit Post Settings. Search and click Edit for the post type that needs to be updated. Scroll down, find the URL Permalink field, and update the URL as desired. Important: Make sure to not have any spaces or special characters in the new URL. When Saving the Post Type, a message will display to confirm this change: \"The URL of this Post Type is being changed from classifieds to brilliant-classifieds. This action will also update the slug URL of all associated posts.\" This means that already created posts showing under the URL /classifieds now are going to display under /brilliant-classiffieds. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883564/original/xRZHTjcYJEWEtH595GMzYQM2cIacv_Ynew.png?1788903994",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883194/original/lAvNhO06yfw822t1HQGcbBOpk6S3ItrcWw.png?1788903566",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184883495/original/rV5QaELJlOxRSgUeFv0dilR6sfY9KrdcqA.png?1788903952",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

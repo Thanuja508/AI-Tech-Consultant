@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000033704-how-to-create-a-text-box-to-display-text-in-a-sidebar",
+  "title": "How to Create a Text Box to Display Text in a Sidebar | Brilliant Directories Documentation | BD Support",
+  "content": "How to Create a Text Box to Display Text in a Sidebar Link: https://support.brilliantdirectories.com/support/solutions/articles/12000033704 This article describes the steps required to add a new custom text box to a sidebar. To create the text box, navigate to Toolbox » Widget Manager and click the New Widget button: Name the widget, add the custom code in the tab corresponding to the code language, and click Save Changes : This is a sample HTML code that can be used: <div class=\"module\"> <h3> Interesting Facts: </h3> <p> Both the short-term and long-term memory store information in chunks, but the former is limited. One of the easiest ways to ensure that learners store information in their long-term memory is to pair concepts with meaningful images. Research has found that this tactic increases recall better than when courses deliver information through aural or textual form. Visuals help people make sense out of the content and direct attention, increasing the possibilities that the learners will remember. </p> <p> According to Dr. Lynell Burmark, education consultant who writes and speaks about visual literacy: \"...unless our words, concepts, ideas are hooked onto an image, they will go in one ear, sail through the brain, and go out the other ear. Words are processed by our short-term memory...\" </p> <p> <a href=\"https://www.brilliantdirectories.com/\">Make the most out of your Site!!</a> </p> </div> Once the widget is saved, call it on the preferred sidebar. The end product: Additional Information: Toolbox » Widget Manager Toolbox » Sidebar Manager How To Setup Sidebars For Post Types How To Add A Sidebar To A Static Page How To Add A Sidebar To Homepage For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180359453/original/4OW7i9F4adO16q9TiiGmWL1t01D7XFeaRA.png?1781317616",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180359454/original/oFkMffG562msxsvIjw43hSVYNbmMmO8uNA.png?1781317664",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180359494/original/G-jfWCLC8Rv7PE4F-Hz553ztdVeH07zsfA.png?1781317955",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

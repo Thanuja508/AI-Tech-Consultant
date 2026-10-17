@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102536-how-to-add-cookie-consent",
+  "title": "How to Add Cookie Consent | Brilliant Directories Documentation | BD Support",
+  "content": "How to Add Cookie Consent Link: https://support.brilliantdirectories.com/support/solutions/articles/12000102536 Implementing cookie consent functionality is essential for ensuring compliance with data privacy regulations. This process typically involves integrating a third-party cookie consent solution into a website. Such tools streamline the process by providing pre-built scripts and customizable interfaces to manage user consent. Select a Cookie Consent Tool Choose a reliable third-party provider that aligns with the website's privacy requirements. Popular options include Cookiebot, OneTrust, and Osano ( click for example ). These tools offer comprehensive features, such as banner customization, consent tracking, and integration support. Adding Cookie Consent Code in Brilliant Directories To integrate cookie consent functionality in a Brilliant Directories website, follow these steps: Access the Brilliant Directories Admin Dashboard . Be sure to be logged into your admin dashboard. Navigate to the Toolbox section and select Widget Manager . Locate the \"Widget Manager\" option within the Toolbox menu to manage the website's widgets. Search for the Bootstrap Theme - Cookie Consent Code widget. Use the search bar in the Widget Manager to find the specific widget dedicated to cookie consent. Insert the third-party snippet in the HTML editor. Open the widget in the editor and paste the provided cookie consent code snippet into the appropriate section of the HTML. Save the changes. Click on Save Changes to finalize and implement the updates on the website. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153239469/original/HQE2Mp-PKTYpBXUZrbVqOu4y326qIXNoNQ.gif?1732808153",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

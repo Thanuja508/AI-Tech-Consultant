@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099435-post-types-api-how-to-edit-post-types-data-with-api-calls",
+  "title": "Post Types API - How to Edit Post Types Data with API Calls | Brilliant Directories Documentation | BD Support",
+  "content": "Post Types API - How to Edit Post Types Data with API Calls Link: https://support.brilliantdirectories.com/support/solutions/articles/12000099435 Using the API there are 5 Post Type actions that can be achieved: GET - /api/v2/data_categories/get/{data_id} POST - /api/v2/data_categories/create POST - /api/v2/data_categories/custom_fields PUT - /api/v2/data_categories/update DELETE - /api/v2/data_categories/delete We will break down these actions and explain how to achieve an end results with each one. The examples shown in this article are completed using https://www.postman.com/ For all actions, add the API Key to the Headers: 1. GET - /api/v2/data_categories/get/{data_id} Read the data of a single Post Type based on the Data ID. Choose GET as the method Replace the {{api_url}} for the website url Replace the {id} with the actual post type ID Using this action is simple, add the url above but replace {id} with the actual post type ID. This will fetch the post types information from the website. 2. POST - /api/v2/data_categories/create Add a Post Type to the database. Choose POST as the method In the Body select x-www-form-urlencoded Enter data 3. POST - /api/v2/data_categories/custom_fields Get all fields available for the Post Type. Choose POST as the method. In the Body select x-www-form-urlencoded Then add the data_id of the Post Type 4. PUT - /api/v2/data_categories/update Update a Post Type record and their related data from the database. Choose PUT as the method In the Body select x-www-form-urlencoded Then add the new data for the Post Type 5. DELETE - /api/v2/data_categories/delete Use this action URL to delete a Post Type, replace {id} with the Post Type ID that will be removed from the website. Choose DELETE as the method Replace the {id} with the data_id that will be deleted In the Params add the data_id to delete For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141952643/original/zaBiJELGN3zBwk_XnGxttAEw0PEM5Mx_UA.png?1713458135",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142167610/original/GJklGXt8w6JCigS2q8SAZyGS4O4n8zROxQ.png?1713885298",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142172139/original/wl0cssU-toaKdfTqJesZ5VupguHSvv1KKA.png?1713889273",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142172756/original/fD0IFA43U4pBdMWmS5pKZQSjbsWy5-KBKA.png?1713889771",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142173253/original/sb-h4BE8igihgJNCxG-liVsqG7hdQceWgQ.png?1713890289",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142173472/original/eZdUVhBYo6Jm3BuHOkrzZCabWhmCixrgzg.png?1713890449",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

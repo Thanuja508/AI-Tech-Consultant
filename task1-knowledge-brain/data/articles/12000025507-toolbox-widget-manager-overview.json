@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000025507-toolbox-widget-manager-overview",
+  "title": "Toolbox » Widget Manager Overview | Brilliant Directories Documentation | BD Support",
+  "content": "Toolbox » Widget Manager Overview Link: https://support.brilliantdirectories.com/support/solutions/articles/12000025507 Widgets are the core components of a Brilliant Directories website. They contain most of the PHP, HTML, CSS, and JavaScript that control how the site functions and displays content. Modifying widget code is often required when adjusting layout, functionality, or specific areas of the website. Default Widgets Default Widgets are stored in a central database that all Brilliant Directories websites reference automatically. These widgets remain up-to-date because they are maintained centrally. The internal development team updates Default Widgets to support core functionality, introduce new features, and apply improvements. If no customization is made, the website continues to use the latest version of each Default Widget. Default Widgets can be accessed under Toolbox » Widget Manager in the admin area. Customized Widgets When a Default Widget is customized, or a new widget is created using the New Widget option, it appears in the Customized Widgets section. This section is located at the top of the Toolbox » Widget Manager page, above the Default Widgets list. Edit Widget Tabs Each widget includes three primary code sections: HTML CSS JavaScript Diff Each tab corresponds to its respective language and allows direct editing of the widget code. Diff Tab The Diff tab compares the Default Widget code with the Customized version side by side. The code is separated into collapsible sections: HTML, CSS, and JavaScript. This makes it easy to identify exactly what has changed in each area. Each section displays a line count summary (e.g. \"10 vs 9 lines (+1)\") so it is easy to see how many lines differ. Lines that exist in the customized version but not the default are highlighted, making it simple to pinpoint modifications at a glance. This tab is only available for Customized Widgets. Widget Type The Edit Widget view includes an option to define the widget type. Select \"Widget\" for standard functionality. Select \"Advertisement / Banner\" when the widget is intended to display banner content. Note: If \"Advertisement / Banner\" is selected while the Display Banner Advertisements setting (Design Settings → Banner Ads) is disabled, the widget content will not be displayed. Additional Resources Some useful articles related to widgets can be found below: How To Customize A Widget How To Create A New Widget How To Disable/Enable A Widget How To Delete A Widget Bulk Actions For Widgets How To Call A Widget On A Custom Page Locating The Widgets Via Admin Bar For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182650396/original/M_hbdobAyObdYJJ_LyHE44cU0n1H-Za5BA.png?1785113427",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182651776/original/RbfanAkxY780QH3FHvApLfID4dzVjZzdSQ.png?1785119017",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179539897/original/CSWGJEnt135goxNjYcbRBTvm2t9HuYnR1g.png?1779984946",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179540830/original/RLLLDUjMv2NNLaYF7FSDQ8u5ce2GrZB8sA.png?1779985914",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724377/original/pLDcOKqjIgyjlozG0zm6l9gDd_adihlOFA.png?1774920676",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724372/original/N9p5hw-e8GdwbzNYnWETi49RuEzq-9j4GQ.png?1774920657",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079365-smart-list-export-functionality-for-member-reviews",
+  "title": "Smart List & Export Functionality for Member Reviews | Brilliant Directories Documentation | BD Support",
+  "content": "Smart List & Export Functionality for Member Reviews Link: https://support.brilliantdirectories.com/support/solutions/articles/12000079365 Overview The Member Reviews page includes tools for exporting reviews and creating Smart Lists based on the current search results. To access these options, navigate to Interactions → Member Reviews. Then, open the List Actions menu and choose one of the available actions. Export Reviews Select Export Current Results from the List Actions menu to download all reviews that match the current filters. The exported file is downloaded as a ZIP archive containing a CSV file with the review data. Note: Exporting member reviews requires the Export Member Data feature. If the feature is not installed, the export option will not be available. » Export Member Data Add-On Extract the ZIP file to access the exported reviews in CSV format. Creating a Smart List Select the \"Create Smart List from Results\" option from the drop-down: After the Smart List has been created, select Go To Reviews Smart List to view and manage it. Related Articles: » Members » Smart Lists For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616838/original/3DLU7yWxMd_eTvUbmGWo_0JKEJQyC35M1Q.jpeg?1687995753",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616841/original/TpO-LmOYYrKnI1gcC2u7nbZKjPNrBjUrMg.jpeg?1687995766",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616843/original/CgBsgImSWiS-jO0rAVKpR_wlRRB1TBqs5Q.jpeg?1687995775",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616844/original/fDqHp8bjFpIKmYasDBk6ZAUhNVMZ-L4ysg.jpeg?1687995782",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616852/original/VHOT65upzwbXoCE0cqxEVZZBbvLHBQmlFg.jpeg?1687995798",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616855/original/QCHYQ302upUeWvQRi2Dz_sPXYmLTMbFtag.jpeg?1687995814",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616885/original/kowyPewt2yXAoGQVqnNGRiLd2BfKEA85FQ.jpeg?1687995829",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616891/original/pKc6Z49DtO7mnASAh-vBhydIK8v8go6gUg.jpeg?1687995855",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127616906/original/E7E0EUGqSKmp32ozysfT6PfZ7hypxR1wEg.jpeg?1687995880",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169876755/original/kcYxVSI7hadSgSN0CwN5ETaOfVp_OgchGA.png?1761964043",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

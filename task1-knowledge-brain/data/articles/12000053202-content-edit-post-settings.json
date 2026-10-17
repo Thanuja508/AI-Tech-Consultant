@@ -1,0 +1,68 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000053202-content-edit-post-settings",
+  "title": "Content » Edit Post Settings | Brilliant Directories Documentation | BD Support",
+  "content": "Content » Edit Post Settings Link: https://support.brilliantdirectories.com/support/solutions/articles/12000053202 The Edit Post Settings folder is where post types can be edited, deleted, and cloned. There are 13 default post types included with the website: Community Article Website Blog Article Video Property Product Photo Album Job Listing Event Coupon Classified Soundcloud Member Listings Discussions The main Edit Post Settings page features four clickable elements: 1. Preview: Redirects to the post search results page. 2. Number of created posts: Redirects to the Manage Posts section for the specific post type. Refer to this article for more information: Content » Manage Post 3. URL Permalink: Redirects to the post search results page. 4. Form to Use: Opens the specific form associated with the post type for editing. To learn more about the Form Manager, click the following article: Toolbox » Form Manager Upon clicking \"Edit\" for a post type, four tabs are available with distinct settings: General Settings, Profile Page Design, Search Results Design, and Detail Page Design. General Settings Tab The general settings for the post type are as follows: 1. Protect this Post Type? This option is only available if the Members-Only Content add-on is active on the site. 2. URL Permalink Updates the URL of the post type search results. Refer to this article for details on How To Change The Name, Title & URL Of A Post Type . 3. Post Sidebar Icon Selects the icon used to represent this post type in the member dashboard sidebar menu. 4. Select Form to Use Determines the form used when publishing a post. Click the hyperlink to access and edit the form. 5. Post Categories Certain post types, such as properties, coupons, and events, include pre-set categories. Refer to this article for more details on How To Add Or Edit Categories For Post Types (Events, Coupons, Properties, Etc) . 6. Additional Settings Settings vary by post type. The following are available for the \"Classifieds\" post type: 7. Post Approval Requires the Advanced Post Moderation add-on. Note that \"Post Publishing\" settings within each Membership Plan will override the selected option. 8. Price Slider Min + Max Value Certain post types, such as Classifieds, include sliders in search widgets to allow price range selection. Refer to this link to learn how to Edit The Min & Max Value of Price Sliders . 9. Enable Price Slider Activates the price slider for relevant post types. 10. Enable Photo Gallery Videos Enables video integration for multi-photo albums. Refer to the following article for more information: How to Add Videos to Multi-Photo Post Types . 11. Display Map When Entering Location Information? This setting controls the display of the map. Helpful information can be found in this article: Google Maps: Reducing Usage and Costs . 12. Enable Results for Global Website Search Requires the Global Website Search add-on. 13. Trigger Webhook for Initial Save or Every Save? Determines when a Webhook is triggered upon post creation by a member. Profile Page Design Tab Use this tab to configure how posts are displayed on public member profiles. 1. Profile Page Tab Title Modifies the title displayed on the front-end tab. 2. Profile Page Tab Order Sets the position of the profile page tab via the dropdown menu. Each position displays the name of the assigned post type. Available positions are those with no assigned post type. 3. Number of Posts Displayed in Tab Sets the quantity of posts to be displayed. Information is displayed on the live member profile as follows: 4. Profile Page Code The header, page loop, and footer codes for the Profile Page design can be modified. However, changes are only recommended for developers or individuals with web development expertise. Codes can be restored to default if necessary. Refer to this article for further information: How to Customize the Default Post Types Code . Search Results Design Tab Configure search results settings for a specific post type within this section. 1. Search Results Page Title - H1 Edits the text for the post type title. 2. Search Results Page Sub-Title - H2 Adds an optional subtitle. 3. Search Results per Page Controls the default number of results appearing on a search results page. 4. Search Results Code Allows for editing the header, loop, and footer codes of the search results design. Refer to this article for more information: How to Customize the Default Post Types Code . 5. Additional settings Various options are available within the dropdown menu for further customization: 6. Post Keyword Search Options Advanced settings to control keyword search functionality. The \"Search Default Fields\" option also includes post description fields. Refer to this article regarding the Expanded Keyword Search add-on. 7. Pagination Display Options Selects the pagination style for search results: standard, hidden, or Insta-Load pagination (requires add-on). 8. Order Results By Controls the display order of items based on a specific database field. Further information is available here: How To Change Search Results Sorting Options . 9. Enable Search Results Cache Setting this to YES (recommended) caches search results to improve load times for subsequent matching searches. Setting this to NO ensures the database is queried for every search. Note: This cannot be enabled if \"Order Results By\" is set to \"Random.\" 10. Respect Membership Plan Search Priority? Membership Plan Search Results Priority is configured within the Search Visibility tab of each plan. 11. Sidebar To Use Specifies the sidebar (custom or default) to be displayed on search results pages. 12. Sidebar Search Module Selects the search widget to display in the search results sidebar. This requires the sidebar in the Sidebar Manager to utilize the Bootstrap Theme - Search Module - Dynamic Sidebar Search widget. This widget loads the search module specified for each post type. 13. Sidebar Position on Mobile Device Determines the sidebar's position on mobile devices (phones and tablets): Bottom (below results), Top (above results), or Hidden. 14. Enable Search Results Photo Album Slider If set to YES, search results for this feature will include a carousel displaying post photos. 15. Display Google Map Option on Search Results Pages Selecting \"Yes\" displays a map icon at the top of search results pages. Clicking this icon displays results as pins on a Google Map. 16. Custom Search Engine Widget Name Adds a widget to utilize a custom search engine. 17. Start Results View In Select list view, map view, or grid view (requires the Grid View Search Results add-on). 1 8. Display Expired Posts in Search Results If set to YES, expired posts will be displayed on search results pages. Detail Page Design Tab This section allows for the configuration of various settings for the post detail page. 1. Detail Page Code Additional custom codes can be added to this field. Code modification is not recommended unless a developer is managing the site. Refer to this article for more information: How to Customize the Default Post Types Code . 2. Allow Live Links In The Post Body If set to ON, members are permitted to include links within the post body. This can be toggled for each post type. 3. Sidebar to Use Specifies the sidebar to be displayed on search results pages. 4. Insert Additional Code for Embeds, Schema Markup, etc. (will render directly after page template code) Any additional code required for the comments section should be pasted here. Additional Actions Hover over specific items to reveal further actions: 1. Clone Selecting this option creates a duplicate of the post type. In the example below, the Discussion post type has been cloned. 2. Copy RSS Link This option is only visible if the RSS Feed for Posts add-on is active. 3. Delete Prior to deleting a post type that contains existing posts, an option to transfer those posts to another post type will be presented. Once the destination post type is selected, all posts will be transferred. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273228/original/o6_2ziNWR3CAn3B7vqh87WqNMtAsoIE_vg.png?1770297700",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273283/original/CVZ55sO2fVdlVTV7C2ZRi2JCx8MBKhUb0w.png?1770297781",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273368/original/0qT1OZ6DOciDPAYwUZK7txPUqjPfUkiJxw.png?1770297892",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273488/original/ddMxPuuNHYhkJWA3LqM3lI2CDksNmmpT2Q.png?1770298015",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273530/original/9-7A6PezU2zzKquHdQWXFXtduqsx8Xbe6Q.png?1770298060",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079931256/original/-pVuA3aTdr9CA71Bzj_6VwMzgj24rdaGmQ.png?1594730238",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273590/original/CTHd994UP96m29uni9L2qMFthMKbwJBs3A.png?1770298131",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273876/original/_4jiBSmpYQbt8n44_df7T68j9EPtUIbqHQ.png?1770298483",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145946432/original/XJBaNIurH2hvkRdCFfOfGYKd0fRYLEXNQA.png?1720371138",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273947/original/ZoIJyRp9hHIp_CX9ReFZwMwFmZq2bhIF3Q.png?1770298583",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174273997/original/ig4U3m-cvjXs5L3V8njyjKaTQt3YS1mj6g.png?1770298661",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174274034/original/RI0fGWi7lcT4GDHvsXKZvcbaXeZ-kAScug.png?1770298721",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174274055/original/HgMVMhKkPaeCCZhHx7wfiXjKSh4yFPG8gQ.png?1770298759",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174274080/original/D9govfpUltkXxSqTBzUEc6_j9IA6zMBrSQ.png?1770298821",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

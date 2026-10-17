@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000043296-04-13-18-software-updates",
+  "title": "04/13/18 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "04/13/18 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000043296 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: Froala WYSIWYG now has the same styling options for the Admin and for the frontend of the site on all devices (mobile, tablet, and desktop). Widget Involved: Form - Froala Editor Javascript We implemented several updates in order to make the Events Feature more stable. Widgets Involved: Search - Post - Search Query Bootstrap - Search - Lazy Loader tabs Bootstrap Theme - Member Profile - Member Tabs lazyLoad Bootstrap Theme - Display - Recent Events Now the Member Dashboard Menu Tab is fully based on Text Labels. Widgets Involved: Bootstrap Theme - Account - Menu Tabs Text Labels profile_edit_pw billing_details_account_sidebar engage_contacts_label Now the Member Export Data Add-On supports custom fields created by Site Admins. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

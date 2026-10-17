@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078430-how-to-customize-a-widget",
+  "title": "How To Customize a Widget | Brilliant Directories Documentation | BD Support",
+  "content": "How To Customize a Widget Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078430 Customizing a widget creates an editable copy that overrides the default version on the website. The default version remains stored in the system, which makes it possible to compare changes and restore earlier code at any time. To customize a widget, first locate its default version. This can be done using the search function under Toolbox >> Widget Manager : Widgets can also be identified directly on the front-end using the Admin Bar. This provides a quick way to locate the corresponding widget in the admin area. Locating Widget Via Admin Bar Customizing the Widget Once the default widget is located, select Customize from the Actions dropdown: This opens the widget's code for editing: After making the required changes, select Save Changes . The customized version will then appear above the default widgets in the Widget Manager: Clone Widget If a duplicate of the customized widget is needed, the clone option can be used. Changes After Customization Diff Tab A Diff tab is added to the widget view. This displays the differences between the default widget code and the customized version. Select Revision A Select Revision option becomes available. This provides access to up to 10 previous saved versions, allowing earlier code to be restored if needed. Created and Last Updated Dates Created and Last Updated timestamps appear in the Widget Manager. These indicate when the widget was first customized and most recently modified, which can assist with troubleshooting. Save History A Save History option appears in the Actions dropdown. Selecting this option redirects to the Activity Tracker , where a detailed record of changes can be reviewed. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344381/original/aQRDZTaP-UZTU26G6KMfVt0VMBrnermaqA.png?1781289458",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344449/original/7vhStEbcsrzViBomOjZ7zf-5lEN2Lf6Llw.png?1781289584",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344524/original/MQ98SdvSlViVhR4_cX09zcYVH4BoSE_Yaw.png?1781289637",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344652/original/Pnw3Lz00IxQEjOb5SZUhWAesld9t6tWDCQ.png?1781289740",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344711/original/mQ65Wtdzx5qLKuGq7cdApBFqEbZFAcA-NA.png?1781289818",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344915/original/L8ma9o3YZRVw7I_Sj6RXz2n8LfiPOgVrYw.png?1781289949",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176724184/original/MJwpGW21tQt9J2k-lINy0geV2vpumALhDQ.png?1774920160",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344766/original/vfwCZ7Jqs-nzb19x2xKSytC48qJrv7FmpQ.png?1781289906",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180344753/original/7nrkHhkU2sWE7T8RK-TQWw_5oTbqhSfx3g.png?1781289879",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

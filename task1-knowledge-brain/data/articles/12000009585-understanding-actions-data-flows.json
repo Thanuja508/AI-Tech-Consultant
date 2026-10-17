@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000009585-understanding-actions-data-flows",
+  "title": "Understanding Actions / Data Flows | Brilliant Directories Documentation | BD Support",
+  "content": "Understanding Actions / Data Flows Link: https://support.brilliantdirectories.com/support/solutions/articles/12000009585 This documentation covers features specific to the Automatic Lead Matching add-on. Automatic Lead Matching Add-On What Is It? The Automatic Lead Matching add-on upgrades the default Leads system by introducing customizable Lead Actions—rules that control how leads are handled for different membership levels. The standard Basic Leads Package includes: Instant delivery for direct lead requests Limit on how many members can accept a lead Admin email alerts when new leads come in With this add-on, custom Lead Actions can be created and assigned to individual membership levels, giving full control over how leads are distributed and managed. Key Features: Auto-Match Control: Decide which members can receive leads automatically. Custom Email Templates per Membership Level : Send different email content to free vs. paid members—thank paying members and encourage free users to upgrade. Member Lead Acceptance Alerts : Get notified when a member accepts a lead—ideal timing to follow up or promote upgrades. Automate a thank-you or upsell email. Sold-Out Lead Notifications: Get alerted when a member tries to claim a lead that’s already been sold. Trigger an automatic email explaining what happened and how to avoid it. These features are exclusive to the Automatic Lead Matching add-on and designed to help automate lead distribution while maximizing upsell opportunities and overall lead management efficiency. Create New Data Flows Learn about the default lead action and on how to create custom lead actions: Default Lead Action & Creating New Lead Actions For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

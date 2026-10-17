@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078806-how-to-display-custom-post-fields-in-the-post-details-page",
+  "title": "How To Display Custom Post Fields In the Post Details Page | Brilliant Directories Documentation | BD Support",
+  "content": "How To Display Custom Post Fields In the Post Details Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078806 This article explains how to display custom post field values on the post details page. Custom post fields can be added to a post form and displayed on the front-end post details page using the Post Meta Details widget. Overview When a custom field is added to a post form, the field can collect additional information from members when they create or edit a post. The widget used for displaying post field details is: Bootstrap Theme - Module - Post Meta Details v2.0 To display that custom field value on the post details page, the field must be set to display on the view page, and the correct widget must be added to the post details layout. Step 1: Customize the Post Form Start by editing the form used by the post type. Go to Toolbox >> Form Manager . Find the form connected to the post type. Click Customize if the form has not been customized yet. Click Edit if the form has already been customized. The form editor will open so custom fields can be added or updated. How To Customize a Form Step 2: Add the Custom Post Field Add the custom field that should display on the post details page. Examples of custom post fields include: Event location Price Service area Start date Requirements Contact instructions Download link After adding the field, review the field label, database variable, field type, and required field settings. Step 3: Enable Display View for the Field For the custom field value to display on the post details page, Display View must be enabled for the field. Open the custom field settings. Find the Display Settings for the field. Enable Display View . Save the form changes. Important: If Display View is not enabled, the field value may be saved with the post but will not display on the post details page. Step 4: Add the Post Meta Details Widget to the Sidebar The custom post field values can be displayed in the sidebar of the post details page by adding the Post Meta Details widget to the post sidebar. Go to Toolbox >> Sidebar Manager . Find the Post Single Page sidebar. Click Customize if the sidebar has not been customized yet. Click Edit if the sidebar has already been customized. Find the widget named Bootstrap Theme - Module - Post Meta Details v2.0 . Drag and drop the widget into the sidebar layout. Click Save Changes . Toolbox » Sidebar Manager The custom post field values will display in the sidebar when viewing the post details page. Alternative: Add the Widget to the Post Details Content The Post Meta Details widget can also be added directly inside the post details page layout using the widget shortcode. Content » Edit Post Settings Use the following shortcode: [widget=Bootstrap Theme - Module - Post Meta Details v2.0] When this shortcode is added to the post details layout, the custom field values can display below the main body of the post instead of in the sidebar. Where the Custom Field Values Display Custom post field values can display in different areas depending on where the widget is added. Location Setup Result Post sidebar Add the widget to the Post Single Page sidebar. Custom post fields display in the sidebar of the post details page. Post details content area Add the widget shortcode to the post details layout. Custom post fields display below the main post content. Important Notes The custom field must be added to the correct post form. Display View must be enabled for the field. The post must have a saved value for the custom field before it can display on the post details page. The Bootstrap Theme - Module - Post Meta Details v2.0 widget must be added to the sidebar or post details layout. If the field is blank for a post, there may be no value to display. Custom fields may display differently depending on the field type and the post details page layout. Common Reasons the Field Does Not Display Display View is not enabled: Open the field settings and enable Display View . The wrong form was edited: Confirm the custom field was added to the form used by the correct post type. The widget was not added: Add Bootstrap Theme - Module - Post Meta Details v2.0 to the sidebar or post details layout. The post field is empty: Edit the post and add a value to the custom field. The sidebar is not assigned: Confirm the correct sidebar is being used by the post details page. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184448064/original/bLmLtKGahUSV2pNXHeZgLV-IB2IPOz9fPQ.png?1788188967",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184419689/original/gG2cWoGN21RxlrzEbE9NSWmVixC3rLrgAA.png?1788144068",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184444721/original/Iq20_7BLgl9HOdAzZ2hWVBcXlDScSg7DNw.png?1788185955",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184444857/original/pQ-lErFGnbOAQfgKWpW-B1iG-d6p-Yxytg.png?1788186053",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184446132/original/aHJR9GobaVY2EOxtUAQjO_lDalZEML_2lw.png?1788187181",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184447040/original/Z96Cm4VHTq02vLEC2GjkHsyhYdTH4ogpLg.png?1788188001",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184448144/original/FCv1bYgmJL5ai_nTzi2hQkohhibVJBdWpw.png?1788189064",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

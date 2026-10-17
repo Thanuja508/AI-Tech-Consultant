@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045044-how-to-change-the-meta-title-of-the-homepage",
+  "title": "How to Change the Meta Title of the Homepage | Brilliant Directories Documentation | BD Support",
+  "content": "How to Change the Meta Title of the Homepage Link: https://support.brilliantdirectories.com/support/solutions/articles/12000045044 A meta title is the text that shows at the top of your browser tab and as the main clickable title in search engines like Google. Think of it as the official name of your page that both visitors and search engines use to identify it. The steps below describe how to update the meta title for the home page. To change the title of the home page, navigate to: My Content >> Web Page Builder >> Click Edit on the Homepage On the SEO Settings Tab, look for the option SEO Meta Tags >> Page Meta Title. The system will fill in these details automatically by default. The Page Meta Title field is populated with SEO variables that dynamically insert information such as the site name or location into the title. For more details about what these variables mean and how they work, see: Understanding SEO Variables . The next time a visitor accesses the home page, the updated page meta title will display in the browser tab. Additional options for configuring meta titles on search results pages and other sections of the website are covered in: How to Customize The Different Elements of SEO Templates . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125208686/original/T_sHOmzrOfkOE_EuAwTi9jGOY5g2shVjEA.png?1683655819",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172316020/original/yvQT9mRm4p6GDpGXSviw9upBlQYzei5h3w.png?1766432877",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180298879/original/V8MfnxQKA7seXxpfG7Qlvx3Zf0vIEHHrhg.png?1781224194",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125208889/original/eTxnqiUXms5THs8ot_0_U3tFbGYHsS8qng.png?1683656028",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

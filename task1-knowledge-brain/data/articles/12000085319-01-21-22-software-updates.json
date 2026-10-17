@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000085319-01-21-22-software-updates",
+  "title": "01/21/22 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "01/21/22 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000085319 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. We created a new Design Setting to display the first sub-sub level category found for a member in the \"Recent Members\" and \"Featured Members\" homepage widgets. To use this new setting, navigate to the Admin >> Settings >> Design Settings >> Homepage >> Enable Additional Sections >> Select Content to Display >> Edit Settings >> Display Additional Information. Widget Involved: Bootstrap Theme - Display - Recent Members We implemented an update in order to redirect members to the \"View Posts\" page in the Member Dashboard when a member clicks on a direct link to the Create Post page and the site has the Pay Per Post Add-On active for the Post Type. We updated the Admin Activity Tracker to also include the URL from which a member logged in. We implemented several security updates to prevent XSS injections in several areas of the software. We updated the Google Website Translator Add-On to remove an extra space added after toggling the translator dropdown. Widgets Involved: Bootstrap Theme - Header - Member Links Bootstrap Theme - Header - Right Bootstrap Theme - Custom Appearance Settings For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

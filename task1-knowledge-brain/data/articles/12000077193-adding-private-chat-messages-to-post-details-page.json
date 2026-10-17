@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077193-adding-private-chat-messages-to-post-details-page",
+  "title": "Adding Private Chat Messages to Post Details Page | Brilliant Directories Documentation | BD Support",
+  "content": "Adding Private Chat Messages to Post Details Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000077193 The admin is able to add the private chat messages widget to the details page in order for other members to contact them right away. To do this please follow the steps below: 1. Go to Toolbox - Sidebar Manager: 2. Customize the Post Single Page Default Sidebar: 3. Search for the keyword \"private member chat\" and then click and drag the widget Bootstrap Theme - Module - Private Member Chat to the right: 4. Save changes. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091955719/original/7EUokEqbO0E2FIQgVqbfqW_OaFDbqabIHA.png?1619656860",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087964679/original/6UQUZ0NiPCjcMQwlTTza86bNUbbou3789Q.png?1611678016",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087964875/original/vAWXhi7c0IJPnwKZ6rgP-0R5kQQXXSiNxQ.png?1611678195",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

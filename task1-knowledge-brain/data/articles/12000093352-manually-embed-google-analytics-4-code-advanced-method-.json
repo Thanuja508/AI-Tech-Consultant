@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093352-manually-embed-google-analytics-4-code-advanced-method-",
+  "title": "Manually Embed Google Analytics 4 Code  (advanced method) | Brilliant Directories Documentation | BD Support",
+  "content": "Manually Embed Google Analytics 4 Code (advanced method) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000093352 Important Notice: If you have already pasted your Google Analytics 4 ID into the General Settings of your website (recommended method), no further action is required and the steps in this article DO NOT need to be followed. Installing Google Analytics Tracking Code (easy method) Inside Google Analytics 4 Admin settings, copy the code in the \"INSTALL MANUALLY\" section. This code would then be pasted inside Settings > Design Settings > Custom HEAD/CSS > Additional HEAD : This would complete the process and the data would then be sent over to Google. However this is an outdated method of adding Google Analytics and we recommend removing this code and adding the Measurement ID into the new GA4 field inside the Integrations tab of the General Settings. Installing Google Analytics Tracking Code (easy method) To add the ID go to: Settings > General Settings > Integrations > Google Analytics ID For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127383590/original/1bKyk7LJD-mfucf6sydCOY8MjwC8XTThMg.png?1687546404",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127383362/original/B9gJx0vQl_oDeegYpok12JhXRtIWu6LhUw.png?1687546117",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127322760/original/_L5x7mpwcvbA0nKGm7kAwWdhDOKIx44lUg.png?1687453442",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

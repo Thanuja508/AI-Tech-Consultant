@@ -1,0 +1,64 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076567-emails-compose-emails",
+  "title": "Emails » Compose Emails | Brilliant Directories Documentation | BD Support",
+  "content": "Emails » Compose Emails Link: https://support.brilliantdirectories.com/support/solutions/articles/12000076567 To compose an email from the back end, navigate to Emails - Compose Email: Overview of the Fields Clicking the \"Compose Email\" button will open a modal window displaying the available fields and options for writing and sending a manual email through the system. From Name By default, the website name will be autofilled, this is an editable field nonetheless. Template This dropdown contains a list of custom and default email templates . From Email The default website email will be autofilled; the prefix is an editable section, nonetheless. Include Default Website Signature This dropdown contains options to select between the default Website Signature and the signature of the Admin sending or composing the email. Use Different Reply-To-Address Select the reply-to address (if different from the 'From' email). Primary Recipients Add a list of the recipients of this email. Once added, hit ENTER or TAB on the keyboard to add the email address to the recipients field. All One Email It sends one email with all of the email addresses listed as recipients. One Per Recepient It send a separate email to each recipient with each individual email address as the recipient. CC/BCC The CC/BCC option can also be selected to add additional carbon copy fields. Subject Field to add the subject line for the email. Email Content and Preview Email Add the content for the email or the body of the email to this section. Preview the work by selecting this option: Test The end product by sending it as a test to an admin of the site with a valid email address: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180354373/original/sJVSdyTJK7BmE07EdMleFx0Qgfnn0Ltumw.png?1781301820",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165740575/original/GEQkN8Wx7WptqOKn6u4ojN1E-AAaNnlb3Q.png?1755014887",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165740712/original/nvmv_qC2dmTgphLVxCB0dHfAA4HpI8a89w.png?1755015016",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162307345/original/hoimTk7mzSZfz1dYK_R5VP03tTWW4mpVaw.png?1748993663",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162307272/original/ywbspMDN0Be0-dvkNfnoizChzk84mFLK0w.png?1748993576",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162776475/original/BVHvXd9cnDQrLFmyHU8zFssDTxhtmDQmPQ.png?1749758897",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180354452/original/2NaWznIseJMTrH4lw350H8cset8lMI41bA.png?1781301907",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165741477/original/OJukOrN1I-KCVTmLbeTqVpdkdewDJqm8ZA.png?1755015563",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165741654/original/plRpPV3Q0U_R32wJDg6D994gV3mMnzMetw.png?1755015762",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162776333/original/1Vb3MzAzGrk7Tz5whIQixU31bwEG72w0oQ.png?1749758702",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166100075/original/TzdmgOOGEqKqAzNOGb5PbsMxCFe5qmlneg.png?1755622594",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166100198/original/aCGWcogv97Ka3GdL0BgpL3l-Du2zk16iaA.png?1755622713",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166100300/original/c_zXZaqH0upIXASLRIiM8b43LQyDrxa-xw.png?1755622771",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

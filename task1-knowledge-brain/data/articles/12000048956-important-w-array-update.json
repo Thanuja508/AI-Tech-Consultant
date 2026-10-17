@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048956-important-w-array-update",
+  "title": "Important $w Array Update | Brilliant Directories Documentation | BD Support",
+  "content": "Important $w Array Update Link: https://support.brilliantdirectories.com/support/solutions/articles/12000048956 As of November 1, 2018 , several configuration values previously available in the $w array were moved to the brilliantDirectories::getDatabaseConfiguration() static method to improve security. Any custom code that references these configuration values should be updated to use the new method. Affected Configuration Keys The following keys are no longer available through the $w array: website_user website_pass database_user database_pass database_host database database_directory_user database_directory_pass whmcs_database_host whmcs_database_user whmcs_database_password whmcs_database_name whmcs_api_password whmcs_api_host whmcs_api_username Updating Existing Code The brilliantDirectories::getDatabaseConfiguration() method accepts the configuration key as its only parameter and returns the corresponding value. Replace references to configuration values in the $w array with calls to the new static method. Example 1 Replace either of the following: Copy $w['website_user'] or Copy $w[website_user] with: Copy brilliantDirectories::getDatabaseConfiguration('website_user') Example 2 Original code: Copy $membersQuery = mysql($w['database'], \"SELECT * FROM `users_data`\"); Updated code: Copy $membersQuery = mysql( brilliantDirectories::getDatabaseConfiguration('database'), \"SELECT * FROM `users_data`\" ); Summary Whenever custom code needs access to one of the affected configuration values, replace the corresponding $w array reference with a call to (where configuration_key is the name of the desired configuration value) Copy brilliantDirectories::getDatabaseConfiguration('configuration_key') For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

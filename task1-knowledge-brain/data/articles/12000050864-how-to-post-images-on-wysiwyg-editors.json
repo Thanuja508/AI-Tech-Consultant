@@ -1,0 +1,124 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050864-how-to-post-images-on-wysiwyg-editors",
+  "title": "How to Post Images On WYSIWYG Editors | Brilliant Directories Documentation | BD Support",
+  "content": "How to Post Images On WYSIWYG Editors Link: https://support.brilliantdirectories.com/support/solutions/articles/12000050864 What is WYSIWYG Editor? WYSIWYG is an acronym for \"what you see is what you get\". The WYSIWYG Editor enables rich text editing capabilities for post types, about me sections, creating emails and even landing pages. For more information regarding WYSIWYG Editors, please visit the master article shared down below. Everything About WYSIWYG Editors Before starting, first add images to the Media Manager by following one of the two methods below: Method 1: Upload Images Navigate to My Content → Media Manager → Click on “ Upload Image ” In this section, there are two options to upload an image. Click to Upload / Drag the Files to Upload Method 2: Download Photos by Pexels Navigate to My Content → Media Manager → Click on “ Photos by Pexels ” Search by Keyword using the designated field: Select the preferred orientation and image size here, then click \"Search Photos\": Select the size for download and click the download button: Click on Back to return to the Media Manager again, right-click on the preferred image, and click “ Copy Image URL ” The images FULL URL path should look like this: http://YOURDOMAIN/images/background-pricing1-(1).jpg The URL path that will be used to post on WYSIWYG Editor looks like this: /images/background-pricing1-(1).jpg Now that the images have been uploaded and the URL path has been copied it's possible to insert these images on preferred WYSIWYG Editors. For this instance, an example Blog Article will be presented. Adding Images on WYSIWYG Editors 1) Adding Images on Blog Articles Login as preferred member who is also allowed to post “ Blog Articles ” On the Member's Dashboard, navigate to Blog Articles → Add Blog Articles On the “ Article Content ” section, click on “ Code View ” On a new line, paste the code specified down below: <img src=\" PASTE YOUR URL PATH \" > The image will be rendered on the fly. IMPORTANT NOTE #1 : In this example, the URL path is “/images/test.jpg” IMPORTANT NOTE #2: In this example, the full code with the URL path is: <img src=\"/images/test.jpg\" > 2) Adding Images on Static Pages Navigate to My Content --> Web Page Builder --> Click on \" New Web Page \" On WYSIWYG Editor, click on \"Insert Image\". There are 4 available options: 1. Drag and Drop the image: 2. Paste the FULL URL path and click \" Insert \" 3. Click \" Browse \" to choose the image manually from the Media Manager 4. Click \" Pexels \" to open up the following Image Search Menu: Additional Image Options Alignment Align Image \"left\", \"Centered\" or \"right\": Image Caption Add a description or caption to the image: Insert Link Turn the image into a clickable link. Add Alternative Text Add Alt Text for SEO purposes: Change Image Size Specify the height and width of the image: Style Choose different styles, including the ability to hide the image on mobile: This is an example of how a \"Circle\" styled image looks like: Remove Click to delete the image: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318784/original/lsg3MddkOe3_ARXdKg8RT_Xkx-TZ2yV6GA.png?1698279511",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134440960/original/bttukTtMVZ8Xa0jtKRrb-c4zKvdMRlbldw.png?1699994926",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318817/original/rQA0H8VY31-Rf2zw1IOd_BNtcX_Nq_TmCg.png?1698279696",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318809/original/ahUT90N3RwPAEBK6i6C9v118OR5n57IA9w.png?1698279657",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318847/original/8mngo9qsDE8jDqHzhTh1ashAv3HGsk4B3g.png?1698279820",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133318883/original/5bA80mKEJjGDS1-7132Th3vuYu96SiTQug.jpg?1698279929",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441047/original/SFlDmu7y9NrbRPB2xDcuW4b2JqAbQQT9iw.png?1699995050",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661722/original/K88vFj301xXwXl-rUOQY9OhXqZ7t-Gqupg.png?1615050725",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661758/original/ua4HIM_dbM3C_3QOReO1-CrIDpZT-r0LSA.png?1615050828",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089661798/original/BAn8jgyuNVVG17MFVCfHVwaxyWnQIOpLHg.png?1615050936",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441082/original/52z2Wnz18_ZjMMJzhrPKZGb5DfGxplDQ7A.png?1699995115",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133555944/original/Yg82jKKGs-W5DFDHqdqWQkXH0cizsYUfOg.png?1698759539",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556045/original/PCeGBidZBA4i-6q0P-39oYS5XmBUvU-iUQ.png?1698759634",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556506/original/NwTh3n7tDAuFzeihh2yLaToHtbsItO5Now.jpg?1698760031",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556529/original/ZQKTCSa0XyqHZLy3AhgD3JztwPIdiWu-Pw.jpg?1698760055",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556575/original/h1kx0hfksM_cKbYEQoSC9QwtkM6dWW6SFw.jpg?1698760093",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662000/original/4fTUP-fI8h07iSg9ZUgZzXXUzzPrHcwTjg.png?1615051921",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556177/original/rsKVXvZP66ePgWFwuYxs_LwOqv_ke7XZ7A.png?1698759777",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133556371/original/ih09dvoHb7MbNLJ1lwOr2syFuiqAXVrAzA.jpg?1698759946",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662046/original/NGPz0mc_iOJ3FO-lFmwdi0qGCdCtPQdGPA.png?1615052217",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662057/original/JO-IlYvCgfafrCJnjP7YsBJ9xeLY-g78DQ.png?1615052324",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662063/original/8SpMSV26C2-Ooa8bMPWhOLe_vBZJtxSa9A.png?1615052390",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662083/original/gz43ul5tVpXfyhHhbOGEIo0h7mDOLaxzug.png?1615052465",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662103/original/yFNs6XvCu8pgLS3mgKsJH-9I_VXYIarUug.png?1615052554",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662106/original/yAt2ibR_QqAfL0lzsI5bn_gOXIzlacnYvQ.png?1615052574",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090670821/original/vHmv0IvRFRyDEry1t6kmQB2KLhdvdMJRQQ.png?1617110833",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089662118/original/irv4ziHyJfRJjZM5iggaxDslf2dQ8-i5ow.png?1615052667",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090670666/original/jjNKpPwmwEcxETbMpAILcpFuS5TIbjnVaw.png?1617110714",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

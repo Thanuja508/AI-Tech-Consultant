@@ -1,0 +1,156 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000046951-interactions-member-reviews",
+  "title": "Interactions » Member Reviews | Brilliant Directories Documentation | BD Support",
+  "content": "Interactions » Member Reviews Link: https://support.brilliantdirectories.com/support/solutions/articles/12000046951 Member Reviews in the Admin The Member Reviews module allows administrators to manage reviews submitted through the website. From this section, reviews can be filtered, moderated, edited, and deleted, while also providing access to review settings and notification preferences. Review Filters Use the available filters to quickly locate and manage reviews. • Review Status – Filter reviews by their current status. • Overall Rating – Filter reviews based on star ratings. • Date Range – Filter reviews by submission date. • Keyword – Search reviews containing specific words or phrases. • Email Address – Search by the review submitter's email address or the member who received the review. Bulk Review Options Multiple reviews can be selected and updated at the same time. Available statuses include: Pending Accepted Declined Waiting for Admin Review Status Database Values For Developers: The corresponding values below are how review statuses are saved in the database. Pending = 0 Accepted = 2 Declined = 3 Waiting for Admin = 4 Member Review Settings A shortcut to the Review Settings module is available from the Member Reviews page. This module includes settings related to: General review settings Profile page display Search results design Notification preferences This button will open the review settings module, which is very similar to the Post Settings section of the admin. An in-depth overview of this module can be reviewed at the following link: Edit Post Settings General Settings Here are the general settings for the post type, allowing the admin to configure and customize the reviews. 1. Protect this Post Type? This option will only become available if the Members-Only Content add on is active on the site. 2. URL Permalink If desired, update the URL of the post type search results. 3. Make 'Email' and 'Name' Fields Readonly When a member writes or replies to another member's review, the system automatically fills in the name, last name, company and email fields. These fields are set to “read-only” by default. To make the fields editable, change the setting to \"No\" Additional Settings This section includes additional settings such as Display Map When Entering Location Information, Enable Results for Global Website Search and Trigger Webhook for Initial Save or Every Save 4 . Type of Post This will display the post type. 5. Enable Results for Global Website Search Allow the reviews to be part of the Global Website Search, Add-on is required. 6. Trigger Webhook for Initial Save or Every Save? Set when a Webhook will be triggered when a review is submitted. Profile Page Design Move to this tab to set up the information regarding how the reviews will be displayed on the member public profile. 1. Profile Page Tab Title Change the title that will be displayed on the front-end tab. 2. Profile Page Tab Order Choose the position of the profile page tab by selecting a number from the dropdown. Each position will show the name of the selected post type. All positions with no post type assigned are available to choose from. 3. Number of Posts Displayed in Tab Set the number of reviews to be displayed in the member's profile. 4. Profile Page Code The header, page loop, and footer codes of the Profile Page design can be edited. However, we do not recommend changing these options unless it's handled by a developer or someone with knowledge of web development. If desired, after updating the code, it can be switched back to default. Click on this article for more information: How to Customize the Default Post Types Code Search Results Design Edit and set up the search results settings for reviews in this section. 1. Search Results Page Title - H1 Edit the text for the post type title. 2. Search Results Page Sub-Title - H2 If desired, add a subtitle. 3. Search Results per Page This controls how many total results will appear on a search results page by default. 4. Search Results Code The option to edit the header, loop, and footer codes of the search results design is available as well. Additional Settings Different options will become available when clicking on the dropdown. 1. Pagination Display Options Select how pagination is displayed on search result pages, either standard, hidden pagination, or Insta-Load pagination using the Add-On. 2. Order Results By It controls the display order of items based on a database field. Please find more information on How To Change Search Results Sorting Options here. 3. Enable Search Results Cache Set to YES (recommended) to cache search results and load subsequent matching search results more quickly. Set to NO to always query the database for all searches. Note: This cannot be enabled if \"Order Results By\" is set to \"Random\". 4. Respect Membership Plan Search Priority? Membership Plan Search Results Priority can be set up in the Search Visibility tab on each plan. 5. Sidebar To Use Name of the Sidebar that will be displayed on the search result pages, either custom or default. 6. Sidebar Search Module Choose which search widget you would like to display in the sidebar of search results for this post type. This will only work if in the Sidebar Manager the sidebar has the Bootstrap Theme - Search Module - Dynamic Sidebar Search widget. This widget loads the search widget specified on each post type. 7. Sidebar Position on Mobile Devices Choose to display the sidebar below (Bottom), above (Top) the results on search results pages, or hide it only on mobile devices (phones and tablets). 8. Display Google Map Option on Search Results Pages Selecting \"Yes\" will display a map icon at the top of search results pages. Clicking on this icon will display the search results as pins on a Google Map. 9. Start Results View In Choose either list view, map view, or grid view if you have the Grid View Search Results Add-On. 10. Display Expired Posts in Search Results If YES, will display expired posts on search results pages. Notifications The main difference from other post type settings is the Notifications tab, where it is possible to enable or disable the following email notifications: Admin Notifications Notify Admin when review submitted? When enabled it will send the admin-review-notification Email Template to the Default Website Email address when a review is submitted. Notify the Admin that a review has been responded to? When enabled, send out a notification to the Admin that a review has been responded to. Member Notifications Notify Member when they receive a review?: Turning on this setting will send the recommendation-member Email Template to the member's email address when they receive a review. Please note this does not apply if admin needs to manually approve review. Submitter Notifications Notify the submitter of a review that it has been received?: Sends the recommendation-visitor Email Template to the submitter of a review after it has been received. Notify the submitter of a review that it has been approved?: Sends the recommendation-accepted Email Template to the submitter of a review after it has been published. Notify the submitter of a review that it has been responded to?: Sends the recommendation-submitter-replied Email Template to the submitter of a review after it has received a reply from the member. Review Module Review ID. Actions drop-down. ( Explained below ) Date the review was submitted. IP Address of the review submitter. It can be blocked if it ends up being a SPAM submission. Quick Edit options for the member: Actions This section will allow the admin edit or delete the review submitted: Edit review: While we do not recommend editing reviews, the option is there for all directory owners to control what gets published on the website. Delete review: One can quickly delete any undesired review on the website. Review Details The last section of this module includes the details of the review: This would include: Status Rating Overview Title Full review Name of the review submitter Email of the review submitter From here the status of the review can be changed manually: If the status is changed manually, 4 new options will show up: Do not send email notifications Email Member about this update Email Reviewer about this update Email Member and Reviewer about this update Member Reviews on the Profiles Members can leave reviews on profiles by clicking the “ Write a Review ” button. This feature allows users to share their experiences and feedback directly on the member’s profile. It will display within their profile and search results page. Leaving a Review To leave a review, visitors can visit the member's profile and click on the \"Write a Review\" button. Which will open up the Reviews form: Update Reviews URL By default, the slug URL of the reviews is /writeareview but if the admin wishes to update this they can follow the instructions below. To change this default URL go to: Settings > Advanced Settings > Default Member Review URL The admin can provide a new slug for the reviews. Uploading Images to a Review If the option for Image Upload With Reviews is enabled in the Membership Plan > Profile Page : The user will get to a second screen that allows them to upload images: How the Reviews will Display on Member's Profile All reviews are then shown in the \"Reviews\" tab and the star rating is shown above the \"Write a Review\" button. Reviews are displayed allowing one decimal place for review totals: Reviews will have their designated search results page /reviews where visitors can check all the reviews that have been submitted to the site: Click to View Reviews for a Specific Member As well, visitors can click directly on the overall rating to view all the reviews for a member, this can be in the Search Results or in their profiles: It will open a new page where it will display all the reviews for the member selected. Time Format of the Review The date format showing on the reviews search results page will correspond to the one selected under Settings » General Settings » Localization : For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388002/original/vlTG-Bn44dBJRlljdqk3mBCEeAzAPt1T5A.png?1655343035",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388043/original/XpbeI5LvT5PM7KzC0G3MEqtFkFPftoPOTQ.png?1655343186",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388065/original/XcCh8-ukW7XRrr6QcXIC803vjo3VytTUlQ.png?1655343248",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110388076/original/crYyv1I6xJX8TRegHEYtlhMwm6jOfKK3Qw.png?1655343320",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782881/original/rNdyTeF-KwUlneTNVc1go8kbIKhAtERqlQ.png?1761833129",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782833/original/j25qKboTn0Y0TIRcCoWGNWqiDfNaJAz_8w.png?1761833081",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169782175/original/4uoi30q4sCZdNIB7HhXTnFE_8Jv-LsN29w.png?1761832483",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169783104/original/PI7zm9_WRBMIJAlI__ClvKKE3B22gbf6uQ.png?1761833330",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158262664/original/CBkL2ZFozN0UqaB6FByTx2F2TO-CTgdNXw.png?1741788526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158263441/original/hB1DyyPl-yi0CVCHe0U0I2__wVMSaYIGYA.png?1741789150",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448808/original/5ok13S9F08z_pEz0zvGbdnezEinNaD9q9w.png?1742171657",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448831/original/9xvluEC8dLgZWI8oEyUHf4h4nLhKn60XQQ.png?1742171852",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448893/original/Ev7CsIytJ1RPYt2fm4jeoFZhhJsPS7Qhog.png?1742171998",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448944/original/MHa07sGSFPAiqCOPDWRrSHP__gPNlWuuRQ.png?1742172099",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158448999/original/bknp8rqLym9BzElx_j1G043bw8yS2ZON0g.png?1742172367",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449020/original/n3EWAfihq1grGYZrrbzgibHjMua7xsIjaA.png?1742172482",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449037/original/TpOrikD2iyoGsbm8k3SPXxzi_rCnW_-J5Q.png?1742172518",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090072943/original/QgGuRQ2eYsD33iHwARnApE5TkJD23Uj3eA.png?1615909342",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073065/original/Yr2_sZeC70Syau7IZidLML7B6geDeuHXlA.png?1615909473",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073164/original/lwF0W_7_Zm6Wf_C_9L2JV-vXWoAFUzk9JQ.png?1615909580",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073251/original/iRDKfWfHdiDTsrUqSIc5-KqxbQEItHcv8Q.png?1615909686",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073563/original/M1lY_p8YQ4F5JB1kaG8rKbqbz-wrgpTDBw.png?1615909938",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073659/original/GTzHXGI_Q7uvz_Msl3gq5Bz0SEGh0SCsdA.png?1615909999",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073625/original/ZSqbrPOeL0KsHoE6gO5gL-Hoa6eo02YSIQ.png?1615909982",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073746/original/ZasKXnfUAQjkf81XxdMa45piPLFkc2fqzA.png?1615910064",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090073787/original/rf1p8U9n0yoBhkvmp25ahlw4SMwHnQQS5A.png?1615910102",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449297/original/kbldHyRS_WujU9uNYgDutw8DrP3S6nKp7g.png?1742173597",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116692513/original/j36gQ7srA2-zh5aYh0nNhr480zxW0yF20w.png?1667339291",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113110413/original/c0r3u9zLA2rVFlueN0LyGFt_jetYPWPJqQ.png?1660602616",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113110512/original/xqA6nkNAWoyJ2SlnR82VmFlM20-bNYboSw.png?1660602868",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449332/original/6UEfKHQSaoz4BBxrV4Ic8d1n9irtRh6aTQ.png?1742173807",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102670104/original/6pdpvyVWrT8T_t2wforR4nxrSJhpkRtx3A.png?1640103632",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449162/original/kw02MThSBjVnRzEyBc1yZWP-hzQCCslvLg.png?1742172995",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12158449166/original/0h4t3mq_C-IM6lAB328eDRcIny3QqGoEig.png?1742173033",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156220022/original/TfhUxv6sI91C_diYsSJVaDojbFPYxNrLTg.png?1738256798",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12102669887/original/p1Dc8CGMx3jHrlTWQlI0seS_UigLUMOccA.png?1640103415",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

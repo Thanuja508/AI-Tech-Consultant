@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098739-design-settings-homepage-select-content-to-display-custom-content",
+  "title": "Design Settings » Homepage » Select Content to Display » Custom Content | Brilliant Directories Documentation | BD Support",
+  "content": "Design Settings » Homepage » Select Content to Display » Custom Content Link: https://support.brilliantdirectories.com/support/solutions/articles/12000098739 Custom Content This article goes over the available settings to edit the Custom Content sections on the homepage of the website, there are a total of 10 Custom Content sections. This section is meant to be displayed on the homepage exclusively and it consists of a Froala editor. To learn more about the available settings on the Froala editor, navigate to the following link: Everything About Froala WYSIWYG Text Editor Visual Guide of the Custom Content Settings 1. Hide On Mobile? This setting controls if this section will be displayed on mobile devices or not. No This will show the section on mobile devices. Yes This will hide the section on mobile devices 2. FROALA Editor The settings available for each Custom Content section is the FROALA editor, to learn more about the available settings navigate to the following link: Everything About Froala WYSIWYG Text Editor For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066190/original/GuXkxa_e4jHn7DHRi09yIkYS5sv9LH3WDA.png?1710259598",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066472/original/utJEalW8ob9eNLKqqWdjvj5Ea82l1k3Xwg.png?1710259821",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140066526/original/RNtZ6ulCPAp_Yco8e6EN8vKGUxSqaXbF7Q.png?1710259909",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140067657/original/q82LDUyy8tMNfvBMwiZalqSboOK8VEKslQ.png?1710260837",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140067891/original/xDBlpkwvRhKtrRaaPDEUrN_GlqDFuVDLTw.png?1710260993",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140068011/original/CBGUH3PX1Tycml0GX9HipWW3AWZflW76Ow.png?1710261079",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139804412/original/Ol1shLcqe11VTYVCylSAW9Soblj5wpXt0g.png?1709778962",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140075901/original/EOM9T7twas49YrELibi7_V5zRW8EbbjvEA.png?1710267458",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140075902/original/ya-zi-yvWE6VtTn4i-rZhGu55-vzsD2pgA.png?1710267459",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

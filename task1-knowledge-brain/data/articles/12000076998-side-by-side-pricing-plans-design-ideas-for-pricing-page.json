@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076998-side-by-side-pricing-plans-design-ideas-for-pricing-page",
+  "title": "Side-by-Side Pricing Plans: Design Ideas for Pricing Page | Brilliant Directories Documentation | BD Support",
+  "content": "Side-by-Side Pricing Plans: Design Ideas for Pricing Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000076998 Designing Side-By-Side Pricing Table Pages: Text and Images can be added inside the Text Editor and the content will appear on the Join Page: Additional Information: » Everything About WYSIWYG Editors » How to Post Images On WYSIWYG Editors Outcome: 2) Use the Hero Section: » How to add a Hero Section to Static pages Outcome: 3) Showcase one of the plans: To emphasize one of the plans in your Pricing Plan Menu go to the Toolbox > Menu Manager > Side by Side Pricing Menu > Edit: Look for the plan that will be showcased, click on Settings, and in the Outer <li> CSS Class add \" showcase \" next to the class that is already in place. For additional questions or help setting this up, please submit a ticket to support@brilliantdirectories.com or create a ticket HERE . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180595532/original/J38bb2amkSHjNW7fCAy0PhXSyuQEYt6puQ.png?1781715454",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180595534/original/aY3IGZ_fv7yDzSfZH_ZknRBr--XG9F1mOg.png?1781715461",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180595186/original/jjgK3DM-q3bFp4medVarIpJGH39hrxhuPw.png?1781715082",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180595040/original/mzC5GUAq5masMwanixC6Wm_DAeAdpEIY_A.png?1781714967",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180594837/original/zKnsqxGY-vJ49Srtz4pcQ4fgzlALsX2mWQ.png?1781714832",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180595005/original/AKzElbdmWeT40r_zKl3q48i6MYfH4PtYZg.png?1781714933",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

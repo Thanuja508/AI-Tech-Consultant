@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000013793-connect-an-email-account-to-microsoft-outlook",
+  "title": "Connect An Email Account to Microsoft Outlook | Brilliant Directories Documentation | BD Support",
+  "content": "Connect An Email Account to Microsoft Outlook Link: https://support.brilliantdirectories.com/support/solutions/articles/12000013793 The instructions below provide a general outline of how to connect an email account created in your cPanel account to Microsoft Outlook 2016 (desktop application). Connecting an account to other versions of Microsoft Outlook may look slightly different, but the general settings should remain the same. Click on File >> Add Account: Select Manual setup or additional server types and click on \"Next\": Select \"POP or IMAP\" and click on \"Next\": The information for this step can be obtained from cPanel as shown in this article . Enter the the following information: Your Name: (the name you want to display the email is from when sending emails) Email Address: (the email address you created in cPanel) Account Type: POP3 Incoming mail server: (the \"Incoming Server\" recommended for this email account in cPanel) Outgoing mail server: (the \"Outgoing Server\" recommended for this email account in cPanel) User Name: (the full email address) Password: (the password you used when creating the email account) Click on \"More Settings\": Click on the \"Outgoing Server\" tab and check the \"My outgoing server (SMTP) requires authentication\" checkbox, select \"Use same settings as my incoming mail server\" and click on \"OK\": Click on \"Next\": Outlook will run a test to make sure email can be received and sent using those credentials. If it is successful, it should look like it does below. Click on \"Close\": You should then see a success message. Click on \"Finish\" to complete the setup. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008002886/original/blob1470076468785.png?1470076469",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008002921/original/blob1470076516545.png?1470076517",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003129/original/blob1470076920040.png?1470076920",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003695/original/blob1470078147530.png?1470078148",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003206/original/blob1470077086072.png?1470077086",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003709/original/blob1470078166883.png?1470078167",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12008003264/original/blob1470077186912.png?1470077187",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

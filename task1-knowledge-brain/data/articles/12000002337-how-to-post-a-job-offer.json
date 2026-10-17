@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002337-how-to-post-a-job-offer",
+  "title": "How to Post a Job Offer | Brilliant Directories Documentation | BD Support",
+  "content": "How to Post a Job Offer Link: https://support.brilliantdirectories.com/support/solutions/articles/12000002337 To post a job, access the Member Dashboard. On the left sidebar find the Job Listing post type, click on it to make a new post. IMPORTANT: If the Job Listings is not included in the member dashboard, the post needs to be enabled for the membership plan in the post publishing tab: Finance » Membership Plans - Post Publishing Add some content to the post, for example a title, description, image and more as explained below: 1. Publish content on the site or save it as a draft. 2. Add the Title of the Job Post. 3. Add an image to the Job Post. 4. Enter the Company Name. 5. Select the Category for the Job post. 6. Choose the start date of the job post. 7. Enter the Yearly Salary. 8. Select the Employment Type. 9. Add the address of the Workplace. 10. The Complete address will be auto-populated by typing it in point #9. 11. Enter keywords that apply to the post, separate them with a comma. 12. Add an External Link, if necessary. 13. Enter the Description of the Job Post. Once the Job Listing post has been created, it will display the current Status (Published, Draft, Expired). The number of views and Bookmarks will only show if the correspondent add ons are active on the site. Click Here to learn more. Click on the Actions Button to View, Edit, Clone or Delete the post: Member Dashboard Options Different options are available on this section. For more information, please refer to the image and points shown below: 1. Job Listings: Will show all the job listings and display the amount of job listings in the account. 2. Add a Job Listing: Click to add a job listing. It will not display if the limit of posts has been reached. 3. Entries per page: Click on the dropdown to choose how many entries will show per page (5, 10, 25 or 50 entries). 4. Order of the Posts on the Page: Newest, Oldest, Updated (first), Updated (last), Start Date (first), Start Date (last). 5. Filter by Status: Published, Draft or Expired. 6. Filter by Keyword: Enter a desired keyword to display all job listings that contain it. Lastly, all Post Types have a designated search results page: EG: http://yourbrilliantdomain.directoryup.com /jobs Note : To enable this post type on a membership plan go to Finance » Membership Plans - Post Publishing . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081854955/original/BssezU5BcyolWi8eaZ13kgBCzuv9y_c98w.png?1598964437",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073268880/original/fqI2H_pKVotwzIZ_6Jsb8yk-w2ENYgnGrA.png?1580402634",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073275065/original/8fsmPXyCWb2y9SkkWDSllTVP6YPz3iRZ1w.png?1580411584",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073275166/original/izjKZrEXanEk922JF8n1vyysXhE6MCiHLg.png?1580411745",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081855264/original/HsJQrrCsnLb598PqgUCOAaBGyXTsrFrYjA.png?1598964713",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081855312/original/WZOC3SQjigmsmEveJ98alCraMPVSacLuUg.png?1598964758",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081855583/original/nIb1p5DqQDCWzx7Xb3YcQHn94bE7k9kT3g.png?1598965085",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073278430/original/rczw2FUsHPbBkwnuy3mUcNCyr-FCWqlvIA.png?1580417166",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

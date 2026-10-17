@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093661-changelog-february-2017",
+  "title": "Changelog - February 2017 | Brilliant Directories Documentation | BD Support",
+  "content": "Changelog - February 2017 Link: https://support.brilliantdirectories.com/support/solutions/articles/12000093661 New Features: We updated the Front-End Design of the Categories Page so that the Sub-Sub Categories are in a toggle accordion. A new setting to pluralize words has been created, if the disable_plural_text is set to 1, the system will not pluralize any Text Labels on the site, which is useful for those who wish to translate their site to another language. The default value is 0. Migration tool to migrate reviews from old review system to the new one is ready to be used. New widgets Bootstrap Theme - Display - Recent Blog Articles with Sidebar AND Bootstrap Theme - Display - Recent Articles with Sidebar are ready to be used. These widgets will display the most recent articles and blog articles with a sidebar. We updated our Member Category Page and the Member Category importer. We added two new Membership Level Settings, Show QR Code in Dashboard and Show Member Badge in Dashboard. New Advanced setting created: get_copy_review_email - if you set this settings to 1 the site admin will receive a copy of Member Review Emails. By default the setting will set as 0. Click here for more information . Enhancements / Fixes: Bug fixes through the New Leads Module, New Reviews Module and Google Location System, and Add-on Manager System. In summary more than 30+ bugs fixed ranging from Backend, Admin Panel, Frontend and more. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

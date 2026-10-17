@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000051938-rss-feed-for-posts",
+  "title": "RSS Feed for Posts | Brilliant Directories Documentation | BD Support",
+  "content": "RSS Feed for Posts Link: https://support.brilliantdirectories.com/support/solutions/articles/12000051938 The RSS Feed for Posts add-on will automatically generate and dynamically update RSS feeds for all post types on the website. Posts types (articles, classifieds, events, properties, etc.) will have their own RSS feeds that will always be kept up to date in real-time as content is published to the website. This add-on will also have an all-inclusive RSS feed which aggregates all published posts. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: RSS Feed For Posts Add-On Using the Add-On To see ALL of the website posts in an RSS feed add /rss to the end of the website URL: e.g., yourdomain123.com/rss The RSS feed for a specific post type, is done by adding /rss at the end of the post type link: e.g., yourdomain123.com/articles/rss The admin can grab the URL directly by going to My Content - Edit Post Settings and copying the URL from here: The admin can also get as specific as possible with the RSS feed as long as that result is available within the website for that post type. If the admin wanted to show all the articles with the word \"sample\" in the title, add the URL like this: e.g., yourdomain123.com/articles/rss?q=Sample Or for the articles that belong in a certain category: e.g., yourdomain123.com/articles/rss?q=&category[]=Category+1 The admin can simply go into the website, do a quick search within the feature and grab the URL that is given, simply copy from the ?q and add it to the end of the /rss to make it more detailed. To learn more about this, please read this great third party article: https://www.w3schools.com/xml/xml_rss.asp By default, this RSS feed will show 10 posts , to increase the limit add this parameter at the end of the URL. e.g., yourdomain123.com/articles/rss?limit=50 The ?limit= will tell the RSS feed how many posts to show at a time. RSS Feed Title The title of the RSS Feed will render the text from the RSS Feed Title text label : RSS Feed Title System Variable: rss_feed However, if this label is empty the RSS Feed will render the Website Name from the General Settings : RSS Images The post images from our default RSS feeds are not included by default because they are not compatible with some readers. As a solution to this, we created an alternate RSS feed URL /rss-image The includes the post image in the feed data. This way website owners who rely on the feed to also fetch the post image will have a method to do this. There are 2 feed URLS: Default : without post image data /rss domain.com/rss domain.com/post/rss Images : with post image data /rss-image domain.com/rss-image domain.com/post/rss-image Once this add-on is installed the Meta Tag for the RSS feed will add this automatically, letting Google know that the site has an RSS. <link rel=\"alternate\" type=\"application/rss+xml\" title=\"My New Website RSS Feed\" href=\"http://www.YOURDOMAIN123.com/rss\" /> The admin can change the Title of the RSS by editing the text label rss_field as shown below, by default the title will be 'RSS Feed': RSS Excluded Content The RSS Feed will include the same posts that appear in the search results. This means that only the Published posts will be added, Unpublished posts will not be included. Posts that are publicly accesible and not restricted by the Members-Only Content functionality will appear in the RSS Feed. P rotected posts will not be included. XML File Tags < title > (post tite-le) < description > the tag is stripped at 250 characters (post snippet) < content > (full post) < media > (repeats the post image URL data) Post RSS Notes The RSS feed follows specific rules based on the functionality of different post types. These rules are designed to ensure that each post type displays information as expected when included in the feed. Events The start date/time is included for Event posts. [Date in Website's Date format], [Time in website's time format], [UTC Timezone] -- [Rest of the post content] Blog Post When the RSS feed is created for blog posts it will use the published date. In the system, that is the form variable: post_start_date For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113857982/original/tbwb-jSB-_s_y6s5R3cL5bJzoeLZIfQQmQ.png?1661994577",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153796700/original/nGT8ulPia96lwMiSnkLF4mD-uJRQ9U_CZg.png?1733849211",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153796704/original/6lzQDBi_4kSYfHKnp9_bjIOngS5XSnL4HA.png?1733849217",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153796848/original/GU7Nqm1VXkDWRS8I7MczX1EysZ6eJFJNJg.png?1733849291",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153796851/original/ewUde60J_dMYwV_Iq3kF2AaNpCjn3qBoKA.png?1733849295",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113476220/original/J5Pyjya0AjVIsia43T5-8A9Ix15slyFhNQ.png?1661289729",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125565362/original/PRF50gCAZQYCwA_D7Q0ohzGatDKQEcxpVQ.png?1684290595",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126541895/original/R2ceg48tW0D_vW-0-t8EGz-cL_ToChRPkg.png?1686104878",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152904632/original/Gz2Pu4_yFuFmsenKjEpTtjRiBGNAeoK3nQ.png?1732207826",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

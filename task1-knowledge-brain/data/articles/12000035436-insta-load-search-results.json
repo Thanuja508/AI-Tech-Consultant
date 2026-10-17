@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000035436-insta-load-search-results",
+  "title": "Insta-Load Search Results | Brilliant Directories Documentation | BD Support",
+  "content": "Insta-Load Search Results Link: https://support.brilliantdirectories.com/support/solutions/articles/12000035436 Overview With the Insta-Load Search Results add-on, users can instantly see more search results without loading a new web page. A faster site means more visitors and more profit for the business. This popular type of lazy load functionality gives the visitors an uninterrupted browsing experience by allowing users to explore more content without waiting for new pages to load. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Insta-Load Search Results Add-On Enabling the Add-On 1. Go to My Content - Edit Post Settings and click on the post type the admin wishes to provide the Insta-Load to: 2. Go to Search Results Design Tab and scroll down to the Additional Settings to enable the feature: Three pagination options will become available: Insta-Load Search Results : After loading the first page of results, users can click on the \"Click To Load More Results\" button to display more results. Standard Pagination: Visitors can click on any of the numbers to move to a different page. Hide Pagination: This option will hide the insta-load and pagination options from the search results page. Insta-Load Search Results Behavior The admin can select how search results are fetched with the \"Load More Results\" button when the insta-load option is enabled. To find the Insta-Load Results Behavior options go to: Settings >> Advanced Settings >> Insta-Load Search Results Button Behavior There are three available options to choose from: Load More Results Only When Button is Clicked: Visitor will need to click on the \"Load More Results\" button to see the new batch of results. Auto-Load More Results When Button is Visible on Screen After Scrolling: This option will automatically load more results when the \"Load More Results\" button becomes visible Auto-Load More Results When Button is Visible on Screen Just on Mobile: This option will only apply to mobile devices. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057290/original/5YD134HipJ7qWnabhdcM7AwcCgwFaM7i3Q.png?1619838541",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132203774/original/Hp1XpjtVbj6Z8PUrtBBvRGirtvPWPqeYDA.png?1696342160",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132203955/original/C6WEV9zkTSReQvrhzfjet-d4fNWDtVYB8A.png?1696342274",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132204359/original/FyzEntOQ_UVUen-sl49ncZENvs5Grpq9Hw.png?1696342609",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132204549/original/-3KlVe7dcisyV90gpT3f7CoQai31RBUgPQ.png?1696342739",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214267/original/yvkQAlHn6cNrLq6km9n-mFz28Uq8CheboA.png?1696350902",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214601/original/WiIkBJ4JfYS-wjRx2VwCbIq1wRqof-r6ag.png?1696351265",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214687/original/5682-HmIxXt4Vzt5HouBAeUsMa39Y-6-MQ.png?1696351335",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132626236/original/ACvbSH0lLImtqqAaLVGAawnBmHet7kJJ5Q.gif?1697067413",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214950/original/RCAsKWzuul-UyZTfhTCH-cay-ZEborXd8w.gif?1696351650",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

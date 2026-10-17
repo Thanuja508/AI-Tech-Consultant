@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000087005-troubleshooting-listing-is-not-public-or-active",
+  "title": "Troubleshooting: Listing is not Public or Active | Brilliant Directories Documentation | BD Support",
+  "content": "Troubleshooting: Listing is not Public or Active Link: https://support.brilliantdirectories.com/support/solutions/articles/12000087005 In this article, we will be going over the message that displays on member profiles in specific scenarios with the default wording \" Sorry, this Listing is not Public or Active \" and how to troubleshoot it: If the message above displays on the member profile, this may be due to a couple of reasons: 1) Member Is Not In Active Status The first thing to check when this message is seen would be the member's status. Under My Members >> Search Members , the status of the member can be seen on its dedicated column: Member's status can be changed directly under Actions >> Quick Edit : To active status: 2) The Member Is In a Non-Searchable Membership Plan It is important to check the Finance » Membership Plans - Search Visibility settings to see if the member is in a membership plan that is searchable: There may be two different scenarios related to the settings above: - Like in the screenshot above, if the Are These Members Searchable on the Website? setting is set to \" No \", the member's profiles will not be visible and the error message will display. - If the Are These Members Searchable on the Website? setting is set to \" Yes \" but the Can Unregistered Visitors View These Members in Search Results? setting set to \" No \", the member profile will not be visible to the public but will be visible to other members. In this scenario, it is best to log in as a member that is allowed to see these membership plan members (more information about this can be found in the next step). 3) Admin Is Logged In As A Member That Is Not Allowed To Search For This Member Let's assume the following scenario: The admin of the site is logged in as a member that is in the Featured membership plan and trying to view the profile of a member that is in the Premium plan. In this scenario, it is best to check the Finance » Membership Plans - Search Visibility settings of the membership plan named Featured . To make sure if the Premium plan is checked under Hidden Member Profile Settings : For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842770/original/1FHVFFJ-JIGEJve1fUOwB3F2by4TYKTtTA.png?1650384682",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107842945/original/u9o2xk1ZNYL4MuhNwJmZQfRe98dR1SstaA.png?1650384928",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843007/original/8ReBK7lPbq5nPAQD3PjdSLTt5K2UQwOAdA.png?1650384976",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843040/original/lWqKavaEQoGgWxf56JA2_G1jpzYj779Ufw.png?1650385013",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107843361/original/6SLjjOdQ0SD9YjVpsysLchtm3XHL4bfUbQ.png?1650385327",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107844404/original/KH3sU9xdA3J7I2Tdvdj83n17CwIEs_5Evw.png?1650386445",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

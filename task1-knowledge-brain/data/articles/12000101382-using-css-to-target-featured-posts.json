@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101382-using-css-to-target-featured-posts",
+  "title": "Using CSS to Target Featured Posts | Brilliant Directories Documentation | BD Support",
+  "content": "Using CSS to Target Featured Posts Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101382 Previously, customizing the appearance of Pinned Featured Posts required modifying PHP in specific widgets. Brilliant Directories now adds a dedicated CSS class to featured posts, making it much easier to customize their appearance using CSS instead of PHP. This article demonstrates how to target featured posts with CSS and provides an example of how to customize their appearance. CSS Classes for Featured Posts Each featured post includes a CSS class that can be targeted based on its post type. The following examples show two different post types and their corresponding CSS classes: https://bootstrap.brilliantdirectories.com/support/solutions/articles/12000051517-pin-featured-posts In this example will change the Background Color of the post on the search results page with the CSS code below: .featured-post, .featured-post .img_section, .featured-post .mid_section, .featured-post .grid_element { background-color: aliceblue; } After saving the changes, featured posts will display with the new background color on the search results page. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241174/original/cc4QuR2KLfAtxDMMAuoRTz1J3VEckKAurA.png?1725985034",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241354/original/UZDL_-Ut1UG1SfbsywNVD4NCtoU7XScdEg.png?1725985125",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149241435/original/vJdm9WFgoY0bhtNr_CdATwMQLBS6npWxpg.png?1725985232",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

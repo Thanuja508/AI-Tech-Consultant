@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000009581-how-does-auto-matching-work-lead-settings-general-settings-",
+  "title": "How Does Auto-Matching Work? (Lead Settings » General Settings) | Brilliant Directories Documentation | BD Support",
+  "content": "How Does Auto-Matching Work? (Lead Settings » General Settings) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000009581 The following documentation is exclusively for the \"Auto-Matching or Advanced Leads Package\". Auto-matching relies on the auto-matching settings and the search inputs submitted by the users of the website. Here are some of the core concepts of how auto-matching works: The engine will only match members that match the criteria. If the member is allowed to select a location, say San Francisco, and only 2 members are located in San Francisco, only those two candidates will be matched (assuming they match the additional criteria set by the user such as categories). Membership Level Sort Order is taken into consideration. This means if there are three premium members in San Francisco, these three premium members will always be auto-matched ahead of the free members that are also located in San Francisco. For accurate auto-matching, allowing for category inputs and location inputs is key. Not requiring a location or specialty to be entered limits the engine. Essentially the auto-matching functionality is the same as the member search functionality on the website. The system runs a search just like the users would, and starts to auto-match leads always going from top to bottom. Auto-Matching Lead Settings Edit the auto-matching lead settings by going to Leads » Manage Lead » General Settings : Or within the \" Auto-Match Workflows \" screen: Data Flows Settings There are 5 additional settings for the automatic matching functionality. Search Radius : Members within this radius are eligible to be automatically matched to leads. Maximum Matches: This setting controls how many members can be matched to a single lead. Set this to \"3\", and a maximum of 3 members will be matched. If no one meets the search criteria, no one will be matched and the lead will be flagged as \"Pending\". Maximum Acceptances: This controls how many members can accept a lead. This is particularly helpful if the maximum matches is set to 5+ members, but don't want the website users to be bombarded with emails from the visitors. Once the maximum lead acceptance is reached, the lead status will change to \"Sold Out\". Notify Admin If Member Email Invalid: Select \"Yes\" if you would like to send an email notification to the Admin when a lead has been matched to a member that does not have a valid email address. Admin Notification Email Template: Select the email template to send to the Admin if a lead is matched to a member that does not have a valid email address. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162151428/original/HyIsP7PaF-QD327Or_nQSeOtjgtoerk7rw.png?1748751236",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162151496/original/cN2CyfQsQF7a9CyDdv8az_aT7eS2a0S07g.png?1748751295",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162151522/original/O0XrTbF_S5bmLmlQAvpQT0GrafAoy0GhzA.png?1748751502",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

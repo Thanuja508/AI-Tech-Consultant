@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069505-how-to-edit-update-subscriptions-for-members-with-recurring-subscriptions",
+  "title": "How to Edit / Update Subscriptions for Members with Recurring Subscriptions | Brilliant Directories Documentation | BD Support",
+  "content": "How to Edit / Update Subscriptions for Members with Recurring Subscriptions Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069505 Currently, subscriptions must be edited individually — including changes to the next billing date, amount, or billing cycle. Bulk updates for subscriptions are not currently available. To modify an existing subscription, follow the steps below: 1. Go to Members » Search Members 2. Find the member 3. Click on Actions » Payment History 4. Click the \"Subscriptions\" tab: 5. Then find the subscription that needs to be modified and click Actions » 6. In this section, 4 fields can be modified: Payment Amount Billing Cycle Next Payment Due Date Deletion of past-due/upcoming invoices Internal Subscription Notes can also be added at the bottom of the page: 7. After making the changes, click \"Continue & Save Changes\" 8. The changes will be reflected here: Additional Subscription Information Create a new order (subscription): How To Manually Bill A Member / Create A Subscription For A Member Cancel orders: How Do I Cancel Payment Subscriptions - Orders Refund a member: How Refunds Work Subscription Expiration Date Recurring subscriptions do not have an expiration date. A recurring subscription ends when the paid membership plan is cancelled by the member or the admin. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393739/original/VkT-RUCbWtKnjK2UvArFUZsQj5WKdX8Rhg.png?1620611270",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393743/original/J2230ExBnuuYLTnYzrLyAgNAxLX42A6KSA.png?1620611304",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393747/original/v7MN4d2hD0c5kWYuEI-gR1J5mEV_7KNFBA.png?1620611341",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136719323/original/8x68AVRF__UTV8H0rlA_UUNOEsbZNGQkQQ.png?1704381385",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393776/original/x4iDUBm1JRBL5v0GdIScnAI17zf8l1N3Jg.png?1620611455",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

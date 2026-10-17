@@ -1,0 +1,68 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000094073-chatgpt-content-creator",
+  "title": "ChatGPT Content Creator | Brilliant Directories Documentation | BD Support",
+  "content": "ChatGPT Content Creator Link: https://support.brilliantdirectories.com/support/solutions/articles/12000094073 Overview Enhance productivity & efficiency by harnessing the AI-powered capabilities of ChatGPT within Brilliant Directories. Built directly inside the BD text editors… Use ChatGPT to elevate website content creation, email writing & more! Share the power of ChatGPT with the website members, giving them access to ChatGPT when writing content inside the text editors. Step-by-Step Requirements Create a ChatGPT Account – Sign Up Now Copy the ChatGPT API Key – Create Secret Key Key Features & Benefits Generate high-quality content for web pages, posts or email campaigns Ask ChatGPT for content ideas, add more info to your existing posts & more Integrated directly into the Froala text editor Enable use of ChatGPT for your members when creating posts Efficiently complete more tasks by streamlining your content creation How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: ChatGPT Content Creator Add-On Create Secret Key Once the Chat GPT account has been created, use the following link to generate the Secret Key: https://platform.openai.com/account/api-keys On this page use the \" + Create new secret key \" button: Add a name for the key, keep the default permissions settings (ALL): Click \" Create secret key \" to continue and the generated key appears: *Please note that Chat GPT will not display the secret API keys again after they generate them. Copy this key and add it to the website Integrations tab... the field to add the key can be found by searching \" chatgpt \": Enabling ChatGPT for Members There are 3 ways to enable and control the ChatGPT feature: Advanced Setting By default when the add-on is enabled this is only available for the Froala Text Editor - Access Media Manager : This Froala Editor is the one used for the Blog and Digital Products post types, which are the ones that only the website Admin profile has access to. This is done to mitigate the Rate Limits for FREE users: https://platform.openai.com/docs/guides/rate-limits/overview Since free users get limited requests per minute. For those using PAID accounts, go to Settings » Advanced Settings » Search for froala_chatgpt and select the additional Froala classes that can use the add-on: Membership Plan To enable ChatGPT for members in specific membership plans, go to Finance » Membership Plans - Member Dashboard , scroll down to the Additional Settings section and choose the option accordingly: Note : If the Advanced Setting is active for all Froalas but not enabled in the membership plan setting, opting for \" No \" will disable the ChatGPT integration on the post. Quick Edit Section It is also possible to enable this feature for individual members. Go to the Quick Edit Module For Members » Listing Settings Tab » Find the 'Enable ChatGPT in Text Editors option and activate it: When enabled for members, the add-on works in the same manner as it does inside the Admin dashboard. Note : If the Advanced Setting and Membership plan are both enabled, but a particular member should not have access to the addon, choosing \"No\" will deactivate the ChatGPT integration on the Article Froala. ChatGPT API Pricing A \"ChatGPT Plus\" subscription is distinct from having billing information on file for API usage. ChatGPT operates as a separate product. Therefore, a ChatGPT Plus subscription is not required to access or use the API. Users intending to utilize the API must ensure their billing information is correctly entered in the API billing section. ChatGPT Button Once the key is saved, the Admin will start to display the ChatGPT button within the Froala editors. Email Signature Web Pages Compose Emails Using ChatGPT Type in the prompt Highlight the text Click the \" Ask ChatGPT \" button The speed at which the response is generated will depend on the request, asking it to write a 500 word post will take anywhere between 5-10 seconds depending on the complexity. Whereas a request for 1 sentence will be generated almost immediately, typically within 1 second. This is all governed by the capabilities of ChatGPT and their AI model. The ChatGPT Content Creator Add-on modal uses gpt-4o-mini. How Each Session Works When using ChatGPT to create content, each session can handle 4,000 tokens , which is roughly around 3,000 , words total. What this means is that each word is converted into a legible token whenever a question is asked. To break it down further, tokens are text fragments . The 4000 tokens are a sum of the original prompt, original response and any content generated during the session. A new chat session will automatically start when: The token limit is reached, an alert will pop up to notify you The web page is reloaded The integration is programmed to return responses that do not exceed 750 tokens. If the response is \"cut off\" because the 750 response limit has been reached, ask the AI to continue and the content can be completed. But after the 4,000 token limit has been reached in a session, ChatGPT's memory will reset and a new chat session will begin; it will not recall previous chat inputs. Limitations The ChatGPT API includes some limitations, but Brilliant Directories has configured it for maximum output. The ability for ChaptGPT to recall and remember previous inputs and outputs is limited to about 3,000 words and/or characters. Although this limits the API’s ability to output a 2,000 word article in one shot, it is proven to provide a helping hand with creating snippets of content in real-time. After this limit is reached, an alert will display and the next input will start a fresh chat session with ChatGPT. There are 3 limits that can be reached: Session tokens reached, next input will start a new chat session (old chat session memory is gone): Max. Input requests per minute reached. Wait a few seconds before sending the next input request: Total monthly usage limit reached. Users can see their monthly usage in the Openai account settings. Upgrading to a pay-as-you-go plan increases this monthly limit, but it’s still capped. Here's where users can see their monthly usage limits: https://platform.openai.com/account/usage For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152868028/original/tTwmlD5we4DpdVw57IdgDNHaEyPiKIRbrg.png?1732152853",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152867994/original/s7RGZOOQnTz7Z1baZMZutdAXt9KMefEuOA.png?1732152750",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152868031/original/ZiUSiZ1kmdtpHujTJvKuFteXlyha1zMnLA.png?1732152894",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949008/original/NCtB0svGyn6W9FxRafpYbgjyqfIkDapsiA.png?1684975384",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125950055/original/-nuzNvy4C0QTrFkl4d8qinol_DsV2SfO3g.png?1684978580",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125950293/original/jK1RS8secq4n0QI1yYi62H5ITFP3Zixqjw.png?1684979158",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127300134/original/7IUTOmJE4EgXtRM_TQ1XspeRijT1cHU-pA.png?1687433633",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127300294/original/ApfRV_ch67taKloy_IuT6XKSZUvloUweEA.png?1687433845",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949121/original/y6uIDOno-zu6PN_56e81Kxe5ukDkCn_AvA.png?1684975771",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949122/original/DHuWK5LJT0w0xxlP-jiOGJDJ5bxEYuH39g.png?1684975778",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125949134/original/K68E6ihFoQcGTEKrE67nKpF2WN2TGUexLg.png?1684975833",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125947888/original/n05S-B7vJDcR3owy41mdosawXsfs0MKa8g.gif?1684972020",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126127614/original/82l25MyzJHQ59QMxkH7grwt_y-UEYJugPA.png?1685407991",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126127615/original/WEbduch-gh6aWSB73jykT3s_asf5-0SHCg.png?1685407999",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

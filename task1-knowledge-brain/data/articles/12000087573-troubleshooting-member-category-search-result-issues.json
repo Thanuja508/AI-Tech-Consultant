@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000087573-troubleshooting-member-category-search-result-issues",
+  "title": "Troubleshooting: Member Category Search Result Issues | Brilliant Directories Documentation | BD Support",
+  "content": "Troubleshooting: Member Category Search Result Issues Link: https://support.brilliantdirectories.com/support/solutions/articles/12000087573 Important Note : This is a continuation of the Member Search Result Issues Overview article hence we highly recommend our users go over the original article before diving into specific search result issues. How to Conduct a Category Search Category searches can be conducted from any search module that offers a keyword search field: How To Troubleshoot Category Search Issues If a category search has been conducted and expected members are not appearing in the search result, here are a few things to check that might play a role in this: Check If The Member Selected The Searched Category This may sound simple, but in instances where the expected member is not appearing on a category search result, the first thing to check would be if the member already selected the category. For example, down below, we conduct a Top Level (Education) + Sub Level (Colleges & Universities) Category search but no members are appearing on this result: If we navigate to My Members >> Member Categories and check the Colleges & Universities sub-level category, we can see that currently there are no members in this category: If we login as a member and select this category: The same search result page will start displaying this member as a result: If a category search has been conducted and un expected members are appearing in the search result, here are a few things to check that might play a role in this: Check If The Member Is Listed In All Sub-Level Categories If un expected members are appearing in the category search result, it is a good practice to check if the Max. Sub-Level Categories Member Can Select setting is set to \"all\" for the membership plan, which will list them under all available sub-level categories: Important Note: The \"all\" sub-level categories refer to all available sub and sub-sub level categories of the top-level category the member selected. The member would not be listed under other sub and sub-sub level categories that are under different top-level categories. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109949447/original/IQT0b-14XIKBdR3-AZqCeWBSowJjG__jHg.png?1654546835",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109949680/original/4sJc_-_UW0rEn9oR6QvDNrcuSYoRxSkPpw.png?1654547084",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109949744/original/eZOzz1aDMsCFWsfcG_LAUUAbA3_yINJyUA.png?1654547191",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109949832/original/xBpyhg0eAc-Ihjd_N7lEQ06dP_sTn-WNPA.png?1654547283",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109949876/original/jY7ZZCe-29_FDZ3PwZF4qvrXkFBSzcNKBg.png?1654547330",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110006608/original/GiCsUP4arU6wRh3QHaKB3_1GhWNdl7JhDg.png?1654630065",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

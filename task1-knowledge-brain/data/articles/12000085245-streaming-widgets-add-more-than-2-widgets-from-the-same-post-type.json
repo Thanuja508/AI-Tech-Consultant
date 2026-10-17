@@ -1,0 +1,92 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000085245-streaming-widgets-add-more-than-2-widgets-from-the-same-post-type",
+  "title": "Streaming Widgets: Add more than 2 widgets from the same post type | Brilliant Directories Documentation | BD Support",
+  "content": "Streaming Widgets: Add more than 2 widgets from the same post type Link: https://support.brilliantdirectories.com/support/solutions/articles/12000085245 Case of Use It is possible to add more than one widget from the same post type as a homepage streaming widget. This is super important when the post types were cloned and the owner of the site wants to stream the new posts on the homepage. For example, let's say the Member Articles post type was cloned 2 times, so there are 3 posts types total: Member Articles (Default) Member Articles (Clone 1) Member Articles (Clone 2) In the \"Select Content to Display\", there is only one option to select the \"Member Articles\" post type. So, this will apply to one of the post types but the section cannot be cloned to add the other 2: Steps to Follow In order to add the other 2 post types to the homepage, some customization is required but it can be done by following the steps below: 1. Copy the Streaming Widget Go to Toolbox >> Widget Manager . Search for: \" Bootstrap Theme - Display - Recent \". It will show all widgets that will stream content on the homepage, such as coupons, products, events, reviews, properties, classifieds, etc. Using the \"Member Articles\" as an example, customize the \" Bootstrap Theme - Display - Recent Articles \" widget. Click on Actions >> Customize: It will show the widget code, copy the name of the widget: Bootstrap Theme - Display - Recent Articles Then go to Toolbox >> Widget Manager >> Right-click on \"Open link in new tab \". NOTE: It is important to open it on a new tab because we are going to need both tabs open. 5. Click on \" New Widget \": 6. Paste the widget name. We recommend editing the name of the widget to match the post type name. For example, if the cloned post type is called \"Member Articles Clone 1\", then the name can be \"Bootstrap Theme - Display - Recent Articles Clone 1\" 7. Go back to the first tab and copy the default code: Tip : To select all content, click inside the text box and press CTRL + A or Command + A, then press CTRL + C 8. Then go to the new widget page and paste the code. It should look like this: 2. Customize the New Widget In a tab separate from the two for the widgets, go to My Content >> Edit Post Settings. Copy the name of the cloned post type . For example: Go back to the second open tab with the new widget and in the feature URL, add the name of the post type . Copy the URL of the post type: Go back to the new widget and paste the Feature URL here. Note: Do not include the forward slash ( / ) in the URL field. Adding it may prevent the system from recognizing the post type’s URL correctly. Now edit the Title that will show up on the homepage for the new post type. This code can be found between lines 200 and 215. This will vary depending on the post type widget. The recent articles (example) is on line 203. TIP: An easy way to find it is by clicking inside the code box and then press CTRL + F. Then type \"$titleStyleColor\" and press enter: Scroll down to the last option highlighted and add the title you want. NOTE : Make sure the title has ( ' ' ) Example: Before: <?php echo $wa['custom_120'] ;?> After: <?php echo 'Recent Articles Clone 1';?> Then save the changes and click on Actions >> Copy Shortcode : Add the New Streaming Widget to the Homepage Go to Settings >> Design Settings >> Homepage >> Select Content to Display >> Add New Section : Click on the arrow (See the image below) and select the Custom Content 1. NOTE: If the site is using the custom content already, select the next custom content available (2, 3, 4 or 5). Click on Edit Settings: Paste the widget shortcode we copied on the step 9 and save the changes. Example: [widget=Bootstrap Theme - Display - Recent Articles Clone 1] The new streaming widget will show up on the Homepage: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103799631/original/3S4Yp_1bavd4It80IBEHU4aJGu4EAUHwoQ.png?1642524036",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103799927/original/16A3S4xGSZ9YkMQamKeSO4jIwyJ5Y-aiOA.png?1642524361",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103800131/original/KA-KZvaaTMjCKRBtlwPot8L7nFpyb-rLXg.png?1642524536",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103800326/original/GREnol4ttLOXT8WVAD70Iomh2oxfOyglqA.png?1642524754",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103800390/original/GPeARUMLB3CtFKSLSKG5bSc7qA_FnOTFPg.png?1642524813",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103800553/original/SnQCqBiSjcy7fcE0oG8y9GXZwD1RbTuUTw.png?1642524940",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103800734/original/KTi25oXY_m_PgvNk1AW4ipiVuixcrOvXLQ.png?1642525131",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103800940/original/Y0RmACtEFcy4MBm_J6N_F3Uj10L_-52ruA.png?1642525346",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133470/original/w-c7re3kAeRjW1B7_kjoo7NA0UulxbQLzQ.png?1643129265",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133365/original/0-BbHj0C1ttc30asnld5BkyeO-43LMFggA.png?1643129201",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133648/original/-s-vSMWTwxvkvMl2ufiOqypO48lIwTWlvA.png?1643129461",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133623/original/1YlLE564yYN1bzSLTlwbthYm5ePnHRt_ag.png?1643129433",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133964/original/CC2ksKbO-qtySMxgDRV2Mtwb9pUo6tMwYA.png?1643129806",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133846/original/WxM3EUTehr6W6PrIRqp4QS-RiSNQMBAvOA.png?1643129643",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104132707/original/x7r3kKXUcxt6dUGKGOuO7prkCsdn2cz4cQ.png?1643128509",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104132810/original/P7sJT1T1dqAPnAdbcWDjTiRdPFXJZkMooQ.png?1643128624",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104132903/original/OKpvxyoofbvLpf166cC20HALIKOSOOCAyw.png?1643128678",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104132998/original/HeNXInNnugijpVFzDPV0HSzzDlwdnlxXWw.png?1643128784",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104133049/original/STmDdVUxsSZmFXoETY_e5ywBneOKikU78g.png?1643128848",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104134840/original/kkoxKkD8AeMR0NMnnGHy8u5o4UQHH7MKsA.png?1643130649",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

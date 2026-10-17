@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078297-how-to-set-up-a-wildcard-url-rewrite-web-page",
+  "title": "How to Set Up a Wildcard URL Rewrite Web Page | Brilliant Directories Documentation | BD Support",
+  "content": "How to Set Up a Wildcard URL Rewrite Web Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078297 A static page can be designated as a Wildcard, so that one page is displayed at many different URLs. After enabling a wildcard, any additional slug added to that page’s URL displays the wildcard page, without redirecting the visitor. Note : This capability is provided only upon request. To enable it, please open a support ticket so our team can turn it on for your site. After Wildcard support has been activated, complete the following steps to set up a Wildcard web page: 1. Navigate to My Content >> Web Page Builder: 2. Click on the \"New Web Page +\" button: 3. Enter the page URL and content: 4. Move to the Page Options tab, scroll down to Advanced Options and check the Wildcard URL Rewrite option: 5. Save the changes. In this example, the wildcard page is https://bd-documentation.directoryup.com/wildcard If a visitor goes to https://bd-documentation.directoryup.com/wildcard/test or any other URL such as https://bd-documentation.directoryup.com/wildcard/test/brilliantdirectories , the visitor sees the content of the original page, https://bd-documentation.directoryup.com/wildcard . The address in the browser stays the URL the visitor requested. Each of these URLs is treated as its own page by search engines: the page's canonical URL (the address the page tells search engines is its main address) is the URL that was requested, without any query string. For example, /wildcard/test?ref=1 reports /wildcard/test as its canonical URL, and it can be indexed separately from /wildcard . Canonical URLs are always lowercase. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185608086/original/BGrZ_eayfrjDxcHpqNUoz0NCsGhV2DAyIA.png?1790103108",
+      "alt": "My Content menu open with Web Page Builder highlighted"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185608087/original/SktxnjAu1HT5Q4GhLKG6TUh3GRTz3wW1rw.png?1790103111",
+      "alt": "New Web Page button in the Web Page Builder"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185608095/original/ACTThFzQJzUiPr5PYJgbyXqlKlxCHpS_rg.png?1790103117",
+      "alt": "New web page with the URL set to wildcard and page content entered"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185608100/original/8eX8hkcC0t4aZ9v8VdClEEuaoBYQDGnhig.png?1790103119",
+      "alt": "Wildcard URL Rewrite checked under Advanced Options on the Page Options tab"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606798/original/dAXR7692P67_KsNGR45hp4tu-Xm6DGn0VA.png?1790101893",
+      "alt": "The wildcard page at its own URL"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606805/original/e0zUgA0qjmpiIBCC_TbEnWuqbDKp4SiBrQ.png?1790101901",
+      "alt": "Page source of a wildcard child URL showing its own address as the canonical URL"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185606800/original/m1F_hOVj5wAeXRUZzWnMYgcl0wFo8aLMRg.png?1790101895",
+      "alt": "The same wildcard page shown at a child URL"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

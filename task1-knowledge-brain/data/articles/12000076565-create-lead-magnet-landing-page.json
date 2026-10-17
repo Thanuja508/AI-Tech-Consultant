@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076565-create-lead-magnet-landing-page",
+  "title": "Create Lead Magnet Landing Page | Brilliant Directories Documentation | BD Support",
+  "content": "Create Lead Magnet Landing Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000076565 Lead magnets are a great way to collect email addresses and other contact information from potential customers in exchange for a free resource, such as an eBook, checklist, guide, or PDF download. In this example, we'll create a simple lead magnet funnel where visitors submit their email address through a form and are then redirected to a page where they can download a free resource. On the Download Page there is going to be a button to download the Free Resource provided as a pdf: This tutorial covers the following steps: Upload the PDF resource. Create a download page. Create and configure a lead capture form. Create a success page and embed the form. Upload PDF Navigate to: My Content → Media Manager Upload the PDF file that visitors will receive after submitting the form. Create Download Page Please see: How to Create a Download Link With a Button Create a new webpage by navigating to: Content → Web Page Builder → New Web Page Configure the page: Page Name: Download Page URL: download-page Title: Enter your desired title Subtitle: Optional Add any content you would like visitors to see before downloading the resource. Example: Add a button that links directly to the uploaded PDF file. When clicked, visitors will be able to download the resource. Clone Contact Us Form Clone the contact us form and remove the fields that are not necessary. In this example we are just going to use the email field and security fields. Change the name of the submit button to: Gain Access To Our E-Book Now Once saving the form select: Select the option Redirect to Another Page in the What happens after form submitted drop down as shown below Add the URL of the Download page, in this scenario it is: \"/download-page\". Create Success Page Go to Content >> Web Page Builder >> \"Click on New Web Page +\". Add a name to the Page. Add the URL of the page, for this example we are going to add: \"success-page\". Add Title and Subtitle . Design the Content Of the Page, see this example: Make sure to add the link of the form so the form can be rendered on the page, this is how the system will track the email of the submitter: [form=lead_magnet] For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284493/original/Z7Co9COfI0gOvN7eIyf8OrYJ2dhGzjPxVQ.png?1687410717",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284497/original/U8La-IapiUlfOkC5E_XGIGk7cuvb6LpULw.png?1687410727",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127484584/original/rDCKgSAqWLMMLbGNnmP5Mg8nO-G_cb-myQ.gif?1687813332",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485184/original/UAdQLbwbtw6o9xDFf3LZLWPi-tQx7NFiBg.png?1687814037",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485239/original/iLtQaW03jZPEhYlqOLk0j9YRe3hX8d7eEQ.png?1687814167",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284508/original/FiF2Dwc9_xvc18QqLNCbjzGI5AdK0JK9_Q.png?1687410783",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284511/original/yamSaM0G8G-t7qr3UXVjSXGHgZhBbYSkJw.png?1687410793",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284521/original/Zx3ZdaNyBTXqEF187kIaEqvhftp1z_Kbaw.png?1687410803",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

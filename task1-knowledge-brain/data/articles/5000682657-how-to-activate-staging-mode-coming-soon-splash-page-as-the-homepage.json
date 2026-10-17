@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682657-how-to-activate-staging-mode-coming-soon-splash-page-as-the-homepage",
+  "title": "How To Activate \"Staging Mode\" / \"Coming Soon\" Splash Page as the Homepage | Brilliant Directories Documentation | BD Support",
+  "content": "How To Activate \"Staging Mode\" / \"Coming Soon\" Splash Page as the Homepage Link: https://support.brilliantdirectories.com/support/solutions/articles/5000682657 A \"Coming Soon Page\" is a landing page when the site is under construction, this mode can be used when the site is under development or if the site is still not ready to be launched. Go to SETTINGS and select GENERAL SETTINGS, the setting will be inside \" General\". Click on the Website Status dropdown, and select “Staging Mode”: A “coming soon” splash page will now be used when a user tries to visit the website domain: NOTE: Switching the site to \"Staging Mode\" will apply a \"noindex, nofollow\" directive to all pages, preventing them from being crawled until the site is returned to \"Live Mode\". Editing the Coming Soon Page As soon as \"Staging Mode (shows pre-registration form on homepage)\" is selected a link will appear: ** Clicking on this link opens up the web page, this web page is only available through this link. It will not be found inside My Content >> Web Page Builder. ** IMPORTANT: If you DO NOT see the \"EDIT COMING SOON PAGE\" link, you may need to enable an update from your main admin dashboard area. Learn More Here This page comes with all of the standard web page functionality. Including: Froala Editor Pre-Made Elements Hero Section Seo Settings For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133632839/original/m5euLRnBvgGwylliMjWKvHKbCeDMbLGQRg.png?1698866213",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129728/original/gH2nh807NWsTe2Oo3SY2HKw7RtBvlP71VA.png?1633443867",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129837/original/S8QKG26yunN4AkvztUpquTLtbe4tQd4n8Q.png?1633443986",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099129891/original/IDEcnXWTKH96EXlokTEqCCu7FNCGLnhFDg.png?1633444034",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110004975/original/GzsLYAz7U1_pb6dZw9AonIsbIwkh03xf_w.png?1654627884",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099132267/original/OyrULLcoWzq6zrwyN57f4KMFztbWxUPpdw.png?1633445828",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

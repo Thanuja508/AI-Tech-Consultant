@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057266-adding-a-search-widget-for-the-reviews",
+  "title": "Adding a Search Widget for the Reviews | Brilliant Directories Documentation | BD Support",
+  "content": "Adding a Search Widget for the Reviews Link: https://support.brilliantdirectories.com/support/solutions/articles/12000057266 New Brilliant Directories websites include a search widget on the Member Reviews search results page by default. If the widget has been removed or your website does not display it, follow the steps below to add it back. 1. Go to Interactions >> Member Reviews. 2. Click on the Member Review settings. 3. Click on the Search Results tab. 4. Scroll down to expand the \"Additional Settings\" and make sure that the Sidebar To Use is Post Search Results. 5. Select in the Sidebar Search Module the Bootstrap Theme - Module - Reviews Search. With this setup, it's possible to do searches in the Reviews search results page. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181207717/original/YcZn29WO_cK2j7xDoa0ueKUJlyU0fd2EBw.png?1782755127",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163589853/original/uu3GPhCzRVWxOIVjN7iNTmNdMzDKHVMBXg.png?1751297783",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362737/original/kH2VTaFPJqt_zrbxOaDoIyo5DF-hJO49eQ.png?1616500210",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362882/original/-TX1u-m3qc7YUTFm9ZMz1IqnHSLFzFTo8Q.png?1616500383",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098811118/original/ASBS7lDcCpzhaUshxkYZtpClzKGefXUtgw.png?1632837408",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090362924/original/yeXvqZdSRa26e57y5o5eVDtuJoMlpOI0KA.png?1616500437",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12050674633/original/Acx2bM4tHi-imi6cJzsmPfzUqAQvO1m3cQ.png?1557847559",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

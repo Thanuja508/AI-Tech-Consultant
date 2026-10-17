@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047896-developer-hub-htaccess-file",
+  "title": "Developer Hub » HTACCESS File | Brilliant Directories Documentation | BD Support",
+  "content": "Developer Hub » HTACCESS File Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047896 An .htaccess (hypertext access) file is a directory-level configuration file supported by several web servers, used for configuration of site-access issues, such as URL redirection, URL shortening, access security control (for different web pages and files), and more. Because of the sensitivity of this file, edits should only be made by someone familiar with server-side configuration. Incorrect changes can cause the website to stop loading . Before Editing the HTACCESS File The .htaccess file is powerful but easy to break. Even a small typo can make the entire website inaccessible . For that reason: Always save a copy of the current .htaccess content before making any changes. Only make changes when absolutely necessary. If unsure about a directive or configuration rule, please consult a qualified developer. Accessing the HTACCESS File Go to Developer Hub Click on \" HTACCESS File\" From this screen, the current file contents can be viewed and edited if needed. Restoring the Default File If issues arise or a reset is required, the Restore Default button can be used to revert the file to its original version. Before restoring, it is strongly recommended to copy and save the current content into a .txt file for reference. .htaccess file code area. \"Save Changes\" button. \"Restore Default\" .htaccess file button. When This Tool Should Be Used Most website owners will not need to edit the .htaccess file. Edits should be considered only when: A server-level configuration change is specifically required. The impact of the modification is fully understood. A backup of the current file has been created. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160067/original/qKGvK0_9j0MSXCzR1Xn2QrOABSWrIzYCTw.png?1781041510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180160225/original/86Gs0AJ_4f_KX6ki2R6ajloNacDDmq4uhw.png?1781041674",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

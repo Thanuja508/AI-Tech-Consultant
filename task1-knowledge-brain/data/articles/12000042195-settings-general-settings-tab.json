@@ -1,0 +1,76 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000042195-settings-general-settings-tab",
+  "title": "Settings » General Settings Tab | Brilliant Directories Documentation | BD Support",
+  "content": "Settings » General Settings Tab Link: https://support.brilliantdirectories.com/support/solutions/articles/12000042195 This article explains the General Settings Tab and all the settings within this tab. General Setting Fields Below is a full list of the settings available within the general settings tab. Visual Guide of General Settings Full visual list of the General Settings Tab: 1. Website Name The Website Name or the Business Name of the website goes here: 2. Website Phone Number The Website's or Company's Phone Number goes here: 3. Industry Name The Website's or Company's related Industry goes here: 4. Profession Name The Profession Name for the members of the directory goes here: 5. Default From Email Name The Website or companies main email name: 6. Website \"FROM\" Email Address This is the email address that the system will use to send out emails from the website: Send Email Test This tool will complete a test using the default website email address to ensure that this is working well and that it is not blocked. After clicking Send Test Email to Ensure Email is Working this message will show up: If the email address is working properly, the following message will show up: 7. Admin Notification Email Address Primary email address to receive Admin-only website notification emails: 8. Website Status Here is where the status of the website is set, when set to Staging Mode, a \"Coming Soon\" form will display on the homepage, instead of the regular homepage. 9. Search Engine Visibility Here is where it's determined or set if Google or other search engines (Google, Bing, Yahoo, etc) can find and index the website : 10. Require User Consent To Store Data (GDPR) Select Yes if this website stores any personal data of EU citizens, or requires additional consent to store user data. More Info 11. Express Sign Up Membership Plan Select Yes to activate the Express Registration functionality, this is a free add-on but requires an SSL to work, to learn more about this free add-on click the following link: Express Member Registration Notes about Express Registration SSL Security Add-On is required for this to work properly. Website must have at least one FREE membership plan that users can sign up to. 12. Default Email Signature Create an email signature that will be included at the end of all email templates. 13. Include Website Signature In All Automatic Emails Sent? If set to no, the emails sent will follow the email template signature setting. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135061529/original/oNVZdCx70f7xZfgkga0mKk2WJywT2ExHZg.png?1701184987",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131941605/original/DzYAiO9Wje9IB6GbVlk5gPrtob2kxfLXgw.png?1695833003",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131941870/original/WBz1ZA1n75hJvBx3uUEClRbgGVwFQ0QHcw.png?1695833298",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942088/original/CgbI2IjaVjzqPUSGN47f6zGSLNjI6tbFjA.png?1695833501",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942176/original/0vmYAWiukjDuy7H2x20oE8Xaasb1u-8o9w.png?1695833599",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135062953/original/06z7edsPLyALVs5vXYaMrEB4yrgx0m6YwA.png?1701186284",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135062955/original/LZf4zdMt_ohVBOfAVLfIxiIXP8S-L9-DAA.png?1701186289",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133733793/original/oQKyQIYgZVd73bgPBIAwOds0--aaP-XujQ.png?1699020591",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132218146/original/KRhB_VuJM1ZDkxpU_SrOy9vZ_wKylW-xqw.png?1696355094",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133631505/original/1Pe9DN-sgI8R09BvBXi9SvWtIjQMDcA3Lw.png?1698864736",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942514/original/Q2rt9SgvDBG_RKOlfBcHbfJDUjkX_Vmuwg.png?1695833918",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942668/original/aAcaebi6stiljZA6AwOpUtWQu29Le5QEGQ.png?1695834093",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942729/original/c7SZoHA4Y4duHjwBp9fFcGPqR6rspD-3LQ.png?1695834187",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131942958/original/qHOxmk7MPSg04DhXCXcKAxZC_MSGuMzLIQ.png?1695834402",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131949204/original/IrxBJMM563weJ-djGGkHv_IPQZQrLQZqWg.png?1695841246",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131949302/original/iWCsOiY-4V0ZseK3LWkjtDIRXuw5z2ddog.png?1695841327",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000005977-setting-up-paypal-payflow",
+  "title": "Setting Up PayPal Payflow | Brilliant Directories Documentation | BD Support",
+  "content": "Setting Up PayPal Payflow Link: https://support.brilliantdirectories.com/support/solutions/articles/12000005977 When it comes to accepting online payments, there are essentially 2 components: the Payment Gateway and the Merchant Account. The payment gateway is a platform used to process credit card transactions, while the merchant account is where the processed funds are collected. PayPal Payments Pro is a combination of these 2 components rolled into one. Payflow is the Payment Gateway and PayPal is also the Merchant Account. PayPal also offers Payflow as a standalone Payment Gateway that can be used to connect to the compatible 3rd party Merchant Account. IMPORTANT: PayPal Payflow Pro is available through paid business accounts that include a monthly fee. Verify that the PayPal account is a business account with the \"Direct Payments\" feature enabled before proceeding. If the PayPal account does not include a monthly fee or the \"Direct Payments\" feature, refer to this article instead. In order to use PayPal Payments Pro as the payment processor, the following credentials need to be added: Partner (Merchant Name, EG: PayPalCA) Merchant Login Merchant Username Merchant Password PayPal API Username PayPal API Password PayPal API Signature f the site owner has a PayPal Payflow account and cannot locate the required credentials, contact PayPal and inform them that the website is being connected to process payments and that the developer has requested the credentials listed above. Follow these steps to add the credentials to the website: Finance » Payment Settings - Setting Up A Payment Gateway NOTE: If the site is migrating from PayPal Pro to Stripe as the main payment gateway, the registered credit cards on file will automatically be migrated to work with Stripe without further action required. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

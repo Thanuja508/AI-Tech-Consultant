@@ -1,0 +1,56 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047561-my-members-search-members-actions-dropdown",
+  "title": "My Members »  Search Members »  Actions Dropdown | Brilliant Directories Documentation | BD Support",
+  "content": "My Members » Search Members » Actions Dropdown Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047561 Navigation Path Admin Dashboard » My Members » Search Members The Actions dropdown is accessible from the Search Members results table. Each member record includes an Actions menu that provides direct access to essential account management functions. Actions Dropdown - Available Options The Actions menu contains the following options for each member record: Account Details View Live Profile Quick Edit Login as Member Compose Email Payment History Change Password Delete Account Clone Account Account Details Selecting this option displays a structured account overview for the selected member, including key profile and account-level information. Full reference: Account Details View Live Profile Selecting this option opens the member's live public-facing profile as it appears on the front end of the site. This allows administrators to verify how the profile is currently rendered for visitors. Quick Edit Selecting this option opens the Quick Edit module, which allows direct updates to member information without navigating away from the Search Members screen. Full reference: Quick Edit Login as Member Selecting this option allows the site administrator to access the selected member's dashboard view by logging in as that member. This is used for troubleshooting or verification of member-level permissions and visibility. Compose Email Selecting this option opens the Compose Email module. The selected member's email address is auto-populated in the recipient field. A message can then be drafted and sent directly from within the dashboard. Full reference: Compose Email Payment History Selecting this option opens the Payment/Transaction History view for the selected member, displaying a record of financial activity associated with that account. Full reference: Transactions Change Password Selecting this option opens the Change Password module, where a new password can be assigned to the selected member account. Delete Account Selecting this option initiates the member deletion workflow. A confirmation module appears before any data is removed, presenting the following configuration options that must be set prior to finalizing the deletion: There are a few options that need to be set before a member is deleted from the site: Delete Member - Confirms the permanent removal of the member account. Delete Profile Images and Files - Determines whether all images and files attached to the member record are also removed. Delete Member Posts - Removes all content posts published by the member. Re-assign Posts to another Member - If posts are not being deleted, this option transfers them to a designated existing member. ⚠ CRITICAL CAUTION — Irreversible Action: Member deletion is permanent. All four configuration options in the confirmation module must be deliberately reviewed before proceeding. Failure to configure the post re-assignment option when posts are retained may result in orphaned content. Clone Account Selecting this option creates a duplicate of the selected member account. The following profile data is carried over to the cloned account: Contact Details Additional Details Profile Photo, Logo, and Cover Photo About Me ⚠ CRITICAL CAUTION — Billing Data Is Not Cloned: Billing information is excluded from the cloning process. Each cloned member account requires a new subscription to be created separately in order to properly associate credit card and payment details with the new account. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181026124/original/7CebQP5mYGVR1HqndjdGTz_Zi6K9JOk3Zw.png?1782398929",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164355910/original/36obQPUUHH7v7vP_S0gsBDGy9L15E56Fcw.png?1752610653",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475086/original/MDEvyEeJKZ6XgysD42kGd_EMRwV5QVojtA.png?1686017133",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571434/original/vPIxrVTwC0KmPUhxNN3oyugvtKJhirs_lw.png?1616890963",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163104181/original/LYQFwJiWLqa_m4ULO2IqNrSG9o5yzsvI_w.png?1750352239",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571457/original/9FhjhHXDIMjBbA9_rWSVlHkFep8DSvCxQw.png?1616891124",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571495/original/lLRtGxs-jifzqYBeFE7ezSVvxB14Nd81gA.png?1616891286",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12126475091/original/gacttSpawxP8I-PbhPcEmRLUBbH32CTxCg.png?1686017152",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090571528/original/gWR0Gs-4RgmBy2pm6j8g0sVfpve9EFW5gg.png?1616891567",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164367544/original/8gC4v3sgC84_j1QYvn_ChhPW4JUiYhRUsw.png?1752627620",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164367515/original/XMh_4fdGyn-PciNGURHzFGQgg5FR5sRg2g.png?1752627557",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

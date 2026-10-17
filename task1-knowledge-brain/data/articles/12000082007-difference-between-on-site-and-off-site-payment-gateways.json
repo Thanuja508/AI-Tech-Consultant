@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000082007-difference-between-on-site-and-off-site-payment-gateways",
+  "title": "Difference Between On-Site and Off-Site Payment Gateways | Brilliant Directories Documentation | BD Support",
+  "content": "Difference Between On-Site and Off-Site Payment Gateways Link: https://support.brilliantdirectories.com/support/solutions/articles/12000082007 Brilliant Directories platform offers several integrated payment gateways including the most popular and globally accepted – PayPal, Stripe, 2Checkout, Authorize.NET, & more. These gateways can be separated into two groups; On-Site Payment Gateways and Off-Site Payment Gateways . Functionality Differences Here's how On-Site and Off-Site Payment Gateways differ in terms of functionality and user experience: On-Site Gateways allow all transactions to be completed without leaving the website, while Off-Site Gateways require the user to be redirected to the payment gateway's website to complete transactions. On-Site Gateways will automatically bill member credit cards for recurring subscriptions, while Off-Site Gateways require members to manually pay for each invoice. On-site Gateways allow the Admin of a site to manually attempt to collect on invoices, while Off-Site Gateways do not allow for this functionality. On-Site Gateways allow a member to store a credit card on file with the site, while Off-Site Gateways do not. Payment Gateways: On-Site or Off-Site On-Site Payment Gateways Off-Site Payment Gateways Authorize.net PayFast Authorize.net CIM PayPal Express/Standard BluePay Verifone formerly 2checkout eWay Razorpay PayPal Payflow Paypal Website Payments Pro Stripe (Recommended) Additional Resources Learn more about the recommended payment gateway Stripe and how it differs from PayPal Express/Standard: Stripe Or PayPal Express/Standard? In-depth list of the available website payment gateways: Supported Payment Gateways For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

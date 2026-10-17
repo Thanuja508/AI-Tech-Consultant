@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097951-limit-members-shown-on-the-streaming-members-section",
+  "title": "Limit Members Shown on the Streaming Members Section | Brilliant Directories Documentation | BD Support",
+  "content": "Limit Members Shown on the Streaming Members Section Link: https://support.brilliantdirectories.com/support/solutions/articles/12000097951 The Streaming Members section on the homepage can be configured to display members from specific Membership Plans only. Limiting the Displayed Membership Plans Log in to the Admin Area. Navigate to Settings → Design Settings . Open the Homepage tab. Scroll to the Select Content to Display section and expand it. Locate the Streaming Members module and click Edit Settings . Find the Limit Members Shown to These Membership Plans setting. Select the Membership Plans whose members should appear in the Streaming Members section. Click Save Changes . Only members assigned to the selected Membership Plans will be displayed in the homepage's Streaming Members section. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

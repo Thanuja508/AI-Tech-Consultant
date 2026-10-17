@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000057105-export-contacts",
+  "title": "Export Contacts | Brilliant Directories Documentation | BD Support",
+  "content": "Export Contacts Link: https://support.brilliantdirectories.com/support/solutions/articles/12000057105 Once the users of the site register for the newsletter, the admin can export a list of members that have successfully registered on the site. There are associated reasons for doing this, such as marketing campaigns, promos, etc. To get started navigate to Emails >> View Contacts >> Once in the contact list, at the top right corner will be the \" Export Contact Results\" button: After clicking the Export button, click on \"Yes, continue\" to confirm the export: Finally, a CSV file with the member's information will be downloaded to the browser: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358566/original/cSY0Q46m5Z8FkYxW-zlbu3GNbzU4S8Ng_A.png?1781314099",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180358564/original/LvBXo-klaVZxs_-4TFutvJxQo2P4uNcwmg.png?1781314077",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145529638/original/lYlcL4_I5vUdr33xRFRNHRfjt66t5M0Yrw.png?1719524088",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

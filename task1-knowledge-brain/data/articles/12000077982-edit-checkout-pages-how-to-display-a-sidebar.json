@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077982-edit-checkout-pages-how-to-display-a-sidebar",
+  "title": "Edit Checkout Pages: How To Display a Sidebar | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Checkout Pages: How To Display a Sidebar Link: https://support.brilliantdirectories.com/support/solutions/articles/12000077982 Overview Adding sidebars to checkout pages helps visitors learn more about the website and learn why they should join. There are some pre-made sidebars, but they are not recommended for checkout pages because they contain links that direct visitors away from the checkout page. The goal is for visitors to complete the sign-up process and become free or paid members while they are on the checkout page. Below is a sidebar example we recommend. It includes text and images. Sidebar example: How To Add Confidence Boosters To Checkout Sign Up Pages After the sidebar is added to the Sidebar Manager, it can be selected by going to Finance » Membership Plans » Edit » Sign Ups & Upgrades » Sign Up Page Sidebar: Now, this new sidebar will be displayed on the checkout page of that specific membership plan. The system allows adding one sidebar per product (Free, Premium, Featured, etc). Important Note: If the Use Default Setting option is selected for the Sign Up Page Sidebar Position: Then the position specified under the Checkout Pages Sidebar Alignment setting: More About Editing Sign Up Pages: Overview Article How to Edit Titles, Text & Language On Sign Up Pages How to Add, Edit, and Remove Input Fields on Sign Up Pages For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144197/original/In_QIQpnVPj5GuaLnpu74MPQeTLJEk2ZYA.png?1614036907",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105383433/original/olmmXou2Y8HwSyjHPlWESzP9ubBdUl0I3A.png?1645474742",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116491546/original/ffhpoFvkaVV9qvADNwX5LJmHEEUARF9CBg.png?1666883702",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116491603/original/vtwRIF5fqe6TBT8M5kI_sh1ZCswhM5iYBw.png?1666883772",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

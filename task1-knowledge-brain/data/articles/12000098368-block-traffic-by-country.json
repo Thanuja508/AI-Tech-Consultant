@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098368-block-traffic-by-country",
+  "title": "Block Traffic by Country | Brilliant Directories Documentation | BD Support",
+  "content": "Block Traffic by Country Link: https://support.brilliantdirectories.com/support/solutions/articles/12000098368 Say goodbye to unwanted website traffic and hello to a more secure and personalized website with the Block Traffic by Country website add-on. Easily prevent visitors from specific countries from accessing the front-end of your website, enhancing security and tailoring the website experience to the target audience. Ensure that only the desired audience can access the website. This add-on identifies a visitor's country based on their IP address. And based on the geo-location of the IP address , the rules set with the add-on will control a visitor's ability to access the website. Key Features & Benefits : Allow traffic from all countries except specified countries Allow traffic only from specific countries Website visitor location determined by their IP address Enhance security by preventing traffic from countries known for malicious activity Reduce spam by blocking traffic from countries notorious for spamming Tailor content based on the geographic location of your visitors More easily comply with regional regulations by restricting access to specific countries How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Block Website Traffic By Country Add-On Using the Add-On Go to: General Settings > Localization > Block Traffic by Country This will allow website owners to block unwanted traffic from entire countries. There are 3 options: Disable Setting Only Allow Traffic From Block Traffic From Disable Setting This will deactivate the setting from allowing or blocking specific countries. Sign ups from all countries are allowed. Only Allow Traffic From This will set the countries that are allowed to sign up on the website. If the country is not in the list, users in those countries will not be allowed to sign up on the website. Block Traffic From This will decide the countries that are not allowed to sign up on the website. If the country is not on the list, users in those countries can sign up on the website.. Adding Countries Click on the white space and a Country List will appear: Scroll or type in the country: Select the country to add it to the list: Removing Countries Use the \" X \" to remove a country from the list: Blocked Countries When a country is blocked from the website, there is a 403 Forbidden warning: API Requests Are Not Blocked Requests to the website's API (addresses that begin with /api/v2/ ) are not blocked by this add-on. Integrations such as BD Butler, Zapier and n8n keep working even when their requests come from a country that is blocked, or from a country that is not on the \"Only Allow Traffic From\" list. API requests still need a valid API key. All other pages are still blocked or allowed by the country rules. Websites that already use this add-on. The API exemption is added to the website's .htaccess file when the country rules are regenerated. That happens when the Block Traffic by Country settings are changed and saved, not when the tab is saved without a change, and not when the website cache is refreshed. To add the exemption to an existing website, go to Settings >> General Settings >> Localization , add a country to the list (or remove one), click Save Changes , then put the list back the way it was and click Save Changes again. Websites that set up the add-on after this change receive the exemption automatically. Important Notes Even if your website only serves a single country or market, sometimes your members and visitors are accessing your website while traveling or from other locations. Be cautious when deciding to block countries. If you're working with staff or team members abroad, make sure you're not blocking their access to your website. Sometimes search engines like Google, Bing and other tools need to crawl your website from IP addresses and countries that you may have blocked. So use the tool as needed and with intent. Remember, you can always block and unblock countries temporarily based on your needs. The most practical use of this add-on is to block traffic from countries that are delivering spam to your website. When the spam stops, you may choose to unblock and allow the country again. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138729760/original/fsaOA593CDPU6yUuVvSuy8MZR5-OX_TRhg.png?1707930744",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138731296/original/xl9m59hsvphpsEzGD1AFredFRHbnGRkU-g.png?1707931993",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138735151/original/Mk1x1PA3SIyISXwVoEB5YTnJVvrK4yi0pw.png?1707936030",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733171/original/d9gXI30rZOdURB6gm1zKk1WFtJ7mxP1HKQ.png?1707933868",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733216/original/MNnnw8a27twGSZPznf78KifqW0jGAVnBfA.png?1707933909",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733354/original/Wmqk5wvp_wnZyUMDiHvaXRE1bCh7hoAgjQ.png?1707934085",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138733403/original/Mx4RoUJb_ylwJBneeyEAQ6W_SrFIXNPXUg.png?1707934149",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12138736778/original/chp13resLPO43z3mn2MQDhkjymgapU3NUg.png?1707937970",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

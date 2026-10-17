@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002339-how-to-post-an-audio-track",
+  "title": "How to Post an Audio Track | Brilliant Directories Documentation | BD Support",
+  "content": "How to Post an Audio Track Link: https://support.brilliantdirectories.com/support/solutions/articles/12000002339 Access the Member Dashboard, on the left sidebar find the Soundcloud post type, click on it to make a new post. IMPORTANT: If the Soundcloud option is not included in the member dashboard, the post needs to be enabled for the membership plan in the post publishing tab: Finance » Membership Plans - Post Publishing Note: Only Soundcloud links can be used for this post type Add some content to the post, for example a title, description, image and more as explained below: 1. Publish content on the site or save it as a draft. 2. Add the Title of the Audio Track. 3. Select the category for the Audio Track. 4. Enter the link from https://soundcloud.com/ Example: https://soundcloud.com/anton-liberant/bethoven-moonlight-sonata 5. Enter keywords that apply. Separate with comma!. 6. Add a description to the Audio Track. Once the audio post has been created, it will display the current Status (Published, Draft, Expired). The number of views and Bookmarks will only show if the correspondent add ons are active on the site. Click Here to learn more. Click on the Actions Button to View, Edit, Upload Photos, Clone or Delete the post: Member Dashboard Options Different options are available on this section. For more information, please refer to the image and points shown below: 1. Soundcloud: Will show all the audio posts and display the amount of audio posts in the account. 2. Add a New Soundcloud: Click to add a new audio post. It will not display if the limit of posts has been reached. 3. Entries per page: Click on the dropdown to choose how many entries will show per page (5, 10, 25 or 50 entries). 4. Order of the Posts on the Page: Newest, Oldest, Updated (first), Updated (last), Start Date (first), Start Date (last). 5. Filter by Status: Published, Draft or Expired. 6. Filter by Keyword: Enter a desired keyword to display all audio posts that contain it. Lastly, all Post Types have a designated search results page: EG : http://yourbrilliantdomain.directoryup.com /audio Note : To enable this post type on a membership plan go to Finance » Membership Plans - Post Publishing . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081855715/original/wn_rIf_ur0MeQWyiGY3lac1zazC6w5Fn2A.png?1598965271",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081855878/original/AuALcPISWx-ZPZRgokQJxBPUdabHp5XhDQ.png?1598965455",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081856009/original/nzkfqmta7kJiequ_F0iR8v1OVEkgA-qI9Q.png?1598965553",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073279425/original/5Y_N3vMFsZI_-OTB4XXVMj-EXGdA0YX79Q.png?1580419022",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081869793/original/X6T8-uo4VXa0JAMKNcURdbVsY4efiFI63A.png?1598980392",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12073279513/original/JqrSeplBzJKwFYq-sz0nC-ZdUtVHLSVn0A.png?1580419165",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

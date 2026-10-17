@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000043478-setting-up-one-time-payments",
+  "title": "Setting up One Time Payments | Brilliant Directories Documentation | BD Support",
+  "content": "Setting up One Time Payments Link: https://support.brilliantdirectories.com/support/solutions/articles/12000043478 The following guide explains how to set up fixed one-time fees or a combined structure featuring an initial service fee paired with recurring subscriptions. This is ideal for platforms looking to implement lifetime access plans. If this is the case, follow these simple steps to set it up correctly: 1. Go to Finance » Membership Plans and click Edit: 2. If need to set up a one-time fee only, go to the \"Sign Ups & Upgrades\" tab. Scroll down and add the price in the \"One-time setup fee\" option. Leave blank the monthly, semi-yearly and yearly or type a \"0\". 3. Make sure the \"Account type\" says \"Paid\". About the \"Preferred Payment Term\" option, it doesn't matter what is chosen, it won't affect the one-time payment. 4. Then scroll down and in the \"Sign Up Settings\" section, make sure to select \"Sign Up Email Sent\" --> \"Welcome-paid-member\": 5. When everything has been set up, make a test by creating a new member. To do this, scroll up and click on the \"Sign Up Page\" button: Now, in the \"Select a Payment Option\" should be the amount added to the membership plan settings as a one-time payment: NOTES: If need to create a one-time fee + a recurring payment, add a price to the \"One-time Setup Fee\" and to the monthly, yearly, semi-yearly, and quarterly options. To learn how to set up recurring payments, check this article: Setting up Recurring Payments To create Free Membership Plans read this documentation: Setting up Free Membership Plans To edit the amounts displayed on the /join page, read these articles: Side-By-Side Pricing Plans: How To Link Membership Plans To The Price Matrix Guide 5. How to Edit Public Pricing Page (the /join page) For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172838212/original/VvgsDiDYOHrPPBDyt3jj012mkeefCvJK_w.png?1767713306",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117392872/original/bw3kTbaRiw_XweJARHe32OXRqw2opC4urQ.png?1668690174",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117392933/original/hg19tZ1muL5o86ohmiWR2Q-w9cco4KoIlg.png?1668690230",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390669/original/ZqDjp7uoo1KAVttHQ7PnsUraPDTgG5MCJw.png?1620596330",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390700/original/b26hWDEQo7rONrPhAUXBklMYxns8Bc-X_w.png?1620596425",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092390707/original/OL3HwIxJZJQgMkvoWRKBjKuzESFp04Yspw.png?1620596510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117393050/original/CsMi_eSw7l6yrA7g1RoNb8ilCzv0EJAhUw.png?1668690353",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

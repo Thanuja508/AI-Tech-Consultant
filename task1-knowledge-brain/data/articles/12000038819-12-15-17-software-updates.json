@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000038819-12-15-17-software-updates",
+  "title": "12/15/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "12/15/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000038819 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We implemented several general fixes and improvements to the Member Images Import module. We added a badge next to the Form Inquiries menu item on the Admin that shows how many new inquiries have been submitted. The Member Profile Analytics Add-On is now fully based on the new Add-On Manager. This Add-On will record the clicks of the social media links, phone number, contact form submissions and profile page visitors. For more information click here . Widgets Involved: Bootstrap Theme - Member Profile - Header Bootstrap Theme - Member Profile - Display Phone Number Bootstrap Theme - Listing Search Results Statistics Bootstrap Theme - Function - Save Form Bootstrap Theme - Display - Contact Form Thank You Message Bootstrap Theme - Account - Sidebar Bootstrap Theme - Account - Listing Statistics The Admin Activity Tracking Add-On is now fully based on the New Add-On Manager. The Review Thank You message is now based on Text Labels. Widgets Involved: Bootstrap Theme - Display - Review Form Thank You Message We fixed an issue that was affecting the layout of the Profile Statistics Table Add-On on the Member Account section. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,60 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000073931-global-website-search",
+  "title": "Global Website Search | Brilliant Directories Documentation | BD Support",
+  "content": "Global Website Search Link: https://support.brilliantdirectories.com/support/solutions/articles/12000073931 Overview The website’s default keyword search allows users find exactly what they’re looking for… However, visitors need to search member listings and different types of posts separately. Global Website Search simplifies keyword searches by presenting all the results of a search, regardless of if the results are member listings or different post types. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Global Website Search Add-On Enabling the Add-On Inside the Design Settings there are 2 places where this search module can be selected. Go to Settings > Design Settings: Header Global Search Under the General tab open the Header Design: Select the Search Type inside Header Design >> Header Search Module and scroll down until the Global Search options show up and select \"Global Website Search\" or \"Global Website Search + Location\": Front End Homepage Global Search Under the Homepage tab open the Search Box/ Call to Action: Select the Search Type inside the Search Box / Call to Action and scroll down until the Global Search options show up and select \"Global Website Search\" or \"Global Website Search + Location\": This will allow the website users to search for a specific keyword and it will show results from all of the available features. Front End Once the admin either chooses to add this to the homepage or to the header search this will be added to the HEAD of the site automatically: <!-- Google Sitelinks Search Box --> <script type=\"application/ld+json\"> { \"@context\": \"https://schema.org\", \"@type\": \"WebSite\", \"url\": \"addonsdocumentation.directoryup.com\", \"potentialAction\": { \"@type\": \"SearchAction\", \"target\": \"addonsdocumentation.directoryup.com/sitesearch/?q={search_term_string}\", \"query-input\": \"required name=search_term_string\" } } This will allow Google to use a search box within the search results. Here is an example search result for \"Pinterest\" on Google that returns a sitelinks search box for the Pinterest website: Global Website Search Sidebar Also, adding this search type will change the sidebar that is on the search results pages so it will also use a Global Website search type. The admin will be able to edit this sidebar without any problems: To learn more about sidebar, please follow this article: Toolbox » Sidebar Manager Global Website Search URL The admin has access to edit the default URL of this search result by going to Content - SEO Templates and editing the Global Website Search. The admin will also be allowed to limit which post types will show up in the Global Website Search Results: When this setting is set to no, it will not show any results within the Global Website Search Results: All feature posts within Content - Edit Post Settings have this option giving the admin full control of what will display. Pagination and Result Limit Settings The Global Website Search add-on search results page displays only the first 10 results for each post type, without pagination. There are no other settings to control this. However, below each post type’s 10 results, a button links to the full results page, where users can view the complete list of results with pagination for easy browsing. This setup ensures that while the initial global search page remains streamlined, users can still access and navigate through all results for each post type if they wish. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091588141/original/pW1I22mUCQSSJeClB_eQt3bHGe0iOuvI2w.png?1618929904",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091588586/original/jXNCkkK-64RenEmhARwiTxxptG_lyEMO8A.png?1618930273",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091588801/original/UPJcvuud3WQYatqBBpyc43vS_Q7ElrVMrA.png?1618930488",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091588969/original/mgCgpIYYivFsg3cn5TcFaXRvi5snYQ1BVQ.png?1618930641",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091590036/original/-ecf8tI8HpLHDCmBm0xEEQDgAQstJpUveQ.png?1618931488",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091590068/original/HBR_jE3SGi7HkC0yoAH-9sPeoAd5SXXa7g.png?1618931531",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091590254/original/gnaejotZfGUKN1JGyvuAi6BrX2-4KOsi_w.png?1618931661",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091591264/original/qj7_GEmLJjs3U977dXf06cj05mA7gI9A1A.png?1618932593",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081931085/original/e-j7o0LtAud3nPXuiN4Gq3TZpFJU0c_R9Q.gif?1599082643",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12082409004/original/58xTZFLYKxeYqWPUbE_czL-hCNKlcZo0iw.gif?1600147062",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087617464/original/bp1RrEMVu8-MHm0kJ2bRfN9z5hspPipBDg.gif?1611010520",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087617547/original/1YynfOH0785r3jqagxUWM4f3uJDLJLbsLw.png?1611010654",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

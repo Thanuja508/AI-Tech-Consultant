@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034561-cancellations-from-member-s-perspective",
+  "title": "Cancellations from Member's Perspective | Brilliant Directories Documentation | BD Support",
+  "content": "Cancellations from Member's Perspective Link: https://support.brilliantdirectories.com/support/solutions/articles/12000034561 This guide explains how members can cancel their account.. In their dashboard, members should navigate to the left sidebar, where they will see these options. Account » Manage Account » Close My Account: Next, they can choose to close the account immediately or at the end of the current billing period The system will display a confirmation prompt, where they can select \" Yes, Close My Account \" to proceed. If the member has an active subscription, it will automatically be cancelled. After confirming, the system logs them out and redirects to the Member Login page. Important: Ending a subscription does not always immediately close the member’s account. If the member is on a recurring subscription, their access will remain active until the end of the current billing cycle. Once that billing period ends, the account will be automatically closed. If the member has a one-time payment (non-subscription), closing the account will be immediate. Member Cancellation Email A confirmation email will then be sent to the member, as shown below. Find this email template inside the admin dashboard: System Email: cancel-account Cancelled Accounts - Admin Perspective In the Member’s Dashboard, their account status will display as “ Cancelled ”. Cancellations - Admin Perspective Cancelling an account through the admin dashboard is possible. here are also admin notifications when a member cancels. More information: Cancellations From Website Admin Perspective For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152561733/original/Nl4GUZunR3KXnxgd4r7G3vvOmMKdYlLMuA.png?1731618411",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168706805/original/FiY7nxiWW6iveVJXXpqs1KkfoIvTtPx9Iw.png?1759958746",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168706831/original/hJO_aT10PU85CUFt1NECLtK7vFrMcs-jIA.png?1759958786",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796862/original/AOcKEyK7cnYcGryFpDiYOs62i7r26Pd3yQ.png?1615347157",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089850622/original/XznpIDpz3t9h1juSxPX04WLhG8hINauRrg.png?1615428917",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153460870/original/Kk6pTyKq_GNoXGY3YPI5ig0eWbCrxXdXBw.png?1733262383",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153461290/original/5gSblEvVG5VGFm3C3KGtShPztG4i9QQzLg.png?1733262880",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

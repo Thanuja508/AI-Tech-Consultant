@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000053017-01-04-19-software-updates",
+  "title": "01/04/19 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "01/04/19 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000053017 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We fixed an issue wich was affecting the Post Tags search functionality when a tag contained an apostrophe. We fixed an issue that was causing the Breadcrumbs on profile pages to link to a 404 page error in some cases. Widget Involved: Bootstrap Theme - Function - Display Breadcrumbs We fixed an issue which was causing the Back button on the Edit Widget page to redirect to a 404 error in some cases. We updated the Lead Information on the Dashboard page in the Admin to show the number of Leads that need to be matched instead of the total number of Leads. We fixed an issue which was affecting the normal behavior of the Show Advertisement On Listing Product setting in some cases. We fixed an issue which was causing the location of a member search to not display in the H1 tag of the search results page in some cases. Widget Involved: Bootstrap Theme - Function - Google Location Suggest For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000036364-10-13-17-software-updates",
+  "title": "10/13/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "10/13/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000036364 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We remove some unnecessary code from the Recent Properties Widget. Widget Involved: Bootstrap Theme - Display - Recent Properties The Coming Soon Form is now working as expected. Widgets Involved: Bootstrap Theme - Coming Soon Page Bootstrap Theme - Function - Save Form We fixed an issue that was affecting the settings of the Profile Tab on the Edit Products section. Widgets Involved: Bootstrap Theme - Account - Sidebar We fixed an issue in the View Events of the Member Dashboard section, before the events were being labeled as Expired, right now is working as expected. Widgets Involved: Bootstrap Theme - Account - Feature Body datatable The issue that was displaying the erroneous currency symbol on the signup pages has been resolved. We fixed some minor issues that were affecting the behavior of the Payment Gateways Page in the Site Admin. We improved the Success Modal Message on the Signup Pages. We fixed some minor issues that were affecting the behavior of the Transaction History Page in the Site Admin. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

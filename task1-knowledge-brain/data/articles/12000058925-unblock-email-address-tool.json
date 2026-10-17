@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000058925-unblock-email-address-tool",
+  "title": "Unblock Email Address Tool | Brilliant Directories Documentation | BD Support",
+  "content": "Unblock Email Address Tool Link: https://support.brilliantdirectories.com/support/solutions/articles/12000058925 Unblock Email Tool When our email system sends emails to an address several times and they bounce back, that email address gets blocked automatically from having emails sent there in the future. This is the primary reason people express that they are not receiving notification emails to the Admin email address. This is why in the General Settings Tab we added a button to test the Website Default Email address. Check if an Email account is working properly with this tool and if it is blocked by our Email platform unblock it. Click on the Send Test Email to Ensure Email is Working button and the system will start to verify that this email address is working correctly. Once this process is completed it will display the following message: If this message appears the email account should now be unblocked and working normally. If the following message appears: This means that the tool still could not unblock this email address and we will have to proceed with further troubleshooting. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133632892/original/PibEJ1FBENy8yMbVDYfHOkr7CPmLAJ8amg.png?1698866263",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989494/original/Rgn_PeyGgSemSuxIfrGfABOEmZ30ZLocjA.png?1644788592",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12052968847/original/z5dCqQKeg_7y7-5Ozfwayy4F9Lrh23KGew.png?1562102638",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

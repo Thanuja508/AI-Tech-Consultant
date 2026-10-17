@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000042604-03-23-18-software-updates",
+  "title": "03/23/18 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/23/18 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000042604 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We moved the \"Keyword Search\" Menu Item from the Settings Tab to the Developers Tab in the Admin Menu and changed the name of the menu item to \"Autosuggest Settings\". We fixed an issue which was affecting the normal behavior of the Recent Events Widgets when the Recurring Events Add-On is active. Widget Involved: Bootstrap Theme - Display - Recent Events We fixed an issue that was affecting the Tags functionality on search results pages for posts when the Insta-Load Search Results Add-On was active. We fixed an issue which was affecting saving the \"Quick Edit\" page accessed in the \"Actions\" menu in the Search Members page in the Admin. Now Admin Moderators can only update their own Admin credentials. We fixed an issue which was affecting the logic of the Multi-Member Manager Add-On in the Admin Dashboard. We made an improvement to how the system handles all search result pages when the Insta-Load Add-On is active. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

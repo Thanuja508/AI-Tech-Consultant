@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000085648-02-04-22-software-updates",
+  "title": "02/04/22 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "02/04/22 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000085648 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. We updated the Froala WYSIWYGs used on the frontend of sites in order to make it compatible with the draggable \"Pre-Made Elements\" module when using the \"Froala Text Editor - Access Media Manager\" form field type inside a Member Dashboard form. Widget Involved: Form - Froala Editor Javascript We updated the logic of the /checkout pages in order to prevent member signups when the \"Disable Public Sign Ups Pages For This Membership Plan?\" Membership Plan setting is set to \"Yes\". We created a new Post Setting called \"Sidebar Position on Mobile Devices\" that allows the Admin to choose the position of the search results page sidebars on mobile devices. Widgets Involved: Bootstrap Theme - Member Results Bootstrap Theme - Single Post Page We updated the Predictive Keyword Search Add-On in order to load the JS files after the page loads. This will help to reduce the load time of pages and increase scores in 3rd party tools like GTMetrix and Google Pagespeed. Widgets Involved: Bootstrap Theme - Display - Add to Favorites Button Bootstrap Theme - Footer - Scripts - Input Clear Content Scripts For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

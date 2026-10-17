@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059296-how-to-embed-a-form-on-a-web-page",
+  "title": "How To Embed a Form on a Web Page | Brilliant Directories Documentation | BD Support",
+  "content": "How To Embed a Form on a Web Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000059296 To embed any form on a web page, copy and paste the form's shortcode. The shortcode uses the form's system name to call it, in this format: [form=System Name] For example, the Website - Contact Us form has the system name contact_form , so its shortcode is: [form=contact_form] A form's system name can be found in the Form Manager (and identified on the front end using the Admin Bar). The screenshot below shows where the system name appears: With the shortcode copied, follow these steps: 1. Navigate to My Content >> Web Page Builder , as used in related articles and click \" New Web Page \", or click \" Edit \" on an existing page: 2. Paste the copied shortcode into the text editor, add a unique URL, and save the changes: The form will start displaying right away: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458082/original/Z-fIyxbORAzEBvPKuggbTsrEMbyMe6eqjw.png?1781546754",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458319/original/Bm4NFVnoMwY9C1LdtIsW7fOGq4cnRxxHKw.png?1781546976",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458504/original/HDALS0Tse2c0cAXNGsnp90f0abeEbQg-9w.png?1781547039",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180458605/original/AibIE2BIl-WLKJjq5vSgQZL-pZRHhU18_g.png?1781547082",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

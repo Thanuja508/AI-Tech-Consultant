@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045583-adblock-detector",
+  "title": "AdBlock Detector | Brilliant Directories Documentation | BD Support",
+  "content": "AdBlock Detector Link: https://support.brilliantdirectories.com/support/solutions/articles/12000045583 Overview Detect, notify and optionally lock out website visitors who are using ad blocking software. Many directory website owners heavily rely on generating revenue from ads. But with over 500 million devices using ad blocking tools, this prevents directories from generating ad revenue. And until now, there was nothing a directory website could do about this. The AdBlock Detector add-on will detect, notify and optionally lock out visitors who are using ad blocking software against your directory or membership software website. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: AdBlock Detector Add-On Enabling the Add-On Go to Settings > Design Settings > Banner Ads. Scroll down until the option AdBlocker Message appears: AdBlock Detector Settings Expand to see more options. Title Message Notification Mode If Notification Mode is enabled, it will only show the notification and not prevent the users from browsing the website. Block Content Mode If Block Content Mode is enabled, the members will not be able to browse the website unless they whitelist the site with the ad block tool. AdBlock Message Example For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859700/original/brUpXAuyQdDfRFJ_2RvNMf-BsBOTYRo0LQ.png?1771429009",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859814/original/OqsdWnBKZlDa9dY-L9P76L5KtuiVI4Iqsw.png?1771429059",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859954/original/xBErCm4pugaKD-2k6jQskAUgmS8ZE6Z4Cw.png?1771429166",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174860022/original/qOLuLCzjgvffLXmG38QJKC2plnKXdhW2Vw.png?1771429177",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348097/original/pf0S-Ao29DlC4OrxXJOL4kXgERG7cZGELA.png?1614383759",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348134/original/2LhR2EsOD2wt13ItIDKDZ1u4_O9bhE_TBg.png?1614383854",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089348162/original/jQ6xH5HffwYLCXPYtdgfYeHdGXFVLNQjYw.png?1614383940",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

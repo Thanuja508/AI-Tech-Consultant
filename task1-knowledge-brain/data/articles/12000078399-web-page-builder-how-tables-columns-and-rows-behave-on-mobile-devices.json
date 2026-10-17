@@ -1,0 +1,72 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078399-web-page-builder-how-tables-columns-and-rows-behave-on-mobile-devices",
+  "title": "Web Page Builder: How Tables, Columns and Rows Behave on Mobile Devices | Brilliant Directories Documentation | BD Support",
+  "content": "Web Page Builder: How Tables, Columns and Rows Behave on Mobile Devices Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078399 The admin of the site can use tables within Froala editors to add content and style to static web pages on the site. Sometimes, a table can look good on desktop view but when you see it on mobile devices it doesn't. That's why here we are going to explain the behaviors of tables on mobile devices. For example, we have this table in the Froala Editor, it has 2 columns and 5 rows: Desktop view 2 columns and each row show up correctly: Mobile view One column and rows are merged: Even though the data is not being displayed in columns on mobile, this is how tables work by default. So in order to show the content correctly on mobile, there are two options: Option 1 Create a table with one row and two columns, then add all the content inside these 2 rows: It will appear like this on mobile devices: If needed, ask BD Butler to place the table columns side by side for mobile devices: or ask BD Butler to create a more polished table design: NOTE: Make sure the content has the same number of text lines on the left and right sides to prevent extra white space on mobile. Also, set Vertical Align to Top : Option 2 The second option is to create a table with 2 columns and one row: Click inside the left column and then click on the \"Insert Table\" button to add 4 new rows: It should look like this (See the screenshot below). Please do the same with the right column Add the content on each row and column: It will look like this one mobile: NOTE: Ensure the text on the left and right columns has the same number of lines to prevent extra blank space on mobile. Also, set Vertical Align to Top . To learn more about tables, please read this article: Froala Editor - Tables For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973807/original/O0SrOHXUW7t9qe2RgwM6tYFSHF6z2OwjQw.png?1783982741",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974216/original/_WzxBnUOJT-NqPKoz7P5bHQV5ShjrITaew.png?1783983570",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181975038/original/z9MUhVCEe6DxDtzWG_e03vqfP5LeAFayEQ.png?1783984675",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974327/original/ISqVeLY1e5vCgbHSkJASxAbdnNCG9l-uDA.png?1783983660",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974521/original/EsEidO7wkEQIGCbCuc4nKfnrk_VQfU6PoA.png?1783983818",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974589/original/fSN7rU-JFWcsheoSS58S2RITZED2hzt0jQ.png?1783983869",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973896/original/isjG9chYiGJKhpvzZT1lfLStLgICdmtQZg.png?1783982919",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181973991/original/Af8-8ciHk6mkZQ9OkKgyvbz5y0ZCUCCt4Q.png?1783983147",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974719/original/Ij81mHnnB28dJ-V5to0NRvSv2rn0iZd_2g.png?1783984190",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974753/original/eCebgga0yAfxNH7IfrlprdRXyzcC7c3M1A.png?1783984226",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974760/original/2eerVKWekUKsd7POpSYpo9RlbUEv42KwxQ.png?1783984259",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974768/original/PZwkpKAztBih8f19gdTEn1PIN9aFQpgHPw.png?1783984288",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089943191/original/arj0dW1bDbQZcnUdZgwweKYAgyJwhz5AnA.png?1615579442",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974877/original/jfh8JUBrApCOGZQilftcinnLd04DKMPGYQ.png?1783984472",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181974884/original/H2UOKBtcCGA9eCPvvPM2WydAJAG228KUsQ.png?1783984505",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

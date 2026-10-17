@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100077-how-to-edit-the-home-url-of-the-domain",
+  "title": "How to Edit the /home URL of the Domain | Brilliant Directories Documentation | BD Support",
+  "content": "How to Edit the /home URL of the Domain Link: https://support.brilliantdirectories.com/support/solutions/articles/12000100077 By default the Homepage of the site is www.yourdomain123.com /home However, depending on the site verbiage or language, this may need to be changed. There is an advanced setting that will allow the / home portion of the URL to be updated. Advanced Settings Website Homepage URL System Variable: default_home_url Add the text into the field, save the changes, and the URL is immediately updated without needing to reset anything. Example For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647802/original/R1jfYNPjr_OglhKrIl-3AxSqbhW-4JnuuQ.png?1753162566",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647808/original/3Vg_oFuqMJKW22MHk_RYLEjQmSMTm_caSQ.png?1753162588",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12144018845/original/676N0aanYpbYybuelFi6zTIiE8jR96OgTQ.png?1717017175",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

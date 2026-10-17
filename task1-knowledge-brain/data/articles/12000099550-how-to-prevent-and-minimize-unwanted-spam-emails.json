@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099550-how-to-prevent-and-minimize-unwanted-spam-emails",
+  "title": "How to Prevent and Minimize Unwanted Spam Emails | Brilliant Directories Documentation | BD Support",
+  "content": "How to Prevent and Minimize Unwanted Spam Emails Link: https://support.brilliantdirectories.com/support/solutions/articles/12000099550 Unfortunately, websites that have Contact Us forms are susceptible to unwanted spam form submissions, this is quite common on the internet. Here are a few recommendations to address this: Block SPAM Keywords Read more : Spam Form Protector Add-On Go to Settings Click on General Settings Use the Integrations tab to access the SPAM Keyword Blocker Use these fields to add keywords, characters and email addresses that will be blocked from being submitted in forms on the site. Block Individual IPs Read more : Block An IP Address From The Website Go to Emails Click on Forms Inbox The IP will be displayed in the Inquiry Details Block the IP of individual spammers if there is an influx of spam submissions from one IP Address. Block Traffic by Country Read more : Block Traffic By Country Go To Settings Click on General Settings Use the Localization tab to access the Block Traffic by Country setting Easily prevent visitors from specific countries from accessing the front-end of the website, this add-on identifies a visitor's country based on their IP address. This prevents the submission of the forms on the site from users in the blocked countries. Members-Only Pages Read more: Members-Only Content This add-on provides full control over who can access the website’s content by requiring designated “members” to log in before being able to view certain pages. In this case the pages with the forms can be protected. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649797/original/M1rUjYKfSSMRulDqyUSA64TTGrm-nsQB7Q.png?1781795131",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649933/original/SyhjjsA8fr57SnejG8nsVeDSMEZmNG_fQg.png?1781795208",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180649983/original/JeBQwhBj93U5Yev9icx81AREsUHJSfeSZg.png?1781795265",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

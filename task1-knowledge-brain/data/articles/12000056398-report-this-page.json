@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000056398-report-this-page",
+  "title": "Report This Page | Brilliant Directories Documentation | BD Support",
+  "content": "Report This Page Link: https://support.brilliantdirectories.com/support/solutions/articles/12000056398 The Report This Page add-on makes it easy to place a “Report This Page” button in any sidebar on the website. Website visitors can then report the page they are on to the website owner. Because the “Report This Page” button can be added to any sidebar, all pages using that sidebar will have the button. This is especially useful for placing on member listings and posts. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Report This Page Add-On Enabling the Add-On After activation of this add-on, its widget will appear on the Default Widgets list: This means that this widget can be utilized anywhere the admin sees fit. In this example, we will be calling this widget on a Post Single Page sidebar. This is how my feature details page looks like before any edits: To utilize this add-on on a specific sidebar, I navigated to Toolbox --> Sidebar Manager --> Clicked \" Edit \" on Post Single Page: Then I conducted a search for the widgets name, dragged and dropped it to the list of active widgets and clicked Save Changes : Our new widget is now active! How Does The Tool Works? When clicked on Report This Page button, a pop-up module will appear: When filled and submitted, a confirmation message will appear: Website owner can access these messages via Emails --> Form Inquries : The admin will be able to differentiate Form Inquiries by checking its Origin Form field. Inquiries that comes via Report This Page add-on will have the report_post_form variable name on it (as it is highlighted on the image above). The admin will also able to know which page that this is reported on via Origin URL field (also highlighted on the image above). Clicking on View Inquiry will display the full details of the message received: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049168268/original/ADb3Gqx18_7V9WK_3b1SbxOqfBfRm7zteA.png?1554989999",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049168459/original/JA_Y8akB_F6ccOKx2uY7n0oHROIK9X0bHw.png?1554990164",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049168557/original/nRq4dg1jxY1yCQxDbJUNlrqOQgk7e_fKAA.png?1554990245",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049168803/original/ZOO_SiOm6zfvjNIGQ18WArj6eqJ5ClZD_w.gif?1554990484",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049168955/original/MZFmN3qrlj2e_ISJD0MI-P-B1Tn7RYfuAQ.png?1554990604",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049169205/original/FgBlza1yNMDAxGCz_HD_f3zWqSQAKs6BWw.png?1554990792",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049169335/original/FyR_2vcvNtJ9dt_R4q4mFzRO0Kya9r6-KA.png?1554990867",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049170040/original/lQXt7g8e-lw7pHH4sqMEB-OPbROM55lljw.png?1554991426",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12049170116/original/FWD7ELsAoKl9mwR_Ff1BRIbO229A5OIDUg.png?1554991497",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

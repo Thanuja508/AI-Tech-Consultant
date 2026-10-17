@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078793-bulk-action-for-forms",
+  "title": "Bulk Action For Forms | Brilliant Directories Documentation | BD Support",
+  "content": "Bulk Action For Forms Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078793 A set of bulk actions is available for custom or brand-new forms under Toolbox >> Form Manager . These actions are not available for default forms. The available bulk actions are Delete , Enable , and Disable : NOTE: Bulk Delete permanently removes the selected forms and cannot be undone. If the goal is to deactivate forms while keeping them available for future use, use Disable instead. To perform a bulk action on forms: 1. Select all forms using the select-all checkbox shown below: Or select the forms individually: Then select one of the bulk actions available and click on Apply : Once clicked, a confirmation pop-up will appear: Once confirmed, selected bulk action will apply to the selected forms: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180460927/original/qnHliJQswl5djVEsV_8XSdtBmeh_5kx43Q.png?1781549450",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180460936/original/R9Jf5Mjtan0p_-m8CJpEj4_QmfEaRVqeXg.png?1781549472",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461070/original/DJFbp-pERkuRj-jgjeDJbGJHpkcPBDX1qg.png?1781549597",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461088/original/hVW1D5UnaDApZ8GHQRXwGzHXwVsrAWM2GQ.png?1781549635",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461205/original/kEGdt56JDgmrlUC9_vF8HH3CyzNGNA0tcw.png?1781549687",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461218/original/Zpwve-O1T9QzxN2R4lLJ5JKNaBpXZJZr4Q.png?1781549704",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180461242/original/1ZQ4A0WDL_qm4hKWGCvkqcLJ6zYZH2_sKw.png?1781549741",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

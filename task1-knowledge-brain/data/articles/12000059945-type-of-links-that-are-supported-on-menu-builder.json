@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059945-type-of-links-that-are-supported-on-menu-builder",
+  "title": "Type Of Links That Are Supported on Menu Builder | Brilliant Directories Documentation | BD Support",
+  "content": "Type Of Links That Are Supported on Menu Builder Link: https://support.brilliantdirectories.com/support/solutions/articles/12000059945 This article outlines all supported link types accepted by the Menu Builder. Links are entered in the URL field when editing a menu item under Toolbox >> Menu Manager : Relative links (e.g., /join ) — Recommended for pages on the same website. Because they don't include the domain, they keep working even if the site's domain changes. External links to secure pages (e.g., https://example.com ) — Full URLs pointing to other websites over HTTPS. External links to non-secure pages (e.g., http://example.com ) — Supported, but not recommended; modern browsers flag HTTP destinations as \"not secure.\" Anchor links (e.g., #section2 ) — Jump to a specific section of a page. The target page must contain an element with a matching ID for the link to work. Email links (e.g., mailto:someone@example.com ) — Open the visitor's default email application with the address pre-filled. Mobile call links (e.g., tel:+4733378901 ) — Open the phone dialer on mobile devices. For more information about different link types, refer to the following article: https://www.w3schools.com/tags/tag_a.asp For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180239128/original/5JqZpgmGV0rITYvuytUZZ6wpIzLSYiYo_w.png?1781151096",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

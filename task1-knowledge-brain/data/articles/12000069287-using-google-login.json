@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069287-using-google-login",
+  "title": "Using Google Login | Brilliant Directories Documentation | BD Support",
+  "content": "Using Google Login Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069287 Google Login allows members to create a membership or sign in with a linked Google account. The add-on must be activated and enabled for the applicable membership plan before use. If Google login credentials haven't been set up yet, please follow this article: Activating Google Login Add-On 1. Once the set up has been completed, the admin will need to go to Finance - Membership Plans and edit the levels they wish to grant this to. 2. Go to the Member's Dashboard tab, and make sure this is set to YES. 3. Make sure to Save Product Details, even if it's already set to Yes. After setup, the Google login option appears throughout the website: Members can use the signup option to create a membership with a Google account: Existing members can sign in using a linked Google account: Google login works when the member signed up with that Google account or synced it from an existing member dashboard. A matching email address alone does not establish this link: Members with a password can remove the Google connection by selecting Unsync. Accounts without a password must set one first, as explained below: Recovering Access When the Account Is Not Linked If the selected Google account is not linked to a member profile, a message titled Google Account No Longer Linked provides a password recovery link. Using the same email address for both accounts does not automatically link them. This message alone does not confirm whether a membership exists for that email address. Open the password recovery link in the message. Enter or confirm the email address associated with the existing membership. Submit the password reset request. For an existing account, follow the instructions in the password reset email to set a password. Sign in with the membership email address and password. Sync the Google account again from the member dashboard. Once the account is synced, Google login can access that member profile again. The signup option is for creating a new membership, not for recovering an existing one. Setting a Password Before Unsyncing A member account must have a password before its Google connection can be removed. If no password has been set, clicking Unsync displays Set a Password First and leaves the social account linked. Open the password link in the message. This logs the member out and opens password recovery with the member email address filled in. Submit the password reset request. Use the emailed link to set a password. Sign in with the membership email address and the new password. Return to the member dashboard and click Unsync for Google. After unsyncing, the member can continue to sign in with the membership email address and password. For additional login scenarios, see Common Mistakes with Google and Facebook Login . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027554/original/cbuW_2xfayEA7r-XknqpJD0Dks-45oTbjw.png?1586274503",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027636/original/6HmT4M7MEl8ILN5iNqElY_6s7VPEq-WFqg.png?1586274619",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027708/original/9_I7VoqkM1GTxM9I_lNh74xPUTzOcr8zWw.png?1586274693",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027738/original/1KwzHquukL3M6AapS7QCusz8X7PLt_d3Mw.png?1586274730",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027750/original/Q6EHE4N7R1Tb8HGaiWTFbkoiqVHBt-jgfQ.png?1586274752",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076027993/original/xX-w2VwsH0r-thRqYtoc8CloLUJY-LttWg.png?1586275077",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076028044/original/LDyCwd6Kdt6iRVqGL7TxEsqh2IMIIlWhpQ.png?1586275168",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238317/original/RNTyalRlHv-BUVVrs4v9ArSPAzs1f2N68Q.png?1789496482",
+      "alt": "Google account not linked message with password recovery link"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185238332/original/oDIsGA5A0ft6r78qX3WvigncBkW3EjhHTA.png?1789496509",
+      "alt": "Google message requiring a password before unsyncing"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

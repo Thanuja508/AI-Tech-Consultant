@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000013438-how-bandwidth-and-storage-usage-is-calculated",
+  "title": "How Bandwidth and Storage Usage Is Calculated | Brilliant Directories Documentation | BD Support",
+  "content": "How Bandwidth and Storage Usage Is Calculated Link: https://support.brilliantdirectories.com/support/solutions/articles/12000013438 In the Dashboard Area of every Brilliant Directories website, there is an indication of the storage that is currently being used and the bandwidth that has been used for the current calendar month: Our server network utilizes the CentOS / WHM / cPanel stack to manage hosting accounts and calculate bandwidth and storage usage data. To measure bandwidth, cPanel & WHM combines the amount of bytes of an incoming data request with the outgoing transferred data (the response to that request). cPanel & WHM obtains this data from the Apache logs. These logs include the following amounts of bandwidth: The total bandwidth that the incoming request that solicited the content used. The total bandwidth that the complete response used (the sum of the size of the content plus the header). For more information about how bandwidth usage data is calculated, and why it may differ from data obtained using other tools, please see the full documentation on this topic here: Apparent Discrepancies in Bandwidth Usage Statistics For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174859000/original/kOcVJLL3w5JAibsOO85KveKKyt4e3v0fYw.png?1771428467",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

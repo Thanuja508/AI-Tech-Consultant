@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000044521-google-website-translator",
+  "title": "Google Website Translator | Brilliant Directories Documentation | BD Support",
+  "content": "Google Website Translator Link: https://support.brilliantdirectories.com/support/solutions/articles/12000044521 Overview Growing and managing an international directory or membership website can be challenging… especially if the members and users speak different languages. The Google Website Translator add-on will add a drop-down menu to the website, allowing users to select their language. Once selected, Google Translate will be used to translate the front-end of the website to the user’s selected language. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Google Website Translator Add-On Enabling the Add-On 1. Settings » Design Settings » General » Header Design: This tool will appear in the header: To revert the site back to the original language, use the \" Show Original \" button that appears at the top of the web page: ** Google Translate won't show the default website language as an option in the drop-down because technically, there is no need to translate it since that's the main language of the website. ** Additional Functionality The admin will be able to change the wording that displays instead of the usual \"Select Language\" by editing the text label select_language_option_google_translate : By default it will be blank making the \"Select Language\" appear, once the new text is added it will replace it: With this add-on it is also possible to limit the languages available that can be translated. To do this, follow the steps below. 1. Go to Settings » Advanced Settings, search for: » translate_languages Edit the languages here - See the list of the languages using the link below: https://cloud.google.com/translate/docs/languages For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094237130/original/EwOHRdMc86WOblc0-P7rnGcaDKG-N2VyCg.png?1623969392",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729739/original/uJcLBWS5TvlMZ1zYtmjrplolwHaFVlywcw.png?1602852686",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729762/original/Xg0pOmLwotNYt_P8WjNVJ_mZj2N4e-2nUA.png?1602852710",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083729823/original/mJIxGMqAun99mUXdoA5zWsk3Z2_4M9YcJQ.png?1602852778",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095063049/original/v9Gia3zfaSWVFdzQOfO8OFAINI9BP2Evhw.png?1625513490",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095063208/original/4vxxP4UxQFTGYFpW1ivHshYn1QNm_VIwVA.png?1625513967",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095130784/original/5RnuOV9xtKTfuZTqPk-HkaVmkFxtEdiWYA.png?1625622206",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

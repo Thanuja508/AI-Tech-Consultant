@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097730-how-can-i-create-a-new-text-label-or-custom-text-labels",
+  "title": "How Can I Create a New Text Label or Custom Text Labels | Brilliant Directories Documentation | BD Support",
+  "content": "How Can I Create a New Text Label or Custom Text Labels Link: https://support.brilliantdirectories.com/support/solutions/articles/12000097730 Brilliant Directories does not currently include a feature for creating custom text labels. However, the same result can be achieved by creating a custom widget that contains the desired text and displaying it anywhere on the website using a widget shortcode. Creating a Text Label Widget Log in to the Admin Area. Navigate to Toolbox → Widget Manager . Click New Widget . In the HTML tab, enter the text that should be displayed. Assign the widget a descriptive nickname that makes it easy to identify later. For example, if the widget displays the text \"Join Us\" , a nickname such as Text - Join Us helps keep similar text label widgets organized. Save the widget after entering the desired content. Displaying the Text Label Once the widget has been created, it can be displayed anywhere that supports widget shortcodes. For example: Copy [widget=Text - Join Us] Wherever this shortcode is added, the widget's content will be rendered on the page. This approach makes it easy to reuse the same text in multiple locations while only needing to update it in one place. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050248-how-to-add-categories-to-h1-search-results-title-for-posts",
+  "title": "How to Add Categories to H1 Search Results Title for Posts | Brilliant Directories Documentation | BD Support",
+  "content": "How to Add Categories to H1 Search Results Title for Posts Link: https://support.brilliantdirectories.com/support/solutions/articles/12000050248 If you wish to have your category show up in the H1 of your post search result, please follow along the steps below: 1. Go to Content - Edit Post Settings and select the feature you wish to add this to. 2. Click on the Search Results Tab. 3. Copy and paste the code below into the Default H1 field. <span class=“inline-block”><?php echo (!empty($_GET['category']))? implode(', ', $_GET['category']): ''; ?></span> This will also work when you search multiple categories at the same time: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041931751/original/boY16xhJcD0dZ3axPVHrTtxlIXXBlAaGeA?1539293510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318806/original/Z5UzKxw0EZNajz_gpe308QQMmVx7zbVUHg.png?1687449682",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12071661036/original/CrabocMEVco7fim7POcFVUeXONKuKk0cNg.png?1577805932",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041932975/original/042sKp_8FqhwBm8D7iqYoEdHCHOBwtLIbw?1539296267",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12041931941/original/0AsUEHj6GIbrDiK7vw7KXB_XkKZtGLp4UQ?1539294002",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

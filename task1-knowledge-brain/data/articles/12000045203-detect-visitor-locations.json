@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045203-detect-visitor-locations",
+  "title": "Detect Visitor Locations | Brilliant Directories Documentation | BD Support",
+  "content": "Detect Visitor Locations Link: https://support.brilliantdirectories.com/support/solutions/articles/12000045203 Overview Enable the website to detect and grab a visitor’s geo-location. Once detected, the visitor’s location will automatically be inserted into the location search fields on the website. The Detect Visitor Locations add-on saves visitors an extra step by automatically using their current location when conducting local searches on the website. Very Important For this add-on to work, the site needs to have an SSL Certificate installed and Google Maps API Integration needs to be completed. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Detect Visitor Locations Enabling the Add-On 1. Go to Settings » Design Settings » Search Results Pages: 2. Now Enable or Disable this functionality: 3. Select the icon that will appear in the Location Search when the addon is enabled: Detect Location Permission When this add-on is enabled, an icon will display throughout any of the location-related search modules: Clicking on it will prompt the browser with this message: Once permission is given, the location will auto-populate within the location fields. Prompt Automatic Location Module By default the system will wait until the user clicks on the detect location icon to autofill the users location: However the popup can be set to automatically appear on the page when a user visits the page with the advanced setting: Prompt Visitors To Share Their Location Automatically On Page Load? System Variable: location_auto_fill_at_once Automatically prompting the user to allow the website to \" Know your location \" prior to clicking or completing a search: How the Add-On Works Gets the location of the user's device using the very accurate HTML5 Geolocation API (not the user's IP) Searches that location using the Google Maps Geocoding API to get the user's city as recognized by Google Maps Inputs that city into the location search fields of the site automatically When doing a search, the search is based on the center of the city that was processed using the steps above. It is not calculating distance between the user's device and the members in search results. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129185376/original/sz_4FgOCsUqjpiF-cyOT_YkZUZ-iUo_AoQ.png?1690867620",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128888571/original/D9v9c5Fv5NadhAdkF5tbA8Fpr3Tr3M5vLA.png?1690302631",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128888578/original/xM6vzvJPoZcpjgb7E-2yF5_lDfbJqRHpMg.png?1690302637",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320162/original/Go5N0XRNVNmTb1y1igEJXE21if5wbke83w.png?1627942497",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320180/original/q8otuNybamM8zMN1AVmUXd9WbG-P6U2BjQ.png?1627942536",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320196/original/ljQGD8fQPyfdkWtY1KOmgjXBW4h6P5Rfog.png?1627942577",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128972504/original/PFxa7QWVlPLzRROanZx51CroAZTQ39gHZg.png?1690420578",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12128972254/original/h3vBcM18-4rh_wCem927a8qdQE6oSMcMhA.png?1690419860",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129185283/original/bhvHQZ1EgaY4GEVXJLsDQZUYOA2ZTuDSeQ.png?1690867433",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

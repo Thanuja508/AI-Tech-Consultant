@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067531-photo-gallery-previewer",
+  "title": "Photo Gallery Previewer | Brilliant Directories Documentation | BD Support",
+  "content": "Photo Gallery Previewer Link: https://support.brilliantdirectories.com/support/solutions/articles/12000067531 The Photo Gallery Previewer add-on provides additional information and interactivity to search result pages & member profile pages for posts that utilize photo albums – Classified Ads, Properties, Products and more. A scrollable “preview” photo album on search result pages and is utilized by major websites such as Alibaba, Redfin and Fiverr amongst many others. This is controlled by post, meaning that certain post types can have it on and then off on others. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Photo Gallery Previewer Add-On Enabling the Add-On 1. Go to Settings - Design Settings. 2. In the General tab scroll down and expand Search Results Design. 3. Enable the Albums Search Results Carousel. 4. Save changes. To activate/deactivate this for a specific photo album post type, please follow these steps: 1. Go to Content - Edit Post Settings: 2. Click Edit for the post type the admin wishes to activate this for. 3. In the next page click on the Search Results tab. 4. Scroll all the way down until the option Additional Settings shows and expand it. 5. Scroll down a little further to activate/deactivate the photo gallery previewer. 6. Save changes. By activating this add-on the search results for the photo album type of post will work like this: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452445/original/XdME2k8ieqU6dTHf9ODYJgOiN9Uf-P-cpw.png?1620689318",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452457/original/YKcuwz4CPWEgEY9PNaxoAEvgl4J0A63lhg.png?1620689390",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452485/original/WIURWWbxqEQrD-zfNCppSNDSJDVa8xnS3g.png?1620689447",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452493/original/tSC2ztDDzXl5qx9y4Lx4vwvoUxXmTMGuRg.png?1620689502",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452653/original/Zmk9ziDxUQTzTDyZu69097H-RgmlCwV50g.png?1620689815",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452707/original/BZsIggLWkiRh7DXe7PCRDBpaD-Z9c-kc8A.png?1620690050",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452750/original/-T-H7nfGBaGkowl2C0ox4x_mn3SKuOOQIw.png?1620690143",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092452793/original/cspISouMxPcYeAKPF5Kglzio-ovGVgzIMQ.png?1620690213",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092453047/original/_BSSoRASavGz8qw2i8uR0ZTZ60XeitT8XQ.gif?1620690808",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

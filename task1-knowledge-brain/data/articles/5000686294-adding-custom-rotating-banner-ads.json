@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000686294-adding-custom-rotating-banner-ads",
+  "title": "Adding Custom Rotating Banner Ads | Brilliant Directories Documentation | BD Support",
+  "content": "Adding Custom Rotating Banner Ads Link: https://support.brilliantdirectories.com/support/solutions/articles/5000686294 Rotating banner ads can be added to different areas of a Brilliant Directories website, including sidebars, headers, footers, homepage sections, and content areas. There are three rotating banner widget sizes available: Available Banner Types Bootstrap Theme - Banner - 250_250 Rotating Recommended for sidebars. Bootstrap Theme - Banner - 300_250 Rotating Recommended for sidebars, headers, and footers. Bootstrap Theme - Banner - 970_90 Rotating Recommended for headers and footers. Displaying Banner Ads Before adding rotating banners, make sure Banner Ads are enabled on the website. Adding Rotating Banners To add a rotating banner to a sidebar: Go to Toolbox → Sidebar Manager . Select the sidebar where the rotating banner should display. The appropriate sidebar depends on the page where the banner will appear.In this example, the rotating banner is added to the Member Search Results sideba In the Available Widgets search box, search for \"rotating\" . Drag and drop the appropriate rotating banner widget into the right-hand column. Save the sidebar changes. Editing a Rotating Banner After adding the rotating banner widget to a sidebar, the next step is to configure the images that will rotate and the URLs they will link to. Go to Toolbox → Widget Manager and search for the rotating banner widget that was added to the sidebar. For example, if the Bootstrap Theme - Banner - 250_250 Rotating widget was added, search for that widget and click Customize . The rotating banner widget contains three primary elements that can be customized: Rotation Interval Controls how often the banner changes images. The default value is 3000 milliseconds (3 seconds) . Banner Link The href=\"#\" value defines the destination when the banner is clicked. Replace # with the desired URL. Example: Copy href=\"https://www.google.com\" Banner Image The src attribute specifies the image displayed for that banner slide. Selecting Banner Images Upload the banner images to the Media Manager . Right-click the uploaded image and select Copy URL to copy its file path. Adding and Removing Banner Images Return to the rotating banner widget and replace the existing src value with the URL of the uploaded image. By default, the widget includes four banner slides. Additional slides can be added as needed, and existing slides can be removed if fewer banners are required. The widget's appearance can also be customized by editing the CSS tab. This can be used to adjust dimensions, colors, spacing, and other styling options. Adding Additional Banner Slides To add another rotating banner, duplicate one of the existing banner items and update its image and link. Copy <div class = \"item\" > <a href = \"#\" ><img src = \"http://placehold.it/970x90/000000/00fffa?text=Banner+1\" alt = \"Banner 1\" ></a> </div> Each additional banner uses the same structure. Removing Banner Slides To remove a banner, delete the entire <div class=\"item\">...</div> block associated with that image. The examples below demonstrate how the widget code changes as banner slides are added or removed. [Keep the three existing code examples exactly as they are] Adding a Rotating Banner to the Footer A rotating banner can also be displayed in other widgetized areas of the website, such as the footer. To do this, customize the Bootstrap Theme - Footer widget and add the following shortcode where the rotating banner should appear: Copy [widget=Bootstrap Theme - Banner - 250_250 Rotating] This embeds the selected rotating banner widget in the footer. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131563790/original/OjiZRkRUV7Ld7RaAM_hPsaHYjXL4nPKPDg.png?1695172578",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122192315/original/1E8jURXQyOXXl00S2MLx7B8I8C_hxW4NCg.png?1678118564",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122192899/original/KNFM-Z2kmH89-aqUOWU8m5TAVLZRJ6aOMA.png?1678119095",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122193243/original/CWhZqfEY31qK1awg-eVB7FN1Eog0sRMmeg.png?1678119310",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122193545/original/OfDKZGd1Qvp5syfgEkhBg5Ls6C69bL1I9A.png?1678119503",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122194578/original/dPz2Z1l4P_8S4oiFqiCdGXM6pRwb5Hd7xQ.png?1678120469",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122194576/original/Rp2kdnVKIhixZQJlR5E2TBrEppeZrC1PkA.png?1678120469",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12076994996/original/tbS2PZeqhYCXAExak7TMOMiK19UNYVRHQg.png?1588703334",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

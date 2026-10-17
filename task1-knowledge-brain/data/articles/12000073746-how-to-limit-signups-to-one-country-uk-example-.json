@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000073746-how-to-limit-signups-to-one-country-uk-example-",
+  "title": "How to Limit Signups to One Country (UK example) | Brilliant Directories Documentation | BD Support",
+  "content": "How to Limit Signups to One Country (UK example) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000073746 In this article, we are going to explain how to hide ‘UK’ as a country and select England, Northern Ireland, Scotland, and Wales instead. The location system is based on the Google Maps structure and Google Maps treats the UK as a \"Country\" and England, Northern Ireland, Scotland and Wales as \"States\" (even though technically they are sub-countries of the UK). This is what it looks by default: This is how it will look after editing the form: Note : There is no automated way to 100% prevent members not in the country from signing up. Customizing the Form 1. Navigate to Toolbox » Form Manager. If the website is using an on-site payment gateway like Stripe, PayPal Payments Pro, Authorize.net, PayPal Payflow, or eWay, edit this form \" whmcs_signup_paid \". If the website is using an off-site payment gateway like PayPal Standard, 2Checkout, or PayFast, edit this other form: \"whmcs_signup_external \". 2. At the top right there is a search bar, Conduct a search for \"Paid\", select the correct form based on the information in Step 1, and then click Actions » Customize : 3. Find the field with database variable country_code and update the following settings: Field Type: Hidden Field Label Name: GB System Variable: country_code 4. Then find the field with database variable state_code and edit the following sections: Field Type: Dropdown List (select Custom HTML option here for non-UK scenarios) Label Name: %%%cc_country%%% (The value to use for non-UK scenarios is provided below) System Variable: state_code Enter CSS Class: form-control Display Options: Set all to YES How this form field looks for UK scenarios: As shown in the screenshot above, if 'Dropdown List' is selected as a field type, a button called \"ADD OPTION\" will be displayed at the bottom. Here the respective country values can be inserted. For this to work as expected, make sure to use the Database Variable names specified in the image above. For non-UK scenarios, this might take a very long time to add each state and their respected database variable. As a work-around, a widget can be created with these values and this widget can be called on this form field instead. To accomplish this, create a new widget with the following information (the US states example): <label class=\"vertical-label bd-text\">States</label> <select name=\"state_code\" class=\"form-control\" style=\"margin-bottom: 7px;\" id=\"state-chained\"> <option value=\"\">(Select from List)</option> <option value=\"AL\">Alabama</option> <option value=\"AK\">Alaska</option> <option value=\"AZ\">Arizona</option> <option value=\"AR\">Arkansas</option> <option value=\"CA\">California</option> <option value=\"CO\">Colorado</option> <option value=\"CT\">Connecticut</option> <option value=\"DE\">Delaware</option> <option value=\"DC\">District Of Columbia</option> <option value=\"FL\">Florida</option> <option value=\"GA\">Georgia</option> <option value=\"HI\">Hawaii</option> <option value=\"ID\">Idaho</option> <option value=\"IL\">Illinois</option> <option value=\"IN\">Indiana</option> <option value=\"IA\">Iowa</option> <option value=\"KS\">Kansas</option> <option value=\"KY\">Kentucky</option> <option value=\"LA\">Louisiana</option> <option value=\"ME\">Maine</option> <option value=\"MD\">Maryland</option> <option value=\"MA\">Massachusetts</option> <option value=\"MI\">Michigan</option> <option value=\"MN\">Minnesota</option> <option value=\"MS\">Mississippi</option> <option value=\"MO\">Missouri</option> <option value=\"MT\">Montana</option> <option value=\"NE\">Nebraska</option> <option value=\"NV\">Nevada</option> <option value=\"NH\">New Hampshire</option> <option value=\"NJ\">New Jersey</option> <option value=\"NM\">New Mexico</option> <option value=\"NY\">New York</option> <option value=\"NC\">North Carolina</option> <option value=\"ND\">North Dakota</option> <option value=\"OH\">Ohio</option> <option value=\"OK\">Oklahoma</option> <option value=\"OR\">Oregon</option> <option value=\"PA\">Pennsylvania</option> <option value=\"RI\">Rhode Island</option> <option value=\"SC\">South Carolina</option> <option value=\"SD\">South Dakota</option> <option value=\"TN\">Tennessee</option> <option value=\"TX\">Texas</option> <option value=\"UT\">Utah</option> <option value=\"VT\">Vermont</option> <option value=\"VA\">Virginia</option> <option value=\"WA\">Washington</option> <option value=\"WV\">West Virginia</option> <option value=\"WI\">Wisconsin</option> <option value=\"WY\">Wyoming</option> </select> Then call this widget on the form field using its shortcode method . This is what the end result would look like: 5. Find the field with label </div><div class=\"col-lg-6\"> and change the value to </div><div class=\"col-lg-12\"> : Now, the default \"State Field\"will not appear and the \"Country\" field will show these 4 options: England, Northern Ireland, Scotland, and Wales. Member Forms There are steps that can help prevent members from saving an address outside the target country in the Contact Details form. First, edit the Contact Details form and add the \" readonly \" class to the following fields: address1 city zip_code This can also be added to the state_ln and country_ln fields, but these are not editable by default. Doing this makes the fields uneditable through the UI: Note : If the user is a more advanced technical user, they will still be able to modify the page source through the browser to force different values for these fields, but this is unlikely to affect typical users. Next, navigate to the General Settings » Localization tab. Set the Primary Country to the site's target country and set \"Location Search Suggestions\" to \"Only Search Within Primary Country\": » How to Localize the Website This will limit Google Maps results to locations within the selected country when a member enters their location in the Contact Details form in the Member Dashboard. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393826/original/lTqQkm4D28ZwsKKH_hc1KApcagsitogYMg.png?1620611596",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081698724/original/w9VRJUN-MuxAz2x6N8qwypXUH4K1VZfLDw.png?1598560943",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092698763/original/tswmFhXFnWM7dEaoYT6z08IhvzUCkmt9lg.png?1621184873",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092698903/original/GQh_KhhZTa5wY50tlPUEA5rfFv229ACNPQ.png?1621185610",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096320824/original/itJ2OPk5k6e1ukDxqqAofzAHbvD2xqwbWQ.png?1627944091",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096321152/original/mj24ffqKhCkaREvzzI9MNAlbxcYpRhxfig.png?1627944872",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096321295/original/rHkUEtAlSCy1CmBUE0j0RvvHIKTOaE_vSg.png?1627945255",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081660648/original/va2_5c4eYuMVWfAzU04-ui9bp1Xkq2Kd4A.png?1598501661",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109089246/original/BloFvt9pY_j7mK4MmoqPkMU1MM5Hnp_FZw.jpeg?1652803245",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109089266/original/KB9_hXaxWyS6BtBwpjN-ecsPXk6SKouH6w.jpeg?1652803288",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

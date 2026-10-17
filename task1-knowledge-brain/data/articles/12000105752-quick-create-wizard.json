@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105752-quick-create-wizard",
+  "title": "Quick Create Wizard | Brilliant Directories Documentation | BD Support",
+  "content": "Quick Create Wizard Link: https://support.brilliantdirectories.com/support/solutions/articles/12000105752 The Quick Create Wizard allows admins to create new members, newsletters, invoices, posts, web pages and coupon codes directly from the admin header, on any admin page. The blue Quick Create button sits in the top right of the admin header, to the left of Visit Website . Clicking Quick Create opens a menu of the available options. Each option opens its own step-by-step wizard. Only the options the admin's role has permission to use are shown. The numbers in the screenshot match the list below. Each link has the full walkthrough for that option: Add New Member : set up a new member account. Create Newsletter : send bulk email to members. Create Invoice : bill a member for payment. Create Post : publish a new article or blog post. Create Web Page : build a page with SEO content. Create Coupon Code : set up a discount code. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415487/original/W0xobl-pd9D3R_DP8A3QBRjJwUd_ZvGZMQ.png?1791392529",
+      "alt": "The Quick Create button in the admin header"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415488/original/-UpoC1sMo68exIiUC5lLA3RyIqAINN4Hgw.png?1791392530",
+      "alt": "The Quick Create menu open, with its six options numbered 1 to 6"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

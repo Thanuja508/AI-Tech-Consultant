@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103849-my-members-search-members-search-filters",
+  "title": "My Members Search Members » Search Filters | Brilliant Directories Documentation | BD Support",
+  "content": "My Members Search Members » Search Filters Link: https://support.brilliantdirectories.com/support/solutions/articles/12000103849 The search filters enable refining the results based on specific criteria, helping to locate members efficiently. Search Filters There are 23 different search filters, 1. Search by Name, ID, URL, or Token Allows searching for a member using their name, unique ID, profile URL, or token. 2. Membership Plan Filters members based on their assigned membership plans. 3. Top-Level Category Enables filtering by the primary category assigned to a member. 4. Joined Date Range Filters members based on the date they joined the platform. 5. Search by Email Address Allows locating a member by their registered email address. 6. Account Status Filters members based on their account status, such as active, inactive, or on hold. 7. Sub-Category Selection Allows refining searches further by selecting a sub-category relevant to a member. 8. Login Date Range Filters members based on their last login activity within a specified date range. 9. Verified Status Filters members based on whether they have been verified on the platform. 10. Transaction Types Filters members based on their payment history, such as No Transactions, Paid, Stopped / Cancelled, Past Due, Refunded, Upcoming, Credits Available. (Includes filter for members with available credits ) 11. Sub-Sub Category Allows for further refinement by selecting a sub-sub category for the member. 12. Joined Via Filters members based on how they registered, such as Admin, API, Import CSV, Business Data Import, Self Signup, Self Signup Via Facebook, Self Signup Via Google, and Self Signup Via Claim Listing. 13. Search by Location Filters members based on their geographic location. 14. Member Type Filters results by member type, such as individual or company. 15. Forms Submitted Filters members based on the forms they have completed and submitted. 16. Forms Not Submitted Filters members based on the forms they have not yet submitted. 17. Profile Status Filter (Complete or Incomplete; only available if the Require Complete Profiles setting is turned on) 18. Find Duplicates The Find Duplicates filter enables the administrator to locate members based on selected fields. If multiple options are chosen, the filter will seek duplicates across all selected criteria. 19. Choose Sales Rep. Name This dropdown will display all the sales representatives that are added to members of the website. Available with the Sales Representative Tracking advanced setting. 20. User IP Country Filters members based on the country associated with their IP address. 21. User IP Allows searching members based on their last recorded IP address. 22. Member Tags Filters members using custom tags assigned to them. (Available with the Member Tags & Tag Groups Add-on) 23. Profile Images The Profile Images Filter has two options: Image Exist : Shows members who have the selected image(s) in the filter. Image Missing : Shows members who are missing the selected image(s). Profile Photo Image: Filters members based on whether they have uploaded a profile picture. This option is typically relevant for individual listings. Company Logo Image: Filters members based on whether they have uploaded a company logo. This option is relevant for company listings. Profile Cover Image: Filters members who have uploaded a cover image for their profile. Cover images help personalize a profile and enhance its visual appeal. Important This is an \"AND\" search, meaning if all three image types ( Profile, Logo, and Cover Image ) are selected, the system will look for members who have all three images. Only members meeting all three criteria will appear in the search results. Searching by Multiple Member IDs The Member Name, ID, or URL filter allows to search for multiple member IDs simultaneously. To do this, add a # to the search query, followed by a comma-separated list of member IDs. (see screenshot) Example: #44871,44866,44858 Note: This field has a character limit. If the search exceeds the limit, no results will be displayed. In that case, try reducing the number of IDs in the search. Location Search and Multi-Location Add-On If the Multi-Location Add-On is active on the site, an additional checkbox option called Include Service Areas will appear. If Service Areas are excluded, only the members who added the specified location to their contact details form will appear. If Service Areas are included, members who added the specified location to their contact details form and those who added the specified location to their service areas will appear. Multi-Option Filters All dropdown filters on the Search Members page support selecting multiple options. Simply select the desired values within a filter to include them in the search results. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181027305/original/XY7WGw_wpMFVHEPa4LLVUGKWtLLCcboCSg.png?1782399899",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159606186/original/sKvbDXwJXk4jhYas8wMKs8Q2Znuha_mFeg.png?1744129396",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181027711/original/COpY1vwupUxbLgwtCBCzfdY4PicHpYdJig.png?1782400254",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156093752/original/o4191XbtxiYKRX0tyVAFZemt840bIRJ6QA.png?1738083576",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156093872/original/SBPuo35yCTAdfjsURNtEsW3r72FVm8aHeQ.png?1738083676",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

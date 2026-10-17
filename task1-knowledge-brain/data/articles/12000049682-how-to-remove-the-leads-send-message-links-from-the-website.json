@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049682-how-to-remove-the-leads-send-message-links-from-the-website",
+  "title": "How to Remove the Leads/Send Message Links from the Website | Brilliant Directories Documentation | BD Support",
+  "content": "How to Remove the Leads/Send Message Links from the Website Link: https://support.brilliantdirectories.com/support/solutions/articles/12000049682 This guide explains how to disable member-to-member messaging and remove lead generation forms from your website. Disable the \"Send Message\" Feature: The first step is to prevent members from receiving messages and leads through their profile pages. Navigate to Membership Plans: Go to Finance → Membership Plans . Locate the membership plan you want to edit. Click Edit . Disable the Send Message Form: Open the Profile tab. Locate the setting Show \"Send Message\" Buttons & Forms . Set this option to No . Do the same on all of the Membership Plans. Then go to the Profile tab, find \"Make a Connection\" / \"Claim Listing\" Banner Position . Select \" Hide - Do Not Display \" to hide the send message link. Do the same on all of the Membership Plans. After updating these settings, the messaging forms and buttons will no longer appear on member profile pages. Important: Repeat this step for every membership plan that should not allow messaging. Remove the \"Get Matched\" Page Lastly, it is also important to remove the Getmatched Page. Go to My Content >> Web Page Builder >> Locate the \" Get Matched \" page and click on Delete . Once deleted, visitors will no longer be able to access the Get Matched page on the website. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056221/original/WGyNQL36ZuohqG-72ZnSp36XtaIjOfzg0g.png?1780930646",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056338/original/ZgbbQzdoknKp6uwP1aIIp7Cl57r2QNsO0A.png?1780930689",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056482/original/QErxvULcrbSbHJBdLKUE-YNJn_ZudVC5hQ.png?1780930845",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056661/original/emtcJkLUzw8tuQVkW7Jpy2YV932nQbfM5g.png?1780930944",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056765/original/qbx_UFSqPNqEOQTIPWOOKnxG1h0wT5vlNg.png?1780931004",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180056942/original/aiLfolTOTya_a5Wc76fAA75DHAa8VX2GjQ.png?1780931121",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000027134-turning-off-auto-pluralization-for-seo-templates-adding-an-extra-s-",
+  "title": "Turning Off Auto-Pluralization For SEO Templates (Adding An Extra \"S\") | Brilliant Directories Documentation | BD Support",
+  "content": "Turning Off Auto-Pluralization For SEO Templates (Adding An Extra \"S\") Link: https://support.brilliantdirectories.com/support/solutions/articles/12000027134 Overview Automatic pluralization (the system adding an \"s\" within SEO templates) can be disabled for a site. Steps Navigate to Admin > Settings > Advanced Settings . Search for disable_plural_text . Switch the setting to ON to turn off pluralization. Click Save Changes . NOTE: The setting name is disable_plural_text , but it is switched ON to disable pluralization, not off. The ON state activates the \"disable\" behavior. Default Website Language When the Default Website Language is set to a language other than English, and the Use same language for text labels and email templates option is enabled, the system automatically disables auto-pluralization to ensure accurate text display. Related Reading Additional details on available variables are covered in the \" Understanding SEO Variables \" article. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799928/original/Qz2StWghxvI1dNhQfZduV9Xj2AxGT-cM6Q.png?1788783894",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799953/original/FSFNQcFaqtjrH24wUknadD3fScPykW_xKA.png?1788783930",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101601-how-to-remove-the-post-publish-date",
+  "title": "How to Remove the Post Publish Date | Brilliant Directories Documentation | BD Support",
+  "content": "How to Remove the Post Publish Date Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101601 Every post is published with the Post Date visible on the website: Remove Date Sitewide The \" Posted \" date can be removed site wide by adding this Custom CSS code in Design Settings. .posted-by-snippet-date { display: none; } Add the code in the Design Settings: Go to Settings . Click on Design Settings . Head to the Custom CSS / HEAD tab . Add the code in the Additional CSS space. Remove Date Individual Post Types To remove the date for a specific post type add it in the Post Settings. Go to: Go to My Content. Click on Edit Post Settings. Find to the Post Type . Head to the Detail Page Design tab. Add the code in the Insert Additional Code space. With this one, add the style tags as well: <style> .posted-by-snippet-date { display: none; } </style> Date Removed Once the code has been saved, the date is removed: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149897343/original/sV_zEeYZS3-Ak3fR7aBMc2TPWna9DeqkHw.png?1727139420",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149896508/original/QQw_1VySvsBXasAw7NgRAARm_Mq_tNcBVg.png?1727137106",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149883369/original/h81U3TQ2p64GpXOiImsL-yftYjda3uVGTA.png?1727120506",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149897346/original/MqlSZ4dVFZNl9AnAQMkg-IOrVTd6eddEfA.png?1727139450",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

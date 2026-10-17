@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000027114-homepage-hero-divider-clickable-links-call-to-actions-",
+  "title": "Homepage Hero Divider - Clickable Links (Call-To-Actions) | Brilliant Directories Documentation | BD Support",
+  "content": "Homepage Hero Divider - Clickable Links (Call-To-Actions) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000027114 The Hero Divider is one of the most utilized design features with the Brilliant Directories platform. It is a great way to teach new website visitors what it is they can do on the site. It is also one of the first things they see, taking up some of the most valuable real-estate on the website, both for desktop view and mobile devices. Brilliant Directories have been asking to convert this section into a great opportunity to add high-quality call-to-actions that are clickable. This increases page views and helps the end-user find what they are looking for quicker. Desktop View: Mobile View: Adding Clickable Links To The Hero Divider To add clickable buttons to the hero divider please follow these instructions: Go to SETTINGS >> DESIGN SETTINGS >> General >> HOMEPAGE >> Select Content to Display Find the Section spot where the Homepage Hero Divider is selected or select this option and click on Edit Settings Add the \"Link Name\". This is the text that will appear on the clickable button itself. Add the \"Link URL\" for each button. When the button is clicked, the website visitor will be taken to the link provided. Click \"Save Changes\" Hero Divider Settings Use Icon / Use Image Use Icon: Select this option to use web icons from the already made Fontawesome Gallery. Use Image: Use custom icons or images to create the clickable links. Hide on Mobile? Disable or enable the Homepage Divider Section on a mobile device. Please see the image below to find this useful setting: Selecting Image 1. Select Use Image . 2. Add the Title , here we are using the same title of the Post: 3. Add the Caption , on this section we are adding a short description of what this Post is about, use this to call visitors attention: 4. Add the Link Text , we are adding who created this Post (links can open in a new tab by checking the : 5. Add the Link URL of the post: Finally, add the other two and change the Background Color, Font Color and tweak the padding to personal liking. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362599/original/6xXv6zjf_QAB4OAG8AUETu3kPv0akhdpgQ.png?1614454922",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362600/original/t472sb0JAfQZ1JYtCFJrnLBOGMA9gqMDSg.png?1614454953",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362624/original/3Ae7LHUGrrUjf4vsDhGqv3i-cHndhd5NrQ.png?1614455112",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362727/original/NwtEQ5EH467K1M501roZqdL0j3pfT5ES_A.png?1614455657",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400066/original/CLpPzoNTnK1dl3025opazJC5MZwjX4s0WA.png?1668698098",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362743/original/YSwgTW-7aT-fr8ll9x-ZkYfz-oXeYsmPBg.png?1614455786",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362764/original/p4ei7RGvk1y2eTpTknWdVFtlBGLTrIcD-g.png?1614455908",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089362765/original/KVckAYZFxHeFAuemQG08trZn4hbQMvVeEw.png?1614455920",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400143/original/2dZrtdWg01zF9pXzaWGytmjtnnkmxv6LyA.png?1668698192",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12117400166/original/Aei0Z302Bj6QWuDhJiXZKLPmjZotY_3lEQ.png?1668698212",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

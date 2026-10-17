@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000028307-how-to-edit-the-member-listing-post-type",
+  "title": "How to Edit the Member Listing Post Type | Brilliant Directories Documentation | BD Support",
+  "content": "How to Edit the Member Listing Post Type Link: https://support.brilliantdirectories.com/support/solutions/articles/12000028307 The Member Listings are found under the Post Types but the settings available for the Member Listings differ from the Content Post Types. Member Listings don't have a Details Page tab - this is because the listings are profiles and not posts. All of the content for the profile is on the Profile Page Design tab. There isn't a Categories field because all the member categories are managed in My Members > Member Categories . The forms for the listings are selected within the Membership Plans: Membership Plans > Assign Profile Forms . Lastly, the URL for the search results settings is in the General Settings » Search Settings . Editing Member Listings Go to My Content >> Edit Post Settings >> Find: Member Listing and click on Edit: When clicking on \"Edit\" for the Member Listing Post Type, there are 3 available tabs with different settings: General Settings Profile Page Design Search Results Design General Settings Tab 1. Member-Only Access This option will only become available if the Members-Only Content add-on is active on the site. 2. Type of Post This option controls from which post type the system will take the data to show the proper results. It is not recommended to change this setting because this may stop the feature from working properly. 3. Display Map When Entering Location Information? This option controls if the Map is visible under the Contact Details form when members enter their information. 4. Enable Results for Global Website Search: Global Website Search add-on required. Profile Page Design Tab Move to this tab to set up the information regarding how the information of the members will be displayed on the members public profiles. 1. Profi le Page Tab Title Change the title that will be displayed on the front end tab. 2. Profile Page Tab Order Choose the position of the profile page tab by selecting a number from the dropdown. 3. Profile Page Code The header, page loop, and footer codes of the Profile Page design can be edited. However, we do not recommend changing these options unless it's handled by a developer or someone with knowledge of web development. If desired, after updating the code, it can be switched back to default. Click on this article for more information: How to Customize the Default Post Types Code. Search Results Design Tab Edit and set up the search results settings for the member listings. 1. Search Results Page Title - H1 Edit the text for the post type title. 2. Search Results Page Sub-Title - H2 If desired, add a subtitle. 3. Search Results per Page This controls how many total results will appear on a search results page by default. 4. Search Results Code The option to edit the header, loop and footer codes of the search results design is available as well. Here's an article for more information on How to Customize the Default Post Types Code Additional settings: Different options will become available when clicking on the dropdown, edit them accordingly: 1. Post Keyword Search Options Advanced setting to control the Keyword Search Options. The \"Search Default Fields\" option also searches member description fields. Please see this article for the Expanded Keyword Search Add-On. 2. Pagination Display Options Select how pagination is displayed on search result pages, either standard, hidden pagination or Insta-Load pagination using the Add-On. 3. Order Results By It controls the display order of items based on a database field. Please find more information on How To Change Search Results Sorting Options here. 4. When Sorting Members - Respect Membership Plan “Search Priority” in the search results pages, when a user sorts the results, this setting will determine if the membership priority setting is applied to the results of the sort criteria. How to Change Search Results Sorting Options 5. Enable Search Results Cache Set to YES (recommended) to cache search results and load subsequent matching search results more quickly. This will help the site's performance because it will load faster. Set to NO to always query the database for all searches. Since the system needs to search for the query each time, it will load slower. NOTE: This cannot be enabled if \"Order Results By\" (Above) is set to \"Random\". In this case, it will be set to NO automatically. 6. Sidebar To Use Name of the Sidebar displayed on the search result pages, either custom or default. 7. Sidebar Search Module Choose which search widget you would like to display in the sidebar of search results for this post type. 8. Sidebar Position on Mobile Device Choose to display the sidebar below (Bottom), above (Top) the results on search results pages, or hide it only on mobile devices (phones and tablets). 9. Display Google Map Option on Search Results Pages Selecting \"Yes\" will display a map icon at the top of search results pages. Clicking on this icon will display the search results as pins on a Google Map. 10. Custom Search Engine Widget Name Create a custom search widget and use it on the search results page. This will require customization For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127318743/original/b29_g2e4i6ye-hWymGuyo7SW0qj8vx8doQ.png?1687449585",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122714287/original/aCDR_HdiFBIqPdqIdHk1whvdl0FF9RM-ag.png?1678982353",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122714594/original/U3-M58upMpvFg247f4K7_YPL1SbdUmfVXQ.png?1678982683",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122714809/original/4BOdSayM4aIoC9A1uQZEbfRk-kG3h9RcoA.png?1678982945",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140416157/original/Z66FCoehxCD91SCDsKAKhZDzTbBOfDmmgA.png?1710860713",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12140416386/original/cNhOF_eZLnvNHmpxpPmTq73ym9BCPLPRvw.png?1710860844",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

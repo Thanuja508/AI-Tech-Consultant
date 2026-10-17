@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065703-how-to-add-expire-end-dates-to-multi-photo-posts-such-as-classifieds-properties-photo-albums-prod",
+  "title": "How to Add Expire/End Dates to Multi-Photo Posts such as Classifieds, Properties, Photo Albums & Products | Brilliant Directories Documentation | BD Support",
+  "content": "How to Add Expire/End Dates to Multi-Photo Posts such as Classifieds, Properties, Photo Albums & Products Link: https://support.brilliantdirectories.com/support/solutions/articles/12000065703 This article explains how to add end or expiration dates to multi-photo post types. This applies to Photo Albums , Products , Classifieds , and Properties . There are two methods: Option 1 – Hidden Field method (admin-controlled). An admin adds a Hidden Field to the multi-photo post's custom form and defines the number of days until the post expires. Once that number of days has passed after the post is created, the post is automatically marked as expired and no longer appears in site search results. Members cannot view, edit, or modify this expiration date. Option 2 – Member-selected end date. An admin adds a Custom HTML Field to the multi-photo post's custom form. Members can then select and manage the desired expiration date for their own post. Option 1: Hidden Field Method Navigate to Toolbox >> Form Manager , then customize one of the following forms: Feature - Classifieds Feature - Properties Feature - Photos Feature - Products For this example, the Classifieds form is used. Click one of the Add Field buttons. This generates a blank field. Fill in the fields as shown below, then click Save Changes . Field Type Select: Hidden Field Field Label Name Enter the number of days until the post expires. In this example, 7 represents seven days from the publish date. Database Variable group_date_interval When a member copies a post with the Copy button in the member's post list, the copy gets its own expiration date, counted from the day the copy is made. Editing an existing post keeps its current expiration date. Option 2: Allowing Members to Specify an End Date Navigate to Toolbox >> Form Manager , then customize one of the following forms: Feature - Classifieds Feature - Properties Feature - Photos Feature - Products For this example, the Photos form is used. Click one of the Add Field buttons. This generates a blank field. Fill in the fields as shown below, then click Save Changes . Field Type Custom HTML Field Label Name [widget=Bootstrap Theme - End DateTime Picker - Group] Database Variable group_date_calendar The field appears when creating a new Photo Album post. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236410/original/DWk9QSixfYlzYYRdwbs35dkeEcbAGKFtYg.png?1781143389",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236416/original/PM0padEYXx_I_C38nqX2K_nnJ_zRNT9e-g.png?1781143429",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236441/original/LNaeK6PcmqWopF2B0_GY95xC5DzTWK9LEQ.png?1781143560",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236585/original/5nCaLgVYg7cAefulHETb3O672-TMW7pd8g.png?1781143915",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236588/original/hnK0Q6vBKD1WBrPADgG1uVGWCeJh_NElIQ.png?1781143938",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236624/original/AxIqR1Hnvv-54oJBQoPd3OkKkXi3_mou3Q.png?1781144058",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236700/original/QWtEKULuOx9rmbPAIAjruMiuSNVWH7TE8A.png?1781144146",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

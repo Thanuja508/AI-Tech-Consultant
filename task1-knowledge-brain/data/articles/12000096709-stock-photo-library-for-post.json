@@ -1,0 +1,76 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096709-stock-photo-library-for-post",
+  "title": "Stock Photo Library for Post | Brilliant Directories Documentation | BD Support",
+  "content": "Stock Photo Library for Post Link: https://support.brilliantdirectories.com/support/solutions/articles/12000096709 Introducing the newest content creation tool that empowers members to enhance their posts with ease. With a library of over 3 million stunning pictures, it's possible to craft eye-catching and engaging content. Elevate posts and captivate the website audience like never before. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Stock Photo Library Add-On Enabling the Add-On To enable to add-on go to Settings » Advanced Settings » Search for the Froala Enable Stock Photo Library setting: Click on the checkboxes to enable the feature in the different Froala Editors. For more details about this, refer to this article: FROALA Text Editor: Versions and their Upload Functionalities . Important Note: If only the advanced setting has been turned on the Stock Photos will be available for all members by default. To restrict this feature to only some membership plans scroll down to see the Membership Plan settings. Admin Settings There are two places in the backend that an admin can enable Stock Image usage for members: Membership Plan Settings (all members in a plan) Individually (Quick Edit settings) Membership Plan If only the advanced setting has been turned on, but this has not been activated in the Membership Plans, the Stock Photos will be available for all members by default. This section explains how to limit this feature per membership plan. It is possible to enable this feature on a membership plan basis. To do it go to Finance » Membership Plans » click Edit on any of the membership plans in the admin area: Use the keyword search or go to the Member's Dashboard tab and look for the \"Stock Images Libraries\" setting, check the box to allow members in this plan to use the feature: Individual Members It is also possible to allow individual members to use this feature; this is helpful if the admin would only like specific members to use it. Go to My Members » Search My Members » Click on the \"Quick Edit\" option under the Actions dropdown: Move to the Listing Settings tab and select \"Yes\" or \"No\" for the Enable Free Stock Images in Text Editors option: Important : Keep in mind that the Quick Edit member option will override the membership plan setting. Front End Use There are 6 areas that members can use the Stock Images: Froala Text Editor - Image Upload Froala Text Editor - Image Upload + Pre-Made Elements Froala Text Editor - Access Media Manager Froala Text Editor - Private Member Chat Messages Post Feature Images Member Profile Cover Photos Froala Text Editors Once the feature has been enabled, click on the insert image option in the Froala editor and select the Library option: Search by Keyword using the designated field: Choose the image orientation: Click on one of the available libraries and then on \"Search Photos\" : Select the desired size for the image to be used. The different image sizes will show in the upper left corner: Click on the download button to add the image: This is what it will look like: Private Member Chat Members can select images from the Stock Image Library while chatting between them. To enable this add-on, follow the steps in this article: Private Member Chat Single-Image Post Types This option will allow for members to choose the post feature image. To search for the images, create or edit a post and click on the Stock Photos button: A pop-up will show to search for the image. Enter the name, select the orientation and pick a library, then, click on search photos: Select the size and click on the download button to use the image: **Important Note: This option is currently available for single-image post types only (Articles, Blogs, Jobs, Coupons, Events & Discussions). Member Profile Cover Photos This option will allow for members to choose the Cover image from the stock libraries. To search for the images, click on the Stock Photos button: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452462/original/yL8daglCazYxn4bFskRmHGnw9LcIOF0xyA.png?1781542506",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452562/original/H8u58R1a0C8pqMUgXZO8p1a35S0b4NhgPA.png?1781542544",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452590/original/68_2oNm8fFbdnHBilqH-pk_bx9TCyPwwNg.png?1781542582",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452648/original/ckhmJNsvwmDmZ-Lqr5wkPEO9w83jcXtNWA.png?1781542673",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452778/original/l3e0EJPY1X2ZeAOhth0iFq58QVD_O7hjnA.png?1781542738",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135763116/original/eZ1gSHhbdpzOnrXsOxah5cNFaKvXrHmbQQ.png?1702396198",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231528/original/C7b57UpPaXsq0Zs5s-cNwfd08_htVF57VA.png?1712249154",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231630/original/SRgaOy321qx8qngHC-a-l0j35PZrsWJuRg.png?1712249191",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231707/original/ZvRFY2Wxghsa7yVGJj95MG1qacU7-gXQiw.png?1712249264",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135762091/original/aDrSG9CSAmGanzt3nUZelUFByK0G70WX3w.png?1702395462",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135762147/original/CpIqin5PFPBW6fPW32QCUJgetVUr5lV-zw.png?1702395510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135763382/original/1xSoCuJjVvb5lNwpQMHucY3AHQCvnH-Yqw.gif?1702396315",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146929240/original/ukm9796OdCO-ChbwwZr8RUT9klNgtu_WRw.png?1721946460",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136934677/original/leCAXEm8LwIzK0-FpOyzwWTjyFJuAHzhaQ.png?1704812757",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136934998/original/Ab5JWYLV_-hWPg4o9WVgmOlaShi4TfEUog.gif?1704813007",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136935152/original/YZtAJYzL61iZVzf-HoZx8U97eC15WH7Y-A.png?1704813168",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

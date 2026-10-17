@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682675-differences-between-strict-bounds-not-strict-radius-location-search-settings",
+  "title": "Differences Between Strict (Bounds) & Not-Strict (Radius) Location Search Settings | Brilliant Directories Documentation | BD Support",
+  "content": "Differences Between Strict (Bounds) & Not-Strict (Radius) Location Search Settings Link: https://support.brilliantdirectories.com/support/solutions/articles/5000682675 What are Strict (Bounds) and Not-Strict (Radius) searches? There are 5 different types of locations that can be searched for on the site (with the alternate names used in some countries in parenthesis): Countries States (provinces) Counties Cities (towns, suburbs, etc) Zip Codes (postcodes / postal codes) As the Administrator of a site, it is possible to choose what kind of search is done for each of these types of locations - a Strict (Bounds) search or a Not Strict (Radius) search. By default, postal codes (Zip Codes) and cities use a Not-Strict (Radius) search, and counties, states, and countries use a Strict (Bounds) search: Not-Strict (Radius) Search A not-strict (radius) search means that the system will get the latitude/longitude of the center of the searched location, and then return all members within the Default Search Radius set for the site (50 miles by default). To modify the Default Search Radius, navigate to the Settings >> General Settings >> Search Settings tab in the Admin: Strict (Bounds) Search When using Strict (Bounds) settings, members can be returned in search results based on multiple levels of geographic relationships. Here’s how it applies for different location types When Searching for a City (e.g., \"Ashford\") Members will be returned if they have: An address within the bounding box of the searched city. A service area that exactly matches the searched city (\"Ashford\"). A service area located within the searched city (e.g., a zip code that Google Maps lists as being in \"Ashford\"). A bounds-type service area that contains the city (e.g., \"Kent\", \"England\", or \"United Kingdom\" includes \"Ashford\"). When Searching for a Zip Code (e.g., \"TN24 8EP\") Members will be returned if they have: An address within the bounding box of the searched zip code. A service area that exactly matches the searched zip code (\"TN24 8EP\"). A bounds-type service area that contains the zip code (e.g., \"Ashford\", \"Kent\", \"England\", or \"United Kingdom\" includes \"TN24 8EP\"). Note : Full support for county-level searches is coming soon. Smart Default Settings As mentioned above, a strict (bounds) search for zip codes will \"return all of the members within the bounds of that zip code, along with any members that are outside the zip code but inside the square that contains the zip code\". However, with the recommended default settings of \"Bounds\" for countries and states, the system is smart enough to exclude any members that are outside the searched location, even if they are contained within the box that contains the searched location. For example, searching for \"Los Angeles County\", the system will only return results that are inside of Los Angeles County, even if there are members that are outside of Los Angeles County, but inside the box that contains it. Showing the Distance from a Searched Location As mentioned above, not-strict (radius) searches will return everything within a radius from a fixed point, typically the center of a city or zip code. Since the system can calculate the distance of each member from this fixed point, it can display information about how far away each member is from that point. For example, this is a search result for the zip code \"90210\": This is the distance this listing is from the center of the zip code \"90210\". However, using a strict (bounds) search for zip codes and cities, there will be no distance information returned (\"2.1 mi away\" for example), because there is no point to calculate this from - it simply returns the results inside the bounds of the searched area. Editing the Strict (Bounds) & Not-Strict (Radius) Location Search Settings To change the settings of any type of locations search, navigate to Settings >> General Settings >> Search Settings : For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161367375/original/Vqw4RqGnXW0fCFquDDEEaQdEdoEeJApN0A.png?1747311054",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110125575/original/Hm4ZmtiVG8ZXZ70d6e3Le_rvQIOZ1TvEHw.png?1654801734",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280292/original/Tvb69nmpvaixZOy09d1Ehf39E9WVfCYyCQ.png?1645315204",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161367427/original/HyIohUtkU7g34JbdFjgwyJ-rXEeRQJOcig.png?1747311090",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

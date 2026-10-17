@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000084213-edit-checkout-pages-how-to-edit-checkout-url",
+  "title": "Edit Checkout Pages: How To Edit Checkout URL | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Checkout Pages: How To Edit Checkout URL Link: https://support.brilliantdirectories.com/support/solutions/articles/12000084213 Overview A default checkout page URL looks like this: www.domain.com/checkout/2 The value \" 2 \" at the end of the URL comes from the membership plan ID number: How To Edit Checkout URLs The \" checkout \" portion of the URL can be changed by navigating to Settings » Advanced Settings and conducting a keyword search for \" Default Checkout URL \": For this example, the URL segment was changed from checkout to checkout-pay : It is also possible to change the portion of the URL that follows this segment., which is \"2\" in this example. To accomplish this, navigate to Finance » Membership Plans and click Edit on the preferred membership plan: Then search for the setting \" Member Signup Page URL \": “In this example, the value was changed from ‘2’ to ‘ featured ’: Important Rules About The \"Member Signup Page URL\" Setting: If the setting is left blank, the system will assign the membership plan's ID# as the value. Letters, numbers, underscores, and dashes are allowed. EG: gold-plan Each membership plan's checkout URL has to be unique. A membership plan ID cannot be used as the URL value for another checkout page. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166155004/original/MBIXihcZTBJ_DK3KHfgIr1y4t8XNMwyBlg.png?1755698977",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166155159/original/vORnApHwsBackS8PRBBIl2zON00vAFo7yQ.png?1755699054",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101662595/original/Y9rAfyjiDkJP42_Y9F6D2OFUzETXDPw4Fg.png?1638285276",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166155348/original/crpV7NI49F270VgY89sQiO8Z3IDzEv8now.png?1755699160",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166155412/original/taOTtkdn6wAkJEPPm8sNe7rjXy1vkrY8FQ.png?1755699208",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101663182/original/M2etK2fD-wdlJoDikc-IHDsECSiDu6Em6A.png?1638285723",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

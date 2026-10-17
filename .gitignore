@@ -1,0 +1,11 @@
+.env
+**/.env
+.venv/
+**/.venv/
+_pycache_/
+**/_pycache_/
+data/chroma_db/
+**/data/chroma_db/
+*.pyc
+task2-inbox-agent/feedback.json
+task3-meeting-to-scope/scope_feedback.json

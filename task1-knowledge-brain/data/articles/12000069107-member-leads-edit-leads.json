@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069107-member-leads-edit-leads",
+  "title": "Member Leads » Edit Leads | Brilliant Directories Documentation | BD Support",
+  "content": "Member Leads » Edit Leads Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069107 By default all sites come a two ways for the visitors and members to submit a lead - The Get Matched page/form and the Profile Contact forms. During this process the form submitter may accidentally select the wrong Sub Category or make a typo while filling out their information. At which point they may reach out to the site Admin through the Contact Us form about this error - with this functionality it is possible to go in and edit the lead information. How to Edit a Lead 1) Go to Leads » Manage Leads In this example, the visitor selected \"6:00 AM\" instead of \"4:00 AM\". 2) Inside the Actions drop-down, select \" Edit Lead \": 3 ) This will open a popup with the Lead Form, now it is possible to change the information that was incorrectly submitted: The changes are immediately reflected: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284061/original/4KJBQPZgnUm7kNmYw2xpVAtrEK3HOb0Tqw.png?1687409768",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284077/original/3Ikm2NS_DBqwIRrFyYPbbE_akhmJrJZt7w.png?1687409788",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284126/original/6edwIIa4KUZ2e5rGyXsJxbtbGXRmDVDwFQ.png?1687409932",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127284135/original/-jCB638fiIS5vm7vLyFW-SpEK5pJQV2FxA.png?1687409987",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

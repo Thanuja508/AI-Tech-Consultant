@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000058393-how-to-activate-sales-representative-tracking",
+  "title": "How to Activate Sales Representative Tracking | Brilliant Directories Documentation | BD Support",
+  "content": "How to Activate Sales Representative Tracking Link: https://support.brilliantdirectories.com/support/solutions/articles/12000058393 Within the BD platform, it is possible to activate Sales Representative Tracking for members. To activate this feature, navigate to Settings >> Advanced Settings and search for: Enable Sales Rep Field In Edit Members Form System Variable: enable_sales_rep_field When activated, a new search field called Choose Sales Rep Name will be available under My Members > > Search Members: Also, a new filter will be added in the Finance >> Transaction History section: Assign a Sales Rep for each member by clicking on the Quick Edit option: And assign a Sales Rep directly under the Sales Representative field: This system name for the sales rep value is ref_code Now this information added will display as a dropdown option: Important Note: This field will be available as a column when Exporting Member Results as well. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647160/original/eDR6uyUSFpkmA9V6kGzD7JBX2DWzqWdovw.png?1753160933",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777744/original/jBBv010n6JK7ovNTIkgKsTyDDzkIyy6tVA.png?1624973520",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124676126/original/_fUrtJuffFElZC0elMVZz_P7chkYcLwDBA.png?1682614478",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777816/original/Ly_Gm7ScBnOsuNCeM_Q5n51RbxbQx5obDA.png?1624973573",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777874/original/u9X7TLVmsS-fur35LWPJxOxYkJIUX0_aDg.png?1624973625",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094777979/original/gGwXOnpQbAl6ppMUoWgU9zFm380D3rrCBg.png?1624973698",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

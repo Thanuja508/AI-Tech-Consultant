@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067996-auto-match-workflows-additional-notifications-settings",
+  "title": "Auto-Match Workflows » Additional Notifications Settings | Brilliant Directories Documentation | BD Support",
+  "content": "Auto-Match Workflows » Additional Notifications Settings Link: https://support.brilliantdirectories.com/support/solutions/articles/12000067996 To edit the general settings for \"Additional Notifications\" when using the Advanced Lead Matching package. Go to Interactions and find \" Leads\" Click on \" Auto-Match Workflows\" Select \" Edit \" Click on \" Additional Notifications \" There are four tabs in this section: Admin Visitor Members Third Party / SMS Additional Notifications tabs These sections give access to more specific and advanced settings. Admin Notifications These notification settings will apply to the Admin accounts. Email Admin When Lead Submitted: Select \"Yes\" to send an email to the Admin email address(es) when a lead is submitted anywhere on the website. Admin Lead Submitted Template: Select the email template to send to the Admin if \"Email Admin When Lead Submitted\" is set to \"Yes\" above. Extra Admin Email Addresses: Enter a comma-separated list of email addresses that you would also like to receive Admin Notifications. Email addresses entered here will be copied on all Admin Notifications, including all emails where \"Copy Admin On This Email?\" has been set to \"Yes\". Email Admin When Lead Declined By Member: Select \"Yes\" to send an email to the Admin when a lead is declined by a member. Admin Lead Declined By Member Template : Select the email template to send to the admin when a lead has been declined if \"Email Admin When Lead Declined By Member\" is set to \"Yes\" above. Email Admin When a Members Tries to Purchase a Lead: Select \"Yes\" to send an email to the Admin email address(es) when a lead is purchased anywhere on the website. Admin Lead Purchase Attempt By Member Template: Select the email template to send to the admin when a member is attempting to purchase a lead. Visitor Notifications These notification settings will apply to the Vistors that submit a lead. Email Visitor After Lead Submission : Select \"Yes\" to send an email to the visitor when they submit a lead. Visitor Email Template: Select the email template to send to the visitor when they submit a lead if \"Email Visitor After Lead Submission\" is set to \"Yes\" above. Copy Admin On This Email? : Send a copy of the Visitor Email Template to the Admin email address(es) when \"Email Visitor After Lead Submission\" is set to \"Yes\" above. Visitor Email Variable : The variable name of the visitor's email address field in the lead form. If \"Email Visitor After Lead Submission\" is set to \"Yes\" above, the Visitor Email Template will be sent to the email address submitted in this field. The default value is \"lead_email\" and it is not recommended to change this for most websites. Send Email to visitor when Members Accepts a Lead : If set to \"Yes\" when a member accepts a lead, an email will be sent to the visitor that submitted the lead. Lead Accepted Visitor Email Template : Select the email template to send to the visitor when they submit a lead if \"Email Visitor After Lead Submission\" is set to \"Yes\" above. Copy Admin on this Email? : Yes or No Member Notifications These notification settings will apply to the Member accounts. Email Member After Accepting Lead : Select \"Yes\" to send an email to a member after they have accepted or purchased a lead. This email will typically contain the complete details of the lead, including the lead's contact information. Member Email Template After Accepting Lead: Select the email template to send to the member if \"Email Member After Accepting Lead\" is set to \"Yes\" above. Copy Admin On This Email? : Send a copy of the \"Member Email Template After Accepting Lead\" to the Admin email address(es) when it is sent to a member. Email Member After Trying To Accept A Sold Out Lead : Select \"Yes\" to send an email to a member if they have accepted a lead that has already \"sold out\" (the \"Maximum Acceptances\" has already been reached for this lead). Member Email Template When Lead Has Been Sold Out: Select the email template to send to the member if \"Email Member After Trying To Accept A Sold Out Lead\" is set to \"Yes\" above. Copy Admin On This Email? : Send a copy of the \"Member Email Template When Lead Has Been Sold Out\" to the Admin email address(es) when it is sent to a member. Third Party / SMS Notifications These notification settings will apply for Third Party & SMS N. Email 3rd Parties When Lead Submitted: Select \"Yes\" to send an email to 3rd parties when a lead is submitted anywhere on your site. 3rd Party Lead Submitted Template: Select the email template to send to the 3rd parties if \"Email 3rd Parties When Lead Submitted\" is set to \"Yes\" above. 3rd Party Email Addresses : Enter a comma-separated list of email addresses that you would like to send the \"3rd Party Lead Submitted Template\" to when a lead is submitted. This setting can also be used with any custom \"Email Address\" fields in the Website - Lead Form - Get Matched : Take the unique database variable and add it to the setting enclosed in 3 percentage signs (%%%): The system will read any emails added to the custom Email Address field and send out a copy of the \"3rd Party Lead Submitted Template\" when a lead is submitted. >> Understanding Variables Copy Admin On This Email? : Send a copy of the \"3rd Party Lead Submitted Template\" to the Admin email address(es) when the \"3rd Party Lead Submitted Template\" is sent. 3rd Party Lead Matched Notifications (SMS): Select \"Yes\" to send an email to 3rd parties when a lead is matched to a member. A separate email will be sent for each individual member that a lead is matched to. 3rd Party Lead Matched Template (SMS) : Select the email template to send to the 3rd parties if \"3rd Party Lead Matched Notifications\" is set to \"Yes\" above. 3rd Party Email Addresses (SMS) : Enter a comma-separated list of email addresses that you would like to send the 3rd Party Lead Matched Template to when a lead is matched to a member. (Works the same as the explanation on #3) Copy Admin On This Email (SMS) : Send a copy of the \"3rd Party Lead Matched Template\" to the Admin email address(es) when the \"3rd Party Lead Matched Template\" is sent. Send SMS Notifications More information on sending members SMS Lead notifications: How To Send SMS Notifications To Members When They Receive a Lead For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12151797372/original/n9sWCBKwu3TEFrCNaACyYP7I5klrdIBz8Q.png?1730310685",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12151797384/original/vUJDn2uVAe8-KKZ3rhUT8HCcUYIboOfT-Q.png?1730310698",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12151797386/original/HkM_jzl6pWl0eaE5777fCqWDUTM-vkYoeg.png?1730310703",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137368536/original/3qH3whGzF2vVXdB03TPlAkCpOm9rkzs2ng.jpeg?1705525164",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137368545/original/Jx56jK3R_0jyFeOQHJsrZs9lNgJsfkd6gA.jpeg?1705525173",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137368548/original/0roCeIEOgv90bz8nvgSanFSLwE10yhr_Hg.jpeg?1705525183",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137368555/original/tJJYUzaDGjXJb4CrF_e8jQFAKbwKZEHYHw.jpeg?1705525192",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12137383078/original/tgpUNStitgnC-nfM5kbxchPtRYbKubYUVQ.jpeg?1705554965",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139299573/original/9EZSu0hlwFQahAIkR4hGV_oc0xMbk-zTIQ.png?1708980360",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12139297131/original/e-3mq4pXZbfu07N452kkmaD9z0l9qDslVg.png?1708978338",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

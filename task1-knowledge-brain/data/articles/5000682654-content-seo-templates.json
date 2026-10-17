@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682654-content-seo-templates",
+  "title": "Content » SEO Templates | Brilliant Directories Documentation | BD Support",
+  "content": "Content » SEO Templates Link: https://support.brilliantdirectories.com/support/solutions/articles/5000682654 Overview SEO settings, variables, and related data can be managed across both dynamic and static features of the site. All SEO settings are optimized by default, but the system supports customization at multiple levels to adapt SEO behavior to specific needs. Not all SEO variables apply to every page, some are only available on specific page types (e.g., content pages, category pages, profile pages), since availability depends on the page type. Because of this, tracking which variables apply to which pages, membership features, content pages, or profiles can be complex. This article outlines the three levels at which SEO can be managed. The Three Levels of SEO Management NOTE — Priority order: When settings overlap, more specific levels override more general ones. Member SEO settings take priority over Page SEO settings, and Page SEO settings take priority over the SEO Template . 1st Level: SEO Template The broadest level. Changes made here affect the overall SEO template for all members, categories, pages, and other dynamic content system-wide. Further detail is available in the \" How To Edit The SEO Settings Of Dynamic (Search Results) Pages \" article. 2nd Level: SEO Pages (Web Page SEO Settings) Affects the SEO of a specific static page and its contents. Web Page SEO settings have higher priority than the SEO Template. Further detail is available in the \" How To Edit The SEO & Social Media Elements Of A Static Web Page \" article. 3rd Level: SEO Members (Member SEO Settings) Affects only the specified member — for example, how a profile page displays, which SEO settings are enabled or disabled for that profile, and the member's custom URL. Member SEO settings have higher priority than both Page SEO and the SEO Template. To access these settings: Navigate to My Members > Search Members . Locate the member. Hover over Actions , then click Quick Edit . Further detail is available in the \" How To Edit The SEO & Social Media Elements Of A Member's Profile Page \" article. Troubleshooting: Changes Not Taking Effect If changes do not appear to work correctly after being made, clearing the site cache is recommended: How To Refresh The Cache Of The Website SEO Variable Syntax CRITICAL: All SEO variables must be wrapped in percent signs. A variable written as %variable_name% is read correctly by the system. The same text written as variable_name , without the percent signs, is treated as plain text and will not function as a variable. Percent signs are reserved exclusively for SEO variables. Custom text that is not a variable should not be wrapped in percent signs. Related Reading Additional detail on available variables is covered in the \" Understanding SEO Variables \" article. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184632272/original/-x2Mdfp0o0FOCGb9R58YsIN_pm2IxRbjpg.jpeg?1788428140",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184632286/original/xctz7ZOQHv7Hyg9hBiXDzvFryH3v5xlDHQ.jpeg?1788428156",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184632340/original/pntY18JDYxwJ0himhtKKo-UcaL2VVItZNg.jpeg?1788428224",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184632352/original/8CcsNtGQNpemAdXuzJoB5zssXtWf5gflIA.jpeg?1788428235",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184632420/original/rvYveDs2o1X8zNSseJYbOxja_qDkJZcajA.jpeg?1788428288",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

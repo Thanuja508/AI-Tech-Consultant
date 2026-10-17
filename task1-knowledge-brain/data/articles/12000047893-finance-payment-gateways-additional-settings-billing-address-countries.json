@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047893-finance-payment-gateways-additional-settings-billing-address-countries",
+  "title": "Finance » Payment Gateways » Additional Settings » Billing Address Countries | Brilliant Directories Documentation | BD Support",
+  "content": "Finance » Payment Gateways » Additional Settings » Billing Address Countries Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047893 This section controls the active and featured countries displayed on paid checkout pages. Here it is possible to modify the countries that display in paid sig- up forms and choose which countries are displayed or not: In order to select which countries to display on the section above, go to Finance » Payment Gateways » Additional Settings » Billing Address Countries A new page will open where the Active, Featured and Not Active Countries can be selected: Country Status Types Not Active (The country is not going to display as an option on the Sign-Up / Checkout Page) Active (The country is going to display as an option on the Sign Up / Checkout Page) Featured (The country will show up first and so on, on the list) For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091457115/original/5jtXqRgZOyRpvNu1OQEIrCCPuhtwIik9Mg.png?1618607024",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172226904/original/On2_Vi14LbOdd0o6Pa_ucpnsNJbNbF8lHw.png?1766170793",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172226957/original/htjOsAPjubFZ6MSrKGX2JFaZooSPyjiOPQ.png?1766170866",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

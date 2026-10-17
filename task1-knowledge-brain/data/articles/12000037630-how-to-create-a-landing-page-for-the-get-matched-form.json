@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000037630-how-to-create-a-landing-page-for-the-get-matched-form",
+  "title": "How To Create A Landing Page For The Get Matched Form | Brilliant Directories Documentation | BD Support",
+  "content": "How To Create A Landing Page For The Get Matched Form Link: https://support.brilliantdirectories.com/support/solutions/articles/12000037630 Follow the instructions below to learn how to create a landing page for the Get Matched Form that looks like this: 1. Create a new static page. Refer to this article for more information: How to Create a New Static Page 2. Add a single row using the table option in the Froala Editor, and add a background color and text as desired: Froala Editor . 3. Add a 1 x 2 table to the static page: 4. Add an image on the left side row and enable the \"Image Caption\" option to add the desired text: 5. On the right side next to the image, drag and drop the pre-made element Contact Form 6. Change the title and form shortcode to [form=bootstrap_get_match]: 7. Save the changes: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819754/original/gpL_R27lc9DF34kg3UPxpJid0yXhDR0RJw.png?1682975552",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819761/original/F8djzOMHPHUFp7j2x8e1RiRTMJ2kHPbBsw.png?1682975562",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819768/original/Ibp_ysySXJceT3320dFru8dZVYIZdj4swA.jpeg?1682975575",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819778/original/w0KL6lifldDvv-Ohq6bmkPzvNtChTZNn1g.jpeg?1682975601",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819788/original/0CnIVesknDqksZNQCAv1IPUGopCw_s5K_w.jpeg?1682975612",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819800/original/Yxqp1RCd2BwGKknnS6buXguD6Yhf7JqHcQ.jpeg?1682975622",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819807/original/nQmnAoUSoiQHsixojgicW-r_dCwQsy8IDw.jpeg?1682975633",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

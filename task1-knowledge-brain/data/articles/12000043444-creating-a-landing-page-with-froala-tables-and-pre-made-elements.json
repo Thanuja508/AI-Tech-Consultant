@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000043444-creating-a-landing-page-with-froala-tables-and-pre-made-elements",
+  "title": "Creating a Landing Page with Froala Tables and Pre-Made Elements | Brilliant Directories Documentation | BD Support",
+  "content": "Creating a Landing Page with Froala Tables and Pre-Made Elements Link: https://support.brilliantdirectories.com/support/solutions/articles/12000043444 Follow the instructions below to learn how to create a landing page that looks like this: 1. Create a new static page. Click on this article for more information >> How to Create a New Static Page 2. Add a single row using the table option in the Froala Editor . Add background color and text as desired. In this example, we have used different font sizes of 22 and 16, respectively; also some words are bold: 3. Drag and drop the pre-made element \"Text with Image Left\" into the static page: 4. Add the image and text as needed: 5. Edit the button text and link: 6. Save the changes: You can also create this page using our integrated AI solutions. See: 1. BD Butler 2. Quick Create Wizard - Create Web Page limitedoffer... (211 KB) For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819944/original/g92CQJfvPv_l3yX115Sc0L1FYOuJM8CL_g.png?1782143109",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819258/original/Le7mdX6RGftY8NPfsqQEcZDp9OrptPkM2A.png?1782142500",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819500/original/uNAJPVLXvbUdzSly2jVHfjinb6D5v2bEZw.png?1782142715",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819552/original/wWL9RV0gZS31XV8wuJnUeNXCDSUlHdeZ_w.png?1782142751",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819729/original/asEuHFw2YEnSCGm4sJK3EryJtOZM6Fmg7w.png?1782142976",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819767/original/jFsiWctrjxSEAGgUrnGCMlkVwupvJrtnMA.png?1782143019",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180819843/original/T8cl0pBSqWjvM2izHgx3zVWJoBDzB-OOeg.png?1782143058",
+      "alt": ""
+    },
+    {
+      "url": "https://support.brilliantdirectories.com/images/helpdesk/attachments/12033233075/thumb",
+      "alt": "limitedoffer.png"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

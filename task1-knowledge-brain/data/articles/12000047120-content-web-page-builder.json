@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047120-content-web-page-builder",
+  "title": "Content » Web Page Builder | Brilliant Directories Documentation | BD Support",
+  "content": "Content » Web Page Builder Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047120 A Static Page is a page that does not have any dynamic content. The website only comes with a few default static pages since the majority of the web pages are Dynamic Pages (search result pages, profile pages, and post content). Some of the most common default Static Pages include: Homepage - Can only be one Homepage Login Page Pricing Page How It Works Contact Us Page Privacy Policy Terms of Use Search By Location Search By Category Get Matched Password Retrieval It is possible to locate the existing Static Pages by going to Content > Web Page Builder: Edit Existing Pages To edit the pages, click the Edit button. Edit the Homepage The Homepage cannot be edited through the WebPage Builder; instead, it has a specific section in the Design Settings where it can be managed. To learn how to edit the Homepage, refer to this article: Homepage » Front & Back End Overview Actions Dropdown To view, clone, or delete an existing static page, hover over Actions and select accordingly: View Page Redirects the admin to the page on the front end. It shows how members and visitors see the page. Clone Page This action will clone the page exactly how it is. The admin will be required to change the Permalink since two pages cannot have the same one. Delete Click here to permanently delete the page, it cannot be recovered unless a backup is done to the site. Keyword Search Use the search field to search all web pages by keyword. Sort Options The Web Page Builder comes with a set of sort options to arrange the pages according to the selected filter. Sort by: Page ID Low - High Page ID High - Low Name A - Z Name Z - A Last Update - Ascending Last Update - Descending URL A - Z URL Z -A Filter by Access The Web Page Builder comes with a set of filter by Access options to arrange the pages according to the selected filter. Filter by Access: Any Access Level Public For Everyone Only Allow Members Digital Products Buyers Filter by Type The Web Page Builder comes with a set of filter by Type options to arrange the pages according to the selected filter. Filter by Type: Any Page Type Home Page Single Web Page Post Search Results Member Search Results Custom Widget as Web Page Password Retrieval Page Unsubscribed Page Create a New Web Page To learn how to create a new Static Page, click the link below: How to Create a New Static Page Hide Web Pages To hide a web page, change the URL to something only the site administrator would know to visit: /join_DRAFT This essentially marks the page as \" unpublished \" from the website. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169316966/original/AkGWMiQ2hvexgxGX3-CGionifyd-ijQ5MA.png?1761061681",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317447/original/y2FEHJLiQLq6-KbiK1P2xad-pkA1B4M4bg.png?1761062076",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317488/original/T5znnb1DAIj8Z5gMuibYmlU1amH65HrsJg.png?1761062122",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317711/original/Hi_CAoLm7Bx0krpGUxkVjL_v3PzzuqvS7g.png?1761062322",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317859/original/aszZswirJKeYFpocJjEj9dG7yIQ1VXdt9g.png?1761062457",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169318834/original/t8K70QhLguJ6jiwjP0o5IyHrpBSNNu14PQ.png?1761063209",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169318844/original/65x7-htsw0IS1yWbR7BPYj9j19wK9VI9jQ.png?1761063226",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169317570/original/48n7cjOmGee56d6F13VSLmv15wHB80y0Ig.png?1761062200",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169319438/original/J7QAzISXdZCaovPFNvqT4iPfQPD2KAoYog.png?1761063627",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

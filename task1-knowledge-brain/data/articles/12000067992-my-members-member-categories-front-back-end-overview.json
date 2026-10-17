@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067992-my-members-member-categories-front-back-end-overview",
+  "title": "My Members » Member Categories » Front & Back End Overview | Brilliant Directories Documentation | BD Support",
+  "content": "My Members » Member Categories » Front & Back End Overview Link: https://support.brilliantdirectories.com/support/solutions/articles/12000067992 By default, all sites come with a categories page that can be accessed using the / categories URL and through the Footer Menu link on the Homepage: This will allow the website visitors and members to browse through all of the categories available on the site: For sites with a lot of categories, the search bar makes it easy for the website users to quickly find what they are looking for, which will search for any matching keywords: This page can use two different category widgets. Bootstrap Theme - Category Groups - Member Categories : will display all Top, Sub and Sub-sub level categories. Bootstrap Theme - Sub Category Groups - Member Categories : will display all Sub and Sub-sub level categories. In addition, both widgets support using a URL parameter to pre-fill the keyword filter. This works with spaces, quotation marks, and special characters. Examples: https://directory.directoryup.com/ categories?category=Sub%20Sub https:// directory .directoryup.com/ sub-categories?category=Museum%20of%20zoology Sort Order The order in which the categories are displayed on this page can be changed in the General Settings section under the Search Settings tab of the admin dashboard as seen below Default Category Sort Order Select the order in which member categories should display on the live website Back-End Information The /categories web page can be found inside My Content » Web Page Builder: The first three items on this image can be edited to fit the website: URL Page Title (H1) Sub Title (H2) This widget is the one that displays the categories inside the Categories page on the site. [widget=Bootstrap Theme - Category Groups - Member Categories] This is the standard sidebar that will appear on all Web Pages. Additional Information » To read more about the Web Pages, follow this link: Web Pages Folder » For more about the Widgets, follow this link: Toolbox » Widget Manager Editing Categories » My Members » Member Categories » How To Import Categories Via CSV File » How To Add Categories Manually From The Admin » How To Select Categories as a Member Designing the Categories Page Text and Images can be added inside the WYSIWYG editor and they will appear on the Categories Page. » Everything About WYSIWYG Editors » How to Post Images On WYSIWYG Editors Use the Hero Section » How to add a Hero Section to Static Pages Advanced Settings There are a few advanced settings that can help further customize the categories pages. Show Categories with No Members To only display the categories that have been selected by at least one member, make sure to disable this setting under General Settings: ⚠️ Important Note - Categories Page URL Changing the URL of this page will not change all the links throughout the website (like the footer link shown above). If a change is made in the /categories URL, this new URL should be updated under the following Advanced Setting as well: For example , if the web page's URL is changed from /categories to /categories-1 , the advanced setting specified above should be updated to /categories-1 as well. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914687/original/rrJZcwHECKlWdpi-5cH3rUbOYlFjQIHcxw.png?1617664150",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914703/original/suOYa5xITozd9IW11fNQCXTNZqjioa3fEQ.png?1617664200",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090914733/original/GdItgcrO1_hqs0nTqJgEAyQthw31sCHYbw.png?1617664230",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165009937/original/OZVjP-gtJbLuE29kYIg9svmFKt4Lf2tGRg.png?1753749301",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165009942/original/PT9RY7-W-XpCfJPykOgM_Ak2u85WNfhnpQ.png?1753749332",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180114653/original/4pXyG2HYaSygfPXuqd3zGE7QGjd-Ft7QDg.png?1781004455",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180114658/original/_w9LQAUR3XWQTd91ZNfrvpI9N0rEefN8Kw.png?1781004462",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165010001/original/NA9AgC-OqE9MRSjWW3IfmORnk9zs7SvHww.png?1753749489",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12165010071/original/8Mf-5-6X_kGQG95tevmSyt9CQfX9p2b3PQ.png?1753749517",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

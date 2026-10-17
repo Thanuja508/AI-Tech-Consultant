@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000010258-setting-up-verifone-as-your-payment-gateway",
+  "title": "Setting Up Verifone As Your Payment Gateway | Brilliant Directories Documentation | BD Support",
+  "content": "Setting Up Verifone As Your Payment Gateway Link: https://support.brilliantdirectories.com/support/solutions/articles/12000010258 For the best results Stripe is the recommended payment gateway . However, for those who would like to setup 2checkout as their payment gateway, follow the steps below after entering payment gateway credentials . Setup The Instant Notification Settings After logging in to the account, click on the 'Instant Notification' Setting icon on the top navigation: In the Global Settings field, enter the following URL, replacing \" www.domain.com \" with the domain of the website: http:// www.domain.com /checkout/notifications/2checkout For example, if the domain of the website is www.marys-website.com then the following URL must be entered into this field: http:// www.marys-website.com /checkout/notifications/2checkout Click on \"Apply\" and \"Save Settings\" button: Setup The Checkout Options Click the \"Account\" button in the top navigation area and then the \"Site Management\" button below: Fill out all of the options on this page with the information relevant to the website. In the \"Direct Return\" section of the options, select \"Header Redirect\": Click on the \"Save Changes\" button in the bottom-right portion of the screen to save these settings. After completing this, the 2Checkout account should be all setup to accept payments through Brilliant Directories websites. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009083297/original/blob1472668766587.png?1472668766",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005754973/original/blob1464723533146.png?1464723529",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005754941/original/blob1464723501964.png?1464723498",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009083334/original/blob1472668839706.png?1472668840",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12005761090/original/blob1464736750676.png?1464736747",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

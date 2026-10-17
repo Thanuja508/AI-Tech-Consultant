@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000008873-how-to-manually-bill-a-member-create-a-subscription-for-a-member",
+  "title": "How To Manually Bill A Member / Create A Subscription For A Member | Brilliant Directories Documentation | BD Support",
+  "content": "How To Manually Bill A Member / Create A Subscription For A Member Link: https://support.brilliantdirectories.com/support/solutions/articles/12000008873 At any moment, the site can create a subscription (recurring or one-time payment) for a member of the directory. Keep in mind that when someone signs up from the /join page, the system will create the subscription automatically. However, sometimes the owner wants to change the subscription's amount or create a new subscription. This is also very beneficial if the site is taking external payments (bank transfers, checks, etc.,) instead of accepting direct payments on the site. Create a \"New Order\" Log in to the admin area and navigate to Members » Search Members. Locate the member and click on Actions » Payment History: At the top right, click on the \"New Order\" button: Fill out the new order form with the subscription details: Membership Plan: Select the membership plan of this specific order. Billing Cycle: Monthly, Quarterly, Semi-Yearly, and Yearly. (this will depend on the configuration set up in the membership plan) Price Override: Type the new amount for this specific order. Leave this option blank if the membership plan doesn't need to be overridden. Enter a price greater than 0. Start Billing On: By default, the system will show today's date. However, it can be modified to any date in the future. Admin Notes : Add notes for the internal team (See example below). Create Order : The system will save and create the order. Confirm the order by clicking on the \"Submit Order\" button: The page should load automatically and the message \"New Order Created\" will appear with an order summary: Card on File If the member had a credit card on file and the date selected was today, then the system should collect the payment. To verify if the money was taken successfully, click on the \"Transactions\" tab and make sure the status of the order says \"Paid\". This payment can also be verified under Finance » Transaction History: If the charge couldn't be attempted or there was no card registered to begin with, this means that the credit on file needs to be updated. The unpaid invoice will appear in the \"Past Due\" tab. When the member updates the credit card on file, the unpaid invoice can be attempted manually. There is no need to create a new order. Manually Collect Payment To attempt the payment manually, click on Actions » Collect Payment: Cash or Bank Transfer If the member paid the invoice by cash or a bank transfer, the invoice can be Marked as Paid at any moment, removing it from the Past Due list. Refunds How to refund a member: How Refunds Work Cancel Subscriptions How to cancel orders: How Do I Cancel Payment Subscriptions - Orders . Update Existing Subscriptions How to update existing member subscriptions: Updating Member Subscriptions For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106940/original/pInDeb5VwGlz-8bFuZUUaykksmMrK8oxoQ.png?1644979731",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796281/original/ZdnS5XRtDWsGJaMnuKpBY4Rf8NpIQkhHHQ.png?1615345132",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159659893/original/UZcbNfDruWzL6UIv7w3xgamx-L7VcTQdEw.png?1744201826",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796427/original/0kcQtZhxXZxlXyNjbik-osTpfhyqmWk_DA.png?1615345656",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796434/original/O0YWh4Wyw-_02iFYsJr1zA1-FjFOJzwqEg.png?1615345679",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796451/original/l-H7jn0Eo6jaW3H-t20NFPOjm2bKuqopSA.png?1615345743",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106951/original/dFKYKYbVl13mq0LV5KDEZgLfO8KE8vErFg.png?1644979799",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105106958/original/uCk77Q6lgySpWtLfpotwd41-3U_c9BTL-Q.png?1644979839",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159662838/original/zntX5WA7tmkmTxyUO1zgdd4ZbVluoxKU_Q.png?1744204627",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

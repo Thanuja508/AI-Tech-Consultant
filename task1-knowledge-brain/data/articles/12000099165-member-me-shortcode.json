@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000099165-member-me-shortcode",
+  "title": "Member \"[me=]\" Shortcode | Brilliant Directories Documentation | BD Support",
+  "content": "Member \"[me=]\" Shortcode Link: https://support.brilliantdirectories.com/support/solutions/articles/12000099165 There is shortcode for all member variables for logged in members viewing the website content. These are variables that can be used with % signs rather than echoing values in the $user[] array for referencing these values. Use shortcodes like [me= first_name ] to dynamically display member information right on their dashboard or in any text label. Member \"[me=]\" Shortcode Example Using the Dashboard Header Content add in the message: This shows up on the front end with the member name: Member \"[me=]\" Keys Possible keys that can be used with => [ me= xxxxx ]: user_id first_name last_name email company phone_number address1 address2 city zip_code state_code state_ln country_code country_ln website twitter youtube facebook linkedin blog quote experience affiliation awards about_me featured modtime subscription_id filename active token ref_code signup_date cookie last_login position instagram credentials bitly profession_id facebook_id google_id verified pinterest nationwide cv work_experience rep_matters gmap listing_type lat lon parent_id no_geo user_consent search_description geo_state sign_up_origin clientid is_subscription_active free_stock_images filename_hidden seo_page_title_hidden seo_page_keywords_hidden seo_page_description_hidden seo_social_page_title_hidden seo_social_page_description_hidden orderid productids invoiceid country_sn state_sn all_subcategories service full_name full_name_short country_name state_name name location user_location user_location profession_name profession gmap_zoom member_since signup_date_format service_name photo_file logo_file cover_photo image_main_file member_login_link default_category_image plus user_meta, meaning any other field created on forms related to user like contact details, listing details about_me... For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141831308/original/8JFXs1Q9mWDOIpqTbTNQxwpt97VPMUgC2g.png?1713286444",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141831152/original/ZoODHE134ofRmfdMlvZHlLlcMIDEivI2vQ.png?1713286290",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

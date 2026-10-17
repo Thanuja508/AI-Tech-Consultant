@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000042564-homepage-background-image-slider",
+  "title": "Homepage Background Image Slider | Brilliant Directories Documentation | BD Support",
+  "content": "Homepage Background Image Slider Link: https://support.brilliantdirectories.com/support/solutions/articles/12000042564 Overview Add excitement to the website with the Homepage Background Slider add-on. Replace the static homepage hero image with a lively animated image slideshow. The main homepage text, search box, and/or call-to-action (CTA) will remain unchanged. However, a slideshow will be placed behind the call-to-action with up to 8 uploaded images. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Homepage Background Slider Add-On Enabling the Add-On To access this section, please go to: Settings >> Design Settings >> Homepage: Scroll down until you see the Background Image Slider >> Image Slider Settings : The Homepage Slideshow is usually the first thing people see when they visit the site. It consists of the Carousel Images that are rotating in the background at the top of the homepage. There are 8 slides that can be used to display high quality website Images above the fold. When selecting any of the images to go into the homepage background, it is important to make sure the images used are the perfect size for the target audience. Recommended Homepage Background Sizes NEED TO CROP OR RESIZE THE IMAGES? PLEASE CONSIDER USING THIS FREE ONLINE TOOL The Background Image Slider Settings The settings are divided into 2 sections, the Image Slider Settings & the Individual Slide Settings. Image Slider Settings These settings can be divided into 6 different sections: Enable Slideshow? Slideshow Loading Method Background Images Behavior Rotation Interval Transition Duration Transition Effect Background Color Show Slideshow Arrows Enable Slideshow? This setting determines whether the website uses the rotating image carousel functionality that is this entire module or if the website will use a single background image. Enable Slideshow - Desktop Only: The website will display the rotating image carousel with all the images uploaded only when the website is viewed on a desktop device. Enable Slideshow - Desktop & Mobile: The website will display the rotating image carousel with all the images uploaded when the website is viewed on a desktop and mobile device. Disable Slideshow: The website will show the single homepage background image and not the slideshow. Slideshow Loading Method It is possible to choose the loading method for the image slider. Each method has its own advantages: JavaScript : This method supports special effects, however, it slows the page loading time. Pure CSS: The recommended method loads faster and works best for mobile devices. However, it does not support special effects like Swirl left or right. For the Background Images behavior setting, only Mobile-Ready View is available with this loading method; Standard View is not supported. When using the Pure CSS version, it will only use the Transition duration only and it will not use the Rotation Interval setting. Background Images Behavior Select the background images behavior: Mobile-Ready View : This is the recommended option as the system will optimize the image behavior on mobile devices. Standard : Recommended for desktop view. Rotation Interval This setting will dictate how many seconds each slide rotates in the carousel, there is a max setting of 10 seconds. Transition Effect This setting will dictate what effect will be applied to all the slides when they are rotating to display the next image in the carousel. The available effects are: Slide Left, Slide Right, Slide Up, Slide Down Swirl Left, Swirl Right Fade Zoom Out, Zoom In Transition Duration This setting will dictate how long the effect will last before actually displaying the next image in the slider. A good tip here is to make sure that the Transition Duration is always less time than the Rotation Interval . Background Color This is the color that will load in the area where the homepage slider will be, while the page is loading the images in the slider. Usually, this color only lasts a few seconds on the screen because the images of the slider load very fast. Show Slideshow Arrows This is a \"Yes\" or \"No\" setting. It will decide whether or not people visiting the site will be able to control which slide show image they see at a time. It will accomplish this by adding or not adding small arrows that indicate a new image on each side of the slider. Important Note : The \"Show Slideshow Arrows\" setting is only available if the \"Slideshow Loading Method\" is set to \" JavaScript \" and will be hidden if the \" Pure CSS \" option is selected. The Individual Slide Settings This area consists of three main settings: Enable Slide/Disable Slide Upload Image Delete Image Enable Slide/Disable Slide This setting will determine whether or not the image uploaded to this slot of the slider will display on the homepage. Upload Image This setting allows people to select and add an image to one of the homepage slider slots. This setting will change to \"replace image\" if an image was already placed and a change needs to be made. Delete Image This Setting will only remove the image from the slider slot and will not delete the image from the image manager. Homepage Background Slider Example For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123964300/original/9vrZ8SCrRWhgUrTP20jOsU3yJaKm33UmgA.png?1681322836",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160917424/original/9KIM_wpXsrNqm6DJASSg4g-IuiKadFF8rg.png?1746544842",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129548691/original/JxOXrUHxMzqlVO8Dp8D8GmtMBdP6DBaVtA.png?1691501403",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129549353/original/ecYCZ1srQv9lGi_9a1u6G_-wfgUVbDnwZw.png?1691501958",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160917867/original/ZseYtE6uJDf3CHcJC3kUiQX8aC_bT8Ud8w.png?1746545139",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160917881/original/FFhfSHsrXqQ4XAYxqwMBdRtWdaU9IPhjHg.png?1746545150",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12123976678/original/cD2owQw5FX6sXzBXm32NYVrWZ_vvNILHmA.png?1681339932",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129551422/original/RGM5CNXbBvjXWjpc5ZlhTK4Jg4VcGQpNKg.gif?1691503784",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

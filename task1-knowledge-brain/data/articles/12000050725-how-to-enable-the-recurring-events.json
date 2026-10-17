@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050725-how-to-enable-the-recurring-events",
+  "title": "How to Enable the Recurring Events | Brilliant Directories Documentation | BD Support",
+  "content": "How to Enable the Recurring Events Link: https://support.brilliantdirectories.com/support/solutions/articles/12000050725 Overview Want to publish events that repeat daily or weekly? A recurring event is any event that occurs more than once, according to a specified time interval, such as meetings, courses and more. The Auto-Recurring Events add-on eliminates the need to manually repost events that repeat – simply set how often the event should repeat and the website will automatically do the rest, creating recurring events! How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Auto-Recurring Events Add-On Enabling Recurring Events The events form will add these new fields for the events feature: Recurring Event Options Repeat Every Day Repeat Every 7 Days (Weekly) Repeat Every 14 Days (every 2 weeks) Repeat Every 21 Days (every 3 weeks) Repeat every 28 Days (every 4 weeks) Disable Recurring Events If this add-on is not required in the directory, please follow these steps to turn off for the directory members: 1. Go to Content - Edit Post Settings 2. Search for the default or any other event related feature and click Edit: 3. Scroll down in the General Settings and expand the Additional Settings: 4. Enable or disable this feature: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12059686865/original/Oy0S6JGaiIUhJEk_dNHQl1MbkafxRtedQg.png?1573748194",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106414612/original/DBfRfZfddBMxq4KY7AvmflVl21dTSjzSBA.png?1647473446",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091993575/original/YhS6ZO164a2slPi2RG85D1H6_eBxxd-4mg.png?1619713094",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091993753/original/7BnQUq9N4QWZXdq0vzOM5qboQZlpgKhLmQ.png?1619713328",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091993989/original/U8WxEEkbEukgZDg1Bu42AIEsrY90xyC7Bg.png?1619713724",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091994077/original/gPXMxICQCDSW0C6hovjV692Y1KC-f2Tk8g.png?1619713821",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

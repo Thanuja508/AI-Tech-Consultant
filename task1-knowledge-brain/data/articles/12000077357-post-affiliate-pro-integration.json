@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077357-post-affiliate-pro-integration",
+  "title": "Post Affiliate Pro Integration | Brilliant Directories Documentation | BD Support",
+  "content": "Post Affiliate Pro Integration Link: https://support.brilliantdirectories.com/support/solutions/articles/12000077357 This is a Free Add-On and Enabled on All Websites Overview As a merchant, the admin may want to enlist the help of affiliate marketers to advertise and sell the membership website’s products and services. Post Affiliate Pro can help the admin accurately monitor transactions on the website that have been facilitated by the affiliates. This integration requires the admin to have a Post Affiliate Pro affiliate program. What is Post Affiliate Pro? Post Affiliate Pro is an all-in-one affiliate tracking software designed to help businesses scale their affiliate marketing programs. It easily tracks referrals, manage commissions, and analyze performance, making it super efficient to grow your business through partnerships. It’s helpful because it streamlines affiliate management, tracks conversions with accuracy, and provides real-time insights, making your affiliate program run smoothly. Enabling the Add-On 1. Go to Settings » General Settings: 2. Search for the keyword \" affiliate \" which will show the Post Affiliate Pro field to add the URL: Trackable T ransaction Types These integrations can track any of the following T ransaction Types : Member Sign Ups Member Upgrades Member Lead Purchases Digital Product Purchases Pay-Per-Post Purchases Example When a site using Post-Affiliate-Pro the code would look similar to this: These codes will include information about the purchase such as: 1. Tracking code 2. Total Cost 3. Order ID, or Invoice ID 4. Product ID For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181273661/original/K2sJF9Sywx62UHYPShmzTlBwSFlOYA6kQQ.png?1782838141",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088272184/original/XUGiZO6_THegaC4TYOq9tlhiPMGITQ1YnA.png?1612276486",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097234120/original/k6TnFrOOl4GxzHfn-dOeHsD8BGUYtB3GkQ.png?1629761656",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097233490/original/Ct-XRW--Epq1xVPcDTWGBJKMjQGFW0XzKg.png?1629760135",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088274090/original/LEBq9CnLJCeP76p4Tsp8MpFuL43xuZgAvA.png?1612278089",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

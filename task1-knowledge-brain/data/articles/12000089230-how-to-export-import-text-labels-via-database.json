@@ -1,0 +1,64 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089230-how-to-export-import-text-labels-via-database",
+  "title": "How to Export/Import Text Labels via Database | Brilliant Directories Documentation | BD Support",
+  "content": "How to Export/Import Text Labels via Database Link: https://support.brilliantdirectories.com/support/solutions/articles/12000089230 This article covers how to import and export text labels from one site to another using the database. This can be a good workaround for site owners with multiple sites in different languages, where all translated text labels can be transferred from one site to another. 1) How to Export Text Labels To accomplish this, navigate to Developer Hub >> MySQL Database : Click on the _directory database: Search for the table website_labels and click on it: Click on the Export navigation link: Choose the Custom option: Name the file and choose the gzipped Compression option: Select the Add Drop Table / Trigger statement option: Clicking on Go downloads the file: 2) How to Import Text Labels Now that the export file is ready and downloaded, the next step is to navigate to a different site where these text labels will be imported. To accomplish this, navigate to Developer Hub >> MySQL Database : Click on the _directory database: Click on the Import navigation link: Choose the correct exported file and click on Go : There will be an indication that the queries were executed correctly: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184814442/original/d-FO7idgMu_nQxcobg5iwoZCQzaEoqxSLQ.png?1788804440",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184814478/original/WJyDBuTjlTDJ5OwO__WD4yv_EY2h1ZnbFQ.png?1788804477",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838030/original/mqxi2oi8DH0x1SW_XPwSzJO2i5vctpX_Hg.png?1660050459",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838073/original/HSXVfeXmBbDNHnjYPL4MMe5aFnRXRMve8w.png?1660050502",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838121/original/exU0GFpduHj93lQr3G-nzRUhPLUHHXtuyA.png?1660050536",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838224/original/RoCnIReRLitKvwxatTnByg5FJgEdlhqbAQ.png?1660050599",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838283/original/bc5mnbnuRVNDKICGeUpMDMdUjL0RVm_HDw.png?1660050646",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838296/original/1zUAxJF7epkLa6lq1JTtQAdXDoQRiNP94Q.png?1660050680",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112838977/original/lkFRM4ip0QHiCuCehUQteMDOuSnCRsJ2Uw.png?1660051271",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839015/original/1urpoCb5ZoHfQgAiSJj2UkMz-ha2ikXa8A.png?1660051298",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839063/original/a43lYOr9o8d89GiYQMMDE5sP9yOq8gXZDw.png?1660051349",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839122/original/RwVlApRGYuHGYRh0wJgrNWEwkFp06wRgkg.png?1660051395",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112839187/original/Eg_LfMM8Ks9Dm4Z2xcHCQf9dsCB2nR2MjQ.png?1660051443",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

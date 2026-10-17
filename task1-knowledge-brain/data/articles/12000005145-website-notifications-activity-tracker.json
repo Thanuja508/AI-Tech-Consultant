@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000005145-website-notifications-activity-tracker",
+  "title": "Website Notifications / Activity Tracker | Brilliant Directories Documentation | BD Support",
+  "content": "Website Notifications / Activity Tracker Link: https://support.brilliantdirectories.com/support/solutions/articles/12000005145 Overview The Admin Activity Tracking add-on is an upgrade to the current Admin Activity feature included with all Brilliant Directories websites. The default Admin Activity feature tracks and logs activity on any website for the past 30 days. This upgrade extends the activity tracking history to store unlimited log records. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Admin Activity Tracking Add-On About this Add-On All actions performed through the admin backend or the front-end of the site are logged and tracked to ensure visibility into system usage and user activity. These logs support auditing, troubleshooting, performance monitoring, and help maintain accountability by providing a record of who performed specific actions and when they occurred. However, any changes made directly at the database level are not tracked by these logging mechanisms. Is this free? Yes. This feature is included with all websites and is available for free to any existing Bootstrap theme website. This will track up to 30 days at no cost. However, to have unlimited tracking, acquire this add-on HERE. How long does Brilliant Directories track website notifications? By default, the website can track notifications for up to 30 days. Notifications older than 30 days will be removed from the notification center unless the add-on is active on the site. Will website notifications also act as a change log? Yes. One of the most requested features has been the ability to easily track who edits widgets or makes changes to the system, helping identify the root cause of an error (system or user). Activity Tracker Filters Go to Dashboard >> Activity Tracker The Activity Tracker makes it easy to find specific actions using any of the four filters, including “Select All / Unselect All” options for Type and Category. Filter by Type Select from nine types to narrow the search results, quickly find specific activities in the Activity Tracker. Member Email Lead Admin Area Finance Form Submission API Webhook Business Data Import Filter by Category Choose from 18 categories to refine the search in the Activity Tracker. Focus on specific areas of activity and quickly find the records most relevant to the search criteria. 301 Redirects, Accepted, Admin Accounts, Admin Action, Admin Created Order, Admin Signup, Admin Stopped Order, Advanced Settings, Automatched, Autosuggest, Backup, Billing Module Installed, Blocked Spam, Campaign, Contact Added, Contact Tag, Contact Unsubscribed, Contact Us Form, Country Settings, Coupon Codes, Credits, Credit Card, Cron Job, Deleted, Design Settings, Declines, Direct, Email Templates, Failed Transaction, Forms, General Settings, Getmatched Lead Submitted, HTACCESS, Main Categories, Member Import, Member Triggered, Membership Features, Membership Plan, Membership Plans, Menus, Newsletter, Payment Gateway Activated, Post, Profile Information, Robots.txt, SEO Settings, Self Signup, Self Upgrade, Settings, Sidebars, Single Manual Email, Sitemap, Static Page, Sub Categories, Successful Transaction, System, Tax Settings, Templates, Text Labels, Transaction Refund, Widgets. Activity Tracker filters include \"Select All / Unselect All\" for Type and Category Filter By Date There will be a calendar date picker to filter by dates. Search by Keyword The keywords will search through the Description field. Website Activity Information The Website Activity Section will include: ID : The ID assigned to the action. Time : When the action was completed. Type : The section of the admin this action belongs to. Category : This field describes the specific area or module within the section (indicated by 'Type') to which the action relates. Description : The action completed. Updated By : Shows the Admin who completed the action. IP Address : The IP of the Admin at the time the action was completed on the website. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322820/original/Yzn2Mv0ghO5dHSfXrFgJmW38vZ4JIFAA2g.png?1768499562",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172935957/original/qDNrD7AiLTSNhogtSvr8CGag8MHm-c6Ruw.png?1767826245",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172935978/original/Dq925-01Tf_92SINMPdqUJMFHW3s2LH5ig.png?1767826292",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168293717/original/YR5ElHwmCZ-g08Tj0MCNAv39qyG2T7ilNA.png?1759255878",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173322966/original/wV3r_E-rnNzNY7plIjm8-m1H4SEujE-qQw.png?1768499649",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12168294409/original/b93JpkTeBl1xjIi7Fj-v7qxoZ80jMn0Bcw.png?1759256185",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

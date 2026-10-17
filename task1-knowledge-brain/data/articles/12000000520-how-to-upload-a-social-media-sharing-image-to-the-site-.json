@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000000520-how-to-upload-a-social-media-sharing-image-to-the-site-",
+  "title": "How to upload a Social Media Sharing Image to the site  | Brilliant Directories Documentation | BD Support",
+  "content": "How to upload a Social Media Sharing Image to the site Link: https://support.brilliantdirectories.com/support/solutions/articles/12000000520 1. Navigate to: Content » Edit Web Pages » Select Homepage ( /home url) 2. Open the SEO Settings tab and upload an image: 3. The image can be uploaded directly from the computer or from an existing image in the Media Manager. RECOMMENDATIONS Do not use image names with spaces or special characters, this will prevent them from not working on any social site since this goes against the Web Standards. For example, an image named Hello World.jpg will not work. It should be named HelloWorld.jpg (Without spaces). Images should be PNG, JPG or GIF. To have the best quality, use PNG. For compression, use JPG, and for an image to be animated, use GIF. When testing which image to use for sharing on a social site, such as Facebook, navigate to Facebook Debug Tool to make sure that the image is being fetched properly. Click on the Fetch new scrape information button to grab the latest changes from the site (Instead of the cache version Facebook uses from the site). For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094922683/original/cAo8hthoq297KG2EI-BlKbOZrJchz394YQ.png?1625180561",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094922717/original/iQ8Sa3M_TzC-6UdLmNINlGhPj-g6BT9c5g.png?1625180672",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094922628/original/aCW_FRoSsbyDrn9FTLD6Rf1xB2vTTN2ulg.png?1625180393",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

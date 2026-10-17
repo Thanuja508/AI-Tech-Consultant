@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682663-how-to-add-3rd-party-commenting-tools",
+  "title": "How to Add 3rd-Party Commenting Tools | Brilliant Directories Documentation | BD Support",
+  "content": "How to Add 3rd-Party Commenting Tools Link: https://support.brilliantdirectories.com/support/solutions/articles/5000682663 Members of the site will undoubtedly post high-quality content that demands to be commented on. Luckily it is effortless to add the ability for users of the site to publish comments on any kind of member post on the site - events, classifieds, photo albums, coupons, job postings, videos, articles, etc. BD Native Commenting System Add native comment functionality to the membership website. Logged-in members will be able to leave comments on the website’s content and reply to other members’ comments. This website add-on eliminates the need to use a third-party solution, such as Disqus, and provides a seamless user experience. There is a free add-on available, enabled on all websites. All websites automatically have this add-on available: Community Comments Add-On 3rd Party Commenting Tool To add comments to a specific member post, first sign up for a commenting platform. Disqus is a popular option and used in this article. Once an account has been created, a code will be provided to paste on the site wherever the admin would like the option to comment to appear. See the Disqus Knowledge Base for more information about this code. Add Disqus Once the code has been copied to the clipboard, log in to the Admin area of the site, and follow these steps: Navigate to My Content - Edit Post Settings Locate the post type to add comments to in the \"Edit Post Settings\" section and click on the \"Edit\" button for this feature On the Detail Page Design tab, find the \"Comments Code\" area and paste the code from the commenting solution here: Now when navigating to a single post in a Membership Post (a single Video, single Article, single Photo Album, etc), the comments section will become visible and appear at the bottom of the page where users can now post comments. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127610478/original/tK0fsP3YZa_F8sat4q0cuwbay7LRhUKH8A.png?1687985671",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094088085/original/jFt7zE69OyO3rKvgVYtbrXqHDw8pcR_Hvw.png?1623756557",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167889072/original/gdG83HTnYOpPqa_DZQ8m843Adn1a1d8Pcw.png?1758593092",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103082-setting-up-razorpay",
+  "title": "Setting Up Razorpay | Brilliant Directories Documentation | BD Support",
+  "content": "Setting Up Razorpay Link: https://support.brilliantdirectories.com/support/solutions/articles/12000103082 As of February 1st, 2025, Razorpay is available as a native payment gateway integration in Brilliant Directories. Follow the steps below to generate the necessary credentials and complete the setup process. Step 1: Access the Razorpay API Section Log in to the Razorpay Dashboard at https://dashboard.razorpay.com . Click Account & Settings from the left sidebar. Navigate to API Keys under Website and App Settings . Step 2: Generate the Razorpay API Key If an API Key has not been created yet, click Generate Key . Note whether the system is in Test or Live mode. Test mode keys work only for test transactions. If these keys are for the live website, ensure Live mode is selected before generating keys. Step 3: Copy the Key ID and Key Secret After generating the keys, a pop-up will display the Key ID and Key Secret . Copy the Key ID . This will be required to complete the integration. Copy the Key Secret . The Key Secret will only be displayed once, so ensure it is securely saved. IMPORTANT: If a new API Key is ever created in the future, make sure to update the Brilliant Directories website with the new Key ID and Key Secret to ensure uninterrupted payment processing. Step 4: Add Razorpay as a Payment Gateway in Brilliant Directories Log in to the Brilliant Directories Admin . Navigate to Finance → Payment Settings . Click Add a New Payment Gateway . Select Razorpay from the list of available payment gateways. Step 5: Enter the Razorpay Keys and Save In the Razorpay setup popup, paste the Key ID into the designated field. Paste the Key Secret into the corresponding field. Click Save Changes to complete the integration. Step 6: Verify the Integration Process a test transaction to confirm that payments are being processed correctly. Check the Razorpay Dashboard for transaction logs. If any issues arise, refer to Razorpay’s official support documentation or contact Brilliant Directories support for assistance. IMPORTANT: Required Razorpay Settings The following settings must be configured correctly for the integration to work properly: Under General Settings >> Locatlization >> Website Currency Set To: Indian Rupee Ensure these settings are verified before completing the setup. Incorrect configurations may cause payment issues. Live Mode vs. Test Mode Razorpay offers two modes: Live Mode and Test Mode . Live Mode: Use this mode to process actual transactions. The Key ID and Key Secret generated in Live Mode are separate from those in Test Mode. Test Mode: Use this mode for testing purposes. Transactions in Test Mode do not involve real payments, but the Test Mode Key ID and Key Secret must be used. Ensure the appropriate mode is selected based on the intended use of the integration. After completing these steps and verifying the configuration, transactions will be securely processed through Razorpay, ensuring a seamless payment experience. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182028879/original/2GTwLWppM0bmVJ_UkTDzxDdKjtpdCwk3zg.png?1784054853",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156117745/original/7GeTB0xonTcqtaOSSF-OkDRzITL_EgGYSQ.png?1738112362",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182034858/original/cZa21tG9TSF_Fp2SBChJtShfIo5HfyW1Qg.png?1784060583",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182035116/original/Qi93OI7tRzcLHa2gCFrhM5YANPRlyfK_JA.png?1784060823",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

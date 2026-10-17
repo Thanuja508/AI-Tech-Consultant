@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000075850-developer-hub-robots-file",
+  "title": "Developer Hub » Robots File | Brilliant Directories Documentation | BD Support",
+  "content": "Developer Hub » Robots File Link: https://support.brilliantdirectories.com/support/solutions/articles/12000075850 To edit the default version of the Robots.txt file navigate to Developer Hub >> Robots File : Default Rules The default file includes the following rules. User-agent: Googlebot Disallow: /api/ Allow: / User-agent: Mediapartners-Google Disallow: /api/ Allow: / User-agent: Googlebot-Image Disallow: /api/ Allow: / User-agent: Yahoo-MMCrawler Disallow: /api/ Allow: / User-agent: Yahoo-slurp Disallow: /api/ Allow: / User-agent: slurp Disallow: /api/ Allow: / User-agent: Msnbot Disallow: /api/ Allow: / User-agent: MSNBot-media Disallow: /api/ Allow: / User-agent: Bingbot Disallow: /api/ Allow: / User-agent: Bing Preview bot Disallow: /api/ Allow: / User-agent: Twitterbot Disallow: /api/ Allow: / User-agent: * Disallow: / To add to the file, click inside the text field and add the necessary rules. See How To Add Bots To Your Robots.Txt File (Ahrefs Example) . Restore Default File The following button replaces any value imputed to the default version of the file: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12094106908/original/OpJk8GuLXGPLPrn69hN3Z96LG_XooIXB9A.png?1623774021",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085399056/original/SMAL8GXCLwyM4T8t-DZRRhzyFxUwMDVmUQ.png?1606162699",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

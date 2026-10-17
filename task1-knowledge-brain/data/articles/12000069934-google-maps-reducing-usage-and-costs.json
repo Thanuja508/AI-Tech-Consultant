@@ -1,0 +1,120 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069934-google-maps-reducing-usage-and-costs",
+  "title": "Google Maps: Reducing Usage and Costs | Brilliant Directories Documentation | BD Support",
+  "content": "Google Maps: Reducing Usage and Costs Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069934 Google Maps is used for everything related to locations in the system : Contact Details form Members choosing Service Areas in the Member Dashboard Members setting locations for posts when creating them Displaying maps on profile pages Displaying maps in the sidebars of profile pages or post pages Users searching for members and posts by location Users sharing their location to auto-fill location search fields ( Detect Visitor Locations add-on ) Removing any of this functionality will impact the user experience, so it is a matter of deciding which trade offs are not as important to make and disable that functionality accordingly. How to Limit Maps Limiting the areas on the site using location search fields of any kind which uses the \"Places API (New)\" and \"Geocoding APIs\": Search Modules The first step in reducing Google Maps API usage is to remove location searches from the website. Homepage The homepage typically uses a category and location search module. Change the search module to one that doesn't search by location. ** Do not use any of the \"Location Search\" or Maps ** Additional Information: » Search Type - Search Box / Call to Action Header Mini Nav & Sidebars These are search modules that appear at the top of every page or in the sidebars. In the Design Settings change the module to one that doesn't search by location. ** Do not use any of the Location modules ** Additional Information: » Header Design Sidebars ** Do not use any of the Location modules ** Additional Information: » Toolbox » Sidebar Manager Get Matched Form Location fields and/or rendering the Google Map in Get Matched lead forms (though this is probably minimal compared to searches). Get Matched Page This is a popular page and calling the maps or allowing location matches can increase API usage. Profile Pages This is a popular page and calling the maps or allowing location matches can increase API usage. Remove Lead Forms Location Searches The leads form has special settings that control the location fields, no need to edit the actual lead form. 1) Set the Location Fields to \" OFF \". 2) Decrease usage by switching to \" Only Input \" Additional Information: » Leads » Manage Leads » Lead Settings » (Auto-Match Workflows) » Form Settings Member Profile Pages & Search Results The display of Google Maps themselves on profile pages and search results pages (JavaScript API). Profile Pages The member profiles will show a map with the member location. Remove the map inside: Profile Tab - Overview Tab Order : Location Map \" Do Not Display \" Search Results Pages This applies when the site has the Google Map Search Results Add-On . First disable the maps. Go to Content » Edit Post Settings » Member Listings » Search Results tab » Additional Settings: Scroll all the way down to find: \" Display Google Map Option on Search Results Page s \" set it to NO Grid or List View Now inside the Design Settings » Search Results Pages select either List or Grid view for the results: The Map button no longer appears: Inside the Design Settings, selecting Map view once this has been disabled, it will need to be enabled again: Detect Visitor Locations If the Detect Visitor Locations Add-On, disabling this would reduce usage as well. Additional Information: » Detect Visitor Locations Add-On Form Maps Maps on the Forms can be disabled. This will apply to the Contact Details and the Feature Forms - the setting to disable the map will be inside: Content » Edit Post Setting » \"Post Type\" Edit » General Settings » Additional Settings First select the post type that this change will apply to. In this example, using the Classifieds: ** Selecting \" No \" will hide the map on the Contact Details form in the Member Dashboard when a member enters their location information. This will not impact the member's ability to save a location for their profile . The member can still enter their location inside the form: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091651823/original/kTTdElMiVm_EnBbHF2O7NqrA4t3VWIcyVw.png?1619027350",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091652119/original/diY-Rk1FkZ6ec1WOyDfluBlJmID2ZrpYbg.png?1619027711",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091652239/original/HstIlDhkfX5aXQlqpmoMX-b7x_uj2Q5DyA.png?1619027910",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091652711/original/fkL0NuvZFXuObamPJYyotqBxqKPSlFZECA.png?1619028618",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091653006/original/ytpRdkOO4Ad63V4ABpxdKEtuL1rVZ-EGbg.png?1619029207",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091654057/original/2TfEljd7M4IAwppwYGVyx0b32hyfXk3VMg.png?1619031242",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655252/original/tBkR_y7sjlTVjXRxKWzjcuUIXV51LqM7ng.png?1619033616",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655437/original/VE5aRP9yquvXTP3qb5vwI6wcrt6-2oD4Uw.png?1619033935",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655461/original/804-z6Jgde_hn8MhLRxqW3sACPWU97spSw.png?1619033974",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655678/original/Src67PjhJy4HwksfRVuh2DInglTW9OCwlQ.png?1619034332",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655901/original/Ddiyc2HylYCrnkE6_oWAFvbWAuWpuKBlSg.png?1619034858",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655905/original/Igt9tICUeztr50tg8LMyLi7fIUUX1rXlVg.png?1619034863",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091655957/original/-w_jQh8c0lx_lJ5LB7fGfXd5HIzdziDaiA.png?1619034974",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091656068/original/6nktaqzaK0SHbf4-BXlar99sVA1fGVkDfw.png?1619035115",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091656144/original/SJ_GF2lWz9gz8ZiD4l4HvbPA9aRra9DO6w.png?1619035246",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091656647/original/XlSgcFzhi09_-knMCPWnft7LMKY5GlOrxg.png?1619035999",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091660034/original/qtlqh3YRx6fi8Dse_F_2hy2i1vCkbkeYJA.png?1619043113",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091660063/original/1P7TK43EN4nhXEPSfTFFrFW2ws_5SS-_gg.png?1619043190",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091660457/original/SBwRmxuaVBiq16YiL9XxbdFxsg4bTQzIdQ.png?1619044583",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091660477/original/Osjp8PRbEDcuGO1WOHvoIMUurUN93U0YoQ.png?1619044672",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091660479/original/9pVm6Ic_k342ZRv8TK5aOrVmLvggS0BNmA.png?1619044678",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091660650/original/kRNZ5CDIzIh92Ts1cevbHX5syoF0U2Yubw.png?1619045150",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091661858/original/AelPDQgZZQofo1rdoijV4RNZsQk28wQcVQ.png?1619049151",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091661907/original/94AxTfOPN-8FCxL0Q6QebC1JBHJfg8ZjOQ.png?1619049291",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091661906/original/4yeCWnxo_Y3BbOlvTraHSkSkcczPXVff2A.png?1619049278",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091661923/original/t2hjSVYZ_cOY5dOQ8W-imH3Xd2mHu6nggw.png?1619049308",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12078034305/original/yTSKzJxZL0mwkvo5XJxTHwRuw4FBRBFkyw.png?1591112201",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000074278-streaming-post-carousel-slider",
+  "title": "Streaming Post Carousel Slider | Brilliant Directories Documentation | BD Support",
+  "content": "Streaming Post Carousel Slider Link: https://support.brilliantdirectories.com/support/solutions/articles/12000074278 Display streaming posts on the website’s homepage in a horizontally sliding carousel rather than in the default multi-row layout. Works with all post types and can be enabled for individual streaming post sections on the homepage. Post carousel sliders are mobile-friendly and touch responsive! The sliders also respect the total number of posts and columns set for each streaming section. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Streaming Post Carousel Slider Add-On Enabling the Add-On Go to Settings - Design Settings - Homepage - Select Content to Display: This controls the order that items appear on the homepage. To add or edit which type of content the owners would like to stream on the homepage click on on the down arrow and select the appropriate data. Click on Edit Settings to expand the additional options and enable/disable the Carousel Slider. Enable/disable the Carousel Slider on the homepage: The Streaming Post Carousel Slider setting applies to the: Member Profiles Streaming Widgets Member Top and Sub Categories Streaming Widgets Post Types Streaming Widgets This will allow members to go back and forth between the streaming features: Embedding Post Slider on Static Web Pages The streaming post carrousel add-on is built to work on the Hompage, but it can also be added it to a Static Page, here's how: 1. Identify the widget that will be displayed in the static page: How to Locate Widgets, Sidebars, Menus, and Forms Via Admin Bar 2. To add the widget, copy the widget shortcode and then add it to the static page: How To Call a Widget On a Custom Page . IMPORTANT NOTE: Do not add inside a table. The carousel slider is incompatible and therefore won't work inside a table element. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452200/original/pG6COoILPzyZaMDcYKn3FUlV_Uop12zMag.png?1781542239",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452255/original/4X5IALDSgcVR2F3C7TSRfWKUb_EAh0at3A.png?1781542296",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452284/original/bFkilGydZ7-M75TExPeJKoPiJCSchSKvhw.png?1781542330",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180452305/original/yn2-pZc5PoC4hCQiZby0uot_JeAc8m6fWA.png?1781542373",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907172/original/Kt01NJUW8hyVwaO7z7PGU6HoRokPAgHNWA.png?1617650185",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

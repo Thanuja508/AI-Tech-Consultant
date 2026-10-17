@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000063347-edit-checkout-pages-translate-billing-country-or-state-fields-dropdown",
+  "title": "Edit Checkout Pages: Translate Billing Country or State Fields Dropdown | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Checkout Pages: Translate Billing Country or State Fields Dropdown Link: https://support.brilliantdirectories.com/support/solutions/articles/12000063347 Editing States or Provinces To edit states or provinces, contact support by clicking here and request that the Advanced Setting ‘Use Custom States / Provinces List’ be enabled. The system will use the website's local list of states/provinces in the drop-down menu when this setting is enabled. This setting is useful when a custom list of states is required or to translate the states and provinces to a different language. When this is turned on, the admin can modify the states directly in the MySQL Database. Editing Countries Currently, the only way to translate country names is through the database. Note: Contacting support is not required for this process. Steps to Edit Countries and States / Provinces 1. Go to Developer Tools » MySQL Database: 2. Click the \"Directory\" option in the left sidebar. This will open the available tables that are inside the \"Directory\" folder: 3. In the left sidebar, find the table called \" list_countries \" to edit the Countries . And find the table called \" list_states \" to edit States and Provinces . 4. Double-click the country name that needs to be translated (Step 2 below) and press Enter when finished. Changes are saved automatically. For example, to translate a country name into Spanish: To go to the next page, click here: Once the translation or editing has been completed, close the database and return to the Admin Dashboard » Refresh Live Website. State Drop-downs If the \"Country\" field is hidden in the form (for example, in the Checkout or Sign Up pages), the State/Province dropdown will not load any values unless a default country value is defined. This happens because the State field is dynamically populated based on the Country field selection . If the country is not selected or preset, the system doesn't know which states to load. How to Fix: For example, if the state dropdown should show U.S. states, but the Country field is hidden, add the country code as the default value (US) to that field: You can do this in the Form Manager: Go to Settings > Form Manager . Find the Member - Sign Up form (or the form you're editing). Locate the country_code field (even if it's hidden). Click the Gear icon to open the Field Settings. Add US as the Default Value . Save the form. Once set, the state dropdown will correctly populate with U.S. states even if the Country field is hidden. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393507/original/shGswcGbBwvUppVPVqMicgS1oLbnAKy6Ow.png?1620610268",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105383568/original/ukK30ereDEEoCx8E-2OFV5WfdxlJKZxrMg.png?1645474960",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538390/original/lZWP1M_RQk9jc3qwuiAGdwftTl4Dds9StQ.png?1569946259",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538558/original/gV9masTx99ngqnrEQFraodXOdCC4BDnNzQ.png?1569946441",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538984/original/GvhZkvsF3VSXKo4osRtX7voIs_pP7pPZKg.gif?1569946908",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12057538598/original/el59ttVR4wvo4wAzaHyCZCq82j6s3maERw.png?1569946505",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162912282/original/q0yvBMnCNjxp7-9RxgB1nZQA5EyFl3lh0Q.png?1750086048",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

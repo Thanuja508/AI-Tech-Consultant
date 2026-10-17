@@ -1,0 +1,81 @@
+[
+  {
+    "id": "expert-1792214880837",
+    "question": "How can I change a setting that is not documented?",
+    "reason": "Testing human expert escalation",
+    "sources": [],
+    "status": "open",
+    "expert_answer": null,
+    "expert_name": null,
+    "created_at": "2026-10-17T05:28:00.837937+00:00",
+    "answered_at": null
+  },
+  {
+    "id": "expert-3f2a43c1b813",
+    "question": "How do I train a dolphin to paint a portrait?",
+    "reason": "No relevant knowledge-base articles found.",
+    "sources": [],
+    "status": "open",
+    "expert_answer": null,
+    "expert_name": null,
+    "created_at": "2026-10-17T05:52:32.048700+00:00",
+    "answered_at": null
+  },
+  {
+    "id": "expert-05e6fe56f560",
+    "question": "How can I change a setting that is not documented?",
+    "reason": "Testing human expert escalation",
+    "sources": [],
+    "status": "open",
+    "expert_answer": null,
+    "expert_name": null,
+    "created_at": "2026-10-17T05:56:07.257076+00:00",
+    "answered_at": null
+  },
+  {
+    "id": "expert-1f8278aab792",
+    "question": "How do I train a dolphin to paint?",
+    "reason": "The knowledge base does not contain relevant documentation",
+    "sources": [],
+    "status": "answered",
+    "expert_answer": "This question is outside the scope of the Brilliant Directories knowledge base.",
+    "expert_name": "Human Reviewer",
+    "created_at": "2026-10-17T06:09:16.073938+00:00",
+    "answered_at": "2026-10-17T06:11:58.247689+00:00"
+  },
+  {
+    "id": "expert-b675b945fd62",
+    "question": "How do I train a dolphin to paint a portrait?",
+    "reason": "The AI reported insufficient supporting evidence.",
+    "sources": [
+      {
+        "title": "Google Map Theme | Brilliant Directories Documentation | BD Support",
+        "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000010586-google-map-theme"
+      },
+      {
+        "title": "Settings » Design Settings » Color Sets | Brilliant Directories Documentation | BD Support",
+        "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000044726-settings-design-settings-color-sets"
+      },
+      {
+        "title": "Design Settings » Homepage » Hero Background Image | Brilliant Directories Documentation | BD Support",
+        "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078952-design-settings-homepage-hero-background-image"
+      }
+    ],
+    "status": "open",
+    "expert_answer": null,
+    "expert_name": null,
+    "created_at": "2026-10-17T06:13:23.036447+00:00",
+    "answered_at": null
+  },
+  {
+    "id": "expert-31864942df66",
+    "question": "How do I train a dolphin to paint a portrait?",
+    "reason": "No relevant knowledge-base articles were found.",
+    "sources": [],
+    "status": "open",
+    "expert_answer": null,
+    "expert_name": null,
+    "created_at": "2026-10-17T06:27:30.926251+00:00",
+    "answered_at": null
+  }
+]

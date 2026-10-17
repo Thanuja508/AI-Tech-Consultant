@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000083204-protect-the-login-page-from-iframe-embeds",
+  "title": "Protect the Login Page From iFrame Embeds | Brilliant Directories Documentation | BD Support",
+  "content": "Protect the Login Page From iFrame Embeds Link: https://support.brilliantdirectories.com/support/solutions/articles/12000083204 This Advanced Setting will protect the Login page ( /login ) from being called from an iframe that is not on the same domain name. The purpose of this security setting is to prevent another website from embedding the website login form without proper authorization. We recommend enabling this setting as a security measure. However some sites have a custom integration where the login page is part of additional built-in functionality within another application, in which case we recommend disabling this setting and/or customizing the login widget to modify it for specific customizations. System Variable : protect_login_from_iframe For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100362431/original/1InVuCY6iGvfl_HcHalcsBOrT7ieAToRBg.png?1635817182",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164637827/original/zTy1KXpf1YsXFbtZPuJY2Jk07Lj8UqcV_w.png?1753131347",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

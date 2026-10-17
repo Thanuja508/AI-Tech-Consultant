@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000021119-automatic-ip-address-blocking-the-firewall-on-this-server-is-blocking-your-connection",
+  "title": "Automatic IP Address Blocking - The firewall on this server is blocking your connection | Brilliant Directories Documentation | BD Support",
+  "content": "Automatic IP Address Blocking - The firewall on this server is blocking your connection Link: https://support.brilliantdirectories.com/support/solutions/articles/12000021119 Understanding IP Blocks and Site Accessibility The Brilliant Directories platform includes automated security measures to help protect websites from malicious activity. One of these measures is an IP address blocking system, which temporarily restricts access from IPs that exhibit potentially harmful behavior. Important note: when an IP is blocked, the website itself remains online and accessible to all other users — the issue is limited to the specific blocked IP address. This is a screenshot of the firewall message: In approximately 95% of cases, an IP address is blocked because automated systems detect behavior consistent with attempts to exploit vulnerabilities. These blocks are implemented automatically to prevent potential security breaches and to maintain overall server integrity. In about 5% of cases, blocks occur due to false positives — typically triggered by repeated failed login attempts or other unusual access patterns. These are some of the most common triggers: 10 failed login attempts within a 1-hour period 10 failed login attempts to an email account within a 1-hour period 5 failed email sending attempts using the domain name 5 failed login attempts to cPanel within 1 hour 5 failed login attempts via SSH within 1 hour (usually limited to use by developers or server administrators) When a block occurs, the website continues to operate normally for all other users. The block applies only to the specific IP address that triggered the activity threshold. If access is unintentionally restricted, switching to a different network often restores access. Please also contact support@brilliantdirectories.com so that we can help review and resolve the block. These measures are in place to ensure long-term platform reliability and security for all directory websites. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162210242/original/ps3n2P7hVv2ihFiv2WYJ6c7dmB8ZAplXCA.png?1748882044",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

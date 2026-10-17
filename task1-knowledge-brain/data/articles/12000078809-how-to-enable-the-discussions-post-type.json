@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078809-how-to-enable-the-discussions-post-type",
+  "title": "How to Enable the Discussions Post Type | Brilliant Directories Documentation | BD Support",
+  "content": "How to Enable the Discussions Post Type Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078809 The Discussions Post type along with the free Community Comments , will allow members to post content and easily connect with one another. This feature essentially has the same functionality as a forum. The comments need to be enabled for this post type: Community Comments Add-On This post type is enabled per Membership Plan, giving the admin the opportunity to choose which members can post a Discussion topic, and which others can only view and comment. Click on the following article for more information -> Finance » Membership Plans - Post Publishing . It can also be edited as any of the available post types. Here's an article to learn more on Edit Post Settings Create A Discussion Follow these steps to publish a Discussion on the website: Access the Member Dashboard, on the left sidebar find the Discussions post type. Click on it to add a new Discussion. Add some content to the discussion, for example a title, description, image and more as explained below: 1. Publish content on the site or save it as a draft. 2. Add the Title of the Discussion 3. Add an image to the Discussion. 4. Select the category. For more information check this article -> How To Add or Edit Categories For Post Types (events, coupons, classifieds, etc) 5. Enter keywords that apply. Separate with comma. 6. Add content to the article, use the Froala Editor to give the desired style and structure. 7. Save the changes Once the Discussion post has been created, it will display the current Status (Published, Draft, Expired). Click on the Actions button to View, Edit, Clone or Delete the discussion: Discussion Post Example This is how a Discussion post appears live on the website: All Post Types have a designated search results page: EG: http://yourbrilliantdomain.directoryup.com/discussions Post Bookmarks and Views The number of views and Bookmarks will only show if the correspondent add ons are active on the site: Member Profile Analytics Bookmark My Favorites Add-On For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090851720/original/aijEjbbIIG0QysOsntFS3Nb55l4mCAf0PA.png?1617457636",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090851778/original/3SnGUp2bQXkqDG0EVgL2VC921pcSEih_sA.png?1617457971",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852440/original/NPUwq4UUtJbsTSOGViq7Dx2G5VgC43QiQQ.png?1617460720",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852503/original/BkVZz9yfXO-B8BjUB0cPBJ3QRKAZqotDmQ.png?1617460935",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852566/original/7PezkVA1bqPJvcAyDlT1HjfNpFD-iqNm5A.png?1617461270",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090852550/original/gsUv1G42n2zb1ix5-CRn1baCs2CKd1QJyQ.png?1617461166",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

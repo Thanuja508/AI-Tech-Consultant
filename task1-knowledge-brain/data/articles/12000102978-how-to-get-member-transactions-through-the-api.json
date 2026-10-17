@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102978-how-to-get-member-transactions-through-the-api",
+  "title": "How to Get Member Transactions Through the API | Brilliant Directories Documentation | BD Support",
+  "content": "How to Get Member Transactions Through the API Link: https://support.brilliantdirectories.com/support/solutions/articles/12000102978 In this article, we will be going over how to Read members transactions using the Transactions API . What this API endpoint allows to do is to gather transaction information from 1 member at the time. How to get member transactions The Transactions API leverages a single parameter (member ID or Client ID) to retrieve all the transactions data. /api/v2/user/transactions Parameters Only 1 parameter is needed to run the API: It can either be the Member ID or the Client ID (The id of the tblclients table in the billing database) Example with Postman Sending the member ID as the parameters The results will show all transactions from that particular member in a Json Array format: It will also show the payment methods partial details. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155074571/original/8I7THGaWkNr-05Z_DSDqURzJL_U--yyikA.png?1736357334",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155074957/original/5OV_qtgI9_7Wr3OcoEz1zNS6lgTjvVoMlA.png?1736357559",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155075063/original/D7bBQS4Itt1Mwq2wUYMro4u8CRgQZTsUFw.png?1736357644",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12173636751/original/c-BejdCvb8gKdn3oBWxC_zLrrnchwEc6tg.png?1769094041",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

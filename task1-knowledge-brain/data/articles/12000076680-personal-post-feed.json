@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000076680-personal-post-feed",
+  "title": "Personal Post Feed | Brilliant Directories Documentation | BD Support",
+  "content": "Personal Post Feed Link: https://support.brilliantdirectories.com/support/solutions/articles/12000076680 Users will have a dedicated “feed” page accessible within their account dashboard. This personalized feed will list all recent posts published by other members who they have marked as a favorite. Important: Personal Post Feed requires the Bookmark My Favorites add-on to be enabled as well. This will allows users to mark members on the website as a favorite. In order for the Personal Post Feed to appear the member needs to bookmark a another member and then the Personal Post Feed link is going to appear on their main dashboard. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Personal Post Feed Add-On Enabling this Add-On 1. Go to Finance - Membership Plans: 2. Select the membership level(s) that the admin wish to grant this add-on to: 3. Once in the membership level settings, go to Member's Dashboard tab and scroll down: 4. Once the Additional Settings section appears please enable the Personal Post Feed in the setting below: This will enable this setting for the members in their dashboard: If the member click on it, it will redirect them to a new page where they'll be able to see all their saved post: The admin will have the option to edit this page within the SEO Templates by going to Content - SEO Template: The admin will be able to edit the URL from here: Once the add-on is activated the admin will be able to add the Personal Post Feed widget within the member's dashboard. The name of the widget is Bootstrap Theme - Personal Post Feed - Results . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137820/original/tUr5FqYhJdKuxVkLbDNh0xfmlbMeVrJG8g.png?1620084333",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137853/original/lKHjD4jewxtkfr2Bod9PRu--l9Eosil2HQ.png?1620084415",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137912/original/g939li_viWsqliiNgCiWiYGbkaeD5Ubolg.png?1620084566",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092137950/original/Pk8gFn4tSKSj6NMyApzqzIi0gveGI5syOQ.png?1620084706",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138078/original/qThj_1rUU9rhcyc_h0MrEyGn9BBupu-Nng.png?1620085011",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138131/original/HKRL0LCuVo1C2BQyEwVTK7-6-8cN_l5VPg.png?1620085138",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092138254/original/7Y00zeKtcjVDN-AlCVkAhfCj8GBEQqnLjQ.png?1620085456",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092171408/original/hAy69AKC0S_GeYfyFS1d07XJtN57UKwu2w.png?1620138073",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

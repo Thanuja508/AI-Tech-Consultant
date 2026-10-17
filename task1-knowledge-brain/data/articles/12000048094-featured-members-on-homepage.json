@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048094-featured-members-on-homepage",
+  "title": "Featured Members on Homepage | Brilliant Directories Documentation | BD Support",
+  "content": "Featured Members on Homepage Link: https://support.brilliantdirectories.com/support/solutions/articles/12000048094 Overview By default the website has the option to display new members on the homepage. The Feature Members on Homepage add-on lets the admin select specific members to show on the homepage. This add-on can provide additional revenue channels, member upgrade benefits and more by letting the admin hand pick members, new or old, to be displayed on the homepage. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Feature Members On Homepage Add-On Enabling the Add-On Got to Members - Search Members: Locate the member the admin would like to update and hover over the \"Actions\" and click on ''Quick Edit\" Click on the Listing Settings tab at the top and change the Homepage Featured Member Order of the member. Click on \"Save Changes\". Important : The system will not allow to add more than one member in the same position. If there are more than one member it will show something like the image below. Please edit those members and move them into their respective order. Selecting the Featured Members Streaming Widget 1. Go to Settings - Design Settings - Homepage - expand the Select Content to Display: 2. Select the \"Streaming Featured Members\" option: 3. Click on \"Save Changes\" There are different primary sections that the admin can edit by clicking on \"Edit Settings\" Important Note The maximum number of allowed featured members is 24. Streaming Section Settings To learn more about the streaming settings please go to the link below: Stream Content On The Homepage (Coupons, Articles, Members & Others) For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090967224/original/g3pkHHF57V0_bwpOblMr7F1U-6pj6Xmm8A.png?1617735461",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090967267/original/ox04S7w78UzcTuOLpAx3KVmQv1SolVkf0w.png?1617735556",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090967287/original/mC2p_mUl79fuf8EYIQasXhs6zYiLbh_Pog.png?1617735596",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090383090/original/6KUmM9Vfw6NiBKe9dRbcnwWzQIyc-2dfGg.png?1616519961",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090967346/original/V251O_PEdjTBabOs_u8givjvd9MSmuDPRw.png?1617735694",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090967398/original/LSZsxMgjJbkVWpKk8RMotzfvxbGNy7u07w.png?1617735744",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090967407/original/nulZhUQ76QKfiW2oqA7XLBfCTIm9wE1r2w.png?1617735762",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

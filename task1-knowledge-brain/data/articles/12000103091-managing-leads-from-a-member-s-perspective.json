@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103091-managing-leads-from-a-member-s-perspective",
+  "title": "Managing Leads From A Member's Perspective | Brilliant Directories Documentation | BD Support",
+  "content": "Managing Leads From A Member's Perspective Link: https://support.brilliantdirectories.com/support/solutions/articles/12000103091 Members can manage leads directly from their dashboard. Depending on the lead settings configured by the site administrator, members may be able to: Purchase a lead Accept a free lead Decline a lead This article explains how each action works and how members can track the status of their assigned leads. Purchasing Leads Please find all the relevant information here: Purchasing Leads Accepting Free Leads An email notification is sent when a lead is assigned. The email contains a link to view the lead details. The link included in the email automatically logs into the dashboard and opens the assigned lead. Clicking on \" View Details \" will open the lead: If lead notifications are configured to display a preview only, Accept Lead must be selected before the full contact information becomes available. After the lead is accepted, the complete lead information becomes available, including contact details such as email address and phone number. Declining Leads The member will receive an email notifying them that they have a lead. A link to view the lead is included in the email template: Clicking on the link will AUTOMATICALLY log that member into his dashboard and take them straight to the lead itself facilitating the purchasing process. Clicking on \" View Details \" will open the lead: The member will click on \" Decline Lead \" to not accept it: The system will display a pop-up asking for feedback on why the lead was not accepted. This question is optional. The lead will appear as \"Declined\" in this section: View Declined Lead Reason The owner of the site views the declined lead reason in the Leads details of the admin: Member Assigned Lead Status When a lead is accepted, the following lead statuses will be displayed: Deal Won Deal Lost In Progress Needs Contact These statuses are designed to help members efficiently manage their leads on the dashboard. This appears in its own column when viewing all leads: Lead Status Text Labels These are text labels which can be found and edited within the Settings » Text Labels : lead_user_status_won lead_user_status_deal_lost lead_user_status_in_progress lead_user_status_needs_contact For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155728959/original/yEyF508A0Gwn6zNJtxaLE4g9F1XGH_zZ7w.png?1737477373",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729072/original/DVMvcB_6_gQsCkseDjpyAzsFRY-Pcyk6fQ.png?1737477471",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729147/original/NFSL0PaSPkY8FWzqCprKAUfbPOs92F_tvA.png?1737477532",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155728959/original/yEyF508A0Gwn6zNJtxaLE4g9F1XGH_zZ7w.png?1737477373",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729537/original/F-hb3aXqwvohPzVLcYTKCAQP_dWCoAguOw.png?1737477870",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155729885/original/EFd8pM7k-Wh0fy3oVvCA1UKAcNUoC3fxPg.png?1737478137",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730211/original/watlVnkjsg1ltegneDa9DYA-Nff25c1T4A.png?1737478330",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730036/original/Eu_xPlo3FiKS6OVXhgL6eyD7aY6KZ6LGHQ.png?1737478227",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155730618/original/J2IFVQ4XK1W-5DRBycObYKJYJMI6OBsUsA.png?1737478676",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164354873/original/3xJSSvErkcAALjOEBzfcgC0YdoOvyUNYkA.png?1752609451",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

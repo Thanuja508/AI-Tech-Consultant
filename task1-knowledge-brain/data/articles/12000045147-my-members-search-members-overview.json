@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000045147-my-members-search-members-overview",
+  "title": "My Members » Search Members Overview | Brilliant Directories Documentation | BD Support",
+  "content": "My Members » Search Members Overview Link: https://support.brilliantdirectories.com/support/solutions/articles/12000045147 The Search Members section is one of the most frequently used areas of the admin dashboard. It provides access to member records, filtering tools, bulk management actions, and AI-assisted member data queries, all from a single screen. To access the section: Navigate to My Members in the admin dashboard. Click Search Members . The Search Members screen is organized into four main areas: Search Filters — narrow the member list by specific criteria. Member Sidebar — toolbar containing member management tools. BD Butler Tool — AI assistant for member data queries and actions. Member Search Results Table — the list of member records matching the active filters. 1 - Search Filters A set of filters is displayed at the top of the Search Members page. These allow the administrator to narrow the member results list based on specific criteria before taking any action. Full Reference: My Members Search Members - Search Filters . 2- Member Sidebar The Member Sidebar is located in the upper right area of the Search Members page. It contains three tools for managing and importing member records. Add New Member Opens the Add New Member form, allowing the administrator to manually create a member account directly from the admin dashboard without requiring a front-end sign-up. Full Reference: How to Add Members Manually via Admin Sync Members with Google Maps Opens the Batch Geocoder tool, used to assign latitude and longitude coordinates to member records in bulk so they become searchable by location. Full Reference: How to Geocode Members List Actions Dropdown A dropdown menu containing three additional member management options. Import Members via CSV File Imports member records into the site from a CSV file. Template files and import guidelines are available in the reference article. Full Reference : How To Import Members Via CSV File Export List of Current Members Exports the currently filtered member data, including fields such as email addresses and phone numbers, into a downloadable CSV file. ⚠ ADD-ON REQUIRED — Export Member Data: This option is only available when the Export Member Data add-on is active on the site. If the add-on is not active, this option will not appear in the List Actions dropdown. Create Smart Lists from Current Results Generates a Smart List based on the filters currently active in the Search Members section. The Smart List automatically groups members who match those filter criteria. Full Reference : My Members » Smart Lists 3 - BD Butler Tool The BD Butler AI tool is located below the Member Sidebar on the right side of the Search Members page. It is designed to assist administrators with member data queries and certain member-level actions without requiring manual navigation through the dashboard. The tool can be used to ask questions about member data and to perform actions such as changing the top-level category for one or multiple members. Full Reference: BD Butler Tool 4 - Member Search Results The Member Search Results Table is displayed below the filters and sidebar. It lists all member records that match the currently active search filters. Full Reference: Member Search Results Table Sort Options The results table can be sorted using the following options: Sort Option Description Sort Name A–Z Alphabetical ascending by member name. Sort Name Z–A Alphabetical descending by member name. Sort ID Highest Members with the highest system ID shown first. Sort ID Lowest Members with the lowest system ID shown first. Sort Newest First Most recently joined members shown first. Sort Oldest First Earliest joined members shown first. Sort Most Revenue Members with the highest revenue shown first. Sort Least Revenue Members with the lowest revenue shown first. Sort Most Credits Members with the most credits shown first. Sort Least Credits Members with the fewest credits shown first. Full Reference: My Members - Search Members - Sorting Options Bulk Actions The far-left column of the results table contains checkboxes for selecting individual member records. Selected members can then have a bulk action applied to them simultaneously via the Bulk Actions dropdown. Full Reference : Bulk Actions For Search Members Section Verified Members Indicator When a member has been set to Verified status, a verified icon is displayed alongside their record in the results table. References : How to Verify a Listing · Quick Edit Module For Members Internal Notes Indicator When internal notes have been added to a member record via the Quick Edit module, a notes icon is displayed alongside that member's record in the results table. This provides a visual confirmation that notes exist without requiring the Quick Edit module to be opened. Reference : Quick Edit Module For Members For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025555/original/jTQg5MVxENDExT6e87rO3wW3cq9JdOGfhg.png?1782398505",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025561/original/xh70KL56DGWhvQO3wNy7lpy4lXGmn6Crag.png?1782398524",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025621/original/WEopf71komckUJUTHqRJriHOZr7A5VMA2g.png?1782398555",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159696476/original/xvycJj2MByMtuBXvYn_E2KI_rLFKZWaf-w.png?1744238991",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181025654/original/7oYhlfFsg3zQHAP2yjksLmyXD-bE5_oLnw.png?1782398591",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131603093/original/Z_xv2tKlhxJ78ZrtSZs4c_nXi45rHBpr1w.png?1695226004",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159696951/original/SyS_D2sjszsx83MdyZOgG_nzf_dTOPyZYg.png?1744239895",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131603514/original/5GmnlEs1hAD7zOS05pw5ET-hWIJDJ5OrdA.png?1695226319",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131606533/original/Qb5tiGKcpDchlgAnd5Hep1si4G9LOja8cQ.png?1695228841",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131606601/original/3khA5IiFwP-Yckqv3fFWk0xgv9CTynKciA.png?1695228942",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

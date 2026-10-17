@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095723-how-to-get-members-through-the-api",
+  "title": "How to \"GET\" members through the API | Brilliant Directories Documentation | BD Support",
+  "content": "How to \"GET\" members through the API Link: https://support.brilliantdirectories.com/support/solutions/articles/12000095723 In this article, we will be going over how to \"get\" members using the /get API by email or any other column using these query parameters. Important Note This process can also be used for leads APIs and posts to search a lead or post by a column. How to \"get\" Members It is possible to \"get\" the member by email or any other column using the following query: curl --location 'https://stufebruary18997.directoryup.com/api/v2/user/get?property=email&property_value=sample%40sample.com' \\ --header 'X-Api-Key: a4dec6f5434c48b4c8d128567923e040' Pagination By default, the system displays up to 100 results per page. If needed, the number of results can be adjusted by entering any value between 20 and 100 in the \" limit \" field. The unique values of next_page and last_page can be used in the page field to load the corresponding next or last page of results. Multiple Properties It is possible to include multiple properties when searching for data through the API. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133362593/original/5_CWP0O2HDpq6X32GTjs3c6LD0jQuZAkYg.png?1698340362",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12150785924/original/l7T5oIaf46oH6F3K1UAyICxw6pd5wM3AiQ.png?1728592358",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12155860481/original/HAmZOcctUM5qAkFmCl585LXtGioDy34WwQ.png?1737645898",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

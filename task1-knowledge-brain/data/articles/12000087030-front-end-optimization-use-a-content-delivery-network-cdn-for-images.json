@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000087030-front-end-optimization-use-a-content-delivery-network-cdn-for-images",
+  "title": "Front-End Optimization: Use a Content Delivery Network (CDN) For Images | Brilliant Directories Documentation | BD Support",
+  "content": "Front-End Optimization: Use a Content Delivery Network (CDN) For Images Link: https://support.brilliantdirectories.com/support/solutions/articles/12000087030 The Front-End Optimization: Use Content Delivery Network (CDN) For Images is one of the new advanced settings that will enable additional optimization to the website performance. In this setting enter a URL to use a service like imagekit.io to serve images from an image CDN with automatic optimization and real-time transformation. Images that are served from a relative path will be updated to include the inputted CDN. For example, if this setting is enabled, an image that is set to /images/logo.png will be served from https://ik.imagekit.io/your-account-id/images/logo.png, optimizing the loading speed. To find this setting go to Settings > Advanced Settings: Front-End Optimization: Use Content Delivery Network (CDN) For Images Enter the URL of the service to use as a CDN to load the images. In this article, we will be using imagekit.io. To use imagekit.io the first step is to create an account. To do this go to: https://imagekit.io/ and click on the GET STARTED FOR FREE button: Then to create the account signup with either a Google account or set up an email and password: It will give the imagekit.io ID , but it still needs to be configured, select a region and click NEXT : To set up imagekit to load the site images click on either \" Configure External Origin \" or \" External Storage \": In the external storage section click on Add new, then fill out the following: 1. Origin name: Enter any name to identify this \"new origin\" 2. Origin type: Select Web Folder - HTTP (S)... etc. 3. Base URL: enter your site's domain 4. Save the setup A success message will appear, disregard and click on URL endpoints and then click on Add New . Add a name for endpoint, add a description, and click on Attach an existing origin here click on the web folder created in the previous step, then make sure to save the changes.: Copy the endpoint URL: Go back to the brilliant directories admin backend, go back to the advanced settings: Front-End Optimization: Use Content Delivery Network (CDN) For Images Copy the imagekit URL with the account ID as it. With this setup, the site images will now be served from the imagekit platform, and the site will have optimized the image loading speed. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107970997/original/S5tvKCH1zgVbRNAhsbimgEosSpJBHVFBBw.png?1650576494",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973775/original/dqpTko48_jAp_0jy4QHZJwlJtHcc-H10Ig.png?1650581259",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973794/original/vjjumoOs104gDCEVeS37w4ZLLQrTWl59gg.png?1650581346",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107973964/original/xuGDRnzsTBV286pnxxcRN5xInNOP3gHmqw.png?1650581504",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974063/original/kO4LAa-OpuIrMhqC8zTyv26EFy8oAMF2MQ.png?1650581580",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974301/original/1s3eN-OSAXFurw23e4KE_VV404eg_5aSoQ.png?1650582048",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108410164/original/0qVeyZU2wZr1bMayQEy5FEvfVjCd-YnJaQ.png?1651521510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12108410491/original/U35fct-7qnr4Xp27fGmKf2hfE9L31_rP2g.png?1651521856",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107974532/original/4D-6vLfT0uLWe1tOqvPLrObfQ63JkUWreg.png?1650582644",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

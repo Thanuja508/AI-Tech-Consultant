@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101414-how-to-achieve-full-width-background-color-for-landing-page-sections",
+  "title": "How to Achieve Full-Width Background Color for Landing Page Sections | Brilliant Directories Documentation | BD Support",
+  "content": "How to Achieve Full-Width Background Color for Landing Page Sections Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101414 The key is to first add a 1x1 table, give it a background color, then drop the other tables or content blocks within that 1x1 table. Create the Web Page Section Go to My Content Click on Web Page Builder Create or Edit a web page Click in Page Options and set the page to be Full Screen Page Width: Use the Table option in the editor: Select 1x1 and add a background color: Now add in the elements or content: Final Result For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780170/original/mqBnRfKWZGYNuRlrWhsl6s7FUUehJVV-xg.png?1783619045",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780194/original/42EliCWNKwox3SIHrrr8ndeuCGFxZWT2jw.png?1783619095",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181780353/original/i3ow4l9t3kGjwQon8yW9BM1DB03s6yUSPQ.png?1783619280",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149184767/original/53eDRDkDfcleiyCvQzvqdXrvaDv3HnGLYQ.png?1725908263",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12149184092/original/Q-1LRSjdyOsIipaFzgCHRlCmilZ71txT_Q.png?1725907720",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

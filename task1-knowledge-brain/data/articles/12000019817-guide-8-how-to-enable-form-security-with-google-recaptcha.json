@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000019817-guide-8-how-to-enable-form-security-with-google-recaptcha",
+  "title": "Guide 8. How to Enable Form Security with Google reCaptcha | Brilliant Directories Documentation | BD Support",
+  "content": "Guide 8. How to Enable Form Security with Google reCaptcha Link: https://support.brilliantdirectories.com/support/solutions/articles/12000019817 This article it's a guide on how to set up Google reCaptcha to reduce spam. NOTE : Before completing this step, FIRST connect the live domain name. Please see: How To Move Your Site To Your Live Domain . The website needs to have the reCAPTCHA key set up in order to have the public forms prevent SPAM. As Google describes it, \"reCAPTCHA is a free service that protects the website from spam and abuse. reCAPTCHA uses an advanced risk analysis engine and adaptive CAPTCHAs to keep automated software from engaging in abusive activities on the site. It does this while letting valid users pass through with ease.\" For this reason, if the reCAPTCHA keys have not yet been set up the checkout pages won't be available and will display the following message: Instructions 1. Sign in to the Gmail Account being used for the business. 2. Go to: https://www.google.com/recaptcha/admin/create 3. Provide a label name for the reCAPTCHA key. Add the URL of the website. 4. IMPORTANT: You must select \"reCAPTCHA v2\" and the \"I'm not a robot\" option. reCAPTCHA v2 > \"I'm not a robot\" Checkbox: 5. Provide the URL of the website and/or temporary URL if applicable. Use only the domain without HTTP / HTTPS and www . e.g : loveanimalsandplants.com 6. Accept the Terms of Service. 7. Click on Submit Please see these steps Live: 8. Copy the Site Key Provided. 9. Copy the Secret Key Provided. Adding the Keys Go into the admin page and click on Settings >> General Settings . Click on Integrations. Paste the Site Key and the Secret Key into the Google Recaptcha fields: For your other sites, be sure to repeat the tutorial from \"Add a site\" without clicking \"Add new key.\" For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096225116/original/281j9FOkTfTuRn-6ePel34VuyhTkYAAPKw.png?1627671836",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179424418/original/hq4g_H7NkaY8qa2XUQ0f3qTUhR2zvRDPXA.png?1779824127",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12071328183/original/iOQnWPV5kvwnpMTAl0rXkjZa9rdMbLU5xA.png?1577415144",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085560943/original/G8ulK0FBnSpTcaL2XGt7lOrRypv44hvAPw.gif?1606414304",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085561008/original/t1_bFH_nEEIxWRT8fDdpgSgNLUD2YQthTA.png?1606414412",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104985336/original/5xohrdePN5NXwYqPGorIdt60npiwXQftTg.png?1644770001",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

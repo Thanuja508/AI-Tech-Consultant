@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102884-how-to-search-for-members-through-the-api",
+  "title": "How to \"Search\"  for members through the API | Brilliant Directories Documentation | BD Support",
+  "content": "How to \"Search\" for members through the API Link: https://support.brilliantdirectories.com/support/solutions/articles/12000102884 In this article, we will be going over how to \"Search\" members using the /search API . What this API endpoint allows to do is to send information to the endpoint, just like it would emulate the functionality of using one of the member search features on the site. How to \"Search\" Members The user search API leverages various parameters to retrieve data displayed the same way as on member search results pages on the site. Parameters There are 10 parameters that can be used to filter the results. dynamic: Set to 1 to simulate a Dynamic Category Filter search. q: Enter a keyword to search for in member data. pid: Enter member Top Level Category ID to search for. Enter a comma-separated list of IDs if the Dynamic Category Filter search is enabled. tid: Enter member Sub Level Category ID to search for. Enter a comma-separated list of IDs if the Dynamic Category Filter search is enabled. ttid: Enter member Sub-Sub Level Category ID to search for. Enter a comma-separated list of IDs if the Dynamic Category Filter search is enabled. address: Enter the location to search for. Example: Los Angeles, California, United States. output_type: Enter the type of response to receive. Valid options - html, array. By default the results will show in HTML similar to the search results page on the site. If set to Array the results will show in a JSON array. limit: Enter the maximum number of search results to return per page of results. sort: Set the Order the data would be display. The options here are : reviews, name ASC, name DESC, last_name_asc, last_name_desc page: Enter the page number of results to return. For Example, enter 2 to return the second page of results. Example with Postman When endpoint is sent by default the results will show in the HTML format, the same as the search results page: When selecting Array as the output_type, the results will show in a Json Array format: Important Note When using the address field, it is required for the site to have the Pretty URL advanced setup enabled. For more information on how to do so: Set Up Pretty URLs with Google Maps For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154344470/original/oSNp0ftvvSXQX5QmKczC8qyDuz-Km290mA.png?1734720614",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154348016/original/qa0Da5GCeJDzL6RX8KI5FPNogQpiLOdBmw.png?1734724637",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154348108/original/TtLqBUZyGUZdfrOxYqaau-eYWLoW0IqPfg.png?1734724689",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

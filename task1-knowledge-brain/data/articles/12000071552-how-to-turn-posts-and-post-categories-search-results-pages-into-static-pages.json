@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071552-how-to-turn-posts-and-post-categories-search-results-pages-into-static-pages",
+  "title": "How to Turn Posts and Post Categories Search Results Pages into Static Pages | Brilliant Directories Documentation | BD Support",
+  "content": "How to Turn Posts and Post Categories Search Results Pages into Static Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000071552 This functionality allows editing and adding custom elements on post search results pages (general and for specific post categories) by turning them into static pages. In order to achieve this follow these steps: Access the Admin Dashboard and navigate to My Content >> Web Page Builder >> Click on \"New Web Page +\" : Once the new page has been created, edit it accordingly. Please see the following points mentioned on the images shown below: Select the Page Type as \" Post Search Results \" Choose the Linked Post Type Add a Title Add a Sub title Target Category Select the Target Category: Choose either Main Page which will display all the published posts from that post type or pick one category to display the published posts listed under a specific category. Important Note: When linking the page to the Post Type Properties , the only available option to choose from the Target Category is Main Page . Learn more: Adding Or Editing Categories To Post Types . Page Options Adjust the Page options to include sidebars, hide elements and apply specific rules to the page. More information Webpage Builder: Page Details Tab & Page Options Tab Additional Web Page Tabs These additional tabs control the hero section, additional seo fields and the \"Advanced\" tab is for adding custom code to a web page. More Information How To Add A Hero Section To Static Pages Edit The SEO & Social Media Settings Web Pages: Advanced Tab Example Page This is an example of a Static Page created for \" Job Openings \" showing the results for Sample Category 1 : For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972374/original/EZ-LnsZ9kOzS37DWHx8xN5pyFJy2DnOi2A.png?1783980787",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972549/original/UyoOJ3cm-epUYrTUAGXOnRwDb2-byFa18A.png?1783980942",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972567/original/gBD7V77U6HIOG1CA71s3hrOoaL9A6Sm-Fw.png?1783980983",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972570/original/-m59Spqj1RtaPN6pF5uQBF5RCMIovqiXIg.png?1783981006",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181972573/original/tUlKDEaD0-tTrTyKk527ar_htFDPeHqejw.png?1783981022",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166425636/original/b9MRyoFa6-zSWI9QkjpBPLHfg_YrvrRmAQ.png?1756170839",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

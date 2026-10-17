@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071183-google-maps-verify-domain",
+  "title": "Google Maps: Verify Domain | Brilliant Directories Documentation | BD Support",
+  "content": "Google Maps: Verify Domain Link: https://support.brilliantdirectories.com/support/solutions/articles/12000071183 According to Google guidelines: \"If you already own a domain name (such as example.com), and you want to use this domain name as the name of your Cloud Endpoints service, you must prove that you are authorized to use the domain.\" Login here to get these keys: https://console.cloud.google.com/apis For additional support regarding these verification keys and setting this up in your console contact Google Support: Maps API Google Support We recommend using the Meta Tag option - To add the Meta Tag go to: Settings » Design Settings » Custom CSS/HEAD » Add it inside the Additional Head Code For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12078036459/original/LnG1qm_t5xwILWO4ZidEaZAT2PFfkfJwPA.png?1591114488",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105619829/original/VLjOCQlPcvM_bKn9CNp4lFLaEAtCiBacng.png?1645925393",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

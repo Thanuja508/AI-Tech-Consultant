@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065866-what-is-the-purpose-of-the-general-user-membership-plan",
+  "title": "What is the Purpose of the “General User” Membership Plan | Brilliant Directories Documentation | BD Support",
+  "content": "What is the Purpose of the “General User” Membership Plan Link: https://support.brilliantdirectories.com/support/solutions/articles/12000065866 Website admins are encouraged to create their own membership plans to match their website goals. Newly launched websites include several default membership plans, including the “General User” membership plan. The General User membership plan is intended for visitors and individuals who want to be part of the directory to: Search for members because the site may offer members-only access. Individuals who want access to benefits available only to directory members. Use the Favorites Add-on functionality to save posts and member profiles that are searchable on the website. By default, this profile type is non-searchable and cannot create posts. However, the admin can update the settings to make these profiles searchable and allow them to publish content. If the settings need to be updated, go to Finance » Membership Plans » General User » Edit: The following articles explain how to make these profiles searchable and allow content posting: Finance » Membership Plans - Search Visibility Finance » Membership Plans - Post Publishing Another important difference is that this plan collects less information during registration. This plan uses the ‘Listing - Contact Details - General User’ contact details form: This form contains fewer fields than the Listing - Contact Details - Member form. The Additional Details section is also disabled by default: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172829989/original/O2dA70ymdYQYY3yLaZCbiZOSiAo_w6V3qw.png?1767706175",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830209/original/EDS5OQDg9zVRlMO8x-z4FTvAVWb3XWjosg.png?1767706442",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830287/original/IRcxiUuR9gp99HCyXSiwjWGIy95liI36VQ.png?1767706507",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830326/original/dzXhW8fF7kbPR0PXS-E9SxFPkTHHflQKVQ.png?1767706572",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000064301-clearing-cache-cookies-for-browsers",
+  "title": "Clearing Cache & Cookies for Browsers | Brilliant Directories Documentation | BD Support",
+  "content": "Clearing Cache & Cookies for Browsers Link: https://support.brilliantdirectories.com/support/solutions/articles/12000064301 \"In computing, a cache is a hardware or software component that stores data so that future requests for that data can be served faster; the data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere.\" This means that a computer, browser and site will all save images and files so that everything will load faster. This is usually a good thing, but when certain changes are made sometimes they don't reflect right away because of the cache. Clearing it occasionally, especially after updating files or making design changes, will let the system save and see the changes right away. How To Refresh The Cache Of The Website Below are examples for clearing the cache and cookies on different browsers: CHROME: FIREFOX: MICROSOFT EDGE: SAFARI: With Safari, the Develop Menu needs to be enabled first. How to Enable The Develop Menu For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058794548/original/uJWmepUmYV8_kteAul_HJyzJFJSLUYuPDg.png?1572225863",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058794592/original/2syZJLAAwFZM7T5j79fO6bLySTzISa6C6Q.gif?1572225979",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058794641/original/t7OS1laBxYkWkXFopMc39iReklnFuCg5Mw.png?1572226161",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058794672/original/nXBqfDc4Ht7f35PczPRhSkGPPa1BA7RkrQ.gif?1572226267",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058794706/original/IchZgteEyPcEkryioKcyUJaYZhvOx_KlTw.png?1572226384",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058794870/original/JyjZEI-HRVU1PI_MHpi0TF0PhStLCVCLww.gif?1572226848",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058795139/original/s0K5pj7e2U3wWn4NMTweK0TozcS-VvqRJQ.gif?1572227986",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047933-how-to-rename-images-files-from-the-media-manager",
+  "title": "How to Rename Images & Files from the Media Manager | Brilliant Directories Documentation | BD Support",
+  "content": "How to Rename Images & Files from the Media Manager Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047933 To rename an image or file inside the Media Manager, follow these steps: 1. Open My Content > Media Manager . 2. Locate the image or file to rename, hover the mouse over it, and click the pencil icon. 3. Enter the new name using lowercase letters and no spaces, then click OK . IMPORTANT: If an image is renamed while it is in use by Brand Images , Homepage Settings , Banner Ads , or Web Pages , that image will appear as broken. The file path or URL referenced in the code still points to the previous name, so the reference no longer resolves. Rename an image only after confirming it is not actively referenced in these areas, or update the reference afterward. Broken Image Examples Brand Images Homepage Image For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919768/original/S-OwH2Qy31Lk5Dtb_Yg3e0YoQRc_nb26AA.png?1700856440",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919778/original/0cdyGvpU_LvkG-Chebm16ITOEO1Wzx6tZQ.png?1700856474",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132675836/original/XjxWyV1DLEMbo66XZZYWbblfYRq3ilz11w.jpg?1697134126",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089383304/original/_crU7OHAVKXziOwBwm7T5O22fM7bydGIPg.png?1614560800",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089383434/original/dfXfQQab1VYwbHNtRQg4O8HoxsqGRFrtEw.png?1614561257",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

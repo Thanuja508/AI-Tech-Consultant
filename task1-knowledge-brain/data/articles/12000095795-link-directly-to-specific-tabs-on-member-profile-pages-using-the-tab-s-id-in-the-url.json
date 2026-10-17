@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095795-link-directly-to-specific-tabs-on-member-profile-pages-using-the-tab-s-id-in-the-url",
+  "title": "Link Directly to Specific Tabs on Member Profile Pages Using the Tab's #ID in the URL | Brilliant Directories Documentation | BD Support",
+  "content": "Link Directly to Specific Tabs on Member Profile Pages Using the Tab's #ID in the URL Link: https://support.brilliantdirectories.com/support/solutions/articles/12000095795 This article provides a JavaScript snippet that allows you to activate specific tabs on a webpage when the page loads, based on the hash in the URL. The script checks if there's a hash in the URL, and if there is, it activates the corresponding tab and tab pane, while deactivating all others. One key feature of this script is that it prevents the page from automatically scrolling down to the activated tab, keeping the viewport at the top of the page. This can be particularly useful for pages with long content, where you want to highlight a specific section without disrupting the user's navigation. Place this code in the footer of the SEO Template or Custom Footer Code in Design Settings. <script> $(document).ready(function() { var url = document.location.toString(); if (url.match('#')) { var hash = url.split('#')[1]; $('.nav-tabs a[href=\"#' + hash + '\"]').on('click', function(e) { e.preventDefault(); }).tab('show'); $('.tab-pane').removeClass('active'); $('#' + hash).addClass('active'); } }); </script> Once the JavaScript snippet mentioned above is added to the footer, go to the member profile and open Inspect Mode. How to use Inspect Element Locate the <a> element for the tab. It will have a href value like #div4 Now the tab's ID can be appended to the profile URL like below: https://example.com/united-states/beverly-hills/sample-category/john-smith#div16 When this URL is used, the script will automatically open the tab without scrolling, showing only that specific tab’s content. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156395738/original/63oMcP8YW0o33wshsUEjZN7dUTEVOpRL9g.png?1738616155",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

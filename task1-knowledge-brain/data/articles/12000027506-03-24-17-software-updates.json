@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000027506-03-24-17-software-updates",
+  "title": "03/24/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/24/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000027506 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: The issue related to the \"Congratulations\" message in the Checkout Pages has been resolved. Widget Involved: Bootstrap Theme - Footer. We added the ability to add a \"Hero Image\" with text and a link rather than a search type. Widgets Involved: Bootstrap Theme - Admin - Design Settings. Bootstrap Theme - Homepage. Bootstrap Theme - Homepage Search - Hero Message with Link Design Settings Involved: Homepage Layout >> Search Type >> Hero Message With Link The duplicated twitter feed issue on Member Profile Pages has been fixed. Widget Involved: Bootstrap Theme - Module - Member Twitter Feed. We updated the keyword search field Autosuggest functionality in order to support the following updates: Show Posts as Suggestions even if the owner of the suggested post belongs to a Non-Searchable Subscription Level. Show suggested Top Category Images Widget Involved: Bootstrap Theme - Function - API For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

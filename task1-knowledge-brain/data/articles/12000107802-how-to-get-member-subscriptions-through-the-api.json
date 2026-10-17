@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107802-how-to-get-member-subscriptions-through-the-api",
+  "title": "How to Get Member Subscriptions Through the API | Brilliant Directories Documentation | BD Support",
+  "content": "How to Get Member Subscriptions Through the API Link: https://support.brilliantdirectories.com/support/solutions/articles/12000107802 In this article, we will go over how to use the Subscriptions API to retrieve subscription information for a single member. How to get member subscriptions The Subscriptions API leverages a single parameter (User ID or Client ID) to retrieve all the transactions data. /api/v2/user/subscriptions Parameters Only one parameter is required to run the API. It can be either the User ID or the Client ID (the ID from the tblclients table in the billing database). Example with Postman Sending the user ID as the parameters: The results will show all subscriptions from that particular member in a Json Array format: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175570914/original/BCGHdMTcS_KqjOJ5YfjTd7xirk2oRrsxlg.png?1772727706",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175571763/original/Vs_gwgWIB8iX_0j-XP_FhbqobYUA7bpM1g.png?1772728439",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12175571834/original/PmyT5pZP1b87mHtdTjD1FDr3D8ZLk2zOEg.png?1772728556",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

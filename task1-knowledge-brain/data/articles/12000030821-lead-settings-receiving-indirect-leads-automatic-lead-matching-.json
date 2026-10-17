@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000030821-lead-settings-receiving-indirect-leads-automatic-lead-matching-",
+  "title": "Lead Settings » Receiving Indirect Leads (Automatic Lead Matching) | Brilliant Directories Documentation | BD Support",
+  "content": "Lead Settings » Receiving Indirect Leads (Automatic Lead Matching) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000030821 To edit the general settings for \" Receiving Indirect Leads \" when using the Advanced Lead Matching package go to: Interactions » Member Leads » Automatch Workflows » \" Edit \" and click on the \" Receiving Indirect Leads \" tab: Available Settings within \"Receiving Indirect Leads\" These settings control what happens when a lead is matched to a qualified member automatically (indirectly). A Lead can be matched to a member automatically if it is submitted through the \"Get Matched\" page of the website and “Automatically Match Leads To Qualified Members\" is set to \" Yes \" in the General Lead Settings tab. Should Members Receive Indirect Leads Select \" ON \" to allow members to receive leads that are automatically (indirectly) matched to them. Select \" OFF \" to not allow members to receive leads that are automatically matched to them. If \"Automatically Match Leads To Qualified Members\" is set to \"Yes\" in the General Lead Settings tab, it is recommended to set this to \"Yes\" for most websites. Member Notification Type Select \" Preview \" to send the member who received the lead a portion (preview) of the information submitted in the lead, rather than all of the information submitted in the lead. This preview will typically contain the content of the lead, but will not contain the contact information (phone and email) of the person who submitted the lead. Members will have to accept or purchase the lead in order to see the complete information of the lead. Select \" Complete \" to send all of the information submitted in the lead immediately without the need to accept or purchase the lead. Label Indirect Leads As Select \" Pending \" for each indirect match to count only against the \"Maximum Matches\" number set in the General Lead Settings tab. Select \"Accepted\" for each indirect match to count against both the \"Maximum Matches\" and the \"Maximum Acceptances\". If \" Preview \" is selected as the \"Member Notification Type\" above, then \"Pending\" is the recommended choice. If \"Complete\" is selected as the \"Member Notification Type\" above, then \"Accepted\" is the recommended choice. Preview Email Template Select the email template to send to the member if \"Preview\" is selected above. Complete Email Template Select the email template to send to the member if \"Complete\" is selected above. Copy Admin On This Email Send a copy of the \"Preview Email Template\" or \"Complete Email Template\" to the Admin email address(es) when it is sent to a member. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116693118/original/rdGBmdSXiz4YR8STvA3RXjzYMcSt6yEqvw.png?1667340476",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116693152/original/SR-1_7FDrPJH2pHIZrCmaQPOLI27uuc1Og.png?1667340519",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115155274/original/NQlJyLy6f3QLOp4yPFq9-P0v8QKsTKtHuA.png?1664306528",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115155295/original/PV8s11YcFayIBPYS-0nv4QMEOnuca8ek1w.png?1664306575",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

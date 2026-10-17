@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000660016-troubleshooting-member-search-result-issues-overview",
+  "title": "Troubleshooting: Member Search Result Issues Overview | Brilliant Directories Documentation | BD Support",
+  "content": "Troubleshooting: Member Search Result Issues Overview Link: https://support.brilliantdirectories.com/support/solutions/articles/5000660016 Before diving into possible reasons why the member may not be appearing in the search result conducted, we highly recommend going over the article down below, as the member itself may not be active on the site or maybe in a membership plan that is not searchable: Troubleshooting: Listing is not Public or Active Another possible setting that will have an effect on which members will display in search results would be the Require Complete Profiles setting. When this setting is enabled, certain members will be hidden from search results. For more information regarding this setting, please refer to the article down below: How To Hide Incomplete Profiles On Member Search Results After making sure the member is indeed active on the site and not hidden due to the Require Complete Profiles setting, the troubleshooting steps down below can be used. Different Types Of Member Search Issues The Brilliant Directories software offers a few different ways to conduct a member search and these can be categorized as Location Search, Keyword Search and Category Search. We created 3 dedicated articles for each type of search result issue to share a detailed overview of each of them: Location Search Issues Keyword Search Issues Category Search Issues For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+  "title": "Import A Category Structure Via CSV File - Brilliant Directories | Brilliant Directories Documentation | BD Support",
+  "content": "How To Import Categories Via CSV File Link: https://support.brilliantdirectories.com/support/solutions/articles/5000558401 To import a category structure via CSV file (useful for quickly importing large category structures), please follow the steps below for creating the file. This can be used to import up to 3 levels of categories: Top Level Categories, Sub Level Categories, and Sub-Sub Level Categories (for a total of three tiers ). Step 1: Create The Category Structure in a CSV file Download the Category Structure Import Template (attached at the bottom of the article). Open up the file and expand the width of the columns so all of the text can be seen in each one. Column A will have all of the Top-Level Categories Column B will have all of the Sub Categories (optional) Column C will have all of the Sub-Sub Categories (optional) 4. Fill out the spreadsheet with the categories by replacing the placeholders in the template. Step 2: Import The Category Structure Navigate to Members >> Member Categories select Import Categories: The button will lead to a new page where it is possible to import the file: CRITICAL WARNING: Checking the option to delete existing categories will permanently remove all current categories from the database. This action will also unassign all current members from their categories, requiring them to be manually recategorized or re-imported. Only check this box if starting a completely brand-new directory or performing a total category reset. Upload the file here. Find the Category Import template attached to this article. IMPORTANT NOTE: By default, all members can be listed in 1 Top Level / Main Category and multiple Sub Categories. However, there is a workaround : Workaround: Members Selecting Multiple Top-Level Categories csv template-mem... (406 Bytes) csv member-categ... (275 Bytes) For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074694409/original/_CpKps0VX60nBTIrY3r1GfXBvyjYylQJXg.png?1583249244",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252789/original/c_8Lg6thRZqJ4vbTF83U2iteIZAplJLMxg.png?1764552502",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097399352/original/tIBlFCLyIiZTlHaEeqcG_95NyCvySXaDZg.png?1630013869",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

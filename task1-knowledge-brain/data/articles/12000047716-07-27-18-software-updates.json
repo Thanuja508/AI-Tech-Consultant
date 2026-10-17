@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047716-07-27-18-software-updates",
+  "title": "07/27/18 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "07/27/18 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047716 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We fixed an issue which was preventing the \"Cancel\" button in the Collect Payment Modal in the Admin area from working properly. Newsletter Form (Newsletter Footer and Newsletter Module) error messages are now based on text labels. New labels: unique_email_address,valid_email_error. We fixed an issue which was causing the Post Meta Details Sidebar widget to not display properly on the Details pages of Product posts. Widget Involved: Bootstrap Theme - Module - Post Meta Details We fixed an issue that was causing the incorrect Product Level ID to display when editing a Promo Code. We added the ability to hide the SSL Admin Banner Message on the Admin Area. We fixed an issue which was causing the Phone Number button on Member Profile Pages to be hidden in some cases. Widget Involved: Bootstrap Theme - Member Profile - Header We fixed an issue that was preventing the Subscriptions tab from displaying when viewing a member's Account Details page in the Admin area in some cases. We fixed an issue which was causing the Export Member Data Add-On to freeze in some cases. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

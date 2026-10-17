@@ -1,0 +1,92 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102243-how-to-update-review-data-using-api-google-sheets-example",
+  "title": "How to Update Review Data Using API: Google Sheets Example | Brilliant Directories Documentation | BD Support",
+  "content": "How to Update Review Data Using API: Google Sheets Example Link: https://support.brilliantdirectories.com/support/solutions/articles/12000102243 This article shows an example of how a Google Spreadsheet can be used to update review data on a site using the site's API. Checklist Before Moving Forward With This Example 1) Make sure to generate a unique API Key using the documentation down below as a guideline. Please make sure to save the API Key in a safe place as it is not accessible after it has been created: How To Generate an API Key 2) Prepare a Google Spreadsheet with at least two essential columns: one for the review's ID# (the review_id variable) to reference an existing review on the site, and another for the variable to be updated. For example, if the review currently has the title \" A pet store with delivery? Genius \" and needs to be updated to \" A pet store with delivery? Amazing! \", specify these details in the spreadsheet. Note : The column names do not necessarily match with the correct database variable names as this can be mapped later on. How To Connect Google Sheets Using Zapier In this example, we will be using Zapier to integrate Google Sheets into the Brilliant Directories site. Log in to the Zapier account and click on Create Zap : Name the new zap created and select the Google Sheets option as a Trigger: Select the Event type as New Spreadsheet Row and click on Continue : Connect the Google Sheet Account (this would be a Gmail account) and click on Continue : Choose the preferred Spreadsheet, specify the Worksheet, and click on Continue : Click on Test Trigger : There will be a confirmation that a spreadsheet row has been found, click Continue: Now the Trigger has been set up correctly, the Action can be created. Search and select the \" Brilliant Directories \" as the App option: Choose the Event as Update Review event and connect Account: Select \"Connect a new account\": This will open a new window where the domain of the site (https:// or http:// included) and the API Key generated can be specified: Next, we will be setting up the action. In this section, all the available review variables can be found. As we already created a spreadsheet with a row of review data, the next action would be mapping/matching the column names to the correct variable names. Select the \"Custom\" option for the Review ID field and select the review_id value from the spreadsheet: Then, map the Review Title by selecting the review_title column for the \"review_title\" field: Now that all the preferred variables are matched and mapped correctly, click on Continue to test the action: Confirm that the information displayed is correct and click on Test Step : Make sure that the targeted field is updated: Once confirmed, click on \"Publish\": Note : Going forward, any new rows added to the connected Google Sheet via the API will automatically update the corresponding member data. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139712/original/dgqd1zwXkQUc3f30uVX4G1j68vzYO18SQA.png?1730921100",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139722/original/k1JGoHETfdRKsRRYa58cWISwnUD_7QiLfg.png?1730921119",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642609/original/uvZxlzJ57W-DNPbLJAbdhP-kEw4SDOtDJA.png?1724921812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642608/original/8Yi8ChT07jlA3BELkW-5a-FsHkF2uINr7g.png?1724921812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642605/original/xYjPiJePb8UDhQZvdimcjqNdS511gwuNxA.png?1724921811",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642606/original/yXbrGBTCt033IUw-BU1ODZ375vX1U-D7Ww.png?1724921812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139840/original/kJKkv7qR4OCHdaEnmtFTBUaTW_zClIsD7g.png?1730921220",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642796/original/mmEQ1O5rwcm9I8dYmpIjMnjsFeWLYOuIGA.png?1724922062",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642814/original/Om_dtWnfneydUIMHfVoUCy2UPq61lEOEBA.png?1724922086",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642843/original/Y4PKkQDVmBO8qYEK5kPEtjY0vcHgQHvSAA.png?1724922107",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139950/original/X4hQEXslnfUC1CXTQGWXKomkYfWvGk_xjg.png?1730921315",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139990/original/Gi9u6zzxF8HQWuNLPuyuR83RB6jfXXIO9A.png?1730921380",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642898/original/WTwptiYHdWexHYlqd5rWtWOdhzSmyhllpA.png?1724922163",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140121/original/VcjPGDIgwVSNgKGFx3jOwS85PiBhbrbvoQ.png?1730921572",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140124/original/QMbGMsftkPZq6Lmn628ypYN4Ygf-ANWqfg.png?1730921577",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140172/original/H6erhqpWicFDDQ3fQdzPiw5LKLhzKn-JlA.png?1730921624",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140192/original/tjiatD6MnERuc4z1IOJZrqn7pCfPijchbg.png?1730921656",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140198/original/ZmE4jPiMUmun_FYrYGlfxbqDuzhCxx6t2g.png?1730921678",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140218/original/svGY-rnD61qsXWr2nYSPLrrasQ1Dv_mqjQ.png?1730921710",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152140275/original/FDqzKgE2TfXiTkpk2tmgIx_sn__7Kiuwfg.png?1730921730",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

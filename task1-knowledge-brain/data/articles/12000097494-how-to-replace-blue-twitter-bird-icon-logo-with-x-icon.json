@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097494-how-to-replace-blue-twitter-bird-icon-logo-with-x-icon",
+  "title": "How to Replace Blue Twitter Bird Icon/Logo with X Icon | Brilliant Directories Documentation | BD Support",
+  "content": "How to Replace Blue Twitter Bird Icon/Logo with X Icon Link: https://support.brilliantdirectories.com/support/solutions/articles/12000097494 Follow these steps to replace the Twitter bird icon with the X icon for the website social media links as well as for the members overview tab. 1. Copy the following snippet of code: <script> $(document).ready(function() { // Select and update <a> tags with specific <i> class $(\"a:has(> i.fa.fa-twitter)\").html('<img loading=\"lazy\" class=\"talign img-circle\" width=\"75\" height=\"75\" alt=\"TwitterX\" src=\"/images/twitterX.png\">') .addClass('image-icon') .css('background', '#000'); }); </script> 2. Go to Settings - Design settings - Custom CSS/HEAD tab and paste the code in the Additional Footer Code section: The icon will then be reflected on the website: As well as in member profiles: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534501/original/TeNUX39vG2jTi6ZabCOF4gvyR7-EHrI5XQ.png?1701953014",
+      "alt": "image"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534528/original/aw22YurYIoYFHx3oChstK0m-dCZrmcRjNw.png?1701953047",
+      "alt": "image"
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12135534542/original/qhfevXFot-uKonNZ1WWOjIxK2l2-d4_M1A.png?1701953087",
+      "alt": "image"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

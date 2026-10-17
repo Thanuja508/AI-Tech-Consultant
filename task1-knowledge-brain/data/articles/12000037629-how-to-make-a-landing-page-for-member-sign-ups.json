@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000037629-how-to-make-a-landing-page-for-member-sign-ups",
+  "title": "How To Make A Landing Page For Member Sign-Ups | Brilliant Directories Documentation | BD Support",
+  "content": "How To Make A Landing Page For Member Sign-Ups Link: https://support.brilliantdirectories.com/support/solutions/articles/12000037629 Creating a landing page has never been easier! Using the Pre-Made Elements on statics pages allows admins and designers to create multiple signup pages. Please follow the instructions below to learn how to create a landing page for member sign-ups that looks like this: 1. Open an existing static page or create a new one. For more information, see: How to Create a New Static Page . 2. Add a single row using the table option in the Froala Editor. Add background color and text as desired: Froala Editor . 3. Drag and drop the pre-made element “Text With Image Left” into the static page, and add the text and image accordingly. 4. Edit the button text and update the link to the desired destination page. 5. Click on save changes: Take advantage of BD Butler , our built-in AI, to help you design this page. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092699054/original/w5gAj2e-aDnSXUIA1dxyJncjZA9mNDjuqQ.png?1621186075",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731152/original/2QEeNhCOMzgirvGHSpLg_C4h9emszVon7A.png?1783553189",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731357/original/LcsiWZDJyNiMwgSAKzUP7tmY_8MIV8pAQg.png?1783553529",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731378/original/kflkjaXAfh6ywhrYm16xtYIloID9ClF0Tg.png?1783553566",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181731380/original/y1hQBEdVsP81dL0LPVmgKrUjNxFHhhlb3w.png?1783553588",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

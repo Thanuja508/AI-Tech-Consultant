@@ -1,0 +1,56 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002518-adding-seo-content-to-a-specific-member-search-results-page-turn-dynamic-pages-into-static-pages",
+  "title": "Adding SEO & Content To A Specific Member Search Results Page - Turn Dynamic Pages Into Static Pages | Brilliant Directories Documentation | BD Support",
+  "content": "Adding SEO & Content To A Specific Member Search Results Page - Turn Dynamic Pages Into Static Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000002518 Overview The SEO data for all member search results pages in general, including how to add additional content to the body of all member search results pages of a certain type ( all country search results pages or all main category search results pages for example ) is covered in the article below: Editing The SEO Of Member Search Results Pages In some cases, you may also want to edit the SEO settings and/or content of one specific member search results page without affecting all of the other member search results pages of the same type. For example, perhaps I want to add some additional content only for the member search results page for the main category \" Restaurants \", but I do not want this content added for any other main category search results pages in any other city. The Top Category pages use the SEO Template: Search Results - Members - Main Category Only Template ID #201 Instead of editing the SEO template which will affect all Top Category search results pages it's possible to take the page: example.com/ restaurants And add specific SEO data for restaurants . To do this, we need to first create a new static page for this specific search results page. \"Pretty\" URL vs \"Not So Pretty\" URL Not all search results pages can be turned into a static page. ONLY pretty URL search results pages work for this process. Accepted \" Pretty \" URL: https://directoryup.com/los-angeles \" Not So Pretty \" URL: https://directoryup.com/search_results?location_value=Los%20Angeles%2C%20CA&city=Los%20Angeles&county_sn=Los%20Angeles%20County&adm_lvl_1_sn=CA&stateSearchLN=California&country_sn=US&location_type=locality&stateSearch=CA&swlat=33.7036519&nelat=34.3373061&swlng=-118.6681759&nelng=-118.1552891&lat=34.0549076&lng=-118.242643&faddress=Los%20Angeles%2C%20CA%2C%20USA&place_id=ChIJE9on3F3HwoAR9AhGJW_fL-I However the instructions below will impact both the \"Pretty\" URL and \"Not So Pretty\" URL versions of a member search results pages (for SEO purposes). More on Pretty vs Not So Pretty URLs: Editing The SEO Of Member Search Results Pages Creating The Static Page First, login to the Admin area of the site and then click on the \"Visit Website\" link at the top of the screen: This will display the website with the Admin Bar on the front end: Next, navigate to the \"Pretty\" URL version of the member search results page that will be edited. In this example, the \"Pretty\" URL version of the page is located at /united-states/houston/home-services/ . Once on the page, click on the \"Create Static Page\" icon in the left Admin navigation bar: If this page has already been created, the icon will change from \" Create Static Page \" to \" Edit Static Page \": Next, enter the permalink of this page into the Permalink/URL field: From here, continue to fill out all of the other fields: Make sure that the Page Type is \" Member Search Results \": For more information about each of these fields and what impact they will have on the live webpage, please see the \" Editing SEO Elements \" section of this article . Once this is complete save the changes. Now navigate to the same page on the front end of the website to see the new custom content and SEO Elements reflected on the page: Now there are different options for how the content will display on the page. Select these options in the Display Options Tab under Custom HTML Placement: These are a couple examples of what it looks when selecting: Inside Tab - is the default option, this will display in a new tab, \"Read More\": Above Member Results - will display the custom content on top of the Results page: Once the page gets created make sure to edit the SEO data of the page: How To Edit The SEO & Social Media Elements Of A Static Web Page For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091849366/original/YmDrsINYDzfDNkv7YjndINbZXfDc4dtvGw.png?1619489144",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105255806/original/JbnWTqzRIHw33ZcHR4Ig2VK-xg2m2idTCA.png?1645216283",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105255936/original/briBKB9NIAH8JRXs5Z1le-uCuE0zwAVe6Q.png?1645216581",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105257496/original/cTrHUM6lBrOEItgXwO8XjmfVYAWYXjtMPQ.png?1645219300",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103471413/original/pSV0aqKAZRSPVK6bPNquZGg1dCFH9vXipg.png?1641914874",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103471399/original/fpjdlPWiJ1BONSrH8186ktyKtlHQ-fUMDA.png?1641914856",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103471475/original/kYWCDgdY5NlFYxMh9RjGw49JGbY8FuIZNg.png?1641914941",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105260020/original/IW2lZ_tPb_uM6Kh3sOU8Fz5gZVr_IQ_62w.png?1645225172",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103471757/original/ftEBwERJZHTywWDNXtgrz3GeSxRmBiCUoA.png?1641915193",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103472951/original/_KGLpDyylSIczDdXCh79F5YIZTTUi7sGVA.png?1641916223",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103473031/original/pX27aLpt_cKbKE5RJOo-4jlFcD2f2P8CBw.png?1641916304",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

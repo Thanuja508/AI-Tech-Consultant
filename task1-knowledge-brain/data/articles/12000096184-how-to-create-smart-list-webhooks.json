@@ -1,0 +1,108 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096184-how-to-create-smart-list-webhooks",
+  "title": "How To Create Smart List Webhooks | Brilliant Directories Documentation | BD Support",
+  "content": "How To Create Smart List Webhooks Link: https://support.brilliantdirectories.com/support/solutions/articles/12000096184 Here is an overview of our Webhooks functionality: Developer Hub - Webhooks The Webhooks functionality can be used to send data to any URL endpoint. This allows for sending data to intermediaries (Zapier, Pabbly Connect, Wokato, APIFuse, etc), API endpoints on other platforms, or custom endpoints created by the user to receive data. Create the Smart List The first step is to create the smart list based on the member search results. Follow the steps in this article: My Members » Smart Lists Create the Webhook Event The Webhook Event must be created on Zapier, Pabbly Connect, Wokato, APIFuse, etc. We have another article that explains how to do it: Connecting Webhook Events With Zapier However, we will share specific instructions for smart lists on this article. For this example, Zapier is used. Create a new Zapier account or log in to an existing account . Click on the \" + Create Zap \" button: Next, add a Zap name at the top left. Click on the \" 1. Trigger \" button: Select the \" Webhook \" option: Then, in the right sidebar, select the Event >> Catch Hook and click on \" Continue \": Then click on \" Continue \" again: Copy the Webhook URL: Add the Webhook URL to the BD Admin Go to Developer Hub >> Webhooks : In the search bar, type Smart to locate Members Smart Lists . Paste the Webhook URL, enable the webhook using the toggle switch, and save the changes at the top right of the screen. Configuration Note: Pasting the Webhook URL directly into the global Members Smart Lists field applies the endpoint execution to all member smart lists on the site. To target an isolated list instead, leave the global field blank and click New Webhook + . Then select the specific smart list you want to create the Webhook for: Go to My Members >> Smart Lists . Find the smart list created at the beginning of this article and click on Actions >> Sync Webhook Now: Select the information that needs to be sent on the webhook and click on the \"Continue With Webhook\" button: A success pop-up will show up. Click on \"Close Window\": Test the Trigger Now go back to Zapier and click on \"Test trigger\": Zapier will show the information sent from the admin, which means it was connected correctly. Select a request and click on \"Continue with selected record\": Here is where we need to select what we want to do (Create a new google sheet, send an email notification, etc). In this case, we will create a new Google Sheet, so we will type \"Sheet\" on the search bar and select \"Google Sheets\": For this example, we will create a new spreadsheet row. Zapier will ask to connect a Google Account to proceed. A new Google Sheet named 'Smart List Webhook' can be created for this workflow, containing the specific fields intended for the webhook payload Then go back to Zapier. When the account has been connected, Zapier will recognize the new spreadsheet created. Parse the data and click on Test: Check the spreadsheet to see if the information was updated: Go back to Zapier and click on \"Publish\" Schedule the Webhook There are 3 ways to schedule a smart list webhook: Schedule Daily: The cron job will run once every day. Schedule Weekly : The cron job will run every Sunday. Schedule Monthly : The cron job will run on the first day of the month. It can be selected here: Requirement : Automated scheduling options ( Schedule Daily , Schedule Weekly , Schedule Monthly ) are only visible if the global Members Smart Lists webhook is enabled within Developer Hub > Webhooks . The system will automatically create a cron job that will run on the selected schedule: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132213607/original/kEbufqgttgk2fn01zj0Vl1Csa9j-5ZdDIQ.png?1696350150",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132213709/original/wYb_ydQskL5_JyBVPaKp9q7nMCnvBncxAg.png?1696350323",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132213787/original/1GcozPpZMeGXQQoztx5YhsiDZtTm7DV0bA.png?1696350380",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214043/original/zACvVXssS4V3zcMLJIq84f0xmG812QtZ3Q.png?1696350673",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214132/original/DKdkE_B9hl5g_Bdnj3k7AcYdvpByAk5uuQ.png?1696350766",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214266/original/cU3hVCFYFRCDEqGgZ6XUVyyd21_zPcX8QQ.png?1696350901",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214352/original/9shisGwaoJOrice1AYWaw_8pthRf7G5VAA.png?1696350986",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132214437/original/HlsdqKCnwyZIvsElZVOvb5gHrLdvYk9wzg.png?1696351039",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134071637/original/IbvRbN-1HwymKm8M8Egaw_os565SPkxWyQ.png?1699368824",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134071572/original/awA6F9t_nF5FMULiJYMd0rrVtxtmtCAl6g.png?1699368764",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132221863/original/uRgoWXyhSqYIQ0xb-9MmMLPZ2hSQyZTvaQ.png?1696358905",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132221913/original/eycSgAYBazFdhEkyIQNwIGxYWTZnpUj2lw.png?1696358990",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132221980/original/bDoNF43CKkhdpQR1gxnExiQiuNG8QesrMg.png?1696359043",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215014/original/Na5HJwJ5ZEQiean4d1RrITy26h8XbsEJ6Q.png?1696351723",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215121/original/gXwgriDjt8LDkrW4Zss-1dHzNSwXRrtJYQ.png?1696351857",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215169/original/StZtb8TQnkIYiqGlQcFlWNjOqxIIS9lr3A.png?1696351913",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215270/original/eR3Gbime2HzqRarf1iJ3j5esWxh12et4YA.png?1696351980",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132222442/original/Tw1B9JhgapRqz5umvS85Vn06XcYSm82fAw.png?1696359498",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215434/original/Z-_B3nsb54GCGSGhBdaeuWZO18pnxp4wxA.png?1696352107",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215670/original/bGpkMKWV5Epjmd4FLcdfwPPAMRnMn4DRUg.png?1696352364",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132222867/original/xwNWQ1hcjGrjox5vnflLd4dAeTcXZoG78Q.png?1696359911",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132215714/original/T8Eg3WOFouC_RIQRyfF5zkzhVT1wXSfPrw.png?1696352417",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132223421/original/Cu6vv8oUiwDcKCsKEz4NxAp6Sr1T2q37qg.png?1696360407",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132223483/original/anH16WFFaJAE7TvRAssULv-N7Gau3WYYfg.png?1696360477",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

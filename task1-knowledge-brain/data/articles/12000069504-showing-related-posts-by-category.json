@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069504-showing-related-posts-by-category",
+  "title": "Showing Related Posts by Category | Brilliant Directories Documentation | BD Support",
+  "content": "Showing Related Posts by Category Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069504 How Does It Work ? This default widget will display related posts inside the sidebar of your P ost Detail page s. By default, it will display FIVE(5) related posts: In this example, we use the Properties but this widget will work with all the post types inside: Content » Edit Post Settings. How To Enable It : Look for the \" Bootstrap Theme - Display - Related Posts by Category \" sidebar widget inside Toolbox » Sidebar Manager » Post Single Page: Drag and drop the widget into the order: Additional Information : » Toolbox » Sidebar Manager How Posts are Determined to be Related: The widget will follow the exact order outlined below to display Related Posts - User Category Post Match: This means that the system will look for other posts within the same Post Type (Properties) that have the same post type category selected from the Member posting (Jane Doe). - For Properties, it will only skip the category filter and search for Property posts from Jane Doe. User Post Match: This means that the system will look for other posts within the same Post Type (Properties) from the Member Posting (Jane Doe). Post & Category Match: This means that the system will look for other posts within the same Post Type (Properties) that have the same post type category selected from all Members that have published this Post Type. Other Match for Same Post Types: This means that the system will look for other posts within the same Post Type (Properties) from all Members that have published this Post Type. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12142649258/original/1hfIJJxqUXRmJ_Sqv8YFgI2Swm-0ELmNEA.jpeg?1714669219",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107083165/original/lwPhbtqclbARXg_AgH5eFY4HWaNwf7VAzw.png?1648771405",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107083211/original/RFVt5_Did_0cnwlc0LTg1f-YSx6tPpxhiA.png?1648771568",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

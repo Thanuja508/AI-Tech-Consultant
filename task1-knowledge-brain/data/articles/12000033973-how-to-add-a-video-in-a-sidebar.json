@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000033973-how-to-add-a-video-in-a-sidebar",
+  "title": "How to Add a Video in a Sidebar | Brilliant Directories Documentation | BD Support",
+  "content": "How to Add a Video in a Sidebar Link: https://support.brilliantdirectories.com/support/solutions/articles/12000033973 This article describes the steps necessary for adding a video to any website sidebar. For this example, the site is a Real Estate/Property site, and the video we will add is of a house. The video we are adding is to promote a new house, recently put on the market. This can be used to sell promotional ad space for existing profiles and external companies. Results: Step 1 - Create A New Widget: In the HTML tab, add the EMBED code for the video below the \"<div style=...>\": <div style=\"margin: 10px 0px 10px 0px;\"> INSERT EMBED CODE HERE </div> It is also possible to add text and links to the sidebar: <h3> New Property on the Market - Sold by <a href=\"LINK URL HERE\"><b>John Doe</b></a> </h3> Additional Information: » Toolbox » Widget Manager Step 2 - Find the Sidebar to Display the New Video Widget Go to Toolbox » Sidebar Manager » Select the Sidebar, click Edit or Customize : For this example, we are using the Posts Search Result Sidebar. Inside the Sidebar, find the name of the new widget and drag-and-drop the widget: Now click on Save Changes . External Resources: » CSS Margin » HTML YouTube Videos For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594453/original/XNpfmBLGOjahSPyRMaKfDwMNJr27DoxMwQ.png?1594043032",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126657/original/u5Mgbwnhq323_SwNYcF-dMZbWmNRlhVDLQ.png?1621958008",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594780/original/26Qc8C_OPj2f8CwpVsbZ_7huHcs0mLp42w.png?1594043376",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079595518/original/ZtpZY01RzHg8DpuB8SW8thVtqiUXMPa5Lg.png?1594044046",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079594880/original/C_emdJLDm6OEeGtFc1D6bUtbsGvmqPRU1A.png?1594043486",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093126792/original/0QKJQw3gF3yXrlnpANAUCOnaVvxd46UMhw.png?1621958125",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12095917127/original/ihS-5yobIjFjIG-DtzsbJfVMihCBFTXX4Q.png?1627064515",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

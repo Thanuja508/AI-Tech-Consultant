@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000053666-check-seo-data-using-view-page-source-",
+  "title": "Check SEO Data using \"View Page Source\" | Brilliant Directories Documentation | BD Support",
+  "content": "Check SEO Data using \"View Page Source\" Link: https://support.brilliantdirectories.com/support/solutions/articles/12000053666 Overview When SEO or social sharing updates are made, the website's source code can be reviewed to confirm the changes were applied. Steps Open the page to be checked. Right-click anywhere on the page and select View Page Source . Alternatively, the source code can be accessed using a keyboard shortcut: Ctrl + U on most browsers, or Option + Command + U in Safari. All major browsers support this functionality. Within the source code view, use the standard browser search command, Ctrl + F , to scan for specific SEO elements. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799873/original/PVhPIvLlX142XXc9KQ2hAtKf8ie1OHBz2Q.png?1788783778",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184799879/original/B2phrm-Q483zjsry8700kFQdnchCDH6DRg.jpeg?1788783791",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

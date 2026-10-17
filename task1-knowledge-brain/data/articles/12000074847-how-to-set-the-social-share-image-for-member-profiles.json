@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000074847-how-to-set-the-social-share-image-for-member-profiles",
+  "title": "How To Set The Social Share Image For Member Profiles | Brilliant Directories Documentation | BD Support",
+  "content": "How To Set The Social Share Image For Member Profiles Link: https://support.brilliantdirectories.com/support/solutions/articles/12000074847 Social share images help control the image displayed when member profile pages are shared on social media platforms. Brilliant Directories provides options to set a custom image for individual members or use the member’s Profile Cover Photo as the social share image. Set a Custom Image for Individual Members Website administrators can set a custom Social Share Image for individual members. This image will be used when the member's profile page is shared on social media. To set a custom Social Share Image for a member: Navigate to Members → Search Members . Locate the member and click Quick Edit . Click the Advanced Options tab. Locate the Listing Social Meta Image field. Upload or select the desired image. Click Save Changes . Important: When a Social Share Image is selected for an individual member, this image will take priority over the member's Profile Cover Photo when the profile is shared on social media. If no image is selected, the default social share image behavior will apply. Use the Profile Cover Photo The Profile Cover Photo can also be used as the social share image for member profiles by enabling the following Advanced Setting: Prioritize Profile Cover Photo As Social Share Image System Variable: profile_share_cover_photo_priority ** Important : Ultimately Facebook and other social networks will decide to use the profile cover photo if the image dimensions meet the minimum criteria. If the criteria is not met, then social networks will choose the next qualifying image on the page as the social share image. Once the member uploads the Profile Cover photo it will show up on member's profile like this: If the Advanced Setting is turned on and the member shares the profile on facebook the Profile Cover will be used as the post image: Social Media Cache Social media platforms may cache previously shared images. After updating a member's Social Share Image, the previous image may continue to appear temporarily until the social network re-scrapes the member's profile URL. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184726777/original/FRZ2A9ZzkmXbI7SFUo5ddA9PhbE2v7YehA.png?1788556241",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184726807/original/dU1OUzq9dYa4VNSwzmYMpgxk_QjIUobZiQ.png?1788556254",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647420/original/HXaaWBR-8FNRQ8dS_ZSD9BAmOwvWS-eCJg.png?1753161287",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280559/original/PTujOuTQ37hUAXhIq67BObeqUdJ170uIkw.png?1645318110",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105280568/original/MPC07wiSl_hih6vR3vdb5YC7Z5Oc27HKWg.png?1645318167",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

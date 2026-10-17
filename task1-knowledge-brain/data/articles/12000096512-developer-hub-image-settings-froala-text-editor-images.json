@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000096512-developer-hub-image-settings-froala-text-editor-images",
+  "title": "Developer Hub » Image Settings » Froala Text Editor Images | Brilliant Directories Documentation | BD Support",
+  "content": "Developer Hub » Image Settings » Froala Text Editor Images Link: https://support.brilliantdirectories.com/support/solutions/articles/12000096512 IMPORTANT NOTE: Unless doing heavy customizations to the underlying code of a website's design, there is no need to edit these settings as they already are optimized for use on a Brilliant Directories website. This article will cover the image settings for the following: Froala Text Editor Images On the Image Settings page, this setting is in the Text Editor Images section, listed under Image Sizes in the side menu. Changes on the Image Settings page take effect only after Save is clicked in the save bar at the top of the page. 1 — Text Editor Images in the side menu. 2 — the Froala Text Editor Images setting, with its Height fixed at Auto. The Froala Text Editor Images setting is the default width of images inserted into the Froala WYSIWYG editor on the website's frontend. By setting the value to '0', the images will begin at their natural, unaltered width. Only the width can be set: the Height field shows Auto because the height follows the width. When an image is uploaded to the front end Froala editor, the system will use the width to limit the image to those dimensions. In this example, the image is 1280x853 px (right-click a file in My Content » Media Manager to see its size under File Info): However when uploaded through the front-end, the image is displayed at 300 px: Same on the front-end: But when the image is opened in a new tab, the original size is retained: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415510/original/YoIbBD-vRVFZDDHrrmh5eSadpXzFENqtFw.png?1791392543",
+      "alt": "Image Settings with Text Editor Images selected (1) and the Froala width of 300 px and Auto height highlighted (2)."
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186371901/original/np9yje7Qx75CH9jD1V9L1xFNtmEQFkiXjA.png?1791337604",
+      "alt": "Media Manager with a right-click menu open on a test image; FILE INFO shows its size, 1280x853 (1)."
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186371900/original/XKRmf13UZbPWDkfGiuOccTM39Xjk3WP3TA.png?1791337603",
+      "alt": "The member Article Content editor with an inserted image and its size popup showing Width 300px and Height auto (1)."
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186371876/original/3c8AnDxvCqm4sUee3Z0N9hOwFbcEvEc-Ng.png?1791337599",
+      "alt": "The published test article on the front end with the inserted image displayed 300 px wide (1)."
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415555/original/0rMqfClrHDLU2QwyA9axiAx_EMqCXg9ykA.png?1791392577",
+      "alt": "The same image file opened on its own in the browser at its full 1280 px width, with the address bar marked (1)."
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

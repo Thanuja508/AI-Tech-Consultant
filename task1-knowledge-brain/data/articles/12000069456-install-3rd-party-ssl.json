@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069456-install-3rd-party-ssl",
+  "title": "Install 3rd Party SSL | Brilliant Directories Documentation | BD Support",
+  "content": "Install 3rd Party SSL Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069456 Installing a Third-Party SSL Certificate A third-party SSL certificate can be installed through cPanel and then enabled in Brilliant Directories. The certificate provider remains responsible for issuing and renewing the certificate. Requirements To complete installation, you’ll need the issued certificate, its matching private key, and any required certificate-authority bundle. cPanel navigation can change, but the certificate tools remain under SSL/TLS . Generate a Certificate Signing Request Open Developer Hub > cPanel Dashboard . Open SSL/TLS . Generate a Certificate Signing Request (CSR) for the live domain and submit it to the certificate provider. See the cPanel CSR documentation for additional guidance. Install the Certificate After the provider issues the certificate, return to SSL/TLS and open Manage SSL Sites . Select the correct domain. Paste the certificate into Certificate (CRT) , the matching key into Private Key (KEY) , and the authority bundle when supplied. Select Install Certificate . See the cPanel installation documentation . Enable and Verify SSL in Brilliant Directories Return to Settings > Domain Manager > SSL . Select I already installed a certificate — check for it when offered, then select Check again to refresh the status. Renewal A manually installed certificate must be renewed and reinstalled before it expires. An expired certificate can produce browser security warnings. Managed SSL Alternative Brilliant Directories can issue, install, and maintain a certificate through the Managed SSL Security Add-On . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

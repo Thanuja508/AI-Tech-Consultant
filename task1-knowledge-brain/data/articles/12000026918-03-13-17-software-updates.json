@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000026918-03-13-17-software-updates",
+  "title": "03/13/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/13/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000026918 Brilliant Directories made the following updates to these default widgets. If you have customized any of these widgets, and would like to update your customized widget, you can find our most updated code in the Default Widget section. If you have a custom version of these widgets, it means that our latest updates have not been pushed to your website. Updates: New Autosuggest rules have been created in order to support legacy features and new features. The new lazy load feature has been installed on freshbootstrap, this means that the newly launched websites will have this feature installed as a default functionality. Widgets involved: Bootstrap Theme - Member Profile, Bootstrap Theme - Display - Add to Favorites Button. Click here for more information. The issue that was affecting the images of the Favorites features on the Member Account Sections was fixed. Widget Involved: Bootstrap Theme - Function - Add to Favorites Button. The Autoactivate free signup issue has been fixed and has been integrated with the new Billing Update. Widgets involved: Bootstrap Theme - Success Page - Free Member Sign Up, WHMCS2 - Signup Payment Actions. The Featured Member Article slider issue when the slider is not in the header was fixed. Widgets involved: Bootstrap Theme - Homepage - Featured Blog Posts Slider. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

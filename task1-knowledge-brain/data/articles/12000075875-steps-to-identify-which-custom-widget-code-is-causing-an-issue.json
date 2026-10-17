@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000075875-steps-to-identify-which-custom-widget-code-is-causing-an-issue",
+  "title": "Steps To Identify Which Custom Widget/Code Is Causing An Issue | Brilliant Directories Documentation | BD Support",
+  "content": "Steps To Identify Which Custom Widget/Code Is Causing An Issue Link: https://support.brilliantdirectories.com/support/solutions/articles/12000075875 How to Identify Which Custom Widget Is Causing an Issue If something is not working as expected on a website, it can often be due to customized code used on the site (most often in widgets). If the page that is having the issue only has a few customized widgets, try disabling those widgets to see if that fixes the issue. To learn how to which widgets are being used on the page, please refer to the documentation down below: How To Locate Widgets, Sidebars, Menus, And Forms Via Admin Bar Once the custom widgets that are being used on a page are identified, disable/enable these widgets one by one under Widget Manager: How To Disable/Enable A Widget If this does not fix the issue, the next step would be disabling/enabling widgets in bulk. This will help to identify which custom widget is causing an issue through a process of elimination. To learn how to take bulk actions on widgets, please refer to the article down below: Bulk Actions For Widgets If there are a lot of custom widgets on the page or the above steps did not locate the cause of the issue, continue with the steps below: Identify all of the custom widgets that are currently disabled. If these are no longer needed, we recommend deleting them completely. If they should be kept for future reference, just take note of which ones are disabled so they can be left as disabled in a future step. Disable ALL of the custom widgets to see if that fixes the issue. If it does, that means that one (or more) of the custom widgets is the source of the issue. Enable one page of custom widgets at a time (leaving the widgets that were disabled in step 1 as disabled). Once the issue returns after enabling a page of custom widgets, we know the widget with the issue is one of the widgets on this page. The rest of the pages of widgets can be re-enabled. Disable half of the widgets on the page that contains the widget that is causing the issue. If the issue is fixed, one of the disabled widgets is the source of the issue. Re-enable half of the disabled widgets to narrow it down further. Repeat this process until the widget causing the issue is identified. Important Tip: If bulk disabling widgets fixes the issue, make sure to enable them again one at a time to see which one causes the issue. What to Do After Identifying the Widget? Once the widget is identified, it can be left disabled: O r the custom code can be merged into the current default version of the widget to fix the issue (if know-how) and keep the customized code. When editing the custom widget, there will be an additional tab called Diff and will highlight the differences between the default and custom code. How to Identify Which Custom Code Is Causing an Issue If disabling all the widgets does not fix the issue, navigate to Settings >> Design Settings >> Custom CSS / HEAD section and check if there are any custom codes added: To troubleshoot this, temporarily remove all the code added to each of these sections and save the changes. Please make sure to save the code added to a text editor before deleting them. Important Note : We also, recommend reviewing our Monthly Changelog to keep up to date with the latest updates on any widgets For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098050941/original/GiGOk3PswCLWfZmlR2w_NtGPYSBK51Xejg.png?1631305840",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098051049/original/qX0gLQ45DVoFaF_MDrJNVbedjgw7-ck3cQ.png?1631306007",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098051343/original/qFFXZqz0nUYdlXszJQppnkNJ_lfC6mRiHA.png?1631306589",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085564737/original/Puyg1EKK2EVd2uwsBONwcl0g6oygYdHPsg.png?1606421951",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098051567/original/7RkhNW7VmWyFFc3gL9CoFP8ULFGJyeOZ1g.png?1631307160",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

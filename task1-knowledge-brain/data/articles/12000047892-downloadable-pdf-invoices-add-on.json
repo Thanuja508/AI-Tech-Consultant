@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000047892-downloadable-pdf-invoices-add-on",
+  "title": "Downloadable PDF Invoices Add-On | Brilliant Directories Documentation | BD Support",
+  "content": "Downloadable PDF Invoices Add-On Link: https://support.brilliantdirectories.com/support/solutions/articles/12000047892 Overview Invoicing can be time-consuming, but not anymore! The Downloadable PDF Invoices add-on automates the invoicing process by generating PDF invoices for the members. This add-on generates PDF invoices that the website admin and member can download. Admins and members can download invoices for offline bookkeeping, requests for payment, and more. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Downloadable PDF Invoices Add-On Features and Benefits Automatic PDF invoice generation Branded invoices with the website logo Easily download PDF invoices for offline use Automatic sequential invoice numbering Invoice status dependent on transaction status (Paid, Unpaid, Refunded or Cancelled) Using the Add-On Once the add-on is active on the site, the admin will have the option to set an Invoice Logo in General Settings > Brand Images Downloading Invoices - Admin Perspective There are 2 options to download invoices from the admin: Transaction History section The third option in the Payment History section. Transaction History In the transaction history download the invoices in the Actions dropdown: On the right side, there is the Actions button, clicking on it, and then clicking on \"Download Invoice\", will open a new tab and the invoice will appear as well. Member Payment History This section can be found under Members, then find the member and click on Actions >> Payment History: Downloading Invoices - Members Perspective When they login in their account, they can go to the \"Billing Details\" Section: In this section, they will find the Credit Card on file, the subscription History and the Payment History. In this last section they can hover over the Actions button and click on \"Download Invoice\": PDF Invoice Language If the language of the PDF Invoice needs to be changed, please go to Settings - General Settings - Localization and set the Default Website Language. Deactivated PDF Invoices If this add-on is deactivated this option will look like this: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12116331214/original/uxFtPt0_vCh3FSqG05TaPkCUkA7PCbiJjA.png?1666635328",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090403211/original/ajWE8abUr6ljqMNIFG4z20S4ekO1aa0E3Q.png?1616566265",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154936159/original/9HTIT04VeK1YsAoHH4QNmB3lxiDFX3VxoQ.png?1736201045",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090403339/original/QvDRIM_YnTiN3kkc59_oMG3QAA4rGrLfIw.png?1616566495",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12154936520/original/aqJgjpVob7W_5nwWu7Eaucet71hcGQsynw.png?1736201475",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090965748/original/8coXeouh8t2XjdlT21cSzgHegCgGJbyrpw.png?1617733402",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079656613/original/0afOX5_Ry4SRYsGa0Hf_Dyvo2NanFedEjA.png?1594137123",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091953285/original/Ac9SiOl1ComefNpmf5CBIHU1tkqQGjmVRw.png?1619649899",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058186626/original/MZHPygga8p6-_z4bryTCrFE8V_BSdhqJFw.png?1571115092",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

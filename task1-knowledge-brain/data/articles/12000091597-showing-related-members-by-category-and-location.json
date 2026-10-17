@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000091597-showing-related-members-by-category-and-location",
+  "title": "Showing Related Members by Category and Location | Brilliant Directories Documentation | BD Support",
+  "content": "Showing Related Members by Category and Location Link: https://support.brilliantdirectories.com/support/solutions/articles/12000091597 Overview The Bootstrap Theme - Module - Member Related Searches widget displays related member results in the sidebar of Member Profile Pages. It surfaces other members who share the same category or location as the profile being viewed, giving site visitors a built-in way to discover additional listings. ⚠ REQUIRED SETUP — Geocoding Required: This widget will not function correctly unless all members have been geocoded. Members without geocoded coordinates will not appear in the widget's location-based results. Reference: How To Geocode Members — Sync Members with Google Maps How to Add the Widget To add the widget to the Member Profile Page sidebar: Navigate to Toolbox » Sidebar Manager in the admin dashboard. Select the Member Profile Page sidebar. Locate the Bootstrap Theme - Module - Member Related Searches widget in the available widgets list. Drag and drop the widget into the desired position in the sidebar order. Save the sidebar configuration. Reference: Toolbox » Sidebar Manager How Related Members Are Determined The widget determines which members to display based on the following logic: Both the category and location of the profile being viewed are checked simultaneously. Members who match either the category or the location of the current profile are returned as related results. Links to the corresponding category and location search result pages are generated automatically alongside each result. All categories assigned to the member are used — there is no limit on the number of categories checked. A maximum of 10 related member results are displayed. Visitors can scroll within the widget to view all results. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750916/original/mpDybEcgjASZou0U632yDy5lzfWAwxVU6g.png?1673501752",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750431/original/1XGpnU0ckVvilgG31FynX2wOSRC6mUUjIw.png?1673500864",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750480/original/ALjlHAaCtRmBE5-NS60HZy5bFtLilq0XGA.png?1673500965",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750875/original/eL0nMiMKZt2bQyKtmDzFYqoJ_67bFDSCNQ.png?1673501670",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

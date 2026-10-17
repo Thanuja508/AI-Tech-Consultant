@@ -1,0 +1,56 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002336-how-to-post-a-photo-album",
+  "title": "How to Post a Photo Album | Brilliant Directories Documentation | BD Support",
+  "content": "How to Post a Photo Album Link: https://support.brilliantdirectories.com/support/solutions/articles/12000002336 To post a Photo Album, access the Member Dashboard, on the left sidebar find the Photo Album post type, click on it to make a new post. IMPORTANT: If the Photo Albums option is not included in the member dashboard, the post needs to be enabled for the membership plan in the post publishing tab: Finance » Membership Plans - Post Publishing Photo Album Form Add some content to the post, for example a title, description, category and more as explained below: 1. Publish content on the site or save it as a draft. 2. Add the Title of the Photo Album. 3. Select the Category for the album. 4. Enter keywords that apply. Separate with comma. 5. Enter the main Description of the Photo Album. Upload Photos After all of the details have been saved, add the images to the Photo Album post. Upload as many images as needed (Gifs are not supported): Title: Add a Title to the Image. Description : Add a Description to the Image Rotate : Option to rotate the images. Move to...: Move the images to another Photo Album post from the same member. After adding the photos, there are three additional options: Scroll to Bottom : This button is to jump to the bottom of the page quicker when a photo album has many images . Display Order : Go to the Photo Display Order screen. Save Changes : Save image titles and descriptions. Photo Display Order Arrange the Photo Display Order: See how the images can be arranged and select the cover image for the post in the following GIF: Member Dashboard Options Different options are available on this section. For more information, please refer to the image and points shown below: Photo Albums : Will show all the photo albums and display the amount of albums in the account. Add a New Photo Album : Click to add a new photo album. It will not display if the limit of posts has been reached. Entries per Page : Click on the dropdown to choose how many entries will show per page (5, 10, 25 or 50 entries). Order of the Posts on the Page : Newest, Oldest, Updated (first), Updated (last), Start Date (first), Start Date (last). Filter by Status : Published, Draft or Expired. Filter by Keyword : Enter a desired keyword to display all photo albums that contain it. Photo Album Post Module Once the Photo Album has been created, it will display the current Status: Published Draft Expired The number of Views and Bookmarks will only show if the correspondent add ons are active on the site. Actions Dropdown Clicking on the Actions Button reveals additional post options: View Edit Upload Photos Clone Delete * Keep in mind that the Clone option will only copy the post details, not the images. Live Photo Album Post Once published, this is how the Photo Album posts display on the site: All Post Types have a designated search results page: e.g.: http://yourbrilliantdomain.directoryup.com /photo-albums For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163319262/original/klKJHfoXkxGg-z7AmxXMf_J9nNqSRnh2kQ.png?1750789282",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163319599/original/vm26ksOTDLCiljSKLxx3FHfwqerNhn9bTw.png?1750789597",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163327252/original/GNfZaeE74uvHK8QC3K-xLQPI58KqcBdFWw.png?1750796947",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163433355/original/PGj6hzYvO1QCw1jNaB23Tkupz4qmL2ClQA.png?1750955412",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163432298/original/jQ8pwiLILtt0RXtPaj0NJVJSRCEqSE1buA.png?1750954393",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072066310/original/3BQyLWDI4ibLf2hTM4jOadd2ffrFu8yoew.png?1578407973",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072066563/original/PC5j2qRW1bqDIvBte3_BdssF5wuG71IaBg.gif?1578408183",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167329220/original/XRb9yqidnRWoFsPOYmQz3BkoFmbnowEDRA.png?1757609847",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167326844/original/1lTYR9Hx01HL7QX8xpR3aMt_ttL2RtQxyw.png?1757607515",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167326854/original/pPqAAD9tCN8dn0O07JDnTBUb92mCwxaQxQ.png?1757607531",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12163434439/original/2XVtLrQnlJfvOA3ai6HRLk9OWbQeSBOcwg.png?1750956597",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

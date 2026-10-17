@@ -1,0 +1,168 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100529-design-settings-homepage-select-content-to-display-streaming-blog-articles-with-sidebar",
+  "title": "Design Settings » Homepage » Select Content to Display » Streaming Blog Articles with Sidebar | Brilliant Directories Documentation | BD Support",
+  "content": "Design Settings » Homepage » Select Content to Display » Streaming Blog Articles with Sidebar Link: https://support.brilliantdirectories.com/support/solutions/articles/12000100529 Settings Documentation for Streaming Blog Articles with Sidebar This document provides detailed descriptions of the settings available for configuring the Streaming Blog Articles with Sidebar section on the platform. Each setting allows for customization to meet specific needs and preferences. To edit these settings, navigate to: In the Admin Sidebar Open Settings Select Designs Settings Open The Homepage Tab Open The Module Select Content to Display Select The Blog Articles with Sidebar section Visual Guide of the Streaming Blog Articles with Sidebar These are the available settings for the Streaming Blog Articles with Sidebar: 1. Recent Blog Articles with Sidebar Title This setting allows the admin to set the title for the recent blog articles with sidebar section. The title can be customized by entering the desired text in the provided input field. 2. Display Options This setting controls the number of recent blog articles displayed with the sidebar. Admins can select from a range of options, from 1 to 24 results. 3. Title Color The title color setting enables the customization of the title's color. Admins can choose a color by inputting the desired color code or using the color picker tool provided. 4. Used Sidebar This setting allows admins to choose which sidebar to use. Options include custom sidebars and default sidebars. 5. Sidebar Position This setting controls the position of the sidebar within the recent blog articles section. Admins can choose to display the sidebar on the right or left side. 6. Hide Sidebar On Mobile? This setting allows admins to choose whether the sidebar should be hidden on mobile devices. It can be enabled or disabled using the dropdown menu. 7. Hide Entire Section On Mobile? This setting allows admins to choose whether the entire recent blog articles with sidebar section should be hidden on mobile devices. It can be enabled or disabled using the dropdown menu. 8. Linked Post Type This setting allows the admin to select the type of content linked to the recent blog articles with sidebar. Options include events, job listings, coupons, videos, audio posts, website blog articles, community articles, and discussions. 9. Only Show Posts with Photos Admins can choose to display only those posts that have photos. This setting ensures that posts without photos are excluded from the recent blog articles list. 10. Image Quality This setting controls the quality of the images displayed in the recent blog articles with sidebar. Admins can choose between thumbnail size and large size. 11. Show \"View All\" Button The \"View All\" button allows users to see all recent blog articles. This setting can be toggled on or off using the dropdown menu. 12. Hide If No Posts Exist This setting allows admins to choose whether the recent blog articles with sidebar section should be hidden if no posts exist. It can be enabled or disabled using the dropdown menu. 13. Only Include Posts from Active Members This setting specifies whether only posts from active members should be included. Admins can choose to include posts from active members only or from all members. 14. Include Posts from Non-Searchable Members This setting allows admins to choose whether to include posts from non-searchable members. It can be enabled or disabled using the dropdown menu. 15. Include Posts from Members in These Plans This setting allows admins to limit the displayed posts to specific membership plans. Admins can select the desired membership plans from the provided list. 16. Display Order The display order setting determines the order in which recent blog articles with sidebar are shown. Options include newest first, oldest first, or random order. This can be customized by selecting the desired option from the dropdown menu. 17. Limit One Post per Member? This setting specifies whether only one post per member should be displayed. Admins can choose to display one post per member or allow multiple posts from the same member. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469046/original/95AkqT6gy2KiasguldQrHT_tzVCqe-laCA.png?1719442799",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469119/original/dD-7zzNYgNc1540NAclRn_v3gC9PGuBXAQ.png?1719442909",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469014/original/YntnhUssPPZLV1ajCfjZX--ehxKqplFYtA.png?1719442732",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469017/original/4IMmCjudzaBlSyNjj0qerL9S-m6w1v2hBw.png?1719442739",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469018/original/Q-IZhEFlIC89Fc6QPdtI2YQhJhAC3ZHttQ.png?1719442746",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469442/original/Stm7Ly9RbSN18B3EvHxh_GcH6CYrpEop8w.png?1719443368",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469124/original/_rd_EgXK6Hyf95f4L8FT7tFsk-sxcmUJ5w.png?1719442942",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469476/original/X82j0isG5PyXN-qh2L86Ka3FXiPqvtBCug.png?1719443459",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469459/original/21q_wN5HSsqrUlVkI7WSIa19IegLEgQ_MQ.png?1719443425",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469489/original/tKg9WbyzHDbmedjyOCUqRsvA_XkPoyUJrA.png?1719443512",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469613/original/paSRPPd4ZGepRlecKNHm5dSvB0QTNw58hA.png?1719443784",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469641/original/7kYCJwI_KVjWuUZH8v_aZDbXnV8K6akMug.png?1719443837",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469655/original/tIYy5UXgHkwMgNXSKuTAJdShfHqk9HG0pQ.png?1719443858",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469683/original/KncDP0RFNKBrqlgDEqmA9W6SNqxiBba_NA.png?1719443931",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469864/original/TG_X5LDTGqIOStXmkT1uxfkEYQlruPG0cg.png?1719444407",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469733/original/7wEfnS4mo-1joX2zdow2J7toNaVC8CpP0g.png?1719444051",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469866/original/MYuPHunX2pIbzX3Y1cdDmi9GFSt3g8BDnw.png?1719444412",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469778/original/fcwRFpckLbQMOxkb8r4FospSqYXTjoIy0g.png?1719444237",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469813/original/VjiCwz1AGS29KcL1-fzEohuv9dPBZixDgA.png?1719444291",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469835/original/-lX_h6QKjXVxJgC8i85bYHHBJEfKW4c-2A.png?1719444368",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469867/original/LhQhrWIlAO_tsCmGGpFyXy457bCGL5eCpQ.png?1719444417",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145470612/original/zFsttOUv0OGeYvF07j4cFP2b4gCtJP637w.png?1719445751",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469867/original/LhQhrWIlAO_tsCmGGpFyXy457bCGL5eCpQ.png?1719444417",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145470661/original/YbNThasjbC8AoowEyknmWX6ely1orTbDKw.png?1719445882",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145469867/original/LhQhrWIlAO_tsCmGGpFyXy457bCGL5eCpQ.png?1719444417",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471151/original/oSHbxHEsFXqmIpl4WLjSrkLQ4iym7_leDA.png?1719447433",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471158/original/MBr4VHBvc0vn5IRa5rIwuI1rl9_EcYhYNQ.png?1719447478",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471190/original/l_GIgipvUaZVg-1HPVzyuF09dmeV8f0IpA.png?1719447517",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471193/original/eAxEMQgll-pqkXkPOgN0yx1GZf7v_QQwlw.png?1719447526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471228/original/OxFAujcvC49pC03fTUlnqLk-xgeeie0GOA.png?1719447756",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471193/original/eAxEMQgll-pqkXkPOgN0yx1GZf7v_QQwlw.png?1719447526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471239/original/DiKro1ix4pbLFoPDcsbI3IyGiVmMO73oqg.png?1719447835",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471193/original/eAxEMQgll-pqkXkPOgN0yx1GZf7v_QQwlw.png?1719447526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471252/original/vINPRArdpVaQ66GBIjKGbNZK57yq6gUDmg.png?1719447887",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471193/original/eAxEMQgll-pqkXkPOgN0yx1GZf7v_QQwlw.png?1719447526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471265/original/RCtCOK5Od2GFeyZrk0Ml4GxP3Qp3I15dMQ.png?1719447940",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471193/original/eAxEMQgll-pqkXkPOgN0yx1GZf7v_QQwlw.png?1719447526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471271/original/Tr7PlnLBppO7JqD_hrFCpsgf9LHdB7aq8w.png?1719447990",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12145471193/original/eAxEMQgll-pqkXkPOgN0yx1GZf7v_QQwlw.png?1719447526",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000067547-bookmark-counter-add-on",
+  "title": "Bookmark Counter Add-on | Brilliant Directories Documentation | BD Support",
+  "content": "Bookmark Counter Add-on Link: https://support.brilliantdirectories.com/support/solutions/articles/12000067547 Overview The Bookmark Counter add-on provides additional functionality to the Bookmark My Favorites add-on by displaying a live counter of how many times a post or member listing has been bookmarked/favorited. Stir the competitive spirit of the website visitors. Prompt them to take action by showing how popular certain posts are. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Bookmark Counter Add-On Enabling the Add-On Go to Settings >> Design Settings expand the Button Colors section. Find: Enable Bookmark Counter Front-End When enabled, the Post Search Results will show how many times a post has been liked: Member Search Results are going to show the total for that profile: Sort Options With this add-on enabled, the search results will display sort options for \" Sort by Most/Least Likes \": There are text labels for the select options: Sort By Least Likes System Variable : sort_by_least_likes Sort By Most Likes System Variable : sort_by_most_likes These text labels need to have values in order for the sort options to appear in the search results. If there is no text for either of these labels, members and website users will not be able to sort by Most Likes and Least Likes. Member Dashboard The Liked content will display in the member dashboard sidebar: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122715404/original/SEHNJ0FXr9ibTwGTk6plukhwAVH5N0NK9A.png?1678983475",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796871/original/-e9f3ujlCI6frj2D0yfzCMDG7Rcds8bmEw.png?1615347201",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796894/original/_ShbMdk_oD05c_G0ax70ME8cFmE0-eWVxA.png?1615347262",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122717003/original/6VKX88q3em0CBBNseQ2A4vKjWWUzygnT2Q.png?1678985079",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122717460/original/o9lYzfn-p47J7OhSUViGRoRD7Mi-M9p4fQ.png?1678985470",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12122716101/original/Qsi9ZlBtsSkWolGzXxjDnMC_wi3-1ByDfg.png?1678984134",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

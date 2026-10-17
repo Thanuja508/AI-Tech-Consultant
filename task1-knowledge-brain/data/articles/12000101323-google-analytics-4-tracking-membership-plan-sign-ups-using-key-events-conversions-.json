@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101323-google-analytics-4-tracking-membership-plan-sign-ups-using-key-events-conversions-",
+  "title": "Google Analytics 4: Tracking Membership Plan Sign-Ups Using Key Events (Conversions) | Brilliant Directories Documentation | BD Support",
+  "content": "Google Analytics 4: Tracking Membership Plan Sign-Ups Using Key Events (Conversions) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101323 Understanding user interactions, such as sign-ups for different membership plans, is crucial for assessing website performance and optimizing user engagement. Integrating BD websites with Google Analytics 4 (GA4) enables effective tracking of membership plan sign-ups. Here’s a detailed guide on how to set up this tracking. Part 1: Set Up Tracking on The Brilliant Directories Website 1. Create a New Custom Widget Begin by accessing the BD website dashboard and creating a new custom widget . 2. Name the Widget Assign a simple nickname to the widget, such as \"Track Sign Ups - Membership Plan Name,\" to facilitate identification. 3. Insert the Tracking Code Paste the following code into the widget’s code area on the HTML tab: <script> gtag(\"event\", \"bronze_plan_sign_up\", { method: \"sign_up\" }); </script> This code configures a custom event in GA4 to be triggered whenever a sign-up for the specified membership plan occurs. IMPORTANT: Replace bronze_plan_sign_up with the name of the membership plan you're tracking. NO SPACES NO SYMBOLS USE UNDERSCORES _ If there are any spaces or symbols, the tracking will not work Example change: premium_plan_sign_up 4. Save Changes Ensure that the widget is saved to apply the changes. 5. Edit the Membership Plan Go to Finance > Membership Plans, edit the plan that will have the tracking code, find the \"Successful Sign Up / Upgrade Conversion Tracking Code Widget\" setting in the first tab of the page, and select the widget created for the tracking code. Part 2: Set Up Key Event to Track in Google Analytics 4 (GA4) 1. Copy the Event Name Use the exact event name from the inserted code, for example, bronze_plan_sign_up . 2. Access GA4 Admin Settings Navigate to Google Analytics for the website and click on the ADMIN blue icon located at the bottom-left of the page. 3. Navigate to Key Events Find the DATA DISPLAY section in the sidebar, and click on KEY EVENTS . 4. Create a New Key Event Click on NEW KEY EVENT and enter the copied event name, such as bronze_plan_sign_up IMPORTANT: The KEY EVENT name MUST MATCH EXACTLY the event name defined in the tracking code in the widget. 5. Save the Key Event Click SAVE to finalize the event setup. Events can be viewed under Reports > User Engagement & Retention > Events. After adding a new event in GA4, it typically takes about 24 to 48 hours for the event to appear in the Events report. This delay is due to the time required for data processing and reporting updates within Google Analytics 4. To see the new event sooner, checking the Realtime report might provide immediate insights, though the full data and detailed reports will still be updated within the 24 to 48-hour time-frame. With the tracking for membership plan sign-ups configured, monitoring these events directly in Google Analytics 4 becomes possible. For different membership plans, the process can be repeated with unique event names for each plan. By following these instructions, valuable insights into user engagement with various membership plans can be obtained, enabling data-driven decisions to enhance website performance. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743078/original/bpdL5LCboAVrGZgl2LmjCJlIFWLljaZfrg.png?1725062677",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148742999/original/5pCVyKOjF3yl9vN15mjM2scZw90OArgLRw.png?1725062251",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820759/original/suivIPUBiI35k9wC78HrGteiulJcDFC4EA.png?1725296532",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820713/original/pDX0ik24Qa2waWihMlOR0pzC-yn3H1Da8Q.png?1725296483",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148820889/original/KK1jIYWeptny-jJYPdNsZYbv1ZLj5WMXPA.png?1725296729",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743185/original/nNXjuLvGPWwxN-jvH7Cdryd4CzLFuNp-kQ.png?1725063221",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148743261/original/RGk_9bbohR5hNxdwH_RfZGraFc-chOCEqw.png?1725063793",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

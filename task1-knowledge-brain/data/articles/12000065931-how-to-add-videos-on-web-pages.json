@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000065931-how-to-add-videos-on-web-pages",
+  "title": "How To Add Videos On Web Pages | Brilliant Directories Documentation | BD Support",
+  "content": "How To Add Videos On Web Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000065931 Brilliant Directories software offers multiple options on how to add videos to web pages. In this article, we will be going over each of these options. Adding Videos Via Insert Video Button Create or open a web page. Once on the page where the video will be added, click on the \"Insert Video\" option available on the text editor: Two options to add a video will become available: By URL or embedding a code. 1. By URL: Copy the URL of the video. Paste it accordingly by selecting the URL option: 2. Embedded Code Option: Select the \"Embed\" option of the video. Embed the code accordingly: In this example, after embedding the code and clicking \"Insert\" , the video was successfully added: Adding Videos Via Code View Create or open a web page. Once on the page where the video will be added, click on \"Code View\" option that is available on the rich text editor: Copy the embed code from the video and paste it here: Once the video has been added to a page, using one of the different method explained above. This is what the page will look like: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125215228/original/EcIAc50wx6JcQ3tLaJPD-l1zzDVQ22xjNg.png?1683662149",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124820994/original/Cxs_8jT0m_Wk0E7R3OT6yZSj232NdmnyxQ.png?1682976970",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821001/original/1xAx02l2p_a6YuJYx8OBbhW2afocQXFOcQ.png?1682976978",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821006/original/AOld3ZWRef9srFsRWJxlWuHgTvH0X9Y8_w.png?1682976988",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821007/original/KAZkjhCfWHDMsDMNnQic12G22fP6pbNnLg.png?1682976995",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821013/original/0rwDfvN-zp1us4HbCOB3JD2LFWov4ZZKeQ.png?1682977014",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124821019/original/h4hS5JjNUGzToyOhkALMxPQWVZcOkJ-R9w.png?1682977022",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12125215198/original/ps8eww1KYEZXA6WC2aAvX2fPG4hzDr3Ihw.png?1683662109",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

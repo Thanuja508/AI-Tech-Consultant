@@ -1,0 +1,56 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000060993-profile-cover-photo",
+  "title": "Profile Cover Photo | Brilliant Directories Documentation | BD Support",
+  "content": "Profile Cover Photo Link: https://support.brilliantdirectories.com/support/solutions/articles/12000060993 The Profile Cover Photo add-on allows members to better personalize their profile pages by uploading their own profile cover photos. Similar to Facebook, Twitter, LinkedIn and other social networks, once a member uploads their cover photo it will be placed at the top of a their profile page. NOTE: Accepted image extensions are JPG, PNG, GIF and WEBP files. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Profile Cover Photo Add-On Enabling the Add-On 1. Go to Finance - Membership Plans: 2. Click Edit for the product level the admin wish to grant this for: 3. When the new page opens, click on the Member's Dashboard tab: 4. Scroll all the way down until this the Profile Photo Uploads section and enable the Profile Cover Photo: 5. Save Product Details. Once enable, the members will be able to upload their cover photo in their Profile Photo tab, the recommended size is 1520 x 800 px: NOTE: Accepted image extensions are JPG, PNG, GIF and WEBP files. The admin will also be able to set the desired width and height in the image settings, members will not be able to show more than what the settings are: Developers » Image Settings » Profile Photos, Logos & Cover This is how it is going to display: Stock Images This option will allow members to choose the cover image from the stock libraries. To search for the images, click on the Stock Photos button: Enable stock image functionality: Stock Photo Library for Post Add Alt Text to the Cover Photo Image To add an alt text to the cover photo, go to Text Labels > search for \"Alt Text For Cover Photo Image\": Default Member Profile Cover Photo The admin will be able to set a default cover photo in Settings - Design Settings - Brand Images tab as shown below, which will set a cover image automatically until the member selects its own. Note: Cover Photos can also be imported to members in bulk via CSV file, for more information check out the following documentation. Member Images: Importing Members with Profile Photos, Logos & Cover Photos For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114095420/original/a5AJsNsg_RJj7wHh7F7SrofQrHwL5THy-w.png?1662479216",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114095516/original/Ctx9YPoWVEdKUVh0ItsLj2gVE_4TQSuBgA.png?1662479276",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114095767/original/vqpYY0G1kq44IjBf3Kn5B6gQGkpGjh5zGA.png?1662479547",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114095869/original/iRJCbKzt1yb6aqn-CEj99aTXcf-hTvin2Q.png?1662479622",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176345152/original/toErnB3dSW6s92uQFXEd-VsmLCfnsACLiw.png?1774189690",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112537527/original/u9I83VP1nQIP9zfnLr3R0n0N2Pes2s0qOQ.png?1659462279",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089773502/original/ji-GIVJyXO-qD93DayDpDOYRSdgh7Ttj0A.gif?1615304833",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089772457/original/iRMubUzUSv0MoLR0PfNDpo3nDe0J6L2oUg.png?1615303643",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146931456/original/1ecddMT-1VwC9Pe6ycXZ3AdkXlNmrXZdBw.jpeg?1721952196",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106956473/original/lfha3K0OhBP5tq7KcMl8Om6meCStCwRsgg.png?1648573525",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114232389/original/ZP55bSGyzGZb73Pih-Q-eH3txMNDKo2hYw.png?1662684046",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

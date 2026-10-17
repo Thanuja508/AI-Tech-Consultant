@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097161-generating-a-csr-for-an-ssl-certificate-in-cpanel",
+  "title": "Generating a CSR for an SSL certificate in cPanel | Brilliant Directories Documentation | BD Support",
+  "content": "Generating a CSR for an SSL certificate in cPanel Link: https://support.brilliantdirectories.com/support/solutions/articles/12000097161 Generate a Certificate Signing Request (CSR) A Certificate Signing Request (CSR) is required when purchasing an SSL certificate from a third-party provider. The CSR contains information about the domain and organization requesting the certificate and is used by the SSL provider during the certificate issuance process. Access the cPanel Dashboard Log in to the website's Admin Area and navigate to Developer Hub > cPanel Dashboard . Open the SSL/TLS Manager Within cPanel, locate the SSL/TLS option in the Security section. Create the CSR Click Generate, View, or Delete SSL Certificate Signing Requests . Complete the CSR Information Complete the required fields, including the domain name, organization details, and location information. The Domains field should include all domains and subdomains that will be secured by the SSL certificate. For a wildcard SSL certificate, the domain can be entered as: *.example.com Alternatively, individual domains and subdomains can be specified separately: www.example.com example.com mail.example.com Generate the CSR After all required information has been entered, click Generate to create the Certificate Signing Request. Save the CSR and Private Key Both the CSR and private key should be saved in a secure location. The CSR will be required when purchasing the SSL certificate, while the private key will be required when installing the certificate on the server. Loss of the private key may prevent the SSL certificate from being installed successfully and could require generating a new CSR. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441075/original/N5NO8PK8h-J4f5WcwEf_Xs24T-U4gxtzww.png?1699995089",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441095/original/YwwRmTOIiY8UMm5_YaeHLJMkTpdaq6Hh_g.png?1699995138",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134441186/original/QXx5Z4XKOOX85Tka-571NeN-CwGDm3gzvg.png?1699995239",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134442211/original/76DYpLuDrYrGgxa4Ywyia2i7Bnt2kNsHCw.png?1699996121",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134442218/original/ySN92LmakzKbia_sbWrVk8hwf__wpX41RA.png?1699996136",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

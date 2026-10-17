@@ -1,0 +1,56 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000049274-finance-membership-plans-search-visibility",
+  "title": "Finance » Membership Plans - Search Visibility | Brilliant Directories Documentation | BD Support",
+  "content": "Finance » Membership Plans - Search Visibility Link: https://support.brilliantdirectories.com/support/solutions/articles/12000049274 In this article, we will go over all the settings available in the \"Search Visibility\" tab: Set Visibility Rules Section 1. Are These Members Searchable on the Website? This setting determines whether these members are searchable (appear on search result pages) on the website If YES, these members will display in search results for users that are permitted to view them. If NO, these members will not appear in any search results. 2. Can Unregistered Visitors View These Members? This setting is used when the site is \"Members Only\" and unregistered visitors can or can't view these listings on search results pages. If YES, these members will display on search result pages for users that are not logged in. If the site needs to be members only, please refer to this article: Members-Only Content 3. Members-Only Access This setting provides more granular control over member profile pages where site owners can hide individual pages of a member profile. This setting will only be available if the Members-Only Content add-on is active on a site. If there is a custom widget preventing this setting from working properly, the system will display the name of the custom widget: 4. Hide Member Profile from Search Engine s? If YES, the system adds a 'nofollow, noindex' directive to the member's listing page. Keep in mind that this is only for search engines. 5. Add \"NOFOLLOW\" to Member Web Links? If set to YES, web links on member profile pages will have the \"NOFOLLOW\" attribute. Keep in mind that this is only for search engines. The nofollow tag tells search engines to not follow that link. So search engine bots will skip those links when they crawl the site. 6. Search Results Priority Order in which members with this account level will appear in search results. 0 is the highest priority. For example: If this is the most expensive membership, it is recommended setting this to \"0\". This way this membership plan appears first on search result pages. 7. Max. Sub-Level Categories Member Can Select This setting defines the maximum number of categories a member can be listed in. This will include top-level, sub-level, and sub-sub level categories. For example: If this value is set to 10. Members in this membership will only select up to 10 categories total, including top-level, sub-level, and sub-sub-level categories. Enter 'all' to automatically list members in all the available sub-categories. Enter ' unlimited' to allow members to select as many categories as they wish. 8. Membership Plan Search Results URL This option allows a unique URL to be assigned to this membership plan.. Each URL needs to be unique and cannot be repeated across plans. If a URL is already specified and saved, a quick link will appear to visit the page while logged in as an administrator: It is NOT possible to use the slug \"pro\" as it will break this feature. If the word \"pro\" needs to be used, please enter \"pro-plan\" to resolve this issue. Multi-Location / Service Area Settings 1. Location Types Member Can Select Select the types of locations this member can be listed in. The options are: Country, State, County, City, and Zip Code. These options are available only if this an add-on Multi-Location Listings is active. 2. Maximum Number of Locations Maximum geographic locations a member can list in. Type 'all' to auto list members in all locations. NOTE: If this field is not available on the site, it is because this is an add-on called: Multi-Location Listings . Highlight Member Profiles Important Note: This is an add-on must first be activated on the site. More information about this add-on can be found here . Enable Search Results Highlight? This add-on highlights members of specific membership plans within the member search result pages of the website. It changes the design such as the border, the border color, text color, border width, the displayed text, the font size, text position, and the border radius. Example: Hidden Member Profile Settings Important Note: This is an add-on that needs to be activated first on-site. More information about this add-on can be found here . Select which other members these members can search for: The easiest way to determine which options to select is to answer the following question: \"Who can these members search for?\" Select the checkboxes that answer this question. If all options are selected or all options are deselected, these members can search for all valid listings. For example, if these members can search \"Featured\" listings, just select the \"Featured\" membership: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12133502026/original/b6vLEmbw4aqFOtIvRWalBYh004c_QCerQw.png?1698679676",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131881325/original/lmNiZeVBr3h3oCXSJ4h_jnzwIJ3BwKtesg.png?1695748694",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098191593/original/fiiY1sHhZxz43i60Ufp7Yq2lwSUDEgA8qQ.png?1631636087",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12098191809/original/GPBSL9jOnqShbEyUJd4iysqZndA5-O90AQ.png?1631636344",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12114947500/original/YTS5D-_NjrWPERMnHKYlcUyjUgoyK5I9Yg.png?1663864886",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12131881406/original/EB4GVif_Xx84aX6224AfsT5kh_wnHA8rTg.png?1695748751",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12040630600/original/RW4QIUEe1vrqWQMNQODOZykzLc-ish0Ayg?1536782023",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12083882003/original/7JxK2YFpeCzD6h02L2TFjxODapjvT-nsew.png?1603212233",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12058558628/original/iULTvCRg0qsjnddmibLgFfj9CZDQL89Jmg.png?1571761034",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085436772/original/1buLduVyoXoCqdcTVgUlJ2Nxk0V9TOiRcA.png?1606225003",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12085436818/original/6llDg-Ri5oKQ4kKUbSIiig8s5nvyJfuk8Q.png?1606225040",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101842-brilliant-directories-api-endpoints-technical-reference",
+  "title": "Brilliant Directories API Endpoints Technical Reference | Brilliant Directories Documentation | BD Support",
+  "content": "Brilliant Directories API Endpoints Technical Reference Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101842 The Brilliant Directories API provides a set of endpoints for interacting with and managing various aspects of a directory website. It supports API key authentication and offers operations for creating, reading, updating, and deleting data from the website. The API is designed to facilitate integrations and customizations by providing access to essential website functions through RESTful commands. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093270-too-many-redirects-unable-to-log-in-to-the-admin-ssl-browser-setting",
+  "title": "Too Many Redirects  - Unable to Log in to the Admin SSL Browser Setting | Brilliant Directories Documentation | BD Support",
+  "content": "Too Many Redirects - Unable to Log in to the Admin SSL Browser Setting Link: https://support.brilliantdirectories.com/support/solutions/articles/12000093270 When a website is not using an active valid SSL, some browsers, due to local settings, may present issues when logging into the admin. This is due to a browser setting that forces the browser to force load the HTTPS version of a page even though the site does not have an SSL installed. To fix this, navigate to the browser settings by going to Settings -> Privacy and Security and scrolling down to uncheck the box that forces browsers to always navigate to HTTPS: In Chrome it will look like this: In Firefox it will look like this: Once this browser setting has been disabled the admin will load properly. We strongly recommend using an SSL for a Brilliant Directories website, it can be a third party SSL, to learn how to add a third party SSL, please review the following documentation article: Install 3rd Party SSL If the website is using an SSL this issue will not happen. For more information on Brilliant Directories' SSL please review this article: Managed SSL/HTTPS Security Certificate For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124232987/original/GEB0QIF0lGZn93odB8M2PbTFFy8QD9ljsA.png?1681834812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124232993/original/DdQQfdrbD-uA6PZiVMUCVV8PeYyVh2L-lw.png?1681834826",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124231954/original/Xrh6ty7eovDQFv9sAqddLCz-P2E3TGh3Rw.png?1681834111",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

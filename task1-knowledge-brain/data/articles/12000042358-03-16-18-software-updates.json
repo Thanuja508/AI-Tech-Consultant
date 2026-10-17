@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000042358-03-16-18-software-updates",
+  "title": "03/16/18 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/16/18 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000042358 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We fixed an issue which was affecting the behavior of the Widget Manager page in the Site Admin in some rare cases. We improved how the system renders the Froala WYSIWYG styles in the Front-End Pages. Some Froala styles that forced CSS that was incompatible with the default CSS styles on website were removed. Widget Involved: Form - Froala Editor Javascript We made an improvement to the Billing Details page seen when logged in to members' account. The columns in the Invoices section have been reordered and the table no longer requires scrolling to view all of the information. We refactored how the system handles the automatic creation of 301 Redirects when the URL of member profiles or content changes. This update will prevent the creation of infinite redirect loops that have been caused by this module in the past. Now the Member Image Fetch Tool supports JPEG image file extensions. We fixed an issue which was affecting the Search Results Page when the Search Results Layout was set to Grid View. Widget Involved: Bootstrap Theme - Footer - Scripts For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

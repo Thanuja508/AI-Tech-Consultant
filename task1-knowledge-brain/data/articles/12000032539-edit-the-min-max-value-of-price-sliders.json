@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000032539-edit-the-min-max-value-of-price-sliders",
+  "title": "Edit The Min & Max Value of Price Sliders | Brilliant Directories Documentation | BD Support",
+  "content": "Edit The Min & Max Value of Price Sliders Link: https://support.brilliantdirectories.com/support/solutions/articles/12000032539 Specific Post Types, such as Properties, include price sliders in their search widgets to allow for the selection of value ranges. By default, the price slider for Properties features a minimum value of $0 and a maximum value of $5,000,000, as demonstrated below: Users may click these values and slide them horizontally to adjust the search range. For example, the following image displays a search for a more specific range of values: Updating Minimum and Maximum Slider Values To modify the default minimum and maximum values for a price slider. Navigate to Post Settings Log in to the Admin area of the website and navigate to My Content . Click on Edit Post Settings . Use the Post Type search tool to locate the specific Post Type or scroll down to the desired entry. Click the Edit button. Adjust Slider Configuration Within the General Settings tab, scroll down to Additional Settings to locate the Price Slider fields. Enable Price Slider? Select \"Yes\" to activate a price slider for this Post Type, or \"No\" to disable it. Price Slider Minimum Value Enter the starting value for the price slider. Use numerical characters only; do not include commas or periods. Price Slider Maximum Value Enter the ending value for the price slider. Use numerical characters only; do not include commas or periods. Adjust the values to the desired range, then click Save Changes . Reviewing the Changes The search widget for the modified Post Type will now reflect the updated minimum and maximum values: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106337896/original/cbctGywSWc2lgKi1WvdcZvJQYoDXiceeEQ.png?1647363326",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106337894/original/Y5XixQISS2XDmT5Sin38VBK9yDEBuPMI9Q.png?1647363315",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174274852/original/OlyPUJJBh8YqB48eBAXiETE1271ro4Sb8A.png?1770299706",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174275072/original/NKF3XgSTpsNuv_i4ChNuXfsH-kaRL832iQ.png?1770299890",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12106339432/original/6SKPJokB7NzS8DN06AiXW4lK9bMegZfdpQ.png?1647365057",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

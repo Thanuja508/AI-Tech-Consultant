@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000008056-member-leads-lead-settings-additional-notifications-settings",
+  "title": "Member Leads » Lead Settings » Additional Notifications Settings | Brilliant Directories Documentation | BD Support",
+  "content": "Member Leads » Lead Settings » Additional Notifications Settings Link: https://support.brilliantdirectories.com/support/solutions/articles/12000008056 To configure the general Additional Notifications settings when using the default lead system (without the Auto Match Leads add-on enabled), navigate to: Interactions » Member Leads » Lead Settings and click on \" Additional Notifications \": The Additional Notifications settings include two tabs: Admin – Controls notifications sent to website administrators. Visitor – Controls notifications sent to the user who submits the lead form. The Visitor refers to the website user who submits a lead form. Available Settings In Additional Notifications Admin: Email Admin When Lead Submitted: Enable this setting to send an email notification to the configured admin email address whenever a lead is submitted on the website. Admin Lead Submitted Template: Choose the email template that will be sent to administrators when Email Admin When Lead Submitted is enabled. Visitor: Email Visitor After Lead Submission: Enable this setting to automatically send an email to the visitor after they submit a lead. Visitor Email Template: Choose the email template sent to visitors when Email Visitor After Lead Submission is enabled. Copy Admin On This Email?: Enable this option to send administrators a copy of the visitor notification email when Email Visitor After Lead Submission is enabled. Visitor Email Variable: This setting specifies the form field variable that stores the visitor’s email address.When Email Visitor After Lead Submission is enabled, the selected visitor email template will be sent to the email address submitted in this field. The default value is lead_email , and it is recommended to leave this setting unchanged for most websites. Settings In Additional Notifications for Custom Actions If the Automatic Lead Matching Add-On is active on the site the admin will be able to create custom lead actions . When a lead is submitted through a form that is not associated with a specific member (for example, the /getmatched page), all Lead Submitted notifications will be controlled by the Main Action . If additional custom actions are configured, their Lead Submitted notification settings will only apply to direct leads submitted to members assigned to the membership plans selected for that action. The affected membership plans can be configured in the General Settings tab of the custom action. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110615489/original/XtV2XBaX90v7k4gudA10is2a5J1cbFSLZw.png?1655819062",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115889976/original/RgXLXN0FisqRCtcKGw6hi8he7klQ08eWVA.png?1665680324",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115890008/original/BgS0evpIUNFVmCqjLUYqkI_VuXYnJwvsKw.png?1665680366",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12115890031/original/678hzgCapdO-yTyw77wa-Y27d0XiO4boOw.png?1665680419",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110943717/original/_yRJ5WE5SYFjSc4jONca2SMqX0iRFkZIeA.png?1656435138",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12110940592/original/Sch-Y81rFYR8y9MyDUIBRkLO4A2rn2Z2LA.png?1656431616",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

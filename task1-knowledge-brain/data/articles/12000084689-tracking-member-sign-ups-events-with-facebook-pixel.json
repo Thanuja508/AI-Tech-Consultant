@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000084689-tracking-member-sign-ups-events-with-facebook-pixel",
+  "title": "Tracking Member Sign-Ups Events With Facebook Pixel | Brilliant Directories Documentation | BD Support",
+  "content": "Tracking Member Sign-Ups Events With Facebook Pixel Link: https://support.brilliantdirectories.com/support/solutions/articles/12000084689 Standard events are predefined visitor actions that correspond to common, conversion-related activities, such as searching for a product, viewing a product, or purchasing a product. This article explains how to track completed purchases on the site. Detailed information about conversion tracking can be found in the article below: Conversion Tracking Step 1: Ensure the pixel's base code is installed on every page where conversions will be tracked. This process is explained in detail in the article below: Facebook Pixel Step 2: Customize the Bootstrap Theme - Conversion Tracking Codes widget to call the fbq('track') function which tracks completed purchases on the site. The following example code is provided by Facebook Pixel: <script> fbq('track', 'Purchase', {currency: \"USD\", value: 30.00}); </script> The next step is to replace the specified parameter values with the default variables. All of the available variables can be found in the Bootstrap Theme - Conversion Tracking Codes widget: The resulting code would look like this: <script> fbq('track', 'Purchase', {currency: \"USD\", value: <?php echo $conversion_tracking['amount']; ?>}); </script> Then add the code to the specified widget below line 38: When this function is called, the event is tracked as a purchase event in Events Manager: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103142825/original/LIL_0OyZQi-67izntHX-Z5E2wP_nhP6TcA.png?1641308257",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103142971/original/RkrpQOS_L8kB7MDEhxr5uKmC8T6qADe93w.png?1641308404",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103143231/original/2y2z1T_TbFy9EtrIlSrzbo409LRp0UxrPQ.png?1641308616",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

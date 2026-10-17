@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002087-simple-events-calendar",
+  "title": "Simple Events Calendar | Brilliant Directories Documentation | BD Support",
+  "content": "Simple Events Calendar Link: https://support.brilliantdirectories.com/support/solutions/articles/12000002087 Display the website’s published upcoming events in a calendar format rather than in the standard list of search results. All of the published events on the website will automatically and dynamically be arranged on an interactive calendar. This calendar widget can be placed on any webpage or in any sidebar. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Simple Events Calendar Add-On Using the Add-On Go to My Content - Web Page Builder: Create a New Web Page or click Edit on one of the existing pages: Once on the page, add the following widget to the page content: [widget=Bootstrap Theme - Display - Events Calendar] Here is an example of a new web page named calendar, displaying the events calendar: Adding the Calendar to a sidebar: Go to Toolbox - Sidebar Manager and Edit the sidebar where the widget will be placed: Add the widget to the sidebar, to learn more about sidebars, click here : This will display accordingly in the sidebar: Changing the Days Labels: By default, the events calendar will use the default website language. But the admin may want the days to display in a particular manner, so in order to change these labels go to: Settings > Text Labels > search for \"events calendar -\" This is the list of calendar day labels: sunday_events_calendar_day monday_events_calendar_day tuesday_events_calendar_day wednesday_events_calendar_day thursday_events_calendar_day friday_events_calendar_day saturday_events_calendar_day For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540746/original/ouWRn99PNHi6bb1aJSM2vaYui1xu9FFcsw.png?1781641191",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540776/original/i1dPGUEp1Y70EFDUCU05eOJDIDWaxgngnA.png?1781641237",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540796/original/tDYrudNfX3_TyazltTctSPM8vtFmHYLG8w.png?1781641288",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907821/original/LRl0gLsKCqHPrxd7tiwPgdu1sS3jIbSe0Q.png?1617651359",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540908/original/wPvP98B_FUrdMoC4iyP-dcbtlOm4ZfXP7A.png?1781641342",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180540945/original/HKwBtph1NLUozuE_JVv0rPErjZkIXIRsfA.png?1781641415",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090907932/original/XDNo2dgdXQ4cc5BVXpWxtf7aS05bKP5QWg.png?1617651513",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180541073/original/LLO85BJoduejLyzvdrSMXz-aA8lkUOpOEQ.png?1781641590",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

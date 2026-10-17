@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000000921-web-page-page-types-",
+  "title": "Web Page \"Page Types\" | Brilliant Directories Documentation | BD Support",
+  "content": "Web Page \"Page Types\" Link: https://support.brilliantdirectories.com/support/solutions/articles/12000000921 When editing a static page (or creating a new static page), the Page Info tab will show a dropdown of options for the \"Page Type\". These are used to tell the system how the page should be handled (including how some functions and variables will be used). Page Types Single Web Page This will tell the system that this page is a static page. Content-type pages can use images, call widgets, and more. This is the type that is most likely to be used. Post Search Results This page type is designated for post search results (coupons, events, properties, etc.) Member Search Results This is typically assigned to the search results page, mostly related to members (e.g.: /california or /doctors/california, etc). Custom Widget as a Web Page When choosing this type of page, it will load only the content of the selected widget and no other code provided by Brilliant Directories. All design settings and the BD framework will be hidden in the Page Options tab; instead, a dropdown with the custom widgets will become available. See: Using the \"Custom Widget as Web Page\" Page Type for the Web Page Builder Password Retrieval Page Every Brilliant Directories website will come with a default URL called /login/retrieval, where members can receive an email to update their password if they forget it. This option allows you to customize the elements on this page. Unsubscribe Page Every Brilliant Directories website includes a default URL at /unsubscribed, where members and visitors can unsubscribe from the newsletter. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181397234/original/sWPuwdNAnLdaSL2AhyLBZ0nRF5XYCTtRag.png?1783005296",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181397406/original/-Ox3z22lzuG4t7TBhQsTu5ZII12anPFugg.png?1783005492",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

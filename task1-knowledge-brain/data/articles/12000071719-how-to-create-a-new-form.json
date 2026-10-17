@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000071719-how-to-create-a-new-form",
+  "title": "How To Create A New Form | Brilliant Directories Documentation | BD Support",
+  "content": "How To Create A New Form Link: https://support.brilliantdirectories.com/support/solutions/articles/12000071719 In this article, we will be going over the process of how to create a new form. To accomplish this, navigate to Toolbox >> Form Manager and click on the \" New Form + \" button: When clicked, the system will display a pop-up where the new Form Nickname and Form Variable Name can be added: Some Rules Regarding the Form Nickname and Form Variable Name : - Form Nickname has to be unique, meaning that it should not match an existing form - Only spaces, \"-\" and \"_\" will be accepted in the Form Nickname - Form Variable Name needs to be at least 3 characters - Only lowercase characters and \"_\" will be accepted for Form Variable Name When clicking on Save & Continue, the system will display this newly created form with some default fields: The new form is then launched and comes with 9 basic fields: Title Name Email Phone Message/Text Area GDPR Consent Checkboxes ( How To Enable ) Recaptcha Honeypot (Protects against SPAM) Submit Message Button Important Note: As default, this new form will have the same \"Form Settings\" as the Contact Us form so submitting it will add the submitted data to the Emails >> Form Inquiries Additional Information: » How To Embed a Form in a Web Page » Emails » Form Inquiries The form can be further customized by adding, removing, or editing the existing fields: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169819450/original/QsVH_eFi7yL2-x1ubI7sdRgzfoI23rEGdg.png?1761872301",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090908384/original/q4z_nocpsI8kXlnu1-ECcCEq4vslS0rPFg.png?1617652366",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12129558429/original/9q6mpD2KKa3WPWgQnSMKgWRE6jy8k2VGdQ.png?1691509640",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097279052/original/3sHiq_-k6G4ge7LjjHrXaTqduIT8Cklz7Q.png?1629824475",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

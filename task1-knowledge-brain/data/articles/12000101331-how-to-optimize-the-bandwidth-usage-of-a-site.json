@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101331-how-to-optimize-the-bandwidth-usage-of-a-site",
+  "title": "How to Optimize the Bandwidth Usage of a Site | Brilliant Directories Documentation | BD Support",
+  "content": "How to Optimize the Bandwidth Usage of a Site Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101331 How to Optimize the Bandwidth Usage of a Site High bandwidth usage can affect website performance and can require additional capacity. The tools below help measure traffic and reduce unnecessary transfer. Viewing Bandwidth Usage Domain Manager Open Settings > Domain Manager > Usage for the current usage summary. The displayed limit includes the website license and any capacity purchased through the VIP Add-Ons Club or Bandwidth Boost Add-Ons . The Usage tab compares current consumption with the website’s plan limits. cPanel Open Developer Hub > cPanel Dashboard , then select Bandwidth under Metrics. cPanel includes historical totals and separates traffic such as HTTP, FTP, IMAP, POP3, and SMTP. AWStats AWStats identifies traffic sources and the bandwidth each source consumed. See Identifying Sources of Bandwidth Usage with AWStats . General Strategies Set Up Cloudflare Cloudflare can cache static files and filter unwanted traffic, reducing requests to the origin server. See Connecting a Site to Cloudflare . Optimize Images ImageKit can resize and optimize images for the requesting device. See Use a Content Delivery Network for Images . Remove Unneeded Screenshot Previews Disable screenshot previews in admin areas where they are not useful, including Dashboard, Web Page Builder, Edit Post Settings, Form Manager, and Domain Manager. Address Specific Traffic Sources Use AWStats before blocking traffic. For sites using Cloudflare, its WAF custom rules can restrict selected countries or request patterns. Other sites can use the Block Traffic by Country tool. Restore the default crawler rules or add deliberate custom rules through the robots.txt documentation . Blocking legitimate search crawlers can reduce indexing. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668551/original/mTOt576FMgjIQ4_oz3gJLDCTkWNFDJ0HQA.png?1790182305",
+      "alt": "Usage tab with the member, bandwidth, storage, and daily email allowances marked"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

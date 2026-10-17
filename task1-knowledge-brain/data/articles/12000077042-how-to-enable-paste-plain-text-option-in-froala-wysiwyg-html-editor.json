@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077042-how-to-enable-paste-plain-text-option-in-froala-wysiwyg-html-editor",
+  "title": "How To Enable Paste Plain Text Option In Froala WYSIWYG HTML Editor | Brilliant Directories Documentation | BD Support",
+  "content": "How To Enable Paste Plain Text Option In Froala WYSIWYG HTML Editor Link: https://support.brilliantdirectories.com/support/solutions/articles/12000077042 In order to activate the Paste Plain Text Option in the Froala WYSIWYG HTML Editor navigate to Settings >> Advanced Settings: Froala Plain Paste System Variable: froala_plain_paste By default this setting is turned off, when this option is enabled, the Froala WYSIWYG HTML Editor filters the pasted content and keeps only plain text by removing all its rich formatting. The advanced setting froala_plain_paste will impact the following classes: .froala .froala-editor .froala-editor-admin .froala-editor-user-upload By default it's active for: .chat-froala .text-only-froala For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647452/original/NkrJMzCwejeEc5jX8oTeLPjaqsmAEPpqYA.png?1753161459",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

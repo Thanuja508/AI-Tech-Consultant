@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000027165-03-17-17-software-updates",
+  "title": "03/17/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/17/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000027165 We made updates to several Default Widgets this week. If you have customized any of these widgets, and would like to update your customized widget, you can find our most updated code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We have deprecated the use of the %field% variable which was a duplicate of the %industry% variable set in the General Settings section of your website. All instances of the %field% variable have been removed from the Default Widgets and have been updated to use the %industry% variable instead. Widgets Involved: Account Photo Edit Bootstrap Footer Scripts - Original Bootstrap Framework Footer Scripts Bootstrap Theme - Account - Edit Uploaded Photos Bootstrap Theme - Account - Request Reviews Blurb Clickable USA Map Get More Recommendations Home Page Blog Feed Home Page Categories Home Page Map Home Page TPD Box Home Page Wordpress Posts Lite Home Page Map Photo Profile Layout Popular Locations Product Profile Layout Profile Product Master Services Tour Website Javascript Footer classic bootstrap footer scripts The Video Thumbnail issue when you share a page on Facebook has been fixed. Widgets Involved: Bootstrap Theme - HEAD. Video Thumbnail issue on the Recent Video Widget has been fixed Widgets Involved Bootstrap Theme - Display - Recent Videos For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

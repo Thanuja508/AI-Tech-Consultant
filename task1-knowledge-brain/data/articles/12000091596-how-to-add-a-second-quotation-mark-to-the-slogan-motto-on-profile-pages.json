@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000091596-how-to-add-a-second-quotation-mark-to-the-slogan-motto-on-profile-pages",
+  "title": "How To Add A Second Quotation Mark To The Slogan/Motto on Profile Pages | Brilliant Directories Documentation | BD Support",
+  "content": "How To Add A Second Quotation Mark To The Slogan/Motto on Profile Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000091596 By default, the slogan only has one quotation mark at the beginning. However, there are some website owners that would like to add a quotation mark here: In order to add it, please go to Settings >> Design Settings >> Custom CSS >> and paste the code below: .quote_box::after { content: \"\"; background-image: url(/images/icon-quote.png); position: absolute; width: 45px; height: 35px; background-repeat: no-repeat; transform: rotate(1800deg) scaleX(-1); margin-left: 10px; } It should look like this: The second quote mark will show up on all member profiles: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750123/original/K9k1OT7Q8-MHgwNRoTTBqbYfffAiZ9jHyQ.png?1673499905",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171375731/original/n-3W2xidqugwhLd4_6RGGx0pTy2Z1Gg4Rg.png?1764712460",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119750111/original/Iqj2me_GtaVk-jI2vmtPdLq_Xiz488GcZw.png?1673499867",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

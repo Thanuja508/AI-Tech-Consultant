@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093645-changelog-april-2015",
+  "title": "Changelog - April 2015 | Brilliant Directories Documentation | BD Support",
+  "content": "Changelog - April 2015 Link: https://support.brilliantdirectories.com/support/solutions/articles/12000093645 New Features Added Optional Google Recaptcha to the Securemypayment site. This will offer site owners another defensive wall for Spam accounts and the like. Re-crop button added to the Profile Image Upload (For already uploaded images) Delete all location button added to the service areas (Profile Settings) Enhanced JPG, PNG and GIF image upload Enhancements / Fixes Enhanced the Time Zone option in the General Settings to be more User Friendly (Configuration Tab) Add Validation and format to upload photo fields in website appearance, profile photos, company uploads, member uploads and others where files are uploaded Fixed Total article count problem (Thanks to Christopher) Fixed several space related issues with Forms Fixed several issues with uploading PNG and GIF images Improve Auto-suggest for Locations Many Bugs Fixed... For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000093278-workaround-center-website-logo",
+  "title": "Workaround: Center Website Logo | Brilliant Directories Documentation | BD Support",
+  "content": "Workaround: Center Website Logo Link: https://support.brilliantdirectories.com/support/solutions/articles/12000093278 Overview On all Brilliant Directories websites, the Logo is placed to the left within the header: This leaves room for the Logo and the Header Search and links without crowding all of the elements. There aren't any setting to change the placement of the logo but it can be centered using custom CSS. This workaround is really only recommended for websites using uploaded images as their logo. Since this does shrink the space on the header-right elements... so it would behave differently on every site that has the right elements. This works best on sites that are not displaying a header menu. Centering the Logo Use the CSS code below: #website_logo { margin-left:41.66666667%; width:16.66666667%; margin-top: 15px; } .header-right-container { width:41.66666667% } @media only screen and (max-width: 991px) { .header-right-container { width:100% } #website_logo { margin: 0 auto; width: auto; } } Copy the code and paste it inside the DESIGN SETTINGS > CUSTOM CSS / HEAD > Additional CSS: Once the code is saved, it centers the Logo: We recommend hiding the header menu and search module when using this code: When using the header menu and search module, notice that the \" Search \" button has been moved, depending on how many items and the size, the Header Menu may not display as expected. For any design adjustments more than this, we suggest reaching out to a web designer: https://marketplace.brilliantdirectories.com/ For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124356752/original/m_baeeWUCJFxYufTXx1KaCQ1P9WRRIg1Cw.png?1682011189",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124428460/original/Vaz3kXPSe_5xz9MIZWMa3UBGLwzjaSwosg.png?1682125108",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124554857/original/cMrTagGAtPa8jivfgT7rUPYrJYVMRVUb1w.png?1682434888",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124553671/original/OScJu2Tre8hAA-W7ZQlxu1E9IUHCUiaU7A.png?1682433818",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124555305/original/3RTq3wHPWf_SLB0WJlpwK0Tu0DS3rKyk0g.png?1682435285",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

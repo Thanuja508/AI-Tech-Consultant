@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000040190-how-to-add-an-ads-txt-file",
+  "title": "How To Add An ads.txt File | Brilliant Directories Documentation | BD Support",
+  "content": "How To Add An ads.txt File Link: https://support.brilliantdirectories.com/support/solutions/articles/12000040190 What is an ads.txt file? The use of ads.txt files is an initiative from the Interactive Advertising Bureau Tech Lab (IAB) to improve transparency in advertising. This initiative has been adopted by many of the large advertisement platforms, including Google Adsense. Installing an ads.txt file is as simple as uploading a file named ads.txt to the root of the website containing information provided by the banner / advertisement platform of choice (EG: Google Adsense). For more detailed information about the ads.txt specification, please see this page on the IAB website: https://iabtechlab.com/ads-txt/ How to add an ads.txt file Navigate to Settings » Design Settings » Banner Ads » Enter Ads.txt content : Add the required ads.txt content for this field and please allow up to 24 hours for Google and other networks to reflect this change. Once the update has been propagated the content will now be accessible at http://www.YourDomain.com/ads.txt For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174858/original/vj3sVFTPu9slJ94U1-fWk3rXYT72XgYZog.png?1629661049",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097174862/original/_Mq2GhYzjo5_Vejy7PDApVErq-8XYeV6kA.png?1629661057",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

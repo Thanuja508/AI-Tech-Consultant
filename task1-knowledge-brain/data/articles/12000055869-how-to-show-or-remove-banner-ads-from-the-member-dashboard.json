@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000055869-how-to-show-or-remove-banner-ads-from-the-member-dashboard",
+  "title": "How To Show or Remove Banner Ads From The Member Dashboard | Brilliant Directories Documentation | BD Support",
+  "content": "How To Show or Remove Banner Ads From The Member Dashboard Link: https://support.brilliantdirectories.com/support/solutions/articles/12000055869 If the Banner Ads are enabled on the site, the admin can control whether they are displayed or not inside the Member Dashboard for each membership plan by going to: Finance » Membership Plans » Edit Go to the Member's Dashboard tab: Then scroll down to the \"Additional Settings\" section » Show Banner Ads in Dashboard: If the Banner Ads are set to \"Yes\" , they will appear on the dashboard: If it is set to \"No\", they will be hidden from the dashboard but continue to display everywhere else on the site: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830938/original/bnXXMprXkAYtKmieFtv3eo70HNQCjLTesw.png?1767707267",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172830965/original/qO2zWT0qmBidnXswubNbU3PDt1jr9vhkDw.png?1767707319",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172831133/original/rV0yitdaT5HIW0gzvfPPWvEAkuMEGFDVIA.png?1767707441",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393403/original/G86Q_KjGP3S6X6IGsFKrAe2jbCRdUT2oUg.png?1620609860",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172831057/original/jIHxK4mbiGpwjZACuD6XNdN35FIURBPnpg.png?1767707406",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092393413/original/bkICASpUVxcE8jfaCtEW3W6CNyLbh-H2zw.png?1620609924",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000106796-11-28-2025-software-updates",
+  "title": "11/28/2025 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "11/28/2025 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000106796 We made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website. Updated the Website Schema on profile pages to make it compatible with the “Show Street Address” Membership Plan setting. Widget Involved: Bootstrap Theme - Member Profile - Display Member Address Updated the Google Website Translator Add-On to include Portuguese (European) as one of the default translation options. Fixed an issue that prevented the “Currency Suffix” setting value from displaying when creating invoices using the Quick Create action in the Admin. Released a new version of the Website Setup Wizard in the Admin powered by AI. Fixed an issue that caused the system to display a dash (“-”) on the Buy button on Digital Product detail pages when the Digital Product Payment Type setting was set to “Recurring Subscription” or “Custom Donation Amount”. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

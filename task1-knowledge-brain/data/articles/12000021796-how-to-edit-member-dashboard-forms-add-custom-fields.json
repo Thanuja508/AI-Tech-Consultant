@@ -1,0 +1,60 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000021796-how-to-edit-member-dashboard-forms-add-custom-fields",
+  "title": "How To Edit Member Dashboard Forms & Add Custom Fields | Brilliant Directories Documentation | BD Support",
+  "content": "How To Edit Member Dashboard Forms & Add Custom Fields Link: https://support.brilliantdirectories.com/support/solutions/articles/12000021796 This article explains how to identify and edit the forms members fill out inside their member dashboard. These forms can be customized by editing existing fields, deleting fields, or adding new custom fields where supported. Identify the Form Being Used Before editing a form, first confirm which form is assigned to the membership plan. Go to: Finance Membership Plans Select the membership plan to edit Open the Member Dashboard tab. This section shows the member dashboard forms enabled for that membership plan. Click Edit Form for the form that needs to be updated. From there, form fields can be added, removed, or edited. Important Notes New custom fields can be added to the Contact Details and Listing Details forms. Existing form fields can be edited or deleted. New fields can technically be added to the About form, but saved information from those fields will not display on the member profile. It is best to finalize form fields before launching the website and before members begin saving profile information. Edit an Existing Form Field In this example, an existing field is edited in the Listing - Contact Details - Member Form . Go to: Toolbox Form Manager Click Customize for the form, or Edit if the form has already been customized Find the field that needs to be updated, make the changes, and click Save Changes . In this example, the Company Name field was changed to Business Name . After the member saves the updated field in the dashboard, the updated label will display on the member profile. Delete an Existing Form Field To delete a field, open the form in the Form Manager and find the field that needs to be removed. Click Delete Field from the Actions dropdown. Important: If a member already saved information in a deleted field, that saved data may still appear on the member profile because it remains stored in the database. For this reason, it is best to finalize form fields before launching the website or before members begin adding profile information. Add a New Form Field In this example, a new field is added to the Listing - Additional Details - Member Form . Go to: Toolbox Form Manager Click Customize for the form, or Edit if the form has already been customized Click Add Field . Enter the field details, including the Field Label and Database Variable . Select the field type and enable Display View if the field should display on the member profile. Once saved, the new field will display in the member dashboard form. After the member saves information in the new field, the field will display on the member profile if Display View is enabled. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091285359/original/pGw8IMBNpwDdx9vmYGj1ZEB_W_BHa3zvBA.png?1618331242",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127606905/original/jMQbVt3j9IOZ7OkuS3PEiIv8KbBBkvPegg.png?1687981563",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127606988/original/elQ-LMuoUhe4RD4G4qgAXf6FHIE0U0erzw.png?1687981642",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607051/original/EO1RdCHLk8_ucDQTmsUrjNLJ5JIkyF7ipQ.png?1687981743",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607265/original/bYgtOQdbmv7NxI_V2PjHu7U3GkFMxcsyJw.png?1687981960",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286143/original/Z4DPY5SlEqYflYvjUgRDrAId2aOJgQyaxw.png?1618332401",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286189/original/8SRKEYCGiFuN7ajlEHO2QmagSoHt_NKMkg.png?1618332483",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607300/original/467tpwEWHTUXOHmdZFpQ1AzAzYgcddWgHg.png?1687982015",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127607349/original/y6uKxKeJkPmOxE5KVSL7923xyXUoNnWtdQ.png?1687982084",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107066179/original/OQ2YM8LUjdvcsDNb8jf676xGkAcQDD3uvg.png?1648745406",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286831/original/NbdsqVXeOVQOSeYLwZi6SvGKCCAXR4eWVA.png?1618333367",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091286863/original/Jm2Kppj3MVRhXZiYgP6bOzqbNO9hsaLyDQ.png?1618333443",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000028489-how-to-change-the-name-tab-title-url-of-a-post-type",
+  "title": "How To Change The Name, Tab Title & URL Of A Post Type | Brilliant Directories Documentation | BD Support",
+  "content": "How To Change The Name, Tab Title & URL Of A Post Type Link: https://support.brilliantdirectories.com/support/solutions/articles/12000028489 To change the title of a post type, please do the following: Go to Content >> Edit Post Settings Find the post type that needs to be renamed and click on Edit , for this, we are going to use the Classified Post Type as an example. Post Type Name In the General Settings Tab (Add an unique name for the post): URL Permalink Update the URL to match the name: Profile Page Tab Title Profile Page Design Tab (This is the title that is going to show up on the Member's Profile): Search Results Page Title Search Results Design (This title is going to appear when accessing the actual search results visible to the visitors and other members) Lastly, click on Save Changes. Confirm Changes When Saving the Post Type, a message will display to confirm this change: \"The URL of this Post Type is being changed from classifieds to brilliant-classifieds. This action will also update the slug URL of all associated posts.\" This means that already created posts showing under the URL /classifieds now are going to display under /brilliant-classiffieds. Make sure to always refresh the cache of the website to see the changes: Refreshing Live Site Changed Title and URL The new Title and URL will be automatically updated and display on the front end. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005646/original/BtmxC9KeCCZQDPUWmxffSXM85k6NZDqGXA.png?1789066758",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005696/original/h9-ObQ7TrdloFS7wp4ktYT0Sxhnv7lpq_Q.png?1789066799",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005708/original/kmqKmf7A3QnWUUObsEcu8AtSh5grTDi8xQ.png?1789066828",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005746/original/YLO-t-0-AC9gqNfiNXwTK6G-inZU8Nq7LQ.png?1789066878",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005777/original/mqVV2cW6l-8nFVDrVqQyA-DfFr-nZbPNlA.png?1789066930",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005872/original/fAwVobIMr1kMafVjXNrJY__jwzzzXD6c6w.png?1789066993",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185005927/original/mQ-qSH3qNzNC54ccr9GVLJZuX513FQ9N1w.png?1789067090",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

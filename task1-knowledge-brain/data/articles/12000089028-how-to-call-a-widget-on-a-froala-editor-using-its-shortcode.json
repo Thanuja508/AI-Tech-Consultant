@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089028-how-to-call-a-widget-on-a-froala-editor-using-its-shortcode",
+  "title": "How To Call a Widget on a Froala Editor Using Its Shortcode | Brilliant Directories Documentation | BD Support",
+  "content": "How To Call a Widget on a Froala Editor Using Its Shortcode Link: https://support.brilliantdirectories.com/support/solutions/articles/12000089028 By default, the widgets can't be called on front-end Froala editors for security reasons. We have created a workaround to allow supporting widget shortcode to be called on these Froala editors. To accomplish this, please follow the steps specified down below. 1) Enable the Advanced Setting allow_widgets_froala_media_manager (Allow Widget Shortcode In Front-End Text Editor) To enable this advanced setting, navigate to Settings >> Advanced Setting and search for allow_widgets_froala_media_manager (Allow Widget Shortcode In Front-End Text Editor) and enable it: 2) Select Froala Text Editor -Media Manager Access Option as a Form Field The next step to accomplish this workaround is to change the form field on an existing Froala editor to be Froala Text Editor -Media Manager Access . For this example purposes, we will be customizing the default About Me form under Form Manager: Once in the edit view, identify the existing Froala editor and change its form field to be Froala Text Editor -Media Manager Access : FROALA Text Editor: Versions And Their Upload Functionalities Once these two steps are completed, we can copy the shortcode of the preferred widget: And paste the shortcode copied to the Froala editor: Now the widget is rendering and displaying in the member profile: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647519/original/nRWpf1lVd9VKsP05kcXkJgg3uIC-jh4eFQ.png?1753161725",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112644615/original/LctHRrB3XbJ-Wht2s_5MCKa7L_Lngpw-JQ.png?1659628261",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112644752/original/zXH61P5Pg0VXjGQgGRRJOiA-VM2LdrDhew.png?1659628409",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645666/original/40-Gb35k2oNGLhJjs7FENaVbOSwC_OZnJg.png?1659629553",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645695/original/TDcUHCGyL0v7eZg_78YMC5d18s6Gr401XA.png?1659629587",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645749/original/Z7dQAsLwIehaX7RDfiqeqA5CTaHArQhcVw.png?1659629643",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12112645785/original/7nOThXAFLRCYgR6Q7yw5mPeo9KQwP0BqwA.png?1659629698",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

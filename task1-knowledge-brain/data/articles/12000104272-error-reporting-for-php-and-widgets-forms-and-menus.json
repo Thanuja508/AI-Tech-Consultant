@@ -1,0 +1,52 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104272-error-reporting-for-php-and-widgets-forms-and-menus",
+  "title": "Error Reporting for PHP and Widgets, Forms, and Menus | Brilliant Directories Documentation | BD Support",
+  "content": "Error Reporting for PHP and Widgets, Forms, and Menus Link: https://support.brilliantdirectories.com/support/solutions/articles/12000104272 Error handling has been improved across all BD websites, including widgets, forms, and menus. Instead of pages or features failing to load silently, regular users will now see clear and friendly messages when something doesn’t work as expected. Admins get more detailed information to help identify and resolve issues quickly. For more complex situations, our support team continues to receive full technical details to provide additional help. The PHP errors will show up on these sections: Widgets Forms Menus Minor Errors These are the kinds of errors that will break certain functionality, like a search bar, but not the entire page. Website Member/User for Widgets In this example, the header search module is missing. Users won't see the error, the section will simply not appear. Website Admins for Widgets There will be more information available when a website admin is logged in. The widget name and/or PHP error will be displayed. Website Member/User for Forms In this example, the Website - Contact Us form is missing. Users won't see the error, the page will simply show blank. Website Admins for Forms There will be more information available when a website admin is logged in. The form name and/or PHP error will be displayed. Website Member/User for Menus In this example, the footer menu is missing. Users won't see the error, the section will simply not appear. Website Admins for Menus There will be more information available when a website admin is logged in. The menu name and/or PHP error will be displayed. Edit Mode This also appears when the website is in \"edit mode\" accessible through the admin bar. » How to Locate Widgets, Sidebars, Menus, and Forms Via Admin Bar Critical Errors These kinds of errors will shut down an entire site or page. These errors will automatically notify our technical team so they can investigate the issue. Website Member/User There will be a message indicating that the site cannot load the page with an option to return to the homepage. Website Admins There will be more information available when a website admin is logged in. The widget name and/or PHP error will be displayed. Brilliant Directories Support Our technical and support teams will be able to see in-depth information about the error so we can quickly resolve the fatal error presented by the website. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160884055/original/98vrPFTr8OzSG7TclmHUlqrXTFc2JV6jJQ.png?1746497857",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882608/original/t0de5HB_WIMvfRtxY8C4vpZglUHdBdXCUw.png?1746493786",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496255/original/RZu_hX3ZhbnKZAlhg_xo-shedx2QSPc7Dg.png?1747603631",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496245/original/zodG-1RxrZFUG7qAdt3oUR-Ntp502sZOiQ.png?1747603591",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496362/original/d2kJ5pLAW_yq7Y8PgIIkrmyvm9HJfFl29Q.png?1747604244",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12161496381/original/Ia6VPFdeuxOBnIMda92M8d3X1DHVxPUtWA.png?1747604324",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882611/original/irclxZUH27fbkGOzGkrYXmbTZRBjP5ipUg.png?1746493795",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160883588/original/tjZX0R4Ci41244tGL9qXJa5Nkano1TUelA.jpeg?1746496769",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160884103/original/JiiY-OzNUxF13lE2we94a3YV7xXNpcoODQ.jpeg?1746498012",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160882321/original/Fsdlxa1CVsHg5Z6Bc2kVInS4tHolMkdBxw.png?1746493216",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

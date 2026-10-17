@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000069919-how-to-add-tag-arrays-to-post-detail-pages-and-about-section-of-a-member",
+  "title": "How To Add Tag Arrays to Post Detail Pages and About Section of a Member | Brilliant Directories Documentation | BD Support",
+  "content": "How To Add Tag Arrays to Post Detail Pages and About Section of a Member Link: https://support.brilliantdirectories.com/support/solutions/articles/12000069919 This article explains how to add or delete tags without the need of editing the code within the widgets. By default all Brilliant Directories sites include the following tags: <img><h1><h2><h3><h4><h5><h6><b><p><span><ul><ol><li><strong><font><em><br><iframe><u><hr><blockquote><tr><th><td><thead><table><div> To modify them please follow these steps: 1. From the Admin Dashboard navigate to Settings >> Advanced Settings. 2. In the search field type the word \"tag\". 3. Edit the allowed tags by adding or deleting tags. 4. Save Changes. Note : To include new tags in already published posts and member's about me section restore the Details Page Design code or manually change it. To learn more about this refer to the following article Reset Member Post Types To Default . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090276579/original/GCqJ47sqBiMqzbK5oY2CzWZeuYk0WKbv0A.png?1616331420",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

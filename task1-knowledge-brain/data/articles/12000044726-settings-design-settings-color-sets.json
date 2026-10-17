@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000044726-settings-design-settings-color-sets",
+  "title": "Settings » Design Settings » Color Sets | Brilliant Directories Documentation | BD Support",
+  "content": "Settings » Design Settings » Color Sets Link: https://support.brilliantdirectories.com/support/solutions/articles/12000044726 Understanding Color Sets Brilliant Directories recognizes that not every website owner has a background in graphic design. While some users excel at sales, business development, and operations, others may prefer a simpler approach to website design customization. To help streamline the design process, Brilliant Directories, in collaboration with its user community, has created a collection of ready-made color templates. More than 300 professionally designed Color Sets are available, providing a wide range of style options for different industries, branding preferences, and website aesthetics. To streamline the selection process, Color Sets are organized by color tags, allowing administrators to browse templates by preferred color scheme quickly. This categorization helps reduce the time required to find a suitable design and makes it easier to identify Color Sets that align with an organization's branding requirements. What Are Color Sets? The software includes a wide range of design settings that allow for fully customized color schemes and branding. Color Sets provide a simplified alternative by combining multiple design settings into predefined templates that can be applied with a single selection. Accessing Color Sets Color Set options can be found in the Admin Panel under: Settings → Design Settings → Color Sets Applying a Color Set To apply a Color Set to the website: Select the desired Color Set template. Click the Save Changes button in the upper-right corner of the Admin Panel. Refresh the website cache. For additional information, refer to Refreshing the Cache of the Website . Refresh the Admin Panel page by pressing Ctrl + Shift + R on the keyboard. Visit the website by clicking the website preview button in the upper-right corner of the Admin Panel. Finalizing the Changes Once applied, the selected Color Set will update the website's design settings based on the predefined color combination included in that template. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180139603/original/LQHhWQ2naspKPV5sw5-prDDw_KxLFQUyjg.png?1781024214",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

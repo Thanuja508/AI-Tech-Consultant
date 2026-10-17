@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000041647-02-23-18-software-updates",
+  "title": "02/23/18 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "02/23/18 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000041647 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We fixed an issue which was affecting the behavior of the redirect action when a visitor submits a form. Widget Involved: Bootstrap Theme - Function - Form Now the Listing and Specialty features are enabled by default when and Admin creates a new Product. We released a Security Update to the Admin Accounts module on the Site Admin. We released a new tool that helps Site Admins to easily change the Text Labels without the need to go to the Admin area. This new tool can be found in the Admin Bar after visiting a site as \"Admin\". Note: This tool is still in Beta. We refactored several core files that make all frontend pages of websites load faster. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

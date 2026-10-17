@@ -1,0 +1,104 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000050711-everything-about-froala-wysiwyg-text-editor",
+  "title": "Everything About Froala WYSIWYG Text Editor | Brilliant Directories Documentation | BD Support",
+  "content": "Everything About Froala WYSIWYG Text Editor Link: https://support.brilliantdirectories.com/support/solutions/articles/12000050711 WYSIWYG is an acronym for \"what you see is what you get\". In computing, a WYSIWYG editor is a system in which content can be edited in a form closely resembling its appearance when printed or displayed as a finished product, such as a printed document, web page, or slide presentation. WYSIWYG editors can be found in multiple locations both on the admin side and on the front end throughout the BD platform. Admin Section Froala These are the areas of the admin dashboard that contain Froala editors. Web Page Builder My Content --> Web Page Builder --> Click “New Webpage” OR “Edit” on the preferred webpage WYSIWYG editor options are highlighted below: Forms Inbox Emails → Forms Inbox → Click on “Reply” WYSIWYG editor is highlighted down below Compose Emails Emails → Compose Emails WYSIWYG editor is highlighted down below Email Templates Emails → Email Templates → Click “New Email Template” OR “Edit” OR “Customize” WYSIWYG editor is highlighted down below: Note: Use BD Butler to create a distinctive email design with AI. Front-end Froala The only access website members have to the WYSIWYG editor is through website Posts . * Posts are anything that members can post via their member dashboard. Click HERE for additional information. On the image below there is an example of how the editor displays to members when creating a Product post. In-depth Look & Features All the sections of the software mentioned above have a WYSIWYG editor. As per default settings, the posts use a Public Version Froala, which means some features will be different from the Admin Froala. To learn more about the different Froala versions, click on this article FROALA Text Editor: Versions and their Upload Functionalities HTML 5: The Froala Rich Text Editor is built respecting and taking advantage of HTML 5 standards. CSS 3: What better way to improve user experience than using CSS 3? Subtle effects make the editor even greater. Keyboard Shortcuts Shortcuts enable users to activate specific commands using only the keyboard. Bold : Ctrl + B Italic : Ctrl + I Underline : Ctrl + U Strikethrough : Ctrl + S Increase Indent: Ctrl + ] Insert Link : Ctrl + K Insert Image : Ctrl + P Undo : Ctrl + Z Responsive Design Content will be responsive. Easily upload images and edit them using the additional Image Options. Click on the following article for more details and information on How to Post Images On WYSIWYG Editors Font Family Select the desired font family. This option will only be available in the admin Froala editor. Learn more here: FROALA Text Editor: Versions and their Upload Functionalities Basic Styling Basic styling, such as bold and italic are built-in in the main code. Perfect for a simple WYSIWYG HTML editor. Font Size Change the font size with pixel precision. No more \"small\", \"medium\", \"large\" and nothing between them. Color Picker Change the text or background color as desired by selecting from the color palette. The color palette will also have up to 9 custom colors pre-selected to match the Main Website Colors selected through the Color Sets or Design Settings. Code View This option will allow users that have knowledge about HTML more control when it comes to creating content. Table This functionality allows adding tables to the content of a web page. Each cell has its own FROALA editor options: Click on these helpful articles for more information on Tables: Froala Editor - Tables Web Page Builder: How Tables, Columns and Rows Behave on Mobile Devices Line Height This option is available to change the spacing between lines of text. Clear Format This option removes styles and formatting when pasting text from another source. After pasting the text highlight it and click on the \"Clear Formatting\" button to remove styles. Icon Picker Add different icons using this Froala option. This is only available on the admin Froala, click here to learn more: FROALA Text Editor: Versions and their Upload Functionalities Insert Link & Button To add a link select the \"insert a link\" option and add the information as needed. Once the link has been added, it's possible to make it a button. Click on the style option and choose the preferred button: To learn more about the color of the buttons, click on the following article: Default Button Link Colors Example For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181398806/original/ZUpSRfrLXdeR4ZcBDSC64L3siRwLDQq6Hw.png?1783006524",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181398848/original/i5fPLuARoytbZV9g2CKRKVYJBAzYQxv-oA.png?1783006580",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171166220/original/BOiSyBJL509TFPjfi7jOYZGbyNl4pTEEuA.png?1764259287",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171166245/original/Q5x0MrQ_fLxoAJrLRqqhsi6FXqJOOTd7yg.png?1764259318",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171166259/original/znOmtncXfU5AHJjR-2lIIhKTWsEq4N6RDw.png?1764259342",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171166336/original/ST_MMTPQ-76vtXwekmWj4bOmNIj1kY99XQ.png?1764259470",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399092/original/fWNa2jxCB-Kb4CPdVHsMv4CVxqdgHtpy3Q.png?1783006716",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171166612/original/yJw2GhGworkzE4m7tXfsArwQrmRy_onamA.png?1764259825",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171166655/original/FNIwMhPejulCzO52iINq17oIvyExT9tXCA.png?1764259927",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399359/original/R7Yk3as6485w90yUO29-QgrIQZ1-WUhs9g.png?1783006942",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399426/original/GSOcFg28MD_lpNavZV-iT3dwceMH1_PJyA.png?1783006998",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399500/original/ZYwdLEL0F_VGiKB5LTPizl-yQwyZSFibYA.png?1783007045",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399562/original/NGtHzdVcHAWRx69AMOliEdxVLGxEtuhndg.png?1783007100",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399626/original/4Y2gnvSQiCzVW7bmTJJjLpDuF2ZSiaZTNw.png?1783007177",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399649/original/LA6Ez4s1A2HJTvAnTUgHfpg8nO4kiCVo5Q.png?1783007217",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181399702/original/Y778mlPzXS4Hj9V_yMoPrShbV144oWOLjA.png?1783007267",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819167/original/m92yw73EhcnSmfYiWhLqDHS3Vhm1C9mQDQ.png?1682974759",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819174/original/0EDr3nMbLKIPGPBFtSuaMxySeNfc0cs-vg.png?1682974769",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819204/original/9ZK7wo0XkDBT7ODC0tN5Ms0YEdek9etk8g.png?1682974790",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819205/original/1zc2RoFZTIi_TbHmTNBaDPG4iM6HnBwP-g.png?1682974799",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819230/original/0-0MGZZt9gyg6BKu8gygOD1taX3xQyS2LA.png?1682974810",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124819237/original/BsRslz2GpSJYC18kDXgtv5cFyW5L5MBmFg.png?1682974822",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12147839065/original/yGPbbEXzbEwiapBCiRIAJtIqGruQrpmnWw.gif?1723561989",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

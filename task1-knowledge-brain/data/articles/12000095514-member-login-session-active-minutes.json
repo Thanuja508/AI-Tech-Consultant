@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000095514-member-login-session-active-minutes",
+  "title": "Member Login Session: Active Minutes | Brilliant Directories Documentation | BD Support",
+  "content": "Member Login Session: Active Minutes Link: https://support.brilliantdirectories.com/support/solutions/articles/12000095514 A login session is the period of time between a user logging in and logging out of the website. Sometimes the users end the session on their own by logging out manually but there is an advanced setting to enter the number of minutes (without commas) a session will stay active for a member when they are logged into the website. After this number of minutes, the member will be asked to log in again. Member Login Session: Active Minutes System Variable: member_login_session_active_minutes The default is 7 Days which is 10080 minutes. Days Minutes 7 10080 15 21600 30 43200 If a number is not set or the setting is set to 0, it will default to 7 days. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647654/original/4yGY03P9x_JmXppxjpUZE7Y08PVus6CRlw.png?1753162172",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000682670-how-to-edit-change-default-language-of-websites",
+  "title": "How To Edit/Change Default Language of Websites | Brilliant Directories Documentation | BD Support",
+  "content": "How To Edit/Change Default Language of Websites Link: https://support.brilliantdirectories.com/support/solutions/articles/5000682670 Utilizing the Google Website Translator Add-On Please note that for multi-lingual websites, we recommend using the \" Google Website Translator \" add-on. This tool allows visitors to seamlessly switch between different languages, providing a more user-friendly experience. Changing the Language via the Localization Settings When changing the Default Website Language under Settings » General Settings » Localization , if the Use same language for text labels and email templates option is checked, the system will automatically translate all the text labels and the email templates on the site to the selected language. Note : Changing the default language does not automatically translate every element on the website. Some content will require manual updates. For more details, refer to the section below. Manually Updating Untranslated Elements While the system automates many translations like text labels and email templates, certain parts of the website—such as menus and post types must be updated manually. Below, we will go over the key areas that require manual translation and the best practices for ensuring a consistent multilingual experience. Edit Language via Menu Manager There are a few wordings on the site that can be edited via Toolbox >> Menu Manager: To learn more information regarding what these default menus are and how to customize them, please refer to the article below: Menu Manager Overview Edit Language via Post Settings Editing the names, URLs, H1 and H2s, and the categories of the Posts Types such as coupons, videos, photos, articles and more can be done through the My Content >> Edit Post Settings: To learn more information on how to make these edits, refer to the article below: Edit Post Settings Overview For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156828618/original/w918ejBtPt_pxrrdBUIwXP_q4w-2t3i-_g.png?1739319365",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156800083/original/s1XEN3ldpp4OpivZF3NZWe5ZD3T2bDt0jw.png?1739290799",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171374544/original/kcubuRK1C3FedVvaOn78q0CHcOwZ7lSJxw.png?1764711375",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171374624/original/1WDn9mNjjofWlYAkFNWOJr-GnpDBoAvoBQ.png?1764711442",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

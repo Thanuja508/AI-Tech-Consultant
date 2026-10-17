@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100753-enhancing-security-with-two-factor-authentication-2fa-",
+  "title": "Enhancing Security with Two-Factor Authentication (2FA) | Brilliant Directories Documentation | BD Support",
+  "content": "Enhancing Security with Two-Factor Authentication (2FA) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000100753 In the coming weeks, 2FA will be gradually implemented for admin account logins. If the feature is not visible yet, admins are encouraged to wait a bit longer. A prompt will soon be provided to enable this feature for admin accounts. Any further questions can be directed to the support team, who are available to assist. The Two-Factor Authentication (2FA) feature is an advanced security measure that adds an extra layer of protection, ensuring that only the authorized user can access their account, even if their password is compromised. What is Two-Factor Authentication (2FA)? Two-Factor Authentication (2FA) is a security process that requires two distinct forms of identification before granting access to an account. Unlike traditional single-factor authentication, which relies solely on a password, 2FA incorporates an additional verification step to enhance security. Note : 2FA is optional—the admin of the website has the choice to either use it or skip it according to personal preference. Setting Up 2FA Getting started with 2FA is straightforward. Users should follow these steps: Log In: Begin by entering the username and password. Provide Additional Verification: After the initial login, users will be prompted to provide a second form of verification. This will involve receiving a code via email, which is required to log in to the admin section of the website. If users wish for the browser to remember their password for the next 7 days, they can select the checkbox to remember the device. If the user logs in from a different device, the system will prompt for the code sent via email once more. The One Time Passcode will be sent to the Username email. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146873555/original/RwTcpR4pTQ3bOG8D6e8tfthQdVhIHvVs_w.png?1721877297",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146557458/original/A005sCn9tv6iKpx1OrTsoN6U-vf50TC4Yw.gif?1721320460",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12146556782/original/WtVxPpqSAbPBhna7sdyvhZO_xxdSxdni1w.jpeg?1721319690",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

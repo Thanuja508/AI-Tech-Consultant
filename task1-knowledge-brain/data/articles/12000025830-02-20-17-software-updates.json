@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000025830-02-20-17-software-updates",
+  "title": "02/20/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "02/20/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000025830 Brilliant Directories made the following updates to these default widgets and Core functionality. If you have customized any of these widgets, and would like to update your customized widget, you can find our most updated code in the Default Widget section. If you have a custom version of these widgets, it means that our latest updates have not been pushed to your website. Updates: The More Replies option will always show on the form even if you set the yo YES the Hide Labels Settings on the Admin Lead Settings. Widget Involved: Hide Replies From Additional Members Option. New Setting to easily nonpluralize the Website, the name of the setting is disable_plural_text . If you set the setting to 1 all the system will not pluralize text labels, if the setting is set to 0 the system will pluralize the labels in the website. Tool to Migrate Reviews from OLD to NEW Reviews Module is available. The Map View Option in search results was already fixed. Widget Involved: Bootstrap Theme - Google Pins Locations. A couples of new Design Settings has been released. The Recent Articles With Sidebar, Recent Blog Articles with Sidebar and the Articles Header Search can be managed from the Admin Design Settings. Widgets Involved: Bootstrap Theme - Display - Recent Articles with Sidebar, Bootstrap Theme - Display - Recent Blog Articles with Sidebar,Bootstrap Theme - Header - Right. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

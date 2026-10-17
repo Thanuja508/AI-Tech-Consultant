@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107826-03-06-2026-software-updates",
+  "title": "03/06/2026 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/06/2026 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000107826 We made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website. The action of deleting a member’s profile photo, logo, or cover photo image is now logged in the Activity Tracker. Widget Involved: Bootstrap Theme - Account - Profile Image Upload Updated the Billing History page in the Admin to display the text “Test – Transaction” next to the billing cycle of each transaction when it was processed using the system's test Stripe credentials as the Payment Gateway. Released BD Butler , an AI assistant integrated directly into the Admin to help create and edit widgets, landing pages, and email templates. Updated the Email Templates page in the Admin to display the Email Template ID for each template and allow searching by this ID. The actions of publishing, updating, or deleting a post comment are now logged in the Activity Tracker. Widget Involved: Bootstrap Theme - Function - Comment Handling Fixed an issue that prevented the system from saving the content of email templates in the Admin in some cases. Added a Revision History to the Widget Manager page in the Admin. Users can now roll back custom widgets to the 10 previous saves. Fixed an issue that prevented the system from sending email notifications when manually matching members with leads using the users_to_match parameter with the Create Leads endpoint of the Brilliant Directories API. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

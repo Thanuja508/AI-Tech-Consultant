@@ -1,0 +1,60 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052181-style-options-for-menu-links",
+  "title": "Style Options For Menu Links | Brilliant Directories Documentation | BD Support",
+  "content": "Style Options For Menu Links Link: https://support.brilliantdirectories.com/support/solutions/articles/12000052181 In the Toolbox » Menu Manager article, editing options for menu links were covered. This article provides examples of how to style menu items and related options. How Can These Options Be Accessed? In the Edit view for any menu, a Settings button is attached to every menu link: Clicking this option opens additional editing settings: Format to Use: Link Title Text This setting can be used to add an additional SEO boost to the link by defining its meta title . Input: Additional Information: >> HTML title attribute (W3Schools) Menu Item Inline Attribute This setting can be used to add preferred style attributes to the <li> element. Input: Front-end view: Outer <li> Inline Attribute This setting can be used to add preferred style attributes to the <a> element. Input: Front-end view: Additional Information: >> HTML inline CSS (W3Schools) Menu Item CSS Class This setting can be used to add a preferred CSS class to the <a> element. Input: Front-end view: Outer <li> CSS Class This setting can be used to add a preferred CSS class to the <li> element. Input: Front-end and HTML view: Additional Checkboxes Open in a new window – Indicates whether the link opens in a new browser tab. Add rel=\"nofollow\" – Indicates whether search engines should follow the link. This option is useful when the linked page is not ready or is in a staging environment. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088607010/original/ADWuEhm8B5Li7FJwMR1FCR9bzOsSFq82TA.png?1612908769",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492140/original/zw4-X9-O8lKAV-HPcv4UaQRagy506wYO_Q.png?1595950872",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492272/original/4LK4Fnh1LgdUoKjziKrxhV0-GTD8IfXW9Q.png?1595951043",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492514/original/hAGqbGfhYas9iyko3B4UrO8vetxZx_ioTQ.png?1595951432",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080492653/original/ZE0Od1aUKIgt2B56r-7-P_PMyieoHx8ogg.png?1595951615",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493307/original/oYx21I9_Z_VXNLsPwJMZSa3Tw1SHchZomA.png?1595952529",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493298/original/6aJmUctjBEslZbPo4MFW30lx95GX-iQD5g.png?1595952510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493501/original/QOmPXfnhqJe0356jOv_k1-wntoVTuJQnyw.png?1595952871",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493515/original/egXsYpdU_FSwtcZ8cZTIWI_S1Alk2WGj8A.png?1595952893",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493660/original/K9odJIGh9FKBG1POPwJ7rcMaEhppXImRZQ.png?1595953057",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493639/original/GvSIO6PuS4da7xwJoyZO-ra3-HqYLY0pcQ.png?1595953034",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12080493792/original/G0rh-SnQtMsm_cLWER52vIki9Fcr8sMuDw.png?1595953213",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

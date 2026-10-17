@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000006714-hidden-member-profiles-search-privileges-",
+  "title": "Hidden Member Profiles (Search Privileges) | Brilliant Directories Documentation | BD Support",
+  "content": "Hidden Member Profiles (Search Privileges) Link: https://support.brilliantdirectories.com/support/solutions/articles/12000006714 Overview Address privacy concerns by hiding the profiles of specific membership levels on the website. The admin can also incentivize member upgrades by limiting their search functionalities. It can be useful to adjust the privacy settings for membership levels on the website. This add-on gives these abilities and more by unlocking additional member search permissions. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Hidden Member Profiles Add-On Enabling the Add-On Login to the admin portal Go to Finance - Membership Plans - Edit the membership level to modify: Click on the Search Visibility tab. Scroll to the bottom until the option Hidden Member Profile Settings shows up: The admin can select which membership levels can be searched by the members belonging in this exact membership level. For example, in the image below the Gold members can search only for other Gold members and Silver Plan members: Listings Searchable on Website This option can be seen in the Set Visibility Rules of the Search Visibility tab: By setting this option to \"No\" , all other Search Visibility options will be overridden and members in this Plan will not be searchable by anyone. Setting this to \"No\" is useful for plans for Admin members of the site that are just used to post articles or other content, that will be a searchable member of the site (the content they post will still be searchable). Setting this to \"Yes\" will allow the members of this Product to be searchable, and all of the other Member Search Visibility Options will take effect. Listings Searchable for Non-Members Setting this to \"Yes\" will allow users of the website that are not logged in to an account to search for the members in this Product. if this is set to \"No\", users will have to be logged in to an account to be able to search for members in this Product. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057195/original/99XFUsQwUA6uGbXzcLYODPXGWyRf7KFiJQ.png?1619837802",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057239/original/LX_KiOHEtX1C7Ht1-0IUG0CO_kJ8oJUUaQ.png?1619838154",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057241/original/f4LiEqrpheQhEztnJp5RNtc1XGjnnozklg.png?1619838198",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057278/original/e7AJTtL-pK2QKbKaENzBo4B2OQ0ARE5UWQ.png?1619838376",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057282/original/yYBaZ4G2-ca_584m-Wuz3yw8jph4HRhgrg.png?1619838409",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092057283/original/_nU6Opzhh5UrAnvw6mzJ0MPxPDBqMB9xig.png?1619838420",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

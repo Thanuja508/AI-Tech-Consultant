@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052779-creating-a-folder-in-media-manager",
+  "title": "Creating a Folder in Media Manager | Brilliant Directories Documentation | BD Support",
+  "content": "Creating a Folder in Media Manager Link: https://support.brilliantdirectories.com/support/solutions/articles/12000052779 Creating folders within the Media Manager keeps images organized by page or event. The process takes two steps. 1. Open My Content > Media Manager and click +New Folder . 2. Enter a name in the Insert Folder Name field. IMPORTANT: As a best practice, avoid spaces in folder or file names. Use dashes or underscores instead (for example, event-photos or event_photos ) to prevent broken paths. The folder is created immediately. Uploading an image inside a folder follows the same process as uploading an image into the Media Manager. Additional Information » Content » Media Manager Upload Image For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12182910723/original/J2bJVNHPzNe8xVrHLzYOj4iBhMZU9a7cVQ.png?1785487410",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079480497/original/9VG6jwPhQk5PbmmLVU4ZrrSvAFLnZfJeAw.png?1593708543",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079480448/original/2Uq-xw95BOn0jb1rYHSs1HOoSKvMDCVm5A.png?1593708518",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12134919698/original/MpHMcrOD56Ogk_Lvn3tbAJzBLttMl6eNRg.png?1700856312",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

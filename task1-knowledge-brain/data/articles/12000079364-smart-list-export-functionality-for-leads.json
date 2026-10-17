@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000079364-smart-list-export-functionality-for-leads",
+  "title": "Smart List & Export Functionality for Leads | Brilliant Directories Documentation | BD Support",
+  "content": "Smart List & Export Functionality for Leads Link: https://support.brilliantdirectories.com/support/solutions/articles/12000079364 Overview Site administrators can export lead data or create Smart Lists based on filtered lead results. These tools make it easy to save targeted lead groups for future use or download lead information for external analysis and reporting. To access these features: Navigate to Interactions » Member Leads. Apply any desired filters to narrow your lead results. Open the List Actions dropdown menu. Select the action you would like to perform. Export Lead Results Select the \"Export Current Results\" option from the drop-down: Once the export is complete, the lead data will be downloaded as a compressed ZIP file containing the exported results. In order to export leads, the Export Member Data add-on is required : » Export Member Data Add-On Create a Smart List from Lead Results Select the \"Create Smart List from Results\" option from the drop-down: After the Smart List has been created, select Go To Leads Smart List to view and manage the newly generated list. Related Documentation: Learn more about managing Smart Lists: » Members » Smart Lists For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485599/original/6qbrio2Ee_H9ZPY6sEpUgZr1IhvSnUbHrA.png?1687814623",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485615/original/gGldtA6ElWUMOdWdG62R-LBgeCzXaacyCw.png?1687814656",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485796/original/rTox4gm8dtdO-j2Ude0uHIvYD8LPcJwY3Q.gif?1687814834",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485789/original/Ko2ILQzN4xFOwas-xHxIebUovNU7Ad4vYQ.png?1687814816",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485826/original/u6EkjZMyIpTOeBipIXQ48id-DkMTguVTmA.png?1687814893",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485860/original/3kIY8_LAPIOsM4is8pyvigLpU3dAKoFzTg.gif?1687814953",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12127485918/original/E4LmkJb3c8dcQk5VnXdKVYfRY6ELX5DOSg.png?1687815023",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12169869641/original/gHvPx70wmI-0ZNF_1EeQT0xHinPAw_Hzfg.png?1761943368",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

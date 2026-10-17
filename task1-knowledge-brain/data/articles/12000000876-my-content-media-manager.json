@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000000876-my-content-media-manager",
+  "title": "My Content » Media Manager | Brilliant Directories Documentation | BD Support",
+  "content": "My Content » Media Manager Link: https://support.brilliantdirectories.com/support/solutions/articles/12000000876 The Media Manager helps keep all of the images and files being used by the Admin neatly stored in one place. Within the Media Manager, the administrator can: Upload Images & Files Create Folders Rename Images & Files Delete Images & Files IMPORTANT : When using Safari, the cookies must be enabled in the browser. Please see: Enable Cookies in Safari How To Upload Images & Files Open My Content > Media Manager . Click Upload Image or PDF . Click anywhere within the upload box. Select the image or file to upload and click Open . Once the green check mark appears, click Back To All Media . The file extensions accepted by the media manager are: .doc .docx .eot .epub .gif .ico .jfif .jpg .jpeg .otf .pdf .png .ppt .pptx .rtf .svg .ttf .txt .vcf .webp .woff .woff2 .xls .xlsm .xlsx .xml .json .csv .tsv Image & File Options Hovering over an image reveals several options: Download Preview Rename - How To Rename Images & Files From The Media Manager Erase - How To Delete Images & Files From The Media Manager Right clicking on an image will also reveal additional information: FILE INFO includes: Name Dimensions File Size Date Uploaded Copy URL Important Note When an image is uploaded with spaces in the file name, the system automatically replaces each space with a dash by default to avoid broken image paths. The same applies to folder names. If an image or folder name contains parentheses, the system automatically removes them. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176443783/original/-0rfoE7wMQNNGz0qB7Si4A7zoveRoqSypg.png?1774366392",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12176443830/original/6uArjXfb_CBIX2cC8QDsjsg_x-wO03sd2A.png?1774366434",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132670574/original/aFatpnkCaNIdHkP7lJaTHb0IDEAI47IytQ.png?1697129338",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096049320/original/EosSj0nVtA7mCro2myA1AbuH_oOEOYffZQ.png?1627394131",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096049262/original/ZrfN4E-EnIjy1gWXtXgLtAza6DM1KOk7gw.png?1627394074",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000077983-edit-checkout-pages-add-edit-remove-input-fields",
+  "title": "Edit Checkout Pages: Add, Edit & Remove Input Fields | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Checkout Pages: Add, Edit & Remove Input Fields Link: https://support.brilliantdirectories.com/support/solutions/articles/12000077983 Overview We do not recommend removing default fields from checkout pages because it may cause issues with member sign-ups and payment gateway requirements. The sign-up forms must first be customized before fields can be added or removed. Go to Toolbox » Form Manager. The form that needs to be customized depends on the payment gateway used. These can be On-site (Integrated) and Off-site (Hosted) payment gateways. The article: Supported Payment Gateways will help to determine which payment gateway is being used. Review the \"Type of Gateway\". Example Forms to Edit Based on Gateway Type: If the type of gateway is On-Site, edit the following forms: signup_free whmcs_signup_paid If the type of gateway is Off-Site, edit the following forms: signup_free whmcs_signup_external Note: We recommend hiding the field instead of removing it completely (Step 6 below). To learn more about form fields, see this article: In-Depth Look Into Form Fields And Their Settings Adding the \"First Name\" Field By default, paid signups won't have a first name field. Members can add that information in the Contact Details form. However, if for some reason it needs to be added, then a new field can be created and must use the database variable \" member_first_name \", like the example below: Note: Do not use the variable \"first_name\" because it is already used in the 'Card Name' field and it will cause issues. The correct one to use is \"member_first_name\" . When the field is added, it will look like this: To add the First Name on the Member - Sign Up - Free form, you can use first_name as used in the Listing - Contact Details - Member Form . Saving Billing Address in Member Profiles There is an advanced setting called \" save_user_data_billing_information \" that will allow to use the billing address information entered during the signup process as the member's profile address as well. The only exception would be the missing first_name in paid signup forms. This field can be added by following the instructions above: Adding the \"First Name\" field . Editing the Countries Countries can be restricted on checkout pages If the website will only be for people in the US, then enable the United States only as a \"Featured or Active Country\" and set all other countries to \"Not Active\". That will cause that only the United States will display as an option in the form: Related Articles About the Country Field Adding/Removing Countries from the Dropdown List How to Translate Country Names How to Include a Free Trial Period This is an add-on that can be purchased directly on Brilliant Directories website . Find more information in this article: Free Trial Period Add-On How to Enable Coupon/Promo Codes This is an add-on that can be purchased directly on Brilliant Directories website. Find more information on this article: How To Set up Coupon Codes (Promo Codes) More About Editing Sign Up Pages Overview Article How to Edit Titles, Text & Language On Sign Up Pages How To Add a Sidebar to Sign Up Pages For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144170/original/sYEbnE8pZMQnEy3yxnSm_uaeodLJSxU-6A.png?1614036860",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103463911/original/TWKwHIdEbQ9a5L8LIaijTKZCN_Oxz-9iFQ.png?1641907477",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103464028/original/Es-94Pah0liECfq9vZvN8lQEjWG2HmbLBg.png?1641907601",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12103464045/original/S6op7CxdkIdjJrfKz80-tBAdLbs5u1XeUQ.png?1641907637",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144194/original/nZpmB24JhBVkSrJGKTm0kN7AJwFaE1H_Dg.png?1614036907",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089776987/original/ldRrf_8jPC23P87JWIBYFv8PtpD3J4Z1rg.png?1615308541",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089144192/original/ieBbdVAtmF2wfJLaFvWP-0IDFW3TyE_0rA.png?1614036906",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

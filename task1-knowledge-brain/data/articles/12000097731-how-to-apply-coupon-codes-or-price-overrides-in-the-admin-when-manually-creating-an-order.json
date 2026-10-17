@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097731-how-to-apply-coupon-codes-or-price-overrides-in-the-admin-when-manually-creating-an-order",
+  "title": "How to Apply Coupon Codes or Price Overrides in the Admin When Manually Creating an Order | Brilliant Directories Documentation | BD Support",
+  "content": "How to Apply Coupon Codes or Price Overrides in the Admin When Manually Creating an Order Link: https://support.brilliantdirectories.com/support/solutions/articles/12000097731 When manually creating an order in the Admin Area, there is no need to apply a coupon code. Instead, the order price can be adjusted directly, allowing any discount or price override to be entered manually. Creating a Manual Order with a Custom Price Log in to the Admin Area. Navigate to My Members → Search Members . Locate the member and click Actions → Payment History . Click New Order in the upper-right corner. Select the appropriate Membership Plan and Billing Cycle . Enter the desired price for the order. This value overrides the default price for the selected membership plan, making a coupon code unnecessary. Complete the remaining order details as needed. Click Save Changes to create the order. This approach can be used whenever a discounted price or one-time price adjustment needs to be applied to a manually created order. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

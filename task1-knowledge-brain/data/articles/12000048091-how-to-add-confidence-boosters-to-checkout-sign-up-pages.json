@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000048091-how-to-add-confidence-boosters-to-checkout-sign-up-pages",
+  "title": "How to Add Confidence Boosters to Checkout Sign Up Pages | Brilliant Directories Documentation | BD Support",
+  "content": "How to Add Confidence Boosters to Checkout Sign Up Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000048091 Confidence boosters help users feel more confident about their purchase in the last few seconds when they might just regret adding their card. Ensuring the potential client that the website uses secure payment methods to collect from their card and reminding them about features they will get as soon as they join will help prevent the bounce rate at the checkout page and make sure more people complete the cycle of becoming a customer. In this article, we provide the code and instructions in order to implement a confidence booster in the checkout pages to increase conversions. Confidence Booster: Step 1 - Add the Images Download the images provided at the end of the article and add them to the image manager. Additional Information: » Content » Media Manager Step 2 - Create a Custom Widget Create a custom widget and copy and paste the following code into it: <div class=\"module\" style=\"background:white;\"> <center><img src=\"/images/secure-checkout.jpg\"></center> </div> <div class=\"module\"> <h4>A COMMUNITY YOU CAN TRUST</h4> <ul style=\"list-style:none;\" class=\"nopad font-lg line-height-xl\"> <li><i class=\"fa fa-check fa-fw text-primary\"></i>Join Thousands of Happy Users</li> <li><i class=\"fa fa-check fa-fw text-primary\"></i>Helpful Videos &amp; Documentation</li> <li><i class=\"fa fa-check fa-fw text-primary\"></i>Hassle-Free – Quick &amp; Easy Setup</li> <li><i class=\"fa fa-check fa-fw text-primary\"></i>Nothing to Install or Download</li> <li><i class=\"fa fa-check fa-fw text-primary\"></i>Top-Rated Help &amp; Support </li> <li><i class=\"fa fa-check fa-fw text-primary\"></i>And So Much More...</li> </ul> </div> <div class=\"module\"> <h4 class=\"nomargin\">EXCEEDING EXPECTATIONS</h4> <div class=\"tmargin line-height-xl\"> <img src=\"/images/testimonial.jpg\" class=\"pull-right img-thumbnail lmargin\"> <span> \"Brilliant Directories far exceeded our initial expectations with so many additional tools, features and ways to generate revenue. We truly couldn't manage our business without them! </span> <p> </p><p> Allison P. - Sydney, Australia </p> </div> <div class=\"clearfix\"></div> </div> Additional Information: » Toolbox » Widget Manager - Read the section of the article titled: \" Creating a New Widget \" Step 3 - Add the Widget to a Sidebar Create a custom sidebar and add the custom widget to the sidebar. Additional Information: » Toolbox » Sidebar Manager Step 4 - Add Sidebar to the Checkout Page Add the newly created sidebar to the checkout page of the membership plan, to do this go to Finance >> Membership Plans, find the membership plan, and click edit: Find Sign Up Page Sidebar setting and select the new sidebar created: Additional Information: » How To Edit Checkout Pages secure-check... (28.8 KB) testimonial.jpg (9.42 KB) For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12079649668/original/Hmkv5fGujtp9Scesd0FRPvLRsy5V28KKtA.png?1594131538",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606012/original/-JYBIgRNrGW1nAcJZC7EPgR4c4JzxZqvjw.png?1612907376",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12088606039/original/4ahtnOKSz7EjVaZBIj1fwnhdZDUuW2iPqA.png?1612907436",
+      "alt": ""
+    },
+    {
+      "url": "https://support.brilliantdirectories.com/images/helpdesk/attachments/12038700557/thumb",
+      "alt": "secure-checkout.jpg"
+    },
+    {
+      "url": "https://support.brilliantdirectories.com/images/helpdesk/attachments/12038701127/thumb",
+      "alt": "testimonial.jpg"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

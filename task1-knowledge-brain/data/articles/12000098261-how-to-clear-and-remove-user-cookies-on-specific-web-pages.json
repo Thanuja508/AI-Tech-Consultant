@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000098261-how-to-clear-and-remove-user-cookies-on-specific-web-pages",
+  "title": "How to Clear and Remove User Cookies on Specific Web Pages | Brilliant Directories Documentation | BD Support",
+  "content": "How to Clear and Remove User Cookies on Specific Web Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000098261 This article explains how to remove a specific cookie when a visitor accesses a particular page on the website. Warning Cookies are used to maintain important website functionality, such as user authentication and session data. Removing cookies may affect how certain features behave. Use this code only when the cookie is no longer needed. For example, the claim_listing cookie is created when a visitor begins the process of claiming a member listing. If the goal is to prevent the visitor from continuing the claim process after navigating to another page, the following code can be added to a landing page or widget to remove the claim_listing cookie. Copy <?php setcookieSameSite ( \"claim_listing\" , \"\" , time - 36000 , \"/\" , $_SERVER [ 'HTTP_HOST' ], true , true , \"Lax\" ); ?> Once this code is executed, the claim_listing cookie is cleared from the visitor's browser, preventing the claim process from continuing on subsequent pages. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

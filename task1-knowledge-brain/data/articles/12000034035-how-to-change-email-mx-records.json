@@ -1,0 +1,16 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000034035-how-to-change-email-mx-records",
+  "title": "How To Change Email MX Records | Brilliant Directories Documentation | BD Support",
+  "content": "How To Change Email MX Records Link: https://support.brilliantdirectories.com/support/solutions/articles/12000034035 How to Change Email MX Records MX records determine where incoming email for a domain is delivered. The mail provider supplies the required destination and priority values. Create mailboxes before changing MX. New incoming messages begin routing to the new provider as soon as its MX record takes effect. Domain Manager Mailboxes When the Mailboxes tab offers provider changes for Brilliant Directories-hosted DNS or a connected Cloudflare zone, open Settings > Domain Manager > Mailboxes . Use the routing option in that area when the mailbox service must be changed. For the complete mailbox workflow, see Manage Mailboxes and Email Routing . Keep a copy of the current MX, SPF (TXT), and autodiscover records from the DNS tab first. After the change, confirm in the DNS tab that only the new provider's MX records remain and that the SPF and autodiscover records are still present, and restore anything missing from the copy. The Mailboxes tab offers the supported incoming-mail providers before the MX change is confirmed. cPanel Alternative If the DNS zone is managed through the website's cPanel account: Open Developer Hub > cPanel Dashboard . Open Zone Editor and select Manage for the domain. Filter the records by MX . Edit or replace the existing MX destination and priority with the values supplied by the new mail provider. Remove obsolete or conflicting MX records only after the new provider confirms the correct record set. If the domain uses Cloudflare or another external DNS provider, change the MX records at that provider or through a supported connected Domain Manager workflow, rather than in cPanel. DNS changes often appear within a few hours but can take longer to update globally. After the change, recheck the mail provider in Domain Manager and send a test message to confirm that new mail reaches the intended mailbox. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12185668539/original/X_mzqGTAsl6kvQGKy0U-hkcRIHqw_bGFcA.png?1790182293",
+      "alt": "Change your email provider, with the four provider choices marked"
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

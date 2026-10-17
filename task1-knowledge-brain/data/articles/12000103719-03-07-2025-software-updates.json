@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000103719-03-07-2025-software-updates",
+  "title": "03/07/2025 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "03/07/2025 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000103719 We made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website. Implemented bug fixes and performance enhancements to the Import Business Data tool in Admin. Resolved an issue preventing the Billing Cronjob from executing correctly in some scenarios. Added support for 6 new languages to the Default Website Language setting: Ukrainian, Spanish (Spain), Russian, Slovenian, Slovak, and Albanian. Enhanced compatibility between the \"Chat Messages\" sidebar link in Member Dashboard and the \"Enable Private Chat Messages\" Membership Plan Setting. Widget Involved: Bootstrap Theme - Account - Sidebar Fixed Date Picker functionality when creating or editing posts with customized \"Member Dashboard URL: Add Post\" and \"Member Dashboard URL: Add Multi-Photo Post\" Advanced Settings. Widget Involved: Bootstrap Theme - Footer - Scripts - DateTime Scripts Made several improvements to the Change Domain Wizard tool in the Domain Manager section of Admin panel. Modified the Froala Email WYSIWYG editor to use rendered image dimensions (width/height attributes) instead of the original image size when uploading images to Email Templates. Resolved an issue affecting Digital Product purchases when using the Razorpay payment gateway. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

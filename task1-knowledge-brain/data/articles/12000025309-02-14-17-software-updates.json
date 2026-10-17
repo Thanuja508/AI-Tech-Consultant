@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000025309-02-14-17-software-updates",
+  "title": "02/14/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "02/14/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000025309 Brilliant Directories made the following updates to these default widgets. If you have customized any of these widgets, and would like to update your customized widget, you can find our most updated code in the Default Widget section. If you have a custom version of these widgets, it means that our latest updates have not been pushed to your website. Widgets : System - SaveForm: We updated the Get Replies Functionality for the Leads Module for the Automatic Lead Matching Add On Bootstrap Theme - Coming Soon Page: We updated the email field in order to use the proper email in the Form Inquiries Module in the Directory Admin. It was not capturing the submitting email properly. Bootstrap Theme - Deprecated - Member Profile - Display - Member Contact Details AND Bootstrap Theme - Member Profile - Display Website Links: Updated our logic to show Social Media Links. Bootstrap Theme - Module - Recent Reviews: Updated the code in order to use Membership Level Permission through the Reviews Feature. Bootstrap Theme - Category Groups - Member Categories: Updated Front-End Design so that the Sub-Subcategories are in a toggle accordion. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

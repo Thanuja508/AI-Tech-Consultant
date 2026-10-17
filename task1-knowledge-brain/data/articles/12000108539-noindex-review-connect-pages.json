@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000108539-noindex-review-connect-pages",
+  "title": "Noindex Review & Connect Pages | Brilliant Directories Documentation | BD Support",
+  "content": "Noindex Review & Connect Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000108539 The Noindex Review & Connect Pages setting controls whether member review and contact action pages are included in search engine indexes. These pages include URLs such as /writeareview and /connect , as well as custom URL variants (for example, /leave-a-review or /contact-now ). These pages are generally intended to support actions rather than provide unique content and often contain little or no standalone information. Because of this, search engines may interpret them as thin-content pages, which is not ideal for SEO. When this setting is enabled, search engine crawlers are instructed not to index these action pages directly. Instead, they are guided to focus on the associated member profile page content, helping consolidate indexing toward the primary profile page and reducing the likelihood of low-value pages appearing in search results. How to Access It To access this setting, navigate to Settings > Design Settings , then search for \"Noindex Review & Connect Pages\": How to Configure It If set to ON , member /writeareview and /connect pages (including custom-slug variants such as /leave-a-review or /contact-now ) will emit the following meta tag: <meta name=\"robots\" content=\"noindex, follow\"> This instructs search engines not to include these pages in search results while still allowing crawlers to follow links found on those pages and continue indexing the relevant website content. If set to OFF , these pages may be eligible for search engine indexing based on the crawler’s evaluation and standard indexing behavior. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179221029/original/6WHdbKoGteYD3IXhPPbf-sHTfBEeX2zlLA.png?1779381785",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12179221057/original/5Txkx8F-wNOLyLWqNsZQMTJo4BB3FU9m9g.png?1779381835",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

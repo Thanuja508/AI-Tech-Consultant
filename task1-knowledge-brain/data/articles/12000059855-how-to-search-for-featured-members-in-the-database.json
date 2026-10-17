@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000059855-how-to-search-for-featured-members-in-the-database",
+  "title": "How To Search For Featured Members In The Database | Brilliant Directories Documentation | BD Support",
+  "content": "How To Search For Featured Members In The Database Link: https://support.brilliantdirectories.com/support/solutions/articles/12000059855 To see the list of members who have been featured on the homepage via its Quick Edits: Navigate to Developers --> MySQL Database : Click on the database that ends with wording \" directory \": Conduct a search for the table users_data and open it by clicking on it: Click on SQL : Paste the specified SQL code and click Go : This is the SQL code needed to run: SELECT * FROM `users_data` WHERE featured > 0; Which will display members that are featured on your site: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181110861/original/sK6G8RQTt7SM1n9S5wLWtRYncL-71kJsSg.png?1782513284",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181110846/original/Y0J8iOyJlC72aEHUBr9HHnMimkDv77pxDw.png?1782513219",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310080/original/GZds3y0AO7IZwRLeisQsslBnliwYTDG0QQ.png?1564179707",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310121/original/ALns7iwPau4cAovJzHV03y5cDXGqb6ZF9w.png?1564179814",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310175/original/6cxtfFVz_8loZCJXtQXWS5oWhdQFzJqtIA.png?1564179939",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310216/original/uLoWMNZHWhufjokN43RtXGnExKxAIfCw3g.png?1564180039",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054310263/original/U36cwbAAgne2F-AewaxRqO0rEcE9GzZ44A.png?1564180150",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

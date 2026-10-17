@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000089580-how-to-preselect-a-top-level-category-homepage-search-box",
+  "title": "How to Preselect a Top Level Category - Homepage Search Box | Brilliant Directories Documentation | BD Support",
+  "content": "How to Preselect a Top Level Category - Homepage Search Box Link: https://support.brilliantdirectories.com/support/solutions/articles/12000089580 When using a homepage search module that allows visitors to select a Top-Level Category, the category field is empty by default and displays the placeholder text \"Select an option.\" Depending on the website, automatically selecting a default Top-Level Category can improve the user experience by highlighting the most commonly used category. This can be accomplished with the following JavaScript. Step 1: Add the JavaScript Add the following code: Copy $ ( document ) . ready( function () { select2OnFormClick (); setTimeout ( function () { var setId = 2 ; $ ( \"#sid\" ) . val( setId ); $ ( \"#sid\" ) . trigger( \"change\" ); }, 1000 ); }); Replace the value 2 with the ID of the Top-Level Category that should be selected by default. Step 2: Add the Code to the Homepage Paste the JavaScript into the Footer JavaScript field for the Homepage. Step 3: Specify the Category ID Update the following line in the code: Copy var setId = 2 ; Replace 2 with the ID of the desired Top-Level Category. The Category ID can be found on the Member Categories page. Step 4: Save the Changes Save the Homepage settings. Save the change: The homepage search box will now automatically preselect the specified Top-Level Category. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113771995/original/05xB7RGDTybUuo6WvXB35P6mtqXFdO-9cQ.png?1661873855",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113772813/original/zzbBqlm0LypRH9ZYWZV_rbhkB_K4Pr8EWg.png?1661874586",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113772900/original/pKjdhehpfB2q7hf2UnQd_KoEuE71J0C-tA.png?1661874683",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113773157/original/ISBBjuaOKP9cLiTNEEHR1OCxTw2rvcnWrg.png?1661874880",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113773227/original/6FdUCLCGypU2wIJaNy798BqFNw1V8r7zEg.png?1661874966",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12113773299/original/oZWtuybX0H8Z2qgH40DOBaNwu0r_hvy8xw.png?1661875057",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

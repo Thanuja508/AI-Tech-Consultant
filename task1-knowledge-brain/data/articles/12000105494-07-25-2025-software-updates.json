@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000105494-07-25-2025-software-updates",
+  "title": "07/25/2025 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "07/25/2025 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000105494 We made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website. Fixed an issue that prevented the Compose Email modal in the Admin from selecting an Email Template in some cases. Updated the email verification process used to activate new member accounts by clicking on an email verification link to add additional security. Fixed an issue that prevented the \"Most Views\" sort option from appearing on the Search Members page in the Admin, even when the \"Member Profile Analytics\" Add-On was enabled. Fixed an issue with the UI of saving an SEO Template in the Admin which caused it to appear \"stuck\". Released the new Admin Universal Search feature. This allows Admins to search by keyword across Member Content, Leads, Form Inquiries, Membership Plans, Widgets, Sidebars, Menus, Forms, and Post Content Settings from a single search field. Fixed an issue with assigning members to tags via bulk action on the Search Members page in the Admin in some cases. Updated Members Webhooks to include the \"token\" of each member in the data sent to the webhook endpoint. Updated the automated 301 redirect creation functionality to only apply for members who have existed for more than 24 hours to prevent excessive 301 redirects from being generated. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

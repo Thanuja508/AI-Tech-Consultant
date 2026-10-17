@@ -1,0 +1,68 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000100652-edit-member-url-dashboard-internal-pages",
+  "title": "Edit Member URL Dashboard Internal Pages | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Member URL Dashboard Internal Pages Link: https://support.brilliantdirectories.com/support/solutions/articles/12000100652 This documentation explains how to edit all URLs within the member dashboard area through the Advanced Settings section: /account /home /contact /profile /resume /about /locations /leads /promote/verify /changelisting /billing /password /upgrade Member Dashboard URL: Home The portion URL of the Member Dashboard that will display when a member is on their Member Dashboard Home Page. Member Dashboard URL: Contact Details Form A portion of the URL used when a member fills out the \"Contact Details\" form in the Member Dashboard. Member Dashboard URL: Profile Photo A portion of the URL used when a member uploads their Profile Photo, Logo, and/or Cover Photo in the Member Dashboard. Member Dashboard URL: Listing Details Form A portion of the URL used when a member fills out the \"Listing Details\" form in the Member Dashboard. Member Dashboard URL: About Form A portion of the URL used when a member fills out the \"About\" form in the Member Dashboard. Member Dashboard URL: Service Areas A portion of the URL used when a member selects Service Areas in the Member Dashboard. Member Dashboard URL: Account The root URL of the Member Dashboard that will display when a member is logged in to their account. By default this URL is /account/. Member Dashboard URL: Leads Page The portion of the URL of the Member Dashboard that will display when a member is viewing their Leads page in their Account. By default this URL is leads. Member Dashboard URL: Verify Listing Portion of the URL that will display when a member is verifying their account in the Member Dashboard. By default is promote/verify. Member Dashboard URL: Upgrade Portion of the URL that will display when a member is upgrading their account in the Member Dashboard. By default is /upgrade. Member Dashboard URL: Changelisting Portion of the URL that will display when a member clicks on the Manage Account link in the Member Dashboard. By default is /changelisting. Member Dashboard URL: Password Portion of the URL that will display when a member wants to modify their password in their account on the Member Dashboard. By default, it is /password. Member Dashboard URL: Billing Portion of the URL that will display when a member visits the Billing Information section of their account on the Member Dashboard. By default, it is /billing. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12156444675/original/Ycio-bOr9ySYIzoj7rxIDT0dw550uAXUeg.png?1738685959",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647872/original/Kkd1s7--n8QsKueUsmiisBapI9zcopJLOQ.png?1753162897",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647843/original/sHMdjdT2FPwZ1zqU80HodLlcwlQSP3OhmA.png?1753162757",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647864/original/UCCk03wYoYWjvdv5KhJqJ84snjHbUVgAqg.png?1753162821",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647880/original/Ib_xFk2LlLpEgnSpnfjhHgwIqyovS8wDyg.png?1753162944",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647915/original/4U1gEeiZLV67NM1YMnkvGhepVYd4wfc7_g.png?1753162988",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647937/original/vdQBPZi5a62IogISwtXDrOY8JSjcTkRqFQ.png?1753163034",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647976/original/EpaKS5I7GU6qGp9q5GkBgv5HHZIdT8fHxg.png?1753163164",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648002/original/gIDe553icHwoIKnKV4zBTsgilSwqEYdUtQ.png?1753163220",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648011/original/jXIl-C0W0EVnYyHwbM1vIPBptUO8zrDSBg.png?1753163293",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648017/original/B9EeIW6gpdjITTHRE801gqWJ9YCLDMcE7Q.png?1753163335",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648029/original/nm1xnn2vyxowdr_RWNKutaTr0YY1SSCcdw.png?1753163404",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648050/original/247REuX3RVonhkAb0NvVDlhf1TMKIsX1tg.png?1753163455",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648064/original/Uc09TIqlsWDYGyEXhWy7FI-htSnX2wlpsQ.png?1753163495",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

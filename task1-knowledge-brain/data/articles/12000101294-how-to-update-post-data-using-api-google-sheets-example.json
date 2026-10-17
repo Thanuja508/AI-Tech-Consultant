@@ -1,0 +1,104 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000101294-how-to-update-post-data-using-api-google-sheets-example",
+  "title": "How to Update Post Data Using API: Google Sheets Example | Brilliant Directories Documentation | BD Support",
+  "content": "How to Update Post Data Using API: Google Sheets Example Link: https://support.brilliantdirectories.com/support/solutions/articles/12000101294 This article shows an example of how a Google Spreadsheet can be used to update post data on a site using the site's API. Checklist Before Moving Forward With This Example 1) Make sure to generate a unique API Key using the documentation down below as a guideline. Please make sure to save the API Key in a safe place as it is not accessible after it has been created: How To Generate an API Key 2) Prepare a Google Spreadsheet with at least two essential columns: one for the post's ID# (the post_id variable for single image posts, group_id for the multi-image posts) to reference an existing post on the site, and another for the variable to be updated. For example, if the post currently has title \" 6 Tactics to Generate More Revenue From Holiday Website Traffic \" and needs to be updated to \" 7 Tactics to Generate More Revenue From Holiday Website Traffic \", specify these details in the spreadsheet. Note : The post_id or group_id variable is the only mandatory field for this process, and multiple data points can be updated simultaneously. When setting up the file we recommend using our CSV import template file as a basis for the API sheet. The file has all of the correct database variables: How To Import Posts Via CSV File However, the column names do not necessarily match with the correct database variable names as this can be mapped later on. How To Connect Google Sheets Using Zapier In this example, we will be using Zapier to integrate Google Sheets into the Brilliant Directories site. Log in to the Zapier account and click on Create Zap : Name the new zap created and select the Google Sheets option as a Trigger: Select the Event type as New Spreadsheet Row and click on Continue : Connect the Google Sheet Account (this would be a Gmail account) and click on Continue : Choose the preferred Spreadsheet, specify the Worksheet, and click on Continue : Click on Test Trigger : There will be a confirmation that a spreadsheet row has been found, click Continue: Now the Trigger has been set up correctly, the Action can be created. Search and select the \" Brilliant Directories \" as the App option: Choose the Update User event and click Continue : If this is the first time creating a Brilliant Directories connection, click on the Sign In option: If there is already a connection created to Brilliant Directories, click on Connect a new account option: Clicking both options above will open a new window where the domain of the site (https:// or http:// included) and the API Key generated can be specified: After clicking Yes, Continue on the window above, click on Continue : Next, we will be setting up the action. In this section, all the available post variables can be found. As we already created a spreadsheet with a row of post data, the next action would be mapping/matching the column names to the correct variable names. First, choose the post type: Then, select the \"Custom\" option for Post ID field and select the post_id value from the spreadsheet: Then, map the Post Title by selecting the post_title column for the \"Post Title\" field: Now that all the preferred variables are matched and mapped correctly, click on Continue to test the action: Confirm that the information displayed is correct and click on Test Step : Make sure that the targeted field is updated: Once confirmed, click on \"Publish\": Note : Going forward, any new rows added to the connected Google Sheet via the API will automatically update the corresponding member data. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642488/original/if6M2388op1W8ddw3nygRs10Yv5Abt-0ww.png?1724921666",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642532/original/qjW7jC_VyEI_p7ORXv3xcfkYbX6ssBDAwQ.png?1724921730",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642609/original/uvZxlzJ57W-DNPbLJAbdhP-kEw4SDOtDJA.png?1724921812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642608/original/8Yi8ChT07jlA3BELkW-5a-FsHkF2uINr7g.png?1724921812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642605/original/xYjPiJePb8UDhQZvdimcjqNdS511gwuNxA.png?1724921811",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642606/original/yXbrGBTCt033IUw-BU1ODZ375vX1U-D7Ww.png?1724921812",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642716/original/AgTIp-sGvWMWYvCAiFtzZJ7UkKZ3vxGFOQ.png?1724921968",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642796/original/mmEQ1O5rwcm9I8dYmpIjMnjsFeWLYOuIGA.png?1724922062",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642814/original/Om_dtWnfneydUIMHfVoUCy2UPq61lEOEBA.png?1724922086",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642843/original/Y4PKkQDVmBO8qYEK5kPEtjY0vcHgQHvSAA.png?1724922107",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642871/original/0DKY_DYpjOxum23EbKar9R_4OwPVH-HONQ.png?1724922133",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148643057/original/42GrsPug3neog9i83l9Jh8ItiBe2jso9xw.png?1724922380",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148643033/original/ZQ4fJUpn4EUuxqCREuOVrfVCITSboWvbiQ.png?1724922338",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642898/original/WTwptiYHdWexHYlqd5rWtWOdhzSmyhllpA.png?1724922163",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12148642945/original/lJ3hLAYlFTZ6eRXtv_DQ4rTfNbHtidb39A.png?1724922219",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152138810/original/kOteMhUdWmUugwwbnMoVLX_gam9zjL8JAQ.png?1730920174",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152138825/original/r2a2_P9UWfevKvRbTABQ8Cz4n2FUrF-9dg.png?1730920221",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152138889/original/fHD8kDvZ8sp0F6mSnfsqKl_LTui9JyFPag.png?1730920260",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152138914/original/N4JqlNX_erXOEscS0iDYoe854-xgG-fJAw.png?1730920293",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139202/original/VWcqskZU3WE3Boh1GPy4eVSc2tQx3K7AAw.png?1730920623",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152138928/original/t6QKoHbOP8lWnvcs2zrMREdONUfLLwXf5w.png?1730920330",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139020/original/1DQpV25zSRmatumG9IRUlYOTRnlUJBaTDg.png?1730920392",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12152139069/original/J5I2nt0jv6dE5vzhKYw_4zT8yCANyhMpqQ.png?1730920475",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

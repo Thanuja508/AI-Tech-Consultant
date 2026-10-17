@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000015920-setting-up-paypal-express-standard-free-as-the-payment-gateway",
+  "title": "Setting Up PayPal Express/Standard (Free) As The Payment Gateway | Brilliant Directories Documentation | BD Support",
+  "content": "Setting Up PayPal Express/Standard (Free) As The Payment Gateway Link: https://support.brilliantdirectories.com/support/solutions/articles/12000015920 For the best results, it is recommended to use the Stripe payment gateway . Before setting up a payment gateway, review this article to learn about the differences between Stripe and PayPal Express/Standard . Enter the Gateway Credentials However, if PayPal Standard (Free) is preferred, complete the steps below after entering the payment gateway credentials by going to Finance >> Payment Settings >> Select PayPal Express/Standard: Then add the credentials: For assistance in locating the PayPal API Username, API Password, and API Signature, refer to the official PayPal documentation . IMPORTANT: This guide applies only to PayPal Standard (Free). If the PayPal account is a paid Business account that uses PayPal Payflow, refer to the PayPal Payflow setup guide instead. Instant Payment Notification (IPN) URL After PayPal Standard has been activated as the website's payment gateway, the IPN URL can be found on the Payment Gateways page in the Admin. If the IPN URL cannot be located, it can be created using the following format by replacing www.domain.com with the website's domain: https://www. domain.com /checkout/notifications/paypalipn For example, if the website domain is www.marys-website.com , the IPN URL would be: http://www. marys-website.com /checkout/notifications/paypalipn Configure the Instant Payment Notification (IPN) Settings NOTE: PayPal provides several account layouts, so the screenshots and navigation shown below may differ depending on the account. If the available options do not match the screenshots, contact PayPal Support for assistance enabling IPN notifications using the IPN URL described above. The screenshots below were captured using a U.S. PayPal Standard (Free) account during the fourth quarter of 2016. Sign in to the PayPal account and open Seller Preferences from the left navigation menu. Alternatively, access the Seller Preferences page directly: https://www.paypal.com/us/cgi-bin/webscr?cmd=_profile-display-handler&tab_id=SELLER_PREFERENCES Select Update next to Instant Payment Notifications . Select Choose IPN Settings . Complete the following steps: Enter the IPN URL into the Notification URL field. Select Receive IPN messages . Click Save . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181852946/original/ke0_eTxINEnd9yWkGlDbuK0UvwFZyHh4-g.png?1783724206",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181852885/original/I1yrD2VAw3NR2gb2yXx4LMwvMAThl6Bwig.png?1783723836",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079645/original/blob1472662204625.png?1472662204",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079704/original/blob1472662284451.png?1472662284",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079732/original/blob1472662321028.png?1472662321",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12009079836/original/blob1472662520936.png?1472662520",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

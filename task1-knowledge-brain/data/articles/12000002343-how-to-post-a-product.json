@@ -1,0 +1,60 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000002343-how-to-post-a-product",
+  "title": "How to Post a Product | Brilliant Directories Documentation | BD Support",
+  "content": "How to Post a Product Link: https://support.brilliantdirectories.com/support/solutions/articles/12000002343 Access the Member Dashboard, on the left sidebar find the Products post type, click on it to make a new post. IMPORTANT: If the Products option is not included in the member dashboard, the post needs to be enabled for the membership plan in the post publishing tab: Finance » Membership Plans - Post Publishing Product Form Add some content to the post, for example a title, description, images and more as explained below: 1. Publish content on the site or save it as a draft. 2. Add the Title of the Product. 3. Add the Company posting the Product. 4. Add the Price of the Product. 5. Select the Availability of the Product. 6. Select the Category of the Product. 7. Add an External Link of the Product if necessary. 8. Enter the smart tags that apply. Separate with comma. 9. Add the address of the Product. 10. The Pick up location will be auto-populated by typing it in step #9. 11. Enter the Description of the Product. After all of the details are saved, add the images to the Product post. Upload as many images as needed. Add a Title Add a Description Rotate the Image \"Move to...\" Delete Images Save Changes The Photo Display Order can be arranged here: See how the images can be arranged in the following GIF: When editing the photos, it is also possible to save the changes and the photo display order by clicking on the buttons located on top of the album: Once the Product post has been created, it will display the current Status ( Published, Draft, Expired ). The number of Views and Bookmarks will only show if the correspondent add ons are active on the site. Click Here to Learn More. Click on the Actions button to View, Edit, Upload Photos, Clone or Delete the post: * Keep in mind that the Clone option will only copy the post details, not the images. Member Dashboard Options Different options are available on this section. For more information, please refer to the image and points shown below: 1. Products: Will show all the products and display the amount of products in the account. 2. Add a Product: Click to add a new product. It will not display if the limit of posts has been reached. 3. Entries per page: Click on the dropdown to choose how many entries will show per page (5, 10, 25 or 50 entries). 4. Order of the Posts on the Page: Newest, Oldest, Updated (first), Updated (last), Start Date (first), Start Date (last). 5. Filter by Status: Published, Draft or Expired. 6. Filter by Keyword: Enter a desired keyword to display all products that contain it. Lastly, all Post Types have a designated search results page: EG: http://yourbrilliantdomain.directoryup.com /products Once published, this is how the Product posts display on the site: Note : To enable this post type on a membership plan go to Finance » Membership Plans - Post Publishing . For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167220543/original/ALIt7USo2SBrOAouDgU3MPdn9sWtEltN1g.png?1757462017",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167220915/original/dJ34YbKATafdlkyCJLT0aLN1ah7NAtk_gA.png?1757462878",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167220962/original/VbhbA4AyOf3IJfb3CnNRDvJbUkfa5pqqKw.png?1757462980",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167222466/original/WTM-pTOJ2HKnuHtU6bY7MdpFNa-29LL3ZQ.png?1757465021",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167222741/original/S1uQKBfKtrr7x4YDQ5BER_NmyRQsUZW09w.png?1757465911",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167224184/original/0jgQXFUBqPYxUQUCAi0yIrXPbdY5t5acrw.png?1757468563",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12072068062/original/aQ2hmvtsu5JEcNIkyo1bA23gSLqCbZIvyA.gif?1578409638",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167290154/original/ZqGjInq5hAgQ8F5ox8PPwFRQdjp0MXC9Lg.png?1757558731",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167290200/original/ug2YUZDmbq3HC-CboQ-ZJjyCkEFfaA3Mew.png?1757558843",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167290206/original/l3qwQ6O6tYNgPX8AiseIpXcWvCqELWAJTA.png?1757558880",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167290703/original/nnOZUGGW7eiUPj91blF9S-O0HAu6QslBmg.png?1757560217",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12167290908/original/Z979Vl8331sK2MkKS7YWNLsTjOoV_vtvbA.png?1757560728",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

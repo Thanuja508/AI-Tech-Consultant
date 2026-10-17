@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000097799-how-to-enable-stock-photos-for-single-image-posts",
+  "title": "How to Enable Stock Photos for Single Image Posts | Brilliant Directories Documentation | BD Support",
+  "content": "How to Enable Stock Photos for Single Image Posts Link: https://support.brilliantdirectories.com/support/solutions/articles/12000097799 Single-Image Posts such as blog articles, jobs, or events, ( Single-Image Posts vs Multi-Image Posts) now have the option to use the stock photo libraries to select their images. To enable this feature, go to Advanced Settings and check the following option under Froala Enable Stock Photo Library: Once the option has been enabled, using the Stock Libraries will become enabled for Single Image Posts: Clicking on this button will open up the following options: Enabling this Feature for Specific Membership Plans or Members On each Membership Plan's Settings, the option to use stock photo libraries can be limited with the following settings: This can also be activated for specific members only by accessing the Quick Edit menu on the Search Members tab: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936156/original/nb4xoZUbzOgzoybubEjSnm4Uko5RaRl0sg.jpg?1704813937",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936317/original/WGl4XpIWLnUslizq390c_4M8QM5ok-UUDw.png?1704814094",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936924/original/ZTWydO-4NUlpXtB1lVtYTlivhTXaLmfF1A.png?1704814557",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12136936967/original/5YUKAFX_miuiXphitVwvGoLrLGF9j7SPig.png?1704814594",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231184/original/ZcVsgvXS29rG2zijljkGfJ6kTRWiByZmuQ.png?1712248893",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141231281/original/ULyRlaCbozhXwMWPDrrEevKl94R5Nm5Ekw.png?1712248966",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

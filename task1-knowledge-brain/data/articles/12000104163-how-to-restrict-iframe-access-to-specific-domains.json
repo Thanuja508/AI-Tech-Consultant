@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104163-how-to-restrict-iframe-access-to-specific-domains",
+  "title": "How To Restrict Iframe Access to Specific Domains | Brilliant Directories Documentation | BD Support",
+  "content": "How To Restrict Iframe Access to Specific Domains Link: https://support.brilliantdirectories.com/support/solutions/articles/12000104163 A new Advanced Setting has been introduced: Whitelist Domains Allowed to Iframe This Website . This setting provides control over which external domains are permitted to embed content from the website using an <iframe>. Enabling this feature enhances security and ensures better management of where website content can be displayed externally. Available Options This setting has three available option values, each offering different functionality to control iframe access: All, None, and Specific Domains. 1. All (Default) Allows all external domains to embed the website in an iframe. Suitable for websites intended to be widely embedded without restriction. 2. None Prevents all external domains from embedding the website in an iframe. Ideal for cases where iframe embedding is not permitted for any third party. 3. Specific Domains Grants access only to a list of approved domains. Requires a comma-separated list of allowed domains. Supports various URL formats, including: example.com, www.example.com, https://example.com, https://www.example.com, http://example.com, http://www.example.com Appropriate for allowing iframe access from trusted or controlled domains only. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648136/original/n-wdwb_qh2Rqqx9unATas81e7KFDpZef7A.png?1753163636",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164648142/original/-pKV5NGbicVAkmJF0HiLroWfUIe-h0nnIA.png?1753163661",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

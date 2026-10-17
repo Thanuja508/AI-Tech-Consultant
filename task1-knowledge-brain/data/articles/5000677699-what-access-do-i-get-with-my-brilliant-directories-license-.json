@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000677699-what-access-do-i-get-with-my-brilliant-directories-license-",
+  "title": "What Access Do I Get With My Brilliant Directories License? | Brilliant Directories Documentation | BD Support",
+  "content": "What Access Do I Get With My Brilliant Directories License? Link: https://support.brilliantdirectories.com/support/solutions/articles/5000677699 One of the most common questions during the pre-sales process is whether Brilliant Directories is a SaaS (Software as a Service) platform or a self-hosted solution. Many website owners want to know how much control they will have over the functionality, design, and data behind their website. While many SaaS platforms limit access to core functionality and server-level settings, Brilliant Directories provides significantly more flexibility than a traditional SaaS solution. Although Brilliant Directories is delivered as a managed SaaS platform, website owners receive extensive access to their website's data, hosting environment, and customizable functionality. This article highlights four key areas where Brilliant Directories provides that flexibility. 1. Access to the Website Database Every Brilliant Directories license includes full access to the website's database. The database stores website content, member information, custom widgets, design settings, and other data unique to the website. As members interact with the website—such as updating profiles, publishing posts, uploading media, or sending messages—that information is stored within the database. Database access allows developers to: Read stored data Create custom integrations Build APIs Insert, update, or delete records Interact directly with website data using standard database tools 2. Access to the cPanel Account Each website includes direct access to its cPanel account. This provides access to many of the same hosting tools typically available with traditional self-hosted environments, including: Email account management DNS Zone Editor (A, CNAME, MX, TXT, SPF, etc.) Subdomain creation Additional database users Website backups Other cPanel management tools This level of access gives website owners greater control over their hosting configuration while still benefiting from a managed platform. 3. Access to Website Widgets Brilliant Directories provides access to nearly all of the website's widget code. By enabling Show Widgets , administrators can inspect and edit the widgets used throughout the website. For example, editing the Member Results widget allows developers to customize both the appearance and functionality of member search results. Most widgets support custom development using: PHP HTML CSS JavaScript A small portion of the core software remains protected to ensure platform stability, security, and compatibility across future updates. 4. Lifetime Software Updates Every active Brilliant Directories license includes ongoing software and security updates. New features, improvements, bug fixes, and security enhancements are continuously released without requiring manual upgrades or plugin maintenance. This allows websites to remain current with the latest platform improvements while avoiding the maintenance commonly associated with self-hosted software. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5042681481/original/blob1445386851116.png?1445390483",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5042682002/original/blob1445387658693.png?1445391290",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

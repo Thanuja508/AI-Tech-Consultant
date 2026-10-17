@@ -1,0 +1,20 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000039736-front-end-live-design-tool",
+  "title": "Front End Live Design Tool | Brilliant Directories Documentation | BD Support",
+  "content": "Front End Live Design Tool Link: https://support.brilliantdirectories.com/support/solutions/articles/12000039736 This tool allows to make colors changes on the front-end of the site, based on some of the color settings available in the Design Settings. ! With this new tool make design changes and see them right away! This will prevent from going back and forth between the admin page and the front end of the website. To use this tool please go to Settings >> Design Settings >> General >> Live Design Tool + Clicking on this will open the homepage right away with this new sidebar tool! Do know that this tool does not have all the options that are available in the Design Settings, please be sure to still use the admin tool to make additional changes that aren't on this tool. For more details on these settings check out this article: Design Settings For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111332328/original/9W0wL312zpqAlytuErVgtT3vEdxWDjJ6-w.png?1657168109",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12111332337/original/kJhLL4vGCiO8BrAwh7zUQkLF7NuvTJqwdQ.png?1657168153",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

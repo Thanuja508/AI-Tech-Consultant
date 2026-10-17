@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102719-12-06-2024-software-updates",
+  "title": "12/06/2024 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "12/06/2024 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000102719 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. We made several small bug fixes and improvements to the Import Business Data tool in the Admin. We fixed an issue which was preventing the \"Get Directions\" button on the Post Location Map widget from working properly in some cases. Widget Involved: Bootstrap Theme - Module - Post Location Map We fixed an issue which was preventing Admins from using the Export Posts functionality in some cases. We fixed an issue which was preventing the Stock Photo Library from working properly after performing a search in some cases. We fixed an issue which was preventing the %subscription_name% email variable from working properly when composing individual emails in the Admin. We updated the Text Labels module to add support for several additional languages. Widgets Involved: Bootstrap Theme - Text Labels - Label Info Query Bootstrap Theme - Text Labels - Save Actions We updated the content of the subscription downgrade email template. Email Template Involved: downgrade We fixed an issue which was affecting the ability to delete member categories from the Member Categories page in the Admin in some cases. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

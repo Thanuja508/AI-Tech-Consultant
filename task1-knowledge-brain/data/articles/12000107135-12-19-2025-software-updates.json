@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107135-12-19-2025-software-updates",
+  "title": "12/19/2025 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "12/19/2025 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000107135 We made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website. Fixed an issue that prevented pagination links on Post Results pages from working properly in some cases. Widget Involved: Bootstrap Theme - Pagination Fixed an issue that affected the ability to send newsletter campaigns when an SSL certificate was installed on the website in some cases. Fixed an issue that prevented Google Maps features from loading on Post Search Results, Member Dashboard and Profile pages when the Enable New Google Maps Places API setting was disabled in some cases. Widget Involved: Bootstrap Theme - Function - Google Location Suggest Implemented a performance update to the Google Maps logic to only load the related JavaScript files when users interact with the page. This improves overall scores on third-party tools like GTMetrix and Google PageSpeed Insights when the Enable New Google Maps Places API setting is activate on the site. Widget Involved: Bootstrap Theme - Function - Google Location Suggest Fixed an issue that prevented the “Localize Canonical Tags” Advanced Setting from fully reducing URLs to the most localized version in some cases. The \"Save Credit Card and Continue\" and \"Cancel\" buttons shown when entering credit card information for Pay Per Posts are now Text Labels. Added the ability to upload images through the Froala Editor when editing Membership Plans in the Admin. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

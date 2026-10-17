@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000030932-06-09-17-software-updates",
+  "title": "06/09/17 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "06/09/17 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000030932 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We fixed the issue that was affecting the proper saving of the Custom CSS/HEAD section in the Design Settings that was impacting some sites. We fixed an issue related to downloading invoices in the Billing Details page in the Member Dashboard. Widgets Involved: WHMCS2 - Bootstrap Theme - Account - Update Billing The \"Save New Order\" button will be always visible when creating a new order for a member in the Admin, rather than only displaying once a Product has been chosen. Widgets Involved: Admin-Billing2-New-Customer-Order We fixed an issue that was affecting the retrieve password page when the \"Members Only\" setting was activated on a website. Widgets Involved: Bootstrap Theme - HEAD We improved the Search Query Engine in order to remove unintended whitespaces from search terms and add support for special characters (EG: apostrophes) in search queries. Widgets Involved: Search - Member - Search Query Search - Post - Search Query Search - Group - Search Query Bootstrap Theme - Single Post Page Bootstrap Theme - Member Results - Page Title We improved the link generator in the Email functions to automatically add https:// to the beginning of site URLs that have an SSL Certificate installed and the https_redirect Advanced Setting set to 1. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

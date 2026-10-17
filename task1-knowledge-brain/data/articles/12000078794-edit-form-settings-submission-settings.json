@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000078794-edit-form-settings-submission-settings",
+  "title": "Edit Form Settings » Submission Settings | Brilliant Directories Documentation | BD Support",
+  "content": "Edit Form Settings » Submission Settings Link: https://support.brilliantdirectories.com/support/solutions/articles/12000078794 In this article, we will be going over the Submission Settings that can be found under Edit Form Settings: What Happens After Form Submitted Setting & Additional Options This setting will allow the website owner to select an action to perform after the form is submitted. If the Display Success Pop-Up Message option is selected, the system will display an option to edit the Success Message Text on the fly: The wording added here will display after the form is submitted: If the Display Success Alert Message option is selected, the system will display an option to edit the Success Message Text on the fly: The wording added here will display after the form is submitted: If the Redirect to Another Page option is selected, the system will display an option to edit the destination URL and the Success Message Text: When the selected form is submitted, the system will redirect the user to the specified URL: Save Member Information option should only be selected for member account forms like Contact Details, Listing Details, post type forms and About Me: If this option is not selected for the forms specified, member information will not be saved in the database. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090906305/original/a712kWvdkfSpuleCOxLAgamgnDn3Gy-CZQ.png?1617648645",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090906457/original/Ps8CVqnHmOrlaAw3XiUHamF1qhAMTJPKVA.png?1617648919",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090906518/original/SoEb9M4UGIYvfE51D2l6C6uUMSAyumT3gw.png?1617649015",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090906561/original/fTq4qL2Zwb0G9ZThCoKDGWS9iSy6RtmV4A.png?1617649109",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090906604/original/DVBNkaXBYSZBwOsLDaVMiD-6yVVvGha0rA.png?1617649185",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091441496/original/kDjr0C89yszYVgSw7p2ntEh_U-uNsjj5Lg.png?1618582983",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091442098/original/whZof7KDevwOAN69h2XsdxnNTyk7QA91Ag.gif?1618583526",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12093607855/original/7lGXBddLjlBxqqljI3OXweIg2_yfiSqWvw.png?1622818587",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

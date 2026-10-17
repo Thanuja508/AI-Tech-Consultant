@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000033058-how-to-edit-the-footer",
+  "title": "How to Edit the Footer | Brilliant Directories Documentation | BD Support",
+  "content": "How to Edit the Footer Link: https://support.brilliantdirectories.com/support/solutions/articles/12000033058 The footer of every Brilliant Directories website is controlled through the Menu Manager. This article covers editing the footer content, links, and column layout. To edit the content in the footer or add additional links, follow the steps below. 1. Go to Toolbox >> Menu Manager and click Customize on the Footer Menu : 2. Click the green button to collapse the menu items: 3. Click, hold, and drag the bottom corner of the text box to make it larger, allowing the text to be edited more easily: 4. The links can be edited in the highlighted text area: 5. The order and position of the columns can be adjusted in the Outer <li> CSS Class field: Additional information: How to Edit the Options for Menu Links 6. Inside the Actions drop-down, menu items can be added, cloned, or deleted: 7. Hide Item, this will hide the option from showing in the frontend, allowing to still keep the content in the menu. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301735/original/S_GNVFIfYxXmvV3yoJNLZe_tuewu8Vgyyw.png?1781232660",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301805/original/8jW58kYh2dK8XEUFOT7-hPYt4iR36CYAlg.png?1781232915",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301817/original/81G4reFcSM9hZtPwWSikrRo-5WjViVMIFw.png?1781232990",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301829/original/3XsVHWU9AmlE7-ishsbBgPARxICHta7SIQ.png?1781233041",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301842/original/BNYekLP8RVaPFUqUSRQnR88UxxDwkEXosw.png?1781233103",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301865/original/IQWLl0sQtjnYCjO5KxrkrUC8vzVXiv5tgw.png?1781233173",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301871/original/kyht29wRlW-CL6E0x-6JFYwjCxkeCJ3k5A.png?1781233235",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180301905/original/a0RMIIQi1MJuEBki8PDflRX0KMGyuk0PhA.png?1781233338",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

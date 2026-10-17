@@ -1,0 +1,48 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000081944-toolbox-form-manager-field-validation-options",
+  "title": "Toolbox » Form Manager » Field Validation Options | Brilliant Directories Documentation | BD Support",
+  "content": "Toolbox » Form Manager » Field Validation Options Link: https://support.brilliantdirectories.com/support/solutions/articles/12000081944 Validation rules restrict what can be entered into a form field and display an error message when the input doesn't meet the requirements. Rules are configured per field. To turn on and require validation rules for a form field, please go to Actions >> Validation Options: Enable validation here: For every rule type, a custom error message can be added in the field on the right side. If no custom message is added, the system falls back to the general error messages (see \"Default error messages\" below). Validation Rules: Min/Max Characters Restricts how many characters a field can have. On the right side, the error message can be added. It will look like this in the front end: Numerical Value Range Set numerical range this field's value needs to fall within. It will look like this in the front end: It will look like this in the front end: Regular Expression This is an advanced setting for developers to input REGEX rules. So, for example, the regex that is in the placeholder above: ^[a-zA-Z0-9_.]+$ This means the content must be any combination of lowercase or uppercase letters (A–Z), numbers, underscores, and periods. No other characters are accepted. No other characters would be accepted. Use without the leading or trailing slash /. It will look like this in the front end: Default error messages If no custom error message is added to a rule, the system shows general error messages. These messages are text labels and can be edited under Settings >> Text Labels . In the search bar at the top right, type \"Form validation\" and all labels related to these messages will appear. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180235905/original/ZRrMGFknAyx88qyWhzV3OP3xrj5AQrutog.png?1781141654",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180235974/original/wqCLVSupggtP3RRj8NGQpsCa_enNvlAiiw.png?1781141833",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236021/original/BGheKxEfE_cljXtUTLbC5Mg0liJmlE564g.png?1781141944",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236105/original/nDendUmGqVsdGGEkNDqXT5qEMo2TV9isCg.png?1781142121",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236124/original/LkUJ4juiaytRJQ5H5OFJUS0p7cR0xMaBqg.png?1781142243",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236137/original/emtjYsuA5ZFGNBgNxlTgcFKWxGtqukovPg.png?1781142312",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236158/original/ioK7e_wdfu_ix5wVUdkujPIP5PD4Vrxa2A.png?1781142443",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236216/original/mvBd2BvGDpspl8VJ_nvPFvOWBIvvhE-vTw.png?1781142539",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12180236235/original/4C40aCVh-23VSwGj3jllGN1eiYcvdATo7g.png?1781142739",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

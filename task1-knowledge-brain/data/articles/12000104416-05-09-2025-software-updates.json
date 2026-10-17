@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104416-05-09-2025-software-updates",
+  "title": "05/09/2025 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "05/09/2025 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000104416 We made updates to several default widgets this week. If you customized any of these widgets and want to update them, you can find the latest code in the corresponding default widget. Please remember that if you have a custom version of any of these widgets, the latest updates will not be pushed to your website. Implemented a security update for the \"Forms Submitted\" search filter field in the Admin. Updated the Profile Statistics UI in the Member Dashboard to highlight the current year being viewed. Fixed an issue preventing the phone_number field from exporting correctly when using the Member Export Data Add-On in some cases. Renamed the \"Strict Country & State Match\" setting to \"Enforce State & Country Borders\" . Also updated its description to more accurately reflect its functionality and to distinguish it from other “Strict” location settings on the General Settings page in the Admin. Updated the \"RSS Feed for Posts\" Add-On to support special characters and emojis. Updated the \"Member Reviews\" SEO Template to support all member profile variables. Fixed an issue that prevented the \" Listing - Additional Details - Member \" form from being submitted when the Member Sub-Categories field was set as required , but no sub-categories were available to display. Widget Involved: Bootstrap Theme - Account - Select Categories Fixed an issue with editing Leads and Member Reviews from the Admin when using custom versions of the related forms in some cases. Updated the Admin Bar when visiting a website as an Admin to include a link for directly editing posts from a Post Details page. Fixed an issue that prevented the \"Override Post Location\" Advanced Setting from working properly in some cases. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

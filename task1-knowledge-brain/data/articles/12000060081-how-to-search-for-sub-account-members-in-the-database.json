@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000060081-how-to-search-for-sub-account-members-in-the-database",
+  "title": "How To Search For Sub Account Members In The Database | Brilliant Directories Documentation | BD Support",
+  "content": "How To Search For Sub Account Members In The Database Link: https://support.brilliantdirectories.com/support/solutions/articles/12000060081 To see the list of members who have been added as a sub account, Navigate to Developers --> MySQL Database : Click on the database that ends with wording \" directory \": Conduct a search for the table users_data and open it by clicking on it: Click on SQL : Paste the specified SQL code and click Go : This is the SQL code needed to run: SELECT * FROM `users_data` WHERE parent_id > 0 Which will display your members that are added as sub accounts: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12181295265/original/JTbR7UUvK-JVmiCXwHSzwsduycvxoxcIgw.png?1782859186",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756843/original/-TTymp_26JNpYlimLXee1IrWG4XeblcAHg.png?1564938216",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756885/original/wAcgeIaMYrBS2xKDcwFmB8yjTBnTlpMWAw.png?1564938245",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054756890/original/I5MGdBi_epDaBJGuBdTxjKQulEDix-Fmqg.png?1564938274",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054757050/original/_YVNJ-7l0NYNcVZxLqXDm9JV7yiuukkWbQ.png?1564938618",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12054757088/original/BV7BBbaW87IVCxmHtUMKyv2iBru04Z39Wg.png?1564938703",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

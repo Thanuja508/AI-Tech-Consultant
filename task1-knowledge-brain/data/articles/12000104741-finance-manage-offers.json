@@ -1,0 +1,60 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000104741-finance-manage-offers",
+  "title": "Finance » Manage Offers | Brilliant Directories Documentation | BD Support",
+  "content": "Finance » Manage Offers Link: https://support.brilliantdirectories.com/support/solutions/articles/12000104741 The Manage Offers page in the Admin Dashboard allows directory owners to earn affiliate commissions by promoting trusted third-party business tools to their members. These offers appear in the ‘Business Toolkit’ section of their dashboard. Admins can toggle individual offers on or off, register for affiliate programs, and optionally insert their own affiliate links for each tool. Only offers that are enabled by the admin and enabled within the Membership Plan settings will be shown to members. Accessing the Manage Offers Page This page can be found by navigating to Finance » Manage Offers in the admin sidebar. This section displays all available Business Toolkit offers and allows the admin to control their visibility, as well as optionally add affiliate referral links. Enabling & Disabling Offers Each offer has an ON/OFF toggle. The admin can turn ON the offers that should be visible to members, or turn OFF any solutions that are not being promoted. Even if all offers are enabled, members will only see them if their Membership Plan is configured to display the \"Business Toolkit\" section. Adding an Affiliate Link Adding a custom affiliate link is optional — it's a perk for directory owners who want to earn a commission, but it is not required to display offers to members. Most solutions include a link to register for their affiliate program. Once approved, the admin can paste the affiliate link into the “Use Your Own Affiliate Link” field for that solution. This will override the default link and ensure credit and commission are received for any referrals made by members. Affiliate Links Are Optional It is not required to enter an affiliate link to offer a tool. The admin can enable a solution in member dashboards and return later to insert an affiliate link if needed. The priority is to provide valuable tools that help members manage and grow their businesses. Controlling Visibility via Membership Plans To show the \"Business Toolkit\" section inside the member's dashboard, edit the Membership Plan settings for each plan and set Show \"Business Toolkit\" Offers to YES. If this setting is disabled, members who belong to that membership plan will not see the \"Business Toolkit\" link in their dashboards, even if offers are turned ON in the admin. Navigate to: Finance Membership Plans Edit a Specific Membership Plan Click the \"Member's Dashboard\" tab Then scroll down to the \"Additional Settings\" section Locate the setting for Show \"Business Toolkit\" Offers Set this to 'YES' to enable the Business Toolkit link in the dashboard side menu Note: If this setting is enabled but no offers are turned ON in the admin, the “Business Toolkit” link will not appear in the member dashboard. Adding a New Custom Offer In addition to enabling the pre-loaded Business Toolkit offers, admins can also create their own custom offers. This is useful if the admin wants to recommend a specific tool, product, or service that is not already included, or if the admin has their own affiliate or partnership links they'd like to promote. Steps to Add a Custom Offer: Click the Add New Offer button for the section that fits best. Enter the ' New Offer' name , Description , and an optional Image or Logo for the tool or service. Provide the Offer Link . This can be a standard link or the admin's own affiliate/referral link. Save the Offer details. Set the Status to 'ON' to make the offer available. By default, it will be OFF. The new option will appear in the member's dashboard: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12172174104/original/21FPijRPeNDsjwHttOA-A4771ntpmNF_vQ.png?1766085082",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533713/original/0ECkK8xKIOA-Ti3jh9-9CJQ1UX6CZln-uA.png?1749434167",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533720/original/eb6LHTzZXX34WNxyOfRT1mnMSCefXi-eog.png?1749434236",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533796/original/rB4GQ___rEiH_PAN5rvaTNFBrr1cEdGoDA.png?1749434569",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533946/original/7AsgqHHUihOw5i7WVFYjQhk7rQ7HDYx_eg.png?1749435018",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12162533943/original/SagCp05wvAalPfILwjKXbhI3zNsMNmaAig.png?1749434978",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676819/original/p4C78FnaWAg-DN-ZkQTk0pH9cS_XohJ48Q.png?1756499444",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676858/original/doxZkJkMOnH6rEC89iICge9nUHKpKtIW3w.png?1756499502",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166676928/original/sXJgFr3Vho429R9oFDA2eE-jRspfge1IFQ.png?1756499582",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677049/original/0eibQlT9bhD-7_tKyikisgeuLgBMi0ZNwA.png?1756499752",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677111/original/-3X4GwEqxo4HMgrbiDYrHGjwbtzdv9YmtA.png?1756499803",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12166677205/original/p0Hqbs774e7nlzOOYqGhB8fwjlOh4nkhKA.png?1756499954",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

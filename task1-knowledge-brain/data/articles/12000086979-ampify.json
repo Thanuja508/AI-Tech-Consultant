@@ -1,0 +1,36 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000086979-ampify",
+  "title": "Ampify | Brilliant Directories Documentation | BD Support",
+  "content": "Ampify Link: https://support.brilliantdirectories.com/support/solutions/articles/12000086979 Overview We have created a partnership with Ampify.io in order to provide all BD users the option of using this service to turn member profile pages into Ampify ready pages. https://marketplace.brilliantdirectories.com/partner/amp-faster-websites Add an AMP-compliant version of the site that’s lightweight and designed to give mobile visitors a lightning-fast, smooth, and engaging page experience. Ampify is built on top of Google’s AMP framework, it maximizes the Core Web Vitals score, thus providing better SEO and a 30% increase in search traffic on average. AMP pages are allowed in the top stories carousel, and are pre-loaded from Google’s fast CDN servers by default — leading to near-instant load times, which visitors can easily experience firsthand. Getting the Ampify ID Reach out to Ampify and inquire about getting an Account ID using the link below: https://marketplace.brilliantdirectories.com/partner/amp-faster-websites Ampify will provide the ID and that will need to be added into the advanced setting we have created for this integration. Go to Advanced Settings and search: Ampify Account Id System Variable: ampify_account_id Enter the Ampify Account Id provided by the Ampify team to enable this integration which will add a amphtml link to the member's profile pages. Ampify is used to create an Accelerated Mobile Page (AMP) compliant version of the website. AMP-compliant websites are lightweight and designed to give mobile visitors a fast, smooth, and engaging experience. Using Ampify After adding the ID this integration will add an amphtml link to the member's profile pages: To take a sneak peak to ensure everything is setup, navigate to a member's profile page. This amphtml link is accessible through the Page Source of the profile. To view the AMP version of this page, click the amphtml link click on the profile url, this will open up a page that looks like this: This means that the page is being processed by the Ampify servers. This process can take up to one hour in some cases. Once the page has been processed by Ampify, click the amphtml link again from the Page Source, to see the ampify version of the member's profile page: Google and AMP Pages Google Search indexes AMP pages to provide a fast, reliable web experience. When an AMP page is available, it can be featured on mobile search as part of rich results and carousels. While AMP itself isn't a ranking factor, speed is a ranking factor for Google Search. Understand how AMP looks in search results Test the validity of the AMP page using this tool: Google AMP Test For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107733714/original/dpuFgMY1DfNiglaYKMvyGoHTv9s4n7aAog.png?1650063981",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12164647505/original/I4Om4EALtLvZ2Up1_UYg2zC-iomJJGLtbg.png?1753161677",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107742562/original/wfDhdiIe5L7D0XEox04Nhqsfuc5chrUNrg.png?1650117342",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107742812/original/EUmvSpDjf8uj7VBM9_n8xg1R_JXj8by-hA.png?1650118433",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107742935/original/v87TzhvAqZDeaT3mbi6AOxmGW67AtVzBLw.png?1650119034",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12107743020/original/tnjjAFkHfWG3bOd8ct6KQSzu4X6vRItKCg.png?1650119419",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

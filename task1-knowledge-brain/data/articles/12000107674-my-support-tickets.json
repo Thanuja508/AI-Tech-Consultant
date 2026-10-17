@@ -1,0 +1,40 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000107674-my-support-tickets",
+  "title": "My Support Tickets | Brilliant Directories Documentation | BD Support",
+  "content": "My Support Tickets Link: https://support.brilliantdirectories.com/support/solutions/articles/12000107674 The My Support Tickets section keeps every support conversation organized in one place, making it easy to review past requests, track what changed, and see the latest status at a glance. Each ticket captures the subject, recent activity, and current state, so ongoing issues stay clear, searchable, and tied to the right website or account. Support Hours Support is available Monday–Friday, 8am–6pm (New York Time) . On weekends, support is limited, so response times may be a bit longer depending on volume and complexity. + New Ticket Use this button to create and submit a new ticket for help with any website question or issue. For step-by-step instructions, see: How to Submit a Support Ticket Support Ticket Filters Support Ticket Filters make it easy to narrow the ticket list by status or keyword, so the right conversation can be found faster. Status A filter control used to narrow the ticket list by ticket status (e.g., open, closed, pending). Keyword A filter control used to narrow the ticket list by ticket status (e.g., open, closed, pending). Tickets List The main module that displays tickets in a structured list for quick scanning and sorting. Last Activity Shows the most recent activity timestamp for each ticket (useful for tracking recency and updates). Subject Displays the ticket subject/title as the main identifier for the request (often clickable to open details). Also shows additional identifiers beneath (e.g., ticket number and related website/account reference). Status Indicates the current ticket state (shown as a labeled pill, such as Closed). Actions Contains the available action(s) for the ticket (most commonly a View button to open the ticket thread/details). View Tickets New Ticket This is the original ticket that started the thread. Ticket Title Displays the ticket subject at the top of the thread. Website ID Shows which website the ticket is associated with. Ticket Number Displays the unique ticket reference number for tracking. Ticket Date & Time Shows when the ticket was created (or logged) in the system. Ticket Status Shows the current ticket status (example: Closed). Original Message Label Marks the first message that created the ticket. Message Thread Displays the full conversation history for the ticket in chronological order. Attached File Displays any files included with a message, along with the file name and size. Ticket Replies Most Recent Label Highlights the latest reply in the thread. Message Details Each message shows the sender, timestamp, and the message content. Helpfulness Rating Provides quick feedback options for the most recent support response (Yes / Kind of / No). Additional Replies Write a Reply Opens the reply composer to add a new message to the ticket. Reply Editor Toolbar Basic formatting controls for the reply message. Reply Message Box Text area for entering the reply content. Reply Attachments Upload area for adding files to the reply (max 20MB). Send Message Submits the reply and any attachments to the ticket thread. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174889650/original/xwiwyVtAnC_xjhEh657oRFntAqVa2Cd1hw.png?1771472772",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174890023/original/q8Nik727o--3K4Kq06CXX2oMeliYxueqRw.png?1771473688",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174890047/original/cKg0b_B3bNMrwqPIQT1BaQ2-t8ojio3-iQ.png?1771473704",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174962339/original/Q5TgQ5g4LYJmzX0fOQ3UgQ8XuwIBX9C8Kw.png?1771599189",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174965413/original/WGmUF3gXWWebNUQMEYv8NwQfEawy1KXMwA.png?1771602015",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174966631/original/6mfr6KTyfzUXLpCQXQUPQMrUnri6s2Lfkw.png?1771603182",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174966536/original/rNRq4U9hLiuO0Ytz_QUPfSKAUrdzw5DPmA.png?1771603107",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

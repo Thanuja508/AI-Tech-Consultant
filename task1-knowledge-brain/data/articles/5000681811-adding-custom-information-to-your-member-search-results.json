@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000681811-adding-custom-information-to-your-member-search-results",
+  "title": "Adding Custom Information to your Member Search Results | Brilliant Directories Documentation | BD Support",
+  "content": "Adding Custom Information to your Member Search Results Link: https://support.brilliantdirectories.com/support/solutions/articles/5000681811 Custom content can be displayed in member search results based on: Whether a user is logged in (is a member) The membership level of the member being displayed in the results Whether the viewing member is permitted to see additional information about other members (e.g., Premium or higher-level members) The following steps outline how to configure search results output for each of these scenarios by editing the search results template code. CAUTION: The steps below require editing raw PHP code inside a system template field. Incorrect syntax in this area can break the search results page for all site visitors. Saving a backup copy of the existing Page Loop content before making changes is strongly recommended. Accessing the Search Results Template Navigate to Content > Edit Post Settings . Select Listing , then click Edit . On the Listing Feature edit page, go to the Search Results Design section. Locate the Page Loop text area. This field contains the template code that controls how each search result is rendered. Within the code, locate the <table class=\"bmargin\"> tag (found near line 34 in the default template). Custom code is inserted directly below this tag to control where it appears in the search results. Scenario 1: Content Based on the Membership Level of the Displayed Member This method checks the subscription_id value of the member appearing in the search results. <?php if ($user[subscription_id] == '1') { echo \"CONGRATULATIONS!! You are an awesome gnarly member from Membership Level 1. Cowabunga!\"; } else { echo \"This text shows if member is not from membership level 1\"; } ?> Inserted below <table class=\"bmargin\"> , the resulting code appears as: <table class=\"bmargin\"> <?php if ($user[subscription_id] == '1') { echo \"CONGRATULATIONS!! You are an awesome gnarly member from Membership Level 1. Cowabunga!\"; } else { echo \"This text shows if member is not from membership level 1\"; } ?> <?php if ($user_data[company] != \"\" && $user_data[listing_type] == \"Individual\") { ?> <tr class=\"hidden-xs\"> <td class=\"bold text-right rpad hidden-xs\"><?php echo $Label[company_label2]?>:</td> <td><?php echo $user_data[company]?></td> </tr> <?php } After saving this, the visual output of the search results will now look like this: Scenario 2: Content Based on the Membership Level of the Viewing User This method checks the membership level of the currently logged-in user (the person viewing the page) rather than the member shown in the result. The variable changes from $user[subscription_id] to $_COOKIE[subscription_id] . <table class=\"bmargin\"> <?php <?php if ($_COOKIE[subscription_id] == '1') { echo \"CONGRATULATIONS!! You are an awesome gnarly member from Membership Level 1. Cowabunga!\"; } else { echo \"This text shows if member is not from membership level 1\"; } ?> <? if ($user_data[company]!=\"\" && $user_data[listing_type]==\"Individual\") { ?> <tr> <td class=\"bold text-right rpad hidden-xs\"><?=$Label[company_label]?>:</td> NOTE: The only change from Scenario 1 is the condition — from if ($user[subscription_id] == '1') to if ($_COOKIE[subscription_id] == '1') . This shifts the check from the member displayed in the result to the member currently viewing the site. The end result would be something like: Scenario 3: Content Based on Both the Viewer's and the Displayed Member's Levels This method combines both checks, displaying different content depending on the combination of the viewer's membership level and the membership level of the member shown in the results. Example: a Level 1 (Premium) viewer sees additional information about Level 2 members, and even more about Level 3 members. <?php if ($_COOKIE[subscription_id] == '1' && $user[subscription_id] == '2') { echo \"This text will ONLY show if the member viewing the page is level 1 and the member in the search result is level 2.\"; } else if ($_COOKIE[subscription_id] == '1' && $user[subscription_id] == '3') { echo \"This EXTRA text will ONLY show if the member viewing the page is level 1 and the member in the search result is level 3.\"; } else { echo \"This text shows if member in results is not 2 or 3\"; } ?> So if the user viewing the page is NOT a membership level 1, the search results would show like this: But if the member viewing the site has a membership level of 1, then it would look like this: Summary Using the Page Loop field together with the subscription_id variable, search result content can be conditioned on: The membership level of the displayed member — $user[subscription_id] The membership level of the viewer — $_COOKIE[subscription_id] A combination of both For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184569637/original/qs1epAaQBCiJFZOKyEN7mZhtJJCN5oI69A.jpeg?1788347372",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184569659/original/Ht0nyYmmyruewsQR8bAm2u7539Pzzfpa9A.jpeg?1788347392",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184569673/original/7b5Isz7UPbEnUffBE5wG4_fXANipt9WmnA.png?1788347404",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12184569678/original/9pmt7inMSM7ZO_ipvg_xp-G43ZLNAXN8Rw.png?1788347414",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5040918705/original/Screenshot%20from%202015-10-09%2010-42-42.png?1444409046",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5040920922/original/Screenshot%20from%202015-10-09%2011-01-06.png?1444410076",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5040922533/original/Screenshot%20from%202015-10-09%2011-09-25.png?1444410749",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5040922601/original/Screenshot%20from%202015-10-09%2011-11-46.png?1444410781",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

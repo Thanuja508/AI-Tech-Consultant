@@ -1,0 +1,64 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052777-grid-view-search-results",
+  "title": "Grid View Search Results | Brilliant Directories Documentation | BD Support",
+  "content": "Grid View Search Results Link: https://support.brilliantdirectories.com/support/solutions/articles/12000052777 Overview The Grid View Search Results add-on will allow the admin to have search results on the front-end of the website be displayed in a mobile-responsive, mosaic grid view. By default the website displays search results for members, posts and more in a list layout. With this add-on the admin can choose to display these search results as a grid instead of as a list. How To Get This Add-On Websites with the VIP Add-Ons Club automatically have this add-on available: Join The VIP Add-Ons Club Purchase Individually: Grid View Search Results Add-On Enabling the Add-On Go to Settings - Design Settings. Within the General tab, scroll down until the Search Results Pages option shows up. Expand the Search Results Pages and scroll down for 2 options. Member Search Layout & Post Search Layout The search results display can be set sitewide for members and posts with these two options: Member Search Layout Post Search Layout Individual Post Type Grid View The admin will be able to fully control from each post type as well how they wish for the results to show, please follow these steps: Go to My Content - Edit Post Settings: Select the feature you wish to change the results view to: Go to the Search Results tab: Scroll down until you see the Additional Settings : Keep scrolling down until you select a new option here: Grid View Layout There are 2 options to select how the Grid View will display: Masonry View Structured View Sidebar Grid View Layout Sidebars will also affect the way the grid is laid out in the search results. Sidebar on Page This will display 3 in a row if a sidebar is present: No Sidebar on Page If no sidebar is present it will display 4 in a row: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090377492/original/DnSALMRWrM0TrbmRRkiAq8uVVmUPzJka9Q.png?1616514171",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090377543/original/prafrvfVSBaoSebkyPQBGR2dPH2JE1pvTw.png?1616514218",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090377625/original/gLZOSpl3xF5ENeDZ_96kBeZSwAVD3Zc35g.png?1616514286",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092496498/original/2KC5rVzwyxCStjQqjT4DFzIgRFXsEslQmA.png?1620748659",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092496592/original/1EqaHKhyk0UaD_ZFeYR27uZS71z_GiQO6w.png?1620748763",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092496701/original/f21CLsnPJ79SKuDCA28FaXEok0AtqLCi4A.png?1620748840",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092496768/original/0TwsKecgq3IyrsSHneFyhevZvfUf2PQ9iA.png?1620748894",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12092496793/original/jQODIbgm1AnttKHSsk6aB2TEagoWEh3LDg.png?1620748934",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090377675/original/KNgGt4NRM_xvpnpsPamD5KXCaLMHF96wUA.png?1616514322",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090678665/original/hvISxKFwEzAFhqDNz3_7Zfy0833XoXpNOA.png?1617117961",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090678199/original/ebsdzfbSMcCIEFoLVx59q_9uBzA77rWbrQ.png?1617117528",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090378081/original/v5eSDPvFq5oE95Lu4C1o4LpwOCXTcisRYg.png?1616514646",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12090678021/original/2DG-S3GbxgzhM4RurPdWPJLeo_XqrxObdg.png?1617117348",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

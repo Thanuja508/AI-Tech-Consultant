@@ -1,0 +1,32 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000052780-how-to-create-a-modal-pop-up-box",
+  "title": "How To Create A Modal - Pop Up Box | Brilliant Directories Documentation | BD Support",
+  "content": "How To Create A Modal - Pop Up Box Link: https://support.brilliantdirectories.com/support/solutions/articles/12000052780 This article demonstrates how to create a basic modal pop-up that can display custom content on a website. The example uses a custom widget to define the modal's HTML and JavaScript, then displays it on a selected page. Note This example provides a basic modal template. Some content, such as signup forms or other interactive elements, may require additional customization to function correctly inside a modal. For a walkthrough of this feature, see the following Webinar: Create Pop-Up Notifications & Offer Boxes on Your Website – Training Workshop for Directory Software Step 1: Create the Modal Widget Create a new widget by navigating to: Toolbox → Widget Manager → New Widget Add the HTML Paste the following code into the widget's HTML editor. <div class=\"modal fade\" id=\"Modaltimed\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\" aria-hidden=\"true\"> <div class=\"modal-dialog\"> <div class=\"modal-content\"> <div class=\"modal-header\"> <button type=\"button\" class=\"close\" data-dismiss=\"modal\"><span aria-hidden=\"true\">&times;</span><span class=\"sr-only\">Close</span></button> <h4 class=\"modal-title\" id=\"myModalLabel\">Thank you for visiting us!</h4> </div> <div class=\"modal-body\"> Happy Holidays! </div> <div class=\"modal-footer\"> <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Close</button> </div> </div> </div> </div> The primary areas of the modal that can be customized are: Title Body Content Add the JavaScript Paste the following code into the widget's JavaScript editor. <script> setTimeout(function() { $('#Modaltimed').modal(); }, 2000); </script> Step 2: Display the Modal Call the widget on the page where the modal should appear. For instructions on adding widgets to a page, see: How to Call a Widget on a Custom Page In this example, the widget is added to the /join page. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12044932092/original/Q7dUVMLYMOAg7XVgjSO9dotCB4b3Qw6u_g?1545845120",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12044932217/original/LdusX_1gUZkhv7U9Xcs6jEwlTEfnIp9lGw?1545845218",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12044932277/original/oUtNl72ojcrtGrmanHb-Vh0ag3CyoHi2Kw?1545845276",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12044932606/original/CXwZYFxaaq0LrWreGfXk2C06-T1aiMXa8w?1545845752",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12044932623/original/QWYhUKUdAyjT9p2UZf3jDCrKxM39hOJyzQ?1545845768",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

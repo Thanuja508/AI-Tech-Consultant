@@ -1,0 +1,12 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000043788-04-27-18-software-updates",
+  "title": "04/27/18 - Software Updates | Brilliant Directories Documentation | BD Support",
+  "content": "04/27/18 - Software Updates Link: https://support.brilliantdirectories.com/support/solutions/articles/12000043788 We made updates to several Default Widgets this week. If you have customized any of these widgets and would like to update your customized widget, you can find the latest code in the corresponding Default Widget. Please remember that if you have a custom version of any of these widgets, our latest updates have not been pushed to your website. Updates: We did a small aesthetic update to the layout of the Frontend Design Settings Live Tool. We fixed an issue with the Member Export Data Add-On when an Admin tried to export results filtered by the member transaction types. We fixed an issue that was affecting the search results of the Event Post Feature. Widgets Involved: Bootstrap - Search - Lazy Loader tabs Bootstrap Theme - Display - Recent Events We resolved an issue related to folder permissions preventing images from being uploaded to the Image Manager in the Admin or the Sitemap Generator Add-On updating sitemaps properly. We made an update to the Banner Ads tab in the Design Settings page of the Admin to resolve an issue of the preview of Banner Ads not displaying properly in some instances. We resolved an issue that was preventing the Insta-Load Search Results Add-On from functioning properly on some member location search results pages. We updated the Date Field Type in the Form Manager to properly respect the default_jquery_date_format A dvanced Setting. Widget Involved: Bootstrap Theme - Footer - Scripts We fixed the issue which was affecting the normal behavior of the Upgrade Member functionality. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,100 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000082977-connecting-webhook-events-with-zapier",
+  "title": "Connecting Webhook Events with Zapier | Brilliant Directories Documentation | BD Support",
+  "content": "Connecting Webhook Events with Zapier Link: https://support.brilliantdirectories.com/support/solutions/articles/12000082977 Overview Webhooks are one of a few ways web applications can communicate with each other. It allows to send real-time data from one application to another whenever a given event occurs. Available Webhook Events: Member Review Submitted Contact Us Form Submitted Newsletter Signup Lead Submitted Paid Members Signup Free Members Signup Members Imported / Added Via Admin Post - Standard Post - Photo Album Sub Account Form Submitted Contact Details Form Submitted Additional Details Form Submitted About Me Form Submitted Profile Photos Form Submitted Member Plan Changed Member Plan Cancelled One-Time Purchase Post Comment Submitted Smart Lists * Unsubscribed Form Submitted Chat Message Actions + Custom Forms * NOTE : The process to create a SmartList Webhook and connect it to Zapier is a bit different see: How To Create Smart List Webhooks Connect a Webhook Events with Zapier The Zap created on this article is an example of how Webhooks work, the Zap will send an email every time a visitor submits the Getmatched form. The same method applies for other Webhooks events and apps available on Zapier. To access this section, please go to Developer Hub >> Webhooks . On a separate browser tab log in to Zapier , click on \"Create Zap\". Next, name the Zap and click on \" Webhook \". Now is time to \"Choose an Event\", select \"Catch Hook\". Hit \"Continue\". Copy the \"Custom Webhook URL\". Go into the Webhook settings on the Admin Dashboard and paste it in, click on \"Save Webhook Settings\". Now go back to Zapier and hit \"Continue\". Don't click on \"Test trigger\" just yet, there has to be submission of the form being used on the directory website, please see the next step below. To test the trigger submit the form connected to this Zap in this case the getmatched form, add content to all of the fields that are appearing on the form and click on \"Send Message\". Then go back in to the Zappier browser tab and Click on Test Trigger. If this is successful, Zappier will print all of the data that is sent to the database when the form gets submitted, click on \"Continue\". Next, it's time to create the Event, for this example select \"Gmail\". For the Action Event select Send Email and hit \"Continue\". Select the email account and hit \"Continue\". For the Set up Action add the following fields: To, From, Enter Subject and Body Content. To : From: Enter Subject: Body Content: Note : All of the data that is sent to the database when this form is submitted is added here, select only what is necessary for this action. Now that the fields are added make sure to arrange them so these appear formatted properly on the email: Lastly, click on \"Continue\". Now click on \"Test & Continue\". Checkout the email that was added to receive the Zap, it should contain all of the fields that were selected. Ready to Turn the Zap on? Click on \"Turn on Zap\". For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099551091/original/1-A3VEy-8IWRjFQfsbqZu-5pO6y8ffnskg.png?1634221020",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109077601/original/5etKvgbaFoRCvKoM07hc1qNjjICYS1qtBQ.png?1652793782",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12109077689/original/xGQuStH32FC_S7d4m9lN9RdzDrd7GOybZw.png?1652793850",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099552328/original/w4Yj6NgJmp8Swranax5qlWQMH_ATmWlBSg.png?1634222178",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099552368/original/GtwfnKGKbWhppw3lGfA8P-OOYFXTZpUpHg.png?1634222202",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099552461/original/Pkc3xa3ZyfTEOArRS0_KS5Ux7RJXmw2rZQ.png?1634222274",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12101667679/original/QeKS6bBjlxSis1nvHPLuNAncF6uR4AFaNg.png?1638290067",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099552690/original/EEFllmkNYeF0k9abxcSqFw56iqJk_AoaEw.png?1634222509",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099552717/original/F2HDQdGmpeMRqHWaUT0S0zWg49cv2mG-Ww.png?1634222555",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099553829/original/8xxxxTcjR_sqyHS6Ry1Y08HpdrYzchiZMQ.png?1634223510",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099553810/original/Z6I4Aprer2AqN9ACsJGBcWevEIv1zIQbmg.png?1634223482",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099553971/original/JLi_vQPZHOQFDEgfC2-9kpnmOmtRZ0pL8A.png?1634223616",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099554035/original/lCh-qJ5b2ci_2e3MMyXSP12rI9yqc5rnVA.png?1634223664",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099554138/original/vKxW5FjBK40i5V-jK29uqZSDi9ss7kny8w.png?1634223731",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099554304/original/OZQYTCSfS5dl90GpO8gPOEb6lmVQAKg9Ow.png?1634223870",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099554339/original/lo7hAAGWvbmIrElMtXPimtGA58LVgosoMQ.png?1634223913",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099554383/original/_t0Vd5hQG0jEmxlzORcV7y5JunZWrHd7aw.png?1634223982",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099554727/original/QydWANLOtwKVhxe_GJSsAhGdZ_Bcm4hJPA.png?1634224354",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099555703/original/6V7KhHtrogVubUpidb5NbsW3im5ZywZVCQ.png?1634225428",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099555542/original/pJ3IAFK6-L7DEdZuDL9g_oZQdAGDLckNHg.png?1634225233",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099555865/original/60p-aE0bXVJ9vOCcC8V_b3XtnAkBg6As-A.png?1634225582",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12099555900/original/bU6Y9-bsSUfnyAnGc9Z1H-voULccyTIUVg.png?1634225634",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

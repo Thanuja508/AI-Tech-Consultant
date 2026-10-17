@@ -1,0 +1,28 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000102546-unsubscribe-api-unsubscribe-members-from-email-campaigns",
+  "title": "Unsubscribe API - Unsubscribe Members from Email Campaigns | Brilliant Directories Documentation | BD Support",
+  "content": "Unsubscribe API - Unsubscribe Members from Email Campaigns Link: https://support.brilliantdirectories.com/support/solutions/articles/12000102546 It is possible to Unsubscribe a member from receiving email using the api, only 1 member can be updated at a time. Using the API there are 4 Unsubscribe actions that can be achieved: /api/v2/unsubscribe_list/get/{id} /api/v2/unsubscribe_list/create /api/v2/unsubscribe_list/update /api/v2/unsubscribe_list/delete We will break down these actions and explain how to achieve an end results with each one. The examples shown in this article are completed using https://www.postman.com/ Unsubscribe Get API /api/v2/unsubscribe_list/get/{id} Using this action is simple, add the url above but replace {id} with the actual member ID. This will fetch the member information from the website Unsubscribe Create API /api/v2/unsubscribe_list/create With this action, by sending the email, it will add the member to the unsubscribe list. Unsubscribe Update API /api/v2/unsubscribe_list/update With this action it is possible to update the unsubscribed list. Replace {id} with the member ID that will be updated from the unsubscribed list. Unsubscribe Delete API /api/v2/unsubscribe_list/delete Use this action URL to delete a a member from the unsubscribed list, replace {id} with the member ID that will be removed from the unsubscribed list. For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153441046/original/8VLfTwZxT-HzLmai2s6nQ5mwFAIztAqs-w.png?1733245379",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153281497/original/V0AtYvHgJfU8_HPz889uz2sAqwBhGm6aeQ.png?1732902133",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153282756/original/d2k0qmomodW8VA6S5Issx9ba7aiywiu2Jw.png?1732903961",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12153283140/original/PluTytgQVH3VReQWu_n_Ycoe2vf5Je2faA.png?1732904634",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000673830-finance-payment-settings-setting-up-a-payment-gateway",
+  "title": "Finance » Payment Settings - Setting Up A Payment Gateway | Brilliant Directories Documentation | BD Support",
+  "content": "Finance » Payment Settings - Setting Up A Payment Gateway Link: https://support.brilliantdirectories.com/support/solutions/articles/5000673830 See the steps below for connecting a payment gateway (Stripe, PayPal Standard, 2Checkout, PayPal Payments Pro, Authorize.net...). 1. Set Up An Account If the website does not already have an account with a supported payment gateway, set one up. To see a list of all supported payment gateways, refer to this documentation.: Supported Payment Gateways 2. Add New Payment Gateway After selecting a payment gateway, create an account with the chosen payment gateway if one does not already exist. Navigate to Finance » Payment Settings, where a list of available gateways is displayed. Click the \"Add New Payment Gateway\" drop-down and select the desired gateway. NOTE: Stripe and PayPal are the most commonly used payment gateways. However, before selecting either option, review this article \"Stripe or PayPal Standard?\" 3. Account Credentials Each gateway requires different credentials to connect it to Brilliant Directories. Keep in mind that the payment gateway will use the Website Currency selected under Settings » General Settings » Localization . Important Note: When adding credentials for the Stripe gateway, there will be additional validation on each key field as the valid credentials should be between 25 and 255 characters, and the key cannot include dots (ex: ....). In the \"Secret or Restricted Key\" field, it is possible to enter either a standard Secret Key (beginning with sk_) or a Restricted Key (beginning with rk_). Stripe Credentials - How To Roll Key 4. Verify \" Active \" Status Complete a test transaction by signing up as a new member on the front-end of the website. Updating a Payment Gateway When adding an additional payment gateway, a notification will show indicating that making the new gateway active will not migrate active subscriptions to the new gateway and that the other gateways need to be deleted for the migration to occur: Note that if the previous payment gateway was an on-site payment gateway and the update is to another on-site gateway (Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro) the billing database will keep the member's billing information on file and if there are any past due invoices the system will still attempt to bill the card on file using the new payment gateway. This does not apply when the payment gateway update is from an off-site payment gateway to an on-site or another off-site, from Stripe to another on-site, from Stripe to another off-site gateway, or any other payment gateway to Stripe. The table below describes this information in detail: Current Payment Gateway New Payment Gateway Billing Information on File Automatically Transferred Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro Stripe No Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro Yes Stripe Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro No Stripe PayPal Express / Standard, PayFast, Verifone No Authorize.net, or PayPal Website Payments Pro or PayPal PayFlow pro PayPal Express / Standard, PayFast, Verifone No PayPal Express / Standard, PayFast, Verifone, Razorpay PayPal Express / Standard, PayFast, Verifone No PayPal Express / Standard, PayFast, Verifone, Razorpay Authorize.net, PayPal Website Payments Pro, PayPal PayFlow pro, Stripe, Eway No For more details on which payment gateways are on-site or off-site, refer to this article: Supported Payment Gateways Important Note : Stripe Customer ID's can be imported during the member import process . This is helpful when migrating from another platform and needing to associate existing Stripe customers with imported members, allowing subscriptions and payment records to remain linked. To import the Stripe Customer ID, use the following variable name in the import file: stripe_customer_id The accepted value must match the following format: cus_ followed by alphanumeric characters only (eg: cus_ABC123xyz789) Deleting a Payment Gateway If a payment gateway needs to be deleted, make sure to set up a new one and then make it \" Active \". After that, try to delete the old one. Trying to delete the active one will make this message appear: When there is more than one payment gateway, the one that is not active can be deleted: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12159945105/original/bFrhPSZcRKGsJXG8FDL-Y4No-Zk7myrhLg.png?1744725847",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160605908/original/p9GdBmMEh-cb6ZoAKpZAlKu1bL9TmeZ91A.png?1745948869",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160605958/original/xh7aAjBGxIP60qlVW0UjZaob4biooqwGrw.png?1745948915",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12100659351/original/-zLf9Vo_OSNIzCBnsgzaLqT8Zzz9qdUUxA.png?1636383524",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12124215885/original/aYpeYrgwqAT8aGS8KML0oHnYZZog2dNVXA.png?1681820894",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087649731/original/076Pne3PE0tmYWBNlcbLQOkD_Q1kV_owNQ.png?1611065625",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12087649756/original/OwGd5eEZM4Du2Y_b3OPJT5WP6NTxeGQTwA.png?1611065662",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12081936076/original/_pPq628fqDI17pChIBx2pSacf1eYgwqewA.png?1599098813",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

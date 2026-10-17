@@ -1,0 +1,24 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/12000073955-uploading-a-custom-member-badge",
+  "title": "Uploading A Custom Member Badge | Brilliant Directories Documentation | BD Support",
+  "content": "Uploading A Custom Member Badge Link: https://support.brilliantdirectories.com/support/solutions/articles/12000073955 The \" M ember Badge \" is located on the member's dashboard. This badge uses a custom code that the member can then paste on their own website to advertise that they are a member of this directory website. This adds credibility to their own company, and helps promote the directory website at the same time. This is how the default badge appears: Enable the Member Badge The badge needs to be enabled for each plan, this is in Finance » Plan Settings » Member Dashboard . Search for: Show Embeddable Member Badge Module Set to \" Yes \": Replace the Default Member Badge To replace the default member badge please follow these instructions: Go to SETTINGS >> GENERAL SETTINGS >> BRAND IMAGES Click on \"Replace Image\" for the Member Badge: For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989626/original/3kXicpvUfY3nRYQp5og2dfX5y4sKRMKN_w.png?1644789454",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12160949588/original/BAtVco6MJy_HkgFDVsh79hV0T7EAOWLdVg.png?1746590067",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12104989684/original/jwfc4vrwayxBesvsSnac_b541SF8J2QyHw.png?1644789676",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}

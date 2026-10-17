@@ -1,0 +1,44 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000674169-how-to-download-invoices",
+  "title": "How To Download Invoices | Brilliant Directories Documentation | BD Support",
+  "content": "How To Download Invoices Link: https://support.brilliantdirectories.com/support/solutions/articles/5000674169 We have an add-on called \"Downloadable PDF Invoices\" that allows all members to view or download their invoices from their accounts. To check if this functionality was installed on the website, follow these steps: 1. Go to admin and click on \" My Members >> Search Members \" 2. Click on \" Actions \" 3. Click on \" Login as a member \" 4. Go to the \" Billing Information \" section: 5. Within the Billing Details tab, the credit card module will display the last 4 digits of the credit card on file or the \" Add Credit Card \" button. When a member updates their credit card or billing information, the system will send a notification to the email addresses specified in this advanced setting: \"Send Email Notification When Member Updates Billing Details\". Enter a single email address or a comma-separated list of email addresses to send a copy of the email to multiple addresses. 6. Also, there is the \" Billing Address \" button. This address will be reflected on their invoices only; it won't modify the listing address. 7. Below that section is the Subscription History, where the member can see the open and cancelled subscriptions (Orders). 8. The \"Payments History\" section will show all the paid invoices. To view or download them, click on \"Actions\". 9. They can View or Download the invoice. Additional Information The section's titles shown in the image above: Billing Information, Subscription History, and Payment History are Text Labels and this text can be edited. To edit them, go to the admin and navigate to Settings >> Text Labels >> Type the name of the text label, for example: \"Subscription History\". Then type the new title and click on Save Changes: If the site needs to have services tax (GST/VAT) or any percentage tax on the invoice, there's an add-on that will apply it to the invoice. Here is the documentation about it: Tax & VAT Manager Add-On To learn how to modify the invoice information, read this article: Modifying Invoices For additional assistance: Email support@brilliantdirectories.com or create a ticket Inside Your Account Dashboard . Was this article helpful and accurate? Yes No Send feedback Sorry we couldn't be helpful. Help us improve this article with your feedback.",
+  "images": [
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12105101332/original/mYuJoeqb6dm7zK8AWYiwA9A0Fo1GYlysDw.png?1644964270",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795847/original/rFhltyW_AEwYfpr-eN8Vbr6J8Z1BuoNmpw.png?1615343742",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795859/original/o6u88r5AplpW62I-rbYYAA_13tKiAd-S6Q.png?1615343785",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12096970715/original/mHlbkoswBenohi3KY0ezwOgUZUUk1FiqOw.png?1629214916",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795872/original/2g37w1Xc-jkXV2hqQLk0MlGsbW9B7RlUUg.png?1615343818",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795886/original/EuDoAFZkIyoDpncM9WKNi-54P6x_Gab3CA.png?1615343847",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089795917/original/i8X1ACtmP1QE_lCF6IcOtwzdKneTsO5etg.png?1615343974",
+      "alt": ""
+    },
+    {
+      "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12089796057/original/6QVnWGjByXYABmIs98kUEuVLQzlPTrn6bw.png?1615344328",
+      "alt": ""
+    },
+    {
+      "url": "https://www.brilliantdirectories.com/wp-content/uploads/2016/11/marketplacebannertest6.jpg",
+      "alt": ""
+    }
+  ],
+  "status": "success"
+}
